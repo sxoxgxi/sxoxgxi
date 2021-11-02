@@ -1,4 +1,4 @@
-<h3 align="center">👋 Meowow SOGI Here</h3>
+<h2 align="center">👋 Meowow SOGI Here</h2>
 <p align="center">
   <a href="https://ukatoverse.com/discord/">Discord</a> •
   <a href="https://ukatoverse.com/">Anime ❤️</a>
