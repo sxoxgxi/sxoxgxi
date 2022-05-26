@@ -4,6 +4,6 @@
   <a href="https://ukatoverse.com/">Anime ❤️</a>
 </p>
 
-- 🌱 I’m currently exploring **JavaScript and Python discord library**
+- 🌱 I’m currently exploring **JavaScript and Python libraries**
 - 💬 Things I know **Python, JavaScript 👀**
 - 📫 Contact me [@SOGI](https://ukatoverse.com/discord/) on discord
