@@ -1,9 +1,25 @@
-<h2 align="center">👋 Meowow SOGI Here</h2>
-<p align="center">
-  <a href="https://ukatoverse.com/discord/">Discord</a> •
-  <a href="https://ukatoverse.com/">Anime ❤️</a>
-</p>
+# Hi, I'm Sogi! 
 
-- 🌱 I’m currently exploring **JavaScript and Python libraries**
-- 💬 Things I know **Python, JavaScript 👀**
-- 📫 Contact me [@SOGI](https://ukatoverse.com/discord/) on discord
+
+## 🚀 About Me
+I'm a confused developer.
+
+* I'm currently working on imporving my backend skills.
+* I'm currently learning GO.
+* I'm looking for help with frontend.
+
+
+## 🛠 Skills
+Not any good skills to mention :)
+
+
+## Roadmap
+
+- https://roadmap.sh/backend
+
+## Contack
+
+If you wanna get in touch, please reach out to me:
+* [@sxoxgxi](https://twitter.com/sxoxgxi) -> twitter
+* [SOGI#7649](https://discord.gg/5S6cdn8Dnd) -> discord
+* sxoxgxi@duck.com -> mail
