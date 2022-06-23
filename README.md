@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a confused developer.
+I'm a civil engineer by education but I am passionate about programming. I'm in my sophomore year.
 
 * I'm currently working on imporving my backend skills.
 * I'm currently learning GO.
