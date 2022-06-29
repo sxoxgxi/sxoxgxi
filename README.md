@@ -19,7 +19,7 @@ I'm a civil engineer by education but I am passionate about programming. I'm in 
 * Django ❤️
 * Flask
 * Falcon (learning)
-* REST APIs (learning)
+* REST APIs
 
 ## 🗺️ Roadmap
 
