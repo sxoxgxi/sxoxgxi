@@ -9,15 +9,23 @@ I'm a civil engineer by education but I am passionate about programming. I'm in 
 * I'm looking for help with frontend.
 
 
-## 🛠 Skills
-Not any good skills to mention :)
+## 🛠 Things I know
+* QBASIC (my first language)
+* Python ❤️
+* JavaScript's Fundamentals
+* GO (learning)
+* HTML, CSS for Frontend (not good)
+* Bootstrap
+* Django ❤️
+* Flask
+* Falcon (learning)
+* REST APIs (learning)
 
-
-## Roadmap
+## 🗺️ Roadmap
 
 - https://roadmap.sh/backend
 
-## Contack
+## 📞 Contact
 
 If you wanna get in touch, please reach out to me:
 * [@sxoxgxi](https://twitter.com/sxoxgxi) -> twitter
