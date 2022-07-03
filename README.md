@@ -1,6 +1,5 @@
 # Hi, I'm Sogi! 
 
-
 ## 🚀 About Me
 I'm a civil engineer by education but I am passionate about programming. I'm in my sophomore year.
 
@@ -21,9 +20,10 @@ I'm a civil engineer by education but I am passionate about programming. I'm in 
 * Falcon (learning)
 * REST APIs
 
-## 🗺️ Roadmap
+## 🗺️Blog and Roadmap
 
-- https://roadmap.sh/backend
+* https://sxoxgxi.pythonanywhere.com/
+* https://roadmap.sh/backend
 
 ## 📞 Contact
 
