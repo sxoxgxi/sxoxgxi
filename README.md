@@ -29,5 +29,5 @@ I'm a civil engineer by education but I am passionate about programming. I'm in 
 
 If you wanna get in touch, please reach out to me:
 * [@sxoxgxi](https://twitter.com/sxoxgxi) -> twitter
-* [SOGI#7649](https://discord.gg/5S6cdn8Dnd) -> discord
+* [SOGI#7649](https://discordapp.com/users/755703966720983050) -> discord
 * sxoxgxi@duck.com -> mail
