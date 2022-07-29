@@ -1,33 +1,17 @@
-# Hi, I'm Sogi! 
+<h1 align="center">
+  <br>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://i.ibb.co/XYSwTqV/kaguya-modified.png" alt="Sogi" width="200"></a>
+  <br>
+  Sogi
+  <br>
+</h1>
 
-## 🚀 About Me
-I'm a civil engineer by education but I am passionate about programming. I'm in my sophomore year.
+<h4 align="center">Open your eyes and look within. Are you satisfied with the life you're living? - <a href="https://duckduckgo.com/?q=Bob+Marley" target="_blank">Bob Marley</a>.</h4>
 
-* I'm currently working on imporving my backend skills.
-* I'm currently learning GO.
-* I'm looking for help with frontend.
-
-
-## 🛠 Things I know
-* QBASIC (my first language)
-* Python ❤️
-* JavaScript's Fundamentals
-* GO (learning)
-* HTML, CSS for Frontend (not good)
-* Bootstrap
-* Django ❤️
-* Flask
-* Falcon (learning)
-* REST APIs
-
-## 🗺️Blog and Roadmap
-
-* https://sxoxgxi.pythonanywhere.com/
-* https://roadmap.sh/backend
-
-## 📞 Contact
-
-If you wanna get in touch, please reach out to me:
-* [@sxoxgxi](https://twitter.com/sxoxgxi) -> twitter
-* [SOGI#7649](https://discordapp.com/users/755703966720983050) -> discord
-* sxoxgxi@duck.com -> mail
+<p align="center">
+  <a href="https://discord.gg/96EA7ENfV9">
+    <img src="https://img.shields.io/discord/775232281954353183?color=blue&label=Discord"
+         alt="Gitter">
+  </a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Blog&up_color=light%20green&up_message=online&url=https%3A%2F%2Fsxoxgxi.pythonanywhere.com"></a>
+</p>
