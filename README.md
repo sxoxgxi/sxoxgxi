@@ -13,5 +13,5 @@
     <img src="https://img.shields.io/discord/775232281954353183?color=blue&label=Discord"
          alt="Gitter">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Blog&up_color=light%20green&up_message=online&url=https%3A%2F%2Fsxoxgxi.pythonanywhere.com"></a>
+  <a href="https://sxoxgxi.pythonanywhere.com/"><img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Blog&up_color=light%20green&up_message=online&url=https%3A%2F%2Fsxoxgxi.pythonanywhere.com"></a>
 </p>
