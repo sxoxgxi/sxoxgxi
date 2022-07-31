@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is better to disappoint people with the truth than to appease them with a lie. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
+<h4 align='center'>Deeds will not be less valiant because they are upraised. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
