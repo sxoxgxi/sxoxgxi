@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 .column {
   float: left;
   width: 8%;
@@ -18,7 +18,7 @@ h6 {
   padding: 5px;
   text-align: center;
 }
-</style>
+</style> -->
 <h1 align='center'>
   <br>
   <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Sogi' width='200'></a>
@@ -35,22 +35,22 @@ h6 {
   </a>
   <a href='https://sxoxgxi.pythonanywhere.com/'><img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Blog&up_color=light%20green&up_message=online&url=https%3A%2F%2Fsxoxgxi.pythonanywhere.com'></a>
 </p>
-<h1 align='left'>
+<h1 float='left'>
   <br>
   Top artists this month
   <div class="row">
   <div class="column">
-    <img class="artists" src="https://i.scdn.co/image/ab67616100005174b5f9e28219c169fd4b9e8379" alt="The Weeknd" style="width:100%">
+    <img class="artists" src="./cropped-images/The Weeknd(cropped).png" alt="The Weeknd" style="width:10%">
     <h6>The Weeknd</h6>
   </div>
   <div class="column">
-    <img class="artists" src="https://i.scdn.co/image/ab676161000051745af53f295e6c42529fbd0873" alt="Lauv" style="width:100%">
+    <img class="artists" src="./cropped-images/Lauv(cropped).png" alt="Lauv" style="width:10%">
     <h6>Lauv</h6>
   </div>
   <div class="column">
-    <img class="artists" src="https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc" alt="Post Malone" style="width:100%">
-    <h6>Post Malone</h6>
-  </div>
+    <img class="artists" src="./cropped-images/LiSA(cropped).png" alt="Post Malone" style="width:10%">
+    <h6>LiSA</h6>
+  <!-- </div>
   <div class="column">
     <img class="artists" src="https://i.scdn.co/image/ab676161000051746867a4ce52401bd378bb5179" alt="James Arthur" style="width:100%">
     <h6>James Arthur</h6>
@@ -58,6 +58,6 @@ h6 {
   <div class="column">
     <img class="artists" src="https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b" alt="Joji" style="width:100%">
     <h6>Joji</h6>
-  </div>
+  </div> -->
 </div>
 </h1>
