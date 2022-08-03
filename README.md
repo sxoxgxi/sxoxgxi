@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d44e723b677380dfbc899bcd' alt='Rewrite The Stars' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094' alt='炎' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dfc39d3fc11404b8ca8ab7c1' alt='Brace It (feat. Ed Sheeran)' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Ao No Waltz' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Ao No Waltz' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN'>Rewrite The Stars</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn'>炎</a>
       </td>
@@ -43,9 +46,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X'>Slow Motion</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1AfFUID69eG8hOkkc3asNM'>Ao No Waltz</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/1AfFUID69eG8hOkkc3asNM'>Ao No Waltz</a>
