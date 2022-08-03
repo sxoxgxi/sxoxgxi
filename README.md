@@ -23,32 +23,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Die For You' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596' alt='Butter' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100' alt='Love The Way You Lie' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f' alt='Sunflower - Spider-Man: Into the Spider-Verse' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3' alt='Easy' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731e8fd05e38f85c0a52bf017f' alt='Stfu' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27395dfd0ff97f6cecc44b6b770' alt='my home' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Train Wreck' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Feel Something' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz'>Die For You</a>
+      <a href='https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB'>Butter</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED'>Love The Way You Lie</a>
+      <a href='https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P'>Sunflower - Spider-Man: Into the Spider-Verse</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ'>Easy</a>
+      <a href='https://open.spotify.com/track/5IJbTPhcj0IjdzUaYqwe2I'>Stfu</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
+      <a href='https://open.spotify.com/track/7hrEbEm2Gyeoc8ecOA88Xh'>my home</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H'>Train Wreck</a>
+      <a href='https://open.spotify.com/track/5MWA0KkMh18hC2BkcCs4me'>Feel Something</a>
       </td>
     </tr>
   </table>
