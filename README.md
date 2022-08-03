@@ -27,7 +27,7 @@ h6 {
   <br>
 </h1>
 
-<h4 align='center'>The more acquaintances you have, the less you know them. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Life does not get better by chance, it gets better by change. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
