@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732139a9fca45751cc0b0f53ba' alt='Darl+ing' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fbe22d168a743b782a5e856a' alt='The Middle' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='紅蓮華' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5'>Darl+ing</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre'>紅蓮華</a>
       </td>
     </tr>
   </table>
