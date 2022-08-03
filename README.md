@@ -23,32 +23,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='Tell Your Friends' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758' alt='you were good to me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733e4a1b0066bfa28b7d607ecd' alt='Forever Right Now' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737f5cbbb4cf8896456a25d02a' alt='Small Talk' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d44e723b677380dfbc899bcd' alt='Rewrite The Stars' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094' alt='炎' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dfc39d3fc11404b8ca8ab7c1' alt='Brace It (feat. Ed Sheeran)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1mhVXWduD8ReDwusfaHNwU'>Tell Your Friends</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1R0hxCA5R7z5TiaXBZR7Mf'>SOLO</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P'>you were good to me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3O4DdB07AoPwvy1fsIToiT'>Forever Right Now</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk'>Small Talk</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN'>Rewrite The Stars</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn'>炎</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7CkBMJ6tGJu3aRMPstGiWI'>Brace It (feat. Ed Sheeran)</a>
       </td>
     </tr>
   </table>
