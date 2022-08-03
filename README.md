@@ -39,7 +39,7 @@
       <a href='https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB'>Butter</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P'>Sunflower - Spider-Man: Into the Spider-Vers</a>
+      <a href='https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P'>Sunflower - Spider-Man: Into the Spider-Verse</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/5IJbTPhcj0IjdzUaYqwe2I'>Stfu</a>
