@@ -23,18 +23,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dfc39d3fc11404b8ca8ab7c1' alt='Brace It (feat. Ed Sheeran)' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027' alt='Slow Motion' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Ao No Waltz' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Ao No Waltz' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f' alt='Hide (feat. Seezyn)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f259fdaaed041b262ddc14a3' alt='Automatic (feat. Jake Miller)' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f259fdaaed041b262ddc14a3' alt='Automatic (feat. Jake Miller)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7CkBMJ6tGJu3aRMPstGiWI'>Brace It (feat. Ed Sheeran)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X'>Slow Motion</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1AfFUID69eG8hOkkc3asNM'>Ao No Waltz</a>
       </td>
@@ -43,12 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w'>Hide (feat. Seezyn)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6FoUUkUM4fVdh5pLZyxgjz'>Automatic (feat. Jake Miller)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6FoUUkUM4fVdh5pLZyxgjz'>Automatic (feat. Jake Miller)</a>
       </td>
     </tr>
   </table>
