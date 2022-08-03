@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more acquaintances you have, the less you know them. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Life does not get better by chance, it gets better by change. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Die For You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100' alt='Love The Way You Lie' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3' alt='Easy' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Train Wreck' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f494585edd05d3c47256ae6c' alt='Will It Ever Feel The Same?' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz'>Die For You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED'>Love The Way You Lie</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H'>Train Wreck</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG'>Will It Ever Feel The Same?</a>
       </td>
     </tr>
   </table>
