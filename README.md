@@ -23,18 +23,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273376ab4e92e92e23191cb4d32' alt='Trampoline (with ZAYN)' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27362d3381a88a63957b563967e' alt='Fallin’ (Adrenaline)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27353d09a982d1c5c0cd58b1b88' alt='OK Not To Be OK' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27390189bfc9a5d39e0d88e4103' alt='I Love You 3000' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f6e9e116e2ae3925f5bc4233' alt='あふれる' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='Tell Your Friends' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k'>Trampoline (with ZAYN)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz'>Fallin’ (Adrenaline)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv'>OK Not To Be OK</a>
       </td>
@@ -43,12 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc'>I Love You 3000</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6bBK7IhHhRGpGUR2J7ULVJ'>あふれる</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1mhVXWduD8ReDwusfaHNwU'>Tell Your Friends</a>
       </td>
     </tr>
   </table>
