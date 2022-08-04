@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d6f6aa28e14c68d91c5854f5' alt='シフクノトキ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Water Fountain' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b993cba8ff7d0a8e9ee18d46' alt='Stay' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b993cba8ff7d0a8e9ee18d46' alt='Stay' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay'>シフクノトキ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
       </td>
@@ -43,9 +46,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1'>Leave Before You Love Me (with Jonas Brothers)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0'>Stay</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0'>Stay</a>
