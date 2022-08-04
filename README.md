@@ -154,6 +154,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Feel Something' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5MWA0KkMh18hC2BkcCs4me'>Feel Something</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3K6gfRB0Yn4IEd5VDThMXv'>I Loved You, What Happened?</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe'>Fiji Blue</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:10%'>
       </td>
       <td>
@@ -168,7 +184,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d41d8a1e8dec3f47438801b3' alt='Try' style='width:10%'>
       </td>
@@ -180,22 +196,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5TAuyWfYBWI3zALvH9pEfL'>Arden Cho</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1R0hxCA5R7z5TiaXBZR7Mf'>SOLO</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6ahu9PIZBzbOR4ZYhBtike'>SOLO</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M'>JENNIE</a>
       </td>
     </tr>
   </table>
