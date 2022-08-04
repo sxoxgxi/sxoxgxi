@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738b5c6d6bb24f7e5bb43b8b44' alt='Cold Heart - PNAU Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27397f49d5e045af1ef14d8013d' alt='City Lights' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27397f49d5e045af1ef14d8013d' alt='City Lights' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='LALISA' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/02pjWffN5Npwv22BShj1vu'>Cold Heart - PNAU Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/19uGdsVyfOLTQ2qBARMXNg'>City Lights</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy'>LALISA</a>
       </td>
     </tr>
   </table>
