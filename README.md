@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c243682bf7d1bbcec0ee000' alt='This City Remix (feat. Anne-Marie)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27339715e1fc59ec8cc0903fde7' alt='Before' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738b5c6d6bb24f7e5bb43b8b44' alt='Cold Heart - PNAU Remix' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27397f49d5e045af1ef14d8013d' alt='City Lights' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273537f0cc27d06681a55dc38e8' alt='Car Crash' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs'>This City Remix (feat. Anne-Marie)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF'>Before</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/19uGdsVyfOLTQ2qBARMXNg'>City Lights</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2tlJ22iQwiO1CWBQSma23n'>Car Crash</a>
       </td>
     </tr>
   </table>
