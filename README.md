@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732f6a25ebd3f6b19d29c56b3d' alt='But You Love It' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733327143dd0629e27a9f44c93' alt='Bruises - Steve Void Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh'>Say You Won't Let Go</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0s26En1JoJhVj32vizElpA'>Feelings</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG'>Bruises - Steve Void Remix</a>
       </td>
     </tr>
   </table>
