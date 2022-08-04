@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Dusk Till Dawn (feat. Sia) - Radio Edit' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc' alt='cardigan' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27302e38aa08451ffc986f76247' alt='Kiss Me More (feat. Naomi Watanabe)' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27396457fde794268ab0702f52d' alt='Losing You - Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP'>Dusk Till Dawn (feat. Sia) - Radio Edit</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd'>cardigan</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4vWP8RQHBDJxpLcLAdK5lU'>Losing You - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/334P3X7h4tDWeVU4kQ6Sjy'>Sacrifice</a>
       </td>
     </tr>
   </table>
