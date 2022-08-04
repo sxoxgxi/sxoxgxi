@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce' alt='Leave Before You Love Me (with Jonas Brothers)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b993cba8ff7d0a8e9ee18d46' alt='Stay' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b993cba8ff7d0a8e9ee18d46' alt='Stay' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273376ab4e92e92e23191cb4d32' alt='Trampoline (with ZAYN)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273376ab4e92e92e23191cb4d32' alt='Trampoline (with ZAYN)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1'>Leave Before You Love Me (with Jonas Brothers)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0'>Stay</a>
       </td>
@@ -43,9 +46,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb'>What If I Told You That I Love You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k'>Trampoline (with ZAYN)</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k'>Trampoline (with ZAYN)</a>
