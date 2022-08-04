@@ -23,32 +23,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730fdd9fc8745ed9185dc95873' alt='Gone' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc' alt='cardigan' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27302e38aa08451ffc986f76247' alt='Kiss Me More (feat. Naomi Watanabe)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334a1340d3d22e5dfb041ae69' alt='Palladium' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737eff443a62c51d7f9d39dc20' alt='Fake' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Let Me' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27396457fde794268ab0702f52d' alt='Losing You - Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://open.spotify.com/track/2ayIgfvWo3SfYP2pVOr4pC'>Gone</a>
+      <a href='https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd'>cardigan</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
+      <a href='https://open.spotify.com/track/6XgBxK1v4li6dOI5to10Sz'>Kiss Me More (feat. Naomi Watanabe)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3'>Palladium</a>
+      <a href='https://open.spotify.com/track/4Gt2kh3QbAGU6yquOWn4aW'>Fake</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt'>Let Me</a>
+      <a href='https://open.spotify.com/track/4vWP8RQHBDJxpLcLAdK5lU'>Losing You - Acoustic</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD'>Falling</a>
+      <a href='https://open.spotify.com/track/334P3X7h4tDWeVU4kQ6Sjy'>Sacrifice</a>
       </td>
     </tr>
   </table>
