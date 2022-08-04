@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334a1340d3d22e5dfb041ae69' alt='Palladium' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Let Me' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767' alt='Will He' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273174f89c243a01c6b003a01d2' alt='Or Not' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3'>Palladium</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN'>Will He</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7mXAlee0nLDTX9e9bDDu9F'>Or Not</a>
       </td>
     </tr>
   </table>
