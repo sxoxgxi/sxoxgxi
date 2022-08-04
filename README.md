@@ -170,6 +170,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273376ab4e92e92e23191cb4d32' alt='Trampoline (with ZAYN)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k'>Trampoline (with ZAYN)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB'>Trampoline (with ZAYN)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR'>SHAED</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Feel Something' style='width:10%'>
       </td>
       <td>
@@ -180,22 +196,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe'>Fiji Blue</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx'>This City (Acoustic)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA'>Sam Fischer</a>
       </td>
     </tr>
   </table>
