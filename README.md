@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Someone You Loved' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='Cold (feat. Future)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd3256e196974f02251d7976' alt='let's run away' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf'>Someone You Loved</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2nJCmhPrPOHZcULTDVfWaM'>Cold (feat. Future)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0'>let's run away</a>
       </td>
     </tr>
   </table>
