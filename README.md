@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732f6a25ebd3f6b19d29c56b3d' alt='But You Love It' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738540f1aa50ce035b4e9cdfa7' alt='To the Bone' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d465dc991a0d81dc6b541f4f' alt='透明だった世界' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7cUPrTfP6VNOK22pZNEwbq'>But You Love It</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF'>To the Bone</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ'>透明だった世界</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP'>Before You Go</a>
       </td>
     </tr>
   </table>
