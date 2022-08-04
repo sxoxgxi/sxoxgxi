@@ -23,32 +23,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b993cba8ff7d0a8e9ee18d46' alt='Stay' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b' alt='What If I Told You That I Love You' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273376ab4e92e92e23191cb4d32' alt='Trampoline (with ZAYN)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273376ab4e92e92e23191cb4d32' alt='Trampoline (with ZAYN)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27362d3381a88a63957b563967e' alt='Fallin’ (Adrenaline)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27353d09a982d1c5c0cd58b1b88' alt='OK Not To Be OK' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27390189bfc9a5d39e0d88e4103' alt='I Love You 3000' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0'>Stay</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb'>What If I Told You That I Love You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k'>Trampoline (with ZAYN)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k'>Trampoline (with ZAYN)</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz'>Fallin’ (Adrenaline)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv'>OK Not To Be OK</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc'>I Love You 3000</a>
       </td>
     </tr>
   </table>
@@ -68,9 +68,9 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb335e53b32dfd6e33fef91466' alt='Bazzi' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb0d890ffd0e0bea5f904f1a9f' alt='Charlie Puth' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb1d851d77d3ab7d1a29808cb3' alt='Johnny Orlando' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb436de0a4e313bdc54b98c79c' alt='Myuk' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -84,10 +84,10 @@
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
+      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
+      <a href='https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9'>Myuk</a>
       </td>
     </tr>
   </table>
@@ -138,22 +138,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5'>love + everything else</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE'>John K</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:10%'>
       </td>
       <td>
@@ -168,7 +152,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:10%'>
       </td>
@@ -184,7 +168,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d41d8a1e8dec3f47438801b3' alt='Try' style='width:10%'>
       </td>
@@ -196,6 +180,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5TAuyWfYBWI3zALvH9pEfL'>Arden Cho</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1R0hxCA5R7z5TiaXBZR7Mf'>SOLO</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6ahu9PIZBzbOR4ZYhBtike'>SOLO</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M'>JENNIE</a>
       </td>
     </tr>
   </table>
