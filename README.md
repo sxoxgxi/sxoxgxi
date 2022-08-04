@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733327143dd0629e27a9f44c93' alt='Bruises - Steve Void Remix' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d465dc991a0d81dc6b541f4f' alt='透明だった世界' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Is There Someone Else?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Alone Again' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG'>Bruises - Steve Void Remix</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh'>Is There Someone Else?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E'>Alone Again</a>
       </td>
     </tr>
   </table>
