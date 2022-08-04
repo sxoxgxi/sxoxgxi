@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736aae0560fbc2d06e2ba81faa' alt='Just for a Moment - From "High School Musical: The Musical: The Series"' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273da513d25e8b3cdd4f43f7512' alt='Moonlight' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Dusk Till Dawn (feat. Sia) - Radio Edit' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27302e38aa08451ffc986f76247' alt='Kiss Me More (feat. Naomi Watanabe)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737eff443a62c51d7f9d39dc20' alt='Fake' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5Yc2A0YtK6PaXT8J1MQ0Rd'>Just for a Moment - From "High School Musical: The Musical: The Series"</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1rWzYSHyZ5BiI4DnDRCwy7'>Moonlight</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6XgBxK1v4li6dOI5to10Sz'>Kiss Me More (feat. Naomi Watanabe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4Gt2kh3QbAGU6yquOWn4aW'>Fake</a>
       </td>
     </tr>
   </table>
