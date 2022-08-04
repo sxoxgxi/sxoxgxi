@@ -23,18 +23,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Here We Go… Again (feat. Tyler, the Creator)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735f685067786c7e2d1253ecff' alt='crossing field' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732f6a25ebd3f6b19d29c56b3d' alt='But You Love It' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738540f1aa50ce035b4e9cdfa7' alt='To the Bone' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf'>Here We Go… Again (feat. Tyler, the Creator)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw'>crossing field</a>
       </td>
@@ -43,12 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0s26En1JoJhVj32vizElpA'>Feelings</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7cUPrTfP6VNOK22pZNEwbq'>But You Love It</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF'>To the Bone</a>
       </td>
     </tr>
   </table>
