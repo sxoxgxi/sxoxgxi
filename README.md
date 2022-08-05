@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27337a04015658168ca6e6e604a' alt='Stranger' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27314bc02c9c5900ec1b5e9f150' alt='Need To Know' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731cf932bdb0dcbd32df0a1107' alt='Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273416fa5520939067587733565' alt='running up that hill - sad version' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733be89d9c262ea46ca9902aa0' alt='Talking 2 You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz'>Stranger</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr'>Need To Know</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2ad2YtPuscflBj8OwR6ZkK'>running up that hill - sad version</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6s2vxtRtaqhu1nlb8zO7a0'>Talking 2 You</a>
       </td>
     </tr>
   </table>
