@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b1fca9466eb2e74e62100ea8' alt='Like That' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732b1a62237771427afb899387' alt='Everything Goes On' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273aee5b64a6416cb4606aa6b6a' alt='Better Alone' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ffbe5992f6b401558a5b95e' alt='you were there for me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730c0ad448ed7d01a3983e8ea5' alt='Sitting Doing Nothing - Stereo Mix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2MJAUI5c5gj2q0L8HqDkRG'>Like That</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm'>Everything Goes On</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0AYSyQYRwmUjWLufRfuBRs'>you were there for me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0zp5gzdTMeDkujYnOHT1ET'>Sitting Doing Nothing - Stereo Mix</a>
       </td>
     </tr>
   </table>
