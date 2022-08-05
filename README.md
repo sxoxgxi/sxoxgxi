@@ -23,32 +23,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Photograph' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Castle on the Hill' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f69d13a2b91adb353bc01cc9' alt='Tell Me That You Love Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a' alt='That Should Be Me' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735355919e31efac9b14c45c49' alt='Never Not' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Forever' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf' alt='Beautiful (feat. Camila Cabello)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27324095cadba9d695e063d1f5d' alt='comethru' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b503cdb444b28826c4ca9217' alt='8 Letters' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
+      <a href='https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL'>Photograph</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT'>Castle on the Hill</a>
+      <a href='https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX'>Tell Me That You Love Me</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S'>That Should Be Me</a>
+      <a href='https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu'>Never Not</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3'>Forever</a>
+      <a href='https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF'>Beautiful (feat. Camila Cabello)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/6lrufI7dOdltPpiscAnkvi'>comethru</a>
+      <a href='https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt'>8 Letters</a>
       </td>
     </tr>
   </table>
