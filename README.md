@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Just do what must be done. This may not be happiness but it is greatness. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>Take care of your cents: dollars will take care of themselves. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
