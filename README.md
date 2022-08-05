@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273050ca7d66f1d673e9c8dc337' alt='High School in Jakarta' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27346b04b409f79d973c477f42f' alt='Crash' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732b1a62237771427afb899387' alt='Everything Goes On' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273aee5b64a6416cb4606aa6b6a' alt='Better Alone' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0r6oCPoDuCOXvEPOPV6UXN'>High School in Jakarta</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm'>Everything Goes On</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun'>Better Alone</a>
       </td>
     </tr>
   </table>
