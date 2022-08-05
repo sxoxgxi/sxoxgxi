@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e0771c709e8600fe346a04b4' alt='Yakap' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27301d1117cb19a324aa5b1dd1e' alt='Are You Entertained (feat. Ed Sheeran)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27347c48d912ed104babce8ae4e' alt='The Golden Road' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bde3717abc4b6390ff7613b1' alt='American Psycho (with Mae Muller feat. Trippie Redd)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c31e3f3a15f96cfc4c8f7b7a' alt='Circles' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG'>Yakap</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR'>Are You Entertained (feat. Ed Sheeran)</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/32il27dOrLpIru8Evp4Pu7'>American Psycho (with Mae Muller feat. Trippie Redd)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6rurduYegrf5XSZrphuyF2'>Circles</a>
       </td>
     </tr>
   </table>
