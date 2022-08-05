@@ -14,7 +14,11 @@
   </a>
   <a href='https://sxoxgxi.pythonanywhere.com/'><img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Blog&up_color=light%20green&up_message=online&url=https%3A%2F%2Fsxoxgxi.pythonanywhere.com'></a>
 </p>
-
+<p align='center'>
+  <a status, href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
+    <img src='https://img.shields.io/badge/Playing-This is love-&?style=social&logo=spotify'>
+  </a status>
+</p>
 <!------ RECENTLY PLAYED ------>
 
 <p recentlyplayed, float='left'>
