@@ -25,16 +25,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273aee5b64a6416cb4606aa6b6a' alt='Better Alone' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273aee5b64a6416cb4606aa6b6a' alt='Better Alone' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ffbe5992f6b401558a5b95e' alt='you were there for me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730c0ad448ed7d01a3983e8ea5' alt='Sitting Doing Nothing - Stereo Mix' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730283631fa9fae2e53d74025d' alt='Is This Love ('09) (feat. 50 Cent)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27337a04015658168ca6e6e604a' alt='Stranger' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun'>Better Alone</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun'>Better Alone</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6vbKYlAopUxDfewYzCgyDw'>Is This Love ('09) (feat. 50 Cent)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz'>Stranger</a>
       </td>
     </tr>
   </table>
