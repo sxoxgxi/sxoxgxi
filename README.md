@@ -25,16 +25,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Tenerife Sea' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Tenerife Sea' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730010b77c58ab69552922005d' alt='It's You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Supermarket Flowers' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS'>Tenerife Sea</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS'>Tenerife Sea</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM'>18</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG'>Supermarket Flowers</a>
       </td>
     </tr>
   </table>
