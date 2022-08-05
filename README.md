@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735bf3c047ccd228b0abe10dc7' alt='both of us' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732c0287b816227d4c98a8e9ab' alt='Until I Found You' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27301d1117cb19a324aa5b1dd1e' alt='Are You Entertained (feat. Ed Sheeran)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27347c48d912ed104babce8ae4e' alt='The Golden Road' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/29mtZPY0dBU9WJmwnOig3E'>both of us</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR'>Are You Entertained (feat. Ed Sheeran)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3EDmeLbltKrHrgJaK4yFjJ'>The Golden Road</a>
       </td>
     </tr>
   </table>
