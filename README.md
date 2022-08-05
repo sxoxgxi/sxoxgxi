@@ -25,16 +25,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27324095cadba9d695e063d1f5d' alt='comethru' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27324095cadba9d695e063d1f5d' alt='comethru' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Let Me Down Slowly' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ac6b0bd63b1602bd99aff528' alt='I Don't Care - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6lrufI7dOdltPpiscAnkvi'>comethru</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6lrufI7dOdltPpiscAnkvi'>comethru</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4'>lovely (with Khalid)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg'>I Don't Care - Acoustic</a>
       </td>
     </tr>
   </table>
