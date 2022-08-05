@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733be89d9c262ea46ca9902aa0' alt='Talking 2 You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273741da0c14575f91dc81d26ad' alt='Hug me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b0b0c49639add74d1aab8d18' alt='What If I Wasn't Done Loving You?' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b4225307eec48b4ee0b5cea8' alt='Modern Day Living' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6s2vxtRtaqhu1nlb8zO7a0'>Talking 2 You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/18bn40LGPlEkKPLs2OWgUS'>Hug me</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2Oa3diV0ey46LiFxhIyPRU'>Fade Away</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5E6tqIFCjadH3x0ZodgouS'>Modern Day Living</a>
       </td>
     </tr>
   </table>
