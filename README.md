@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ac6b0bd63b1602bd99aff528' alt='I Don't Care - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b' alt='hate u love u' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf' alt='All I Want - From "High School Musical: The Musical: The Series"' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733892a2a2c261629f34bb5536' alt='Love Is Gone - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg'>I Don't Care - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ'>Strawberries & Cigarettes</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW'>All I Want - From "High School Musical: The Musical: The Series"</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx'>Love Is Gone - Acoustic</a>
       </td>
     </tr>
   </table>
