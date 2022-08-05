@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b' alt='hate u love u' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf' alt='All I Want - From "High School Musical: The Musical: The Series"' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Tenerife Sea' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Tenerife Sea' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt'>hate u love u</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G'>Ghost</a>
       </td>
@@ -43,9 +46,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx'>Love Is Gone - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS'>Tenerife Sea</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS'>Tenerife Sea</a>
