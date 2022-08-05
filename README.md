@@ -23,6 +23,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273416fa5520939067587733565' alt='running up that hill - sad version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733be89d9c262ea46ca9902aa0' alt='Talking 2 You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273741da0c14575f91dc81d26ad' alt='Hug me' style='width:50%'>
@@ -31,10 +33,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27370a876a3c430c3a30f37aabc' alt='One Day Less' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2ad2YtPuscflBj8OwR6ZkK'>running up that hill - sad version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6s2vxtRtaqhu1nlb8zO7a0'>Talking 2 You</a>
       </td>
@@ -46,9 +49,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy'>One Day Less</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2Oa3diV0ey46LiFxhIyPRU'>Fade Away</a>
       </td>
     </tr>
   </table>
