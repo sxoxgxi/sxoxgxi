@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364be01336a8f917538a60b74' alt='シルエット' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273db24e98f75215a3df9886be7' alt='Bitch Lasagna' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Train Wreck' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Heather' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273201c580b75d253dbcdaab94f' alt='僕が死のうと思ったのは' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ'>シルエット</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1AKGJQIHP3dIPuhOjdxD6a'>Bitch Lasagna</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t'>Heather</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2NOIV90vZjJEzbKiJyGZiS'>僕が死のうと思ったのは</a>
       </td>
     </tr>
   </table>
