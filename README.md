@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Off My Face' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731cf932bdb0dcbd32df0a1107' alt='Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273050ca7d66f1d673e9c8dc337' alt='High School in Jakarta' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U'>Off My Face</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq'>Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0r6oCPoDuCOXvEPOPV6UXN'>High School in Jakarta</a>
       </td>
     </tr>
   </table>
