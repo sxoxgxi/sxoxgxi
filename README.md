@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-All 4 Nothing (I'm So In Love)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Up Down-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354aa2ae2566c92b299d5272e' alt='All 4 Nothing (I'm So In Love)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wrapped Around Your Finger' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364be01336a8f917538a60b74' alt='シルエット' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273db24e98f75215a3df9886be7' alt='Bitch Lasagna' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5'>All 4 Nothing (I'm So In Love)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX'>Wrapped Around Your Finger</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ'>シルエット</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1AKGJQIHP3dIPuhOjdxD6a'>Bitch Lasagna</a>
       </td>
     </tr>
   </table>
