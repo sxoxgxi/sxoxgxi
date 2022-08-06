@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596' alt='Butter' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596' alt='Butter' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e522973d50fcbd751850b3cf' alt='Nights With You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Off My Face' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731cf932bdb0dcbd32df0a1107' alt='Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB'>Butter</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB'>Butter</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq'>Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw'>Nothing Without You</a>
       </td>
     </tr>
   </table>
