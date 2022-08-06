@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Up Down-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Circles-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Up Down' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354aa2ae2566c92b299d5272e' alt='All 4 Nothing (I'm So In Love)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wrapped Around Your Finger' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0' alt='Life's Too Short (English Version)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364be01336a8f917538a60b74' alt='シルエット' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC'>Up Down</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5'>All 4 Nothing (I'm So In Love)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T'>Life's Too Short (English Version)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ'>シルエット</a>
       </td>
     </tr>
   </table>
