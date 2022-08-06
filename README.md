@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738f7c069e639ff8f495901771' alt='the idea' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304bfd5a5fd5aa6ca648f66aa' alt='Happier' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27353d09a982d1c5c0cd58b1b88' alt='OK Not To Be OK' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr'>the idea</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99'>Happier</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv'>OK Not To Be OK</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
       </td>
     </tr>
   </table>
