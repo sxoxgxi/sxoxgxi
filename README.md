@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Dawn FM - OPN Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Love On The Brain-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020' alt='Dawn FM - OPN Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273786e4e2c43c2897fafabbfb6' alt='In The Stars' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e666597c08e78ec12f18dcdc' alt='LETTER' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273aa1beea495a0070294c30e31' alt='Dance Monkey' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27395dfd0ff97f6cecc44b6b770' alt='my home' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0'>Dawn FM - OPN Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn'>In The Stars</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d'>Dance Monkey</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7hrEbEm2Gyeoc8ecOA88Xh'>my home</a>
       </td>
     </tr>
   </table>
