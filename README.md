@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4'>lovely (with Khalid)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK'>lovely (with Khalid)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'>Billie Eilish</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd3256e196974f02251d7976' alt='let's run away' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj'>Sarah Kang</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1R0hxCA5R7z5TiaXBZR7Mf'>SOLO</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6ahu9PIZBzbOR4ZYhBtike'>SOLO</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M'>JENNIE</a>
       </td>
     </tr>
   </table>
