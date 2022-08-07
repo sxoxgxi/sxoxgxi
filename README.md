@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm'>It’s Never Really Over (Expanded)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd3256e196974f02251d7976' alt='let's run away' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M'>JENNIE</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273376ab4e92e92e23191cb4d32' alt='Trampoline (with ZAYN)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k'>Trampoline (with ZAYN)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB'>Trampoline (with ZAYN)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR'>SHAED</a>
       </td>
     </tr>
   </table>
