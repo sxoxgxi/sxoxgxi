@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Seek not the good in external things;seek it in yourselves. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>Cherish forever what makes you unique, cuz you're really a yawn if it goes. - <a href='https://duckduckgo.com/?q=Bette+Midler' target='_blank'>Bette Midler</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
