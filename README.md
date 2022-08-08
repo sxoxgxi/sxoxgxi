@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-unlasting-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Starboy' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737190dc925809ce44094ead43' alt='Favourite Goodbye' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093' alt='Love On The Brain' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020' alt='Dawn FM - OPN Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB'>Starboy</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp'>Love On The Brain</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0'>Dawn FM - OPN Remix</a>
       </td>
     </tr>
   </table>
