@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-BRAND NEW YOU-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-再会 (produced by Ayase)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='BRAND NEW YOU' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='dawn' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a20b0fea45e5ab96a19f6b4f' alt='明け星' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0eCNOrf6dQIkjht5qQOczQ'>BRAND NEW YOU</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3bsORY9UfPVd4yWyuS2Xoc'>dawn</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay'>シフクノトキ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
