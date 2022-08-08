@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Black Rover-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Your eyes tell-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273874bdb9cecf6f1a1bc0f50ff' alt='Black Rover' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b46f98efbcbd0bdbd058f8c5' alt='愛錠' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ebe2ebf168dcbf27f492131b' alt='ロストロマンス' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ebe2ebf168dcbf27f492131b' alt='炎' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP'>Black Rover</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3lfpnhiO6whPEdBM6O9Sdr'>ロストロマンス</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn'>炎</a>
       </td>
     </tr>
   </table>
