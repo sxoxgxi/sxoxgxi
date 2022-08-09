@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Genie In a Bottle-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-The Motto-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f89996e214be1763b2a9e948' alt='Genie In a Bottle' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a7e933ef7fbb7e6485b73a' alt='Bubbly' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba8db944ef3e2846ba9efa57' alt='Let Me Love You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273409f7ee20c9f63b61aea0369' alt='Hair Toss, Arms Crossed' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP'>Genie In a Bottle</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO'>Bubbly</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA'>Hair Toss, Arms Crossed</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
       </td>
     </tr>
   </table>
