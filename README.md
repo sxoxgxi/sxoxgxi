@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Boy With Luv (feat. Halsey)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sunflower - Spider-Man: Into the Spider-Verse-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f' alt='Boy With Luv (feat. Halsey)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5' alt='STAY (with Justin Bieber)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2' alt='Shallow - Radio Edit' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df9d39dded05faa9ed520ca6' alt='Mmm Mmm Mmm Mmm' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e16a6534cd5a968a5b725d03' alt='Dancing in the Moonlight' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI'>Boy With Luv (feat. Halsey)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20'>STAY (with Justin Bieber)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem'>Mmm Mmm Mmm Mmm</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od'>Dancing in the Moonlight</a>
       </td>
     </tr>
   </table>
