@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Running Up That Hill (A Deal With God) - 2018 Remaster-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Anywhere-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c390e413e27798edd4d18b4' alt='Running Up That Hill (A Deal With God) - 2018 Remaster' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731431c3bdf16aa99f71799d95' alt='Rockabye (feat. Sean Paul & Anne-Marie)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='Love Yourself' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Only Human' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e7eaed7ad31623ed10b0d5c8' alt='Sober' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP'>Running Up That Hill (A Deal With God) - 2018 Remaster</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW'>Rockabye (feat. Sean Paul & Anne-Marie)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk'>Only Human</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7f2YrnkCsVAmsTgLf7GFAy'>Sober</a>
       </td>
     </tr>
   </table>
