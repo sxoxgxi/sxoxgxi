@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mmm Mmm Mmm Mmm-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Peaches (feat. Daniel Caesar & Giveon)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df9d39dded05faa9ed520ca6' alt='Mmm Mmm Mmm Mmm' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e16a6534cd5a968a5b725d03' alt='Dancing in the Moonlight' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b06c09b9f72389ee7f1cbd6b' alt='BED' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f89996e214be1763b2a9e948' alt='Genie In a Bottle' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a7e933ef7fbb7e6485b73a' alt='Bubbly' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem'>Mmm Mmm Mmm Mmm</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od'>Dancing in the Moonlight</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP'>Genie In a Bottle</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO'>Bubbly</a>
       </td>
     </tr>
   </table>
