@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Peaches (feat. Daniel Caesar & Giveon)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df9d39dded05faa9ed520ca6' alt='Mmm Mmm Mmm Mmm' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e16a6534cd5a968a5b725d03' alt='Dancing in the Moonlight' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e' alt='The Motto' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f89996e214be1763b2a9e948' alt='Genie In a Bottle' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI'>Peaches (feat. Daniel Caesar & Giveon)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem'>Mmm Mmm Mmm Mmm</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO'>The Motto</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP'>Genie In a Bottle</a>
       </td>
     </tr>
   </table>
