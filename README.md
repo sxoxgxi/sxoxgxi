@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-If You Had My Love-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Counting Stars-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c34d7a87663652675cf3264' alt='If You Had My Love' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0' alt='Drops of Jupiter (Tell Me)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f1b136eb0388414a8225a348' alt='Anywhere' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731431c3bdf16aa99f71799d95' alt='Rockabye (feat. Sean Paul & Anne-Marie)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='Love Yourself' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn'>If You Had My Love</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA'>Drops of Jupiter (Tell Me)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW'>Rockabye (feat. Sean Paul & Anne-Marie)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0'>Love Yourself</a>
       </td>
     </tr>
   </table>
