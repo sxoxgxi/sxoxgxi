@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Sunflower - Spider-Man: Into the Spider-Verse-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Nothing Breaks Like a Heart (feat. Miley Cyrus)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02' alt='Sunflower - Spider-Man: Into the Spider-Verse' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f' alt='Boy With Luv (feat. Halsey)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5' alt='STAY (with Justin Bieber)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Peaches (feat. Daniel Caesar & Giveon)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df9d39dded05faa9ed520ca6' alt='Mmm Mmm Mmm Mmm' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY'>Sunflower - Spider-Man: Into the Spider-Verse</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI'>Boy With Luv (feat. Halsey)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI'>Peaches (feat. Daniel Caesar & Giveon)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem'>Mmm Mmm Mmm Mmm</a>
       </td>
     </tr>
   </table>
