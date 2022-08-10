@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-when the party's over-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Easier-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce' alt='when the party's over' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a' alt='Blank Space' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273038f8fad2f75b637f1c9aef5' alt='Breakfast At Tiffany's' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354de16ac6dc5346bfc1187f5' alt='Post Malone (feat. RANI)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d' alt='Because Of You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I'>when the party's over</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g'>Blank Space</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU'>Post Malone (feat. RANI)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci'>Because Of You</a>
       </td>
     </tr>
   </table>
