@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-It's Time-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Breakfast At Tiffany's-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='It's Time' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354de16ac6dc5346bfc1187f5' alt='Post Malone (feat. RANI)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d' alt='Because Of You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02' alt='Sunflower - Spider-Man: Into the Spider-Verse' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f' alt='Boy With Luv (feat. Halsey)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc'>It's Time</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU'>Post Malone (feat. RANI)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY'>Sunflower - Spider-Man: Into the Spider-Verse</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI'>Boy With Luv (feat. Halsey)</a>
       </td>
     </tr>
   </table>
