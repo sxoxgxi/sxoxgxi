@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Love On The Brain-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Favourite Goodbye-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093' alt='Love On The Brain' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273405fdad252857e01dbced96a' alt='love nwantiti (ah ah ah)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb' alt='Counting Stars' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0' alt='Drops of Jupiter (Tell Me)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f1b136eb0388414a8225a348' alt='Anywhere' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp'>Love On The Brain</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g'>love nwantiti (ah ah ah)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA'>Drops of Jupiter (Tell Me)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA'>Anywhere</a>
       </td>
     </tr>
   </table>
