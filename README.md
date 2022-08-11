@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-On the Low-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-unravel (acoustic version)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b58a365796533f2d8ea6b67' alt='On the Low' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d7c6c95d3ad3d6f67de848d0' alt='Thinking out Loud' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0' alt='Joke's On You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734bf585b597bb024c29251b8a' alt='雪の華' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4MIKclDDgZgzuaATP5yOjW'>On the Low</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1pxZQi9tJZonnr9sLVEZ1x'>Thinking out Loud</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Zyizxfz4NXdCgVLwhuBNw'>雪の華</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM'>I Quit Drinking</a>
       </td>
     </tr>
   </table>
