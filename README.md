@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0s26En1JoJhVj32vizElpA'>Feelings</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP'>~how i'm feeling~</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
       </td>
       <td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'>Billie Eilish</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ'>Strawberries & Cigarettes</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy'>Strawberries & Cigarettes</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
     </tr>
   </table>
