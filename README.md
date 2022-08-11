@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Will It Ever Feel The Same?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Joke's On You-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f494585edd05d3c47256ae6c' alt='Will It Ever Feel The Same?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734bf585b597bb024c29251b8a' alt='雪の華' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27324095cadba9d695e063d1f5d' alt='comethru' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Alone Again' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG'>Will It Ever Feel The Same?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6Zyizxfz4NXdCgVLwhuBNw'>雪の華</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6lrufI7dOdltPpiscAnkvi'>comethru</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E'>Alone Again</a>
       </td>
     </tr>
   </table>
