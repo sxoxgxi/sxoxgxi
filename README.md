@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737190dc925809ce44094ead43' alt='Favourite Goodbye' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093' alt='Love On The Brain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273405fdad252857e01dbced96a' alt='love nwantiti (ah ah ah)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c34d7a87663652675cf3264' alt='If You Had My Love' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0' alt='Drops of Jupiter (Tell Me)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1RVvOgceVbpJoA1N1bXJgY'>Favourite Goodbye</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp'>Love On The Brain</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn'>If You Had My Love</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA'>Drops of Jupiter (Tell Me)</a>
       </td>
     </tr>
   </table>
