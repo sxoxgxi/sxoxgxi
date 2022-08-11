@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Thinking out Loud-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-On the Low-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d7c6c95d3ad3d6f67de848d0' alt='Thinking out Loud' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0' alt='Joke's On You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f494585edd05d3c47256ae6c' alt='Will It Ever Feel The Same?' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf' alt='All I Want - From "High School Musical: The Musical: The Series"' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1pxZQi9tJZonnr9sLVEZ1x'>Thinking out Loud</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2D0FX6WiP1GKGL3yCdXxs7'>Joke's On You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM'>I Quit Drinking</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW'>All I Want - From "High School Musical: The Musical: The Series"</a>
       </td>
     </tr>
   </table>
