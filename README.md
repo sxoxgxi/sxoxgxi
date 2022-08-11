@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273405fdad252857e01dbced96a' alt='love nwantiti (ah ah ah)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb' alt='Counting Stars' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c34d7a87663652675cf3264' alt='If You Had My Love' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f1b136eb0388414a8225a348' alt='Anywhere' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c390e413e27798edd4d18b4' alt='Running Up That Hill (A Deal With God) - 2018 Remaster' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g'>love nwantiti (ah ah ah)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1'>Counting Stars</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA'>Anywhere</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP'>Running Up That Hill (A Deal With God) - 2018 Remaster</a>
       </td>
     </tr>
   </table>
