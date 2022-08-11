@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b46f98efbcbd0bdbd058f8c5' alt='愛錠' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730440962b3a068e2ddea8b5d5' alt='143' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737190dc925809ce44094ead43' alt='Favourite Goodbye' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273405fdad252857e01dbced96a' alt='love nwantiti (ah ah ah)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb' alt='Counting Stars' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/67FILuMuRcWo6cX6LwcOVl'>愛錠</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5nVbsouGztZpdwDJPcHGSH'>143</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g'>love nwantiti (ah ah ah)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1'>Counting Stars</a>
       </td>
     </tr>
   </table>
