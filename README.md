@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Head Spins-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Beautiful Mistakes (feat. Megan Thee Stallion)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d1535e8bfb45e8c31c5e7147' alt='Head Spins' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Perfect' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c794bacc5e9913acb1a435cd' alt='KISS OF DEATH' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27391dab6f19c1eebff49470fce' alt='Lost' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733edd56946cb788a4d7457a08' alt='Over' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0XLUviGiTNczP0TXJ4mY01'>Head Spins</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v'>Perfect</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE'>Lost</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM'>Over</a>
       </td>
     </tr>
   </table>
