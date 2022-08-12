@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-My Head & My Heart-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-CWJBHN-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27339e6616a499bc092f469cae0' alt='So Good' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a0e912d0c3c3ca34dfeddde' alt='KISS OF DEATH(Produced by HYDE)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4' alt='you broke me first' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h'>If the World Was Ending (feat. Julia Michaels)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW'>KISS OF DEATH(Produced by HYDE)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR'>you broke me first</a>
       </td>
     </tr>
   </table>
