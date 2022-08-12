@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Let's Kill Tonight-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Build God, Then We'll Talk-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8f40ad88ed77a939b716d19' alt='Let's Kill Tonight' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a' alt='The Good, the Bad and the Dirty' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='London Beckoned Songs About Money Written by Machines' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be' alt='Levitating (feat. DaBaby)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273617b661263721a4a86cb139c' alt='Golden Age' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig'>Let's Kill Tonight</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5eoZTdiq4C4aoEfUwAN0ha'>The Good, the Bad and the Dirty</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF'>Levitating (feat. DaBaby)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3FfbHT7O32OGWUAqctJ2nt'>Golden Age</a>
       </td>
     </tr>
   </table>
