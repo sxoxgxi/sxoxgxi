@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-lie to me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Golden Age-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b' alt='lie to me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100' alt='Love The Way You Lie' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f17a48336d1a01731cea9a6d' alt='Spaceman' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a31195a371b2233456f6c07' alt='Unforgettable' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4NUgJ9gYHuAhaT3bj9ONh3'>lie to me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED'>Love The Way You Lie</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM'>I Quit Drinking</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe'>Unforgettable</a>
       </td>
     </tr>
   </table>
