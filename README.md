@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-The Good, the Bad and the Dirty-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Let's Kill Tonight-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a' alt='The Good, the Bad and the Dirty' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='London Beckoned Songs About Money Written by Machines' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='I Write Sins Not Tragedies' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273617b661263721a4a86cb139c' alt='Golden Age' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b' alt='lie to me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5eoZTdiq4C4aoEfUwAN0ha'>The Good, the Bad and the Dirty</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5Tpo1UIFouVNIcEDpkxTSj'>London Beckoned Songs About Money Written by Machines</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3FfbHT7O32OGWUAqctJ2nt'>Golden Age</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4NUgJ9gYHuAhaT3bj9ONh3'>lie to me</a>
       </td>
     </tr>
   </table>
