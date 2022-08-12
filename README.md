@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Build God, Then We'll Talk-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Behind the Sea - Alternate Version-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='Build God, Then We'll Talk' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8f40ad88ed77a939b716d19' alt='Let's Kill Tonight' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a' alt='The Good, the Bad and the Dirty' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='I Write Sins Not Tragedies' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be' alt='Levitating (feat. DaBaby)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6uY9kK6gdGDCeT5sklQG7u'>Build God, Then We'll Talk</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig'>Let's Kill Tonight</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz'>I Write Sins Not Tragedies</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF'>Levitating (feat. DaBaby)</a>
       </td>
     </tr>
   </table>
