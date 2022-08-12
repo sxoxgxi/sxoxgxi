@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-It's Definitely You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Over-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738dd6de651baf8860665f8003' alt='It's Definitely You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732151aa7ec41f3ab10a414b87' alt='The Calendar - Live from iTunes Sessions' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273915cb8f83650affcb1740b36' alt='Behind the Sea - Alternate Version' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8f40ad88ed77a939b716d19' alt='Let's Kill Tonight' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a' alt='The Good, the Bad and the Dirty' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK'>It's Definitely You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0BpjobiFk5uMp4u9I9I2bM'>The Calendar - Live from iTunes Sessions</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig'>Let's Kill Tonight</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5eoZTdiq4C4aoEfUwAN0ha'>The Good, the Bad and the Dirty</a>
       </td>
     </tr>
   </table>
