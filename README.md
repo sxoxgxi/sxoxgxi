@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it. - <a href='https://duckduckgo.com/?q=Robert+Frost' target='_blank'>Robert Frost</a>.</h4>
+<h4 align='center'>The past has no power over the present moment.  - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
