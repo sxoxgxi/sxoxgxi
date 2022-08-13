@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Take My Breath-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sacrifice-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Take My Breath' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='How Do I Make You Love Me?' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Gasoline' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a2bb57af533aa1ba28bb97a3' alt='Why Do You Love Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ab09ecae7741867714366036' alt='Devil Doesn’t Bargain - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b'>Take My Breath</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ'>How Do I Make You Love Me?</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/09rBX6mQFN1GFJgfqUQak5'>Why Do You Love Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y'>Devil Doesn’t Bargain - Acoustic</a>
       </td>
     </tr>
   </table>
