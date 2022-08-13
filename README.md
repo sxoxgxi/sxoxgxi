@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Bad Habits' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731cf932bdb0dcbd32df0a1107' alt='Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310179936604a42f16280835e' alt='残響散歌' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734138a7211dc7c77ff99a6348' alt='Glimpse of Us' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d'>Bad Habits</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO'>残響散歌</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Fa1fAaD5jYgJwApXkN32n'>Glimpse of Us</a>
       </td>
     </tr>
   </table>
