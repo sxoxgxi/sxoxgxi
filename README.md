@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Happier-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sofia-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304bfd5a5fd5aa6ca648f66aa' alt='Happier' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='pov' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731cf932bdb0dcbd32df0a1107' alt='Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c8d74ce2d3df9747e61a39d7' alt='Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99'>Happier</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33'>pov</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq'>Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1W4F63YEZCBAXCSHynoxDa'>Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"</a>
       </td>
     </tr>
   </table>
