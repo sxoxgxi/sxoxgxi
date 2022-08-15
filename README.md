@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-This City - Acoustic-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bad Habits-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d04f9f90f0bb0788357f4c6' alt='Maybe You’re The Problem' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dfc39d3fc11404b8ca8ab7c1' alt='Brace It (feat. Ed Sheeran)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='熱情のスペクトラム' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA'>Maybe You’re The Problem</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7'>熱情のスペクトラム</a>
       </td>
     </tr>
   </table>
