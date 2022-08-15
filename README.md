@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>Love doesn't need reason. It speaks from the irrational wisdom of the heart. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
