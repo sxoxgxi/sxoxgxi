@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c794bacc5e9913acb1a435cd' alt='KISS OF DEATH' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Adelaide' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Watermelon Sugar' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='Night Changes' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4RzQFsUzSjShauGbdngPRB'>KISS OF DEATH</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6Ptb2JSW4var9dPGCmsm3s'>Adelaide</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ'>Night Changes</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
       </td>
     </tr>
   </table>
