@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-To the Bone-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Blinding Lights-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738540f1aa50ce035b4e9cdfa7' alt='To the Bone' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27384a5651f3ab1604570ea0405' alt='Without Me (with Juice WRLD)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0' alt='Life's Too Short (English Version)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF'>To the Bone</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6Zc5f20q7sOe1IC1c1jQvZ'>Without Me (with Juice WRLD)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T'>Life's Too Short (English Version)</a>
       </td>
     </tr>
   </table>
