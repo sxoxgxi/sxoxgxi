@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Eyes Off You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Flaming Hot Cheetos-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737523b7e42168f3122351721b' alt='Two of Us' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fde669ed38a5e3c9906f1585' alt='Dance' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1eqwjXdMTed8Pz3PLNcHe9'>Two of Us</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6IxKxdVuFi4B2iaxVxRt2X'>Dance</a>
       </td>
     </tr>
   </table>
