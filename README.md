@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5'>love + everything else</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE'>John K</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd3256e196974f02251d7976' alt='let's run away' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0'>let's run away</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk'>let's run away</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj'>Sarah Kang</a>
       </td>
     </tr>
   </table>
