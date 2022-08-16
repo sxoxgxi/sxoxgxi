@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-drivers license-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Drown (feat. Clinton Kane)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='drivers license' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730a47a8c37f83710d4ce75362' alt='everything sucks' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273379a183eb6c3b8ad5d3b63d8' alt='Love on the Weekend' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27351f2aaa14bf0cd9f36784592' alt='Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH'>drivers license</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2Oa3diV0ey46LiFxhIyPRU'>Fade Away</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3Fu2kEs21COGTWc3QpJ88w'>Love on the Weekend</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4kOGfnVEGTLuxa8fnzlIGj'>Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</a>
       </td>
     </tr>
   </table>
