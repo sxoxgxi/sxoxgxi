@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Whatever you do in life, surround yourself with smart people who'll argue with you. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>From a certain point onward there is no longer any turning back. That is the point that must be reached. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
