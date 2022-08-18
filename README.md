@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27329a582922631710b2cf10d64' alt='Love Is Gone' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27378e22281eb37208f3da68ba8' alt='Silence' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8'>Love Is Gone</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6l0SEG60EHOxny0ZA4lxmO'>Silence</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh'>Say You Won't Let Go</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
       </td>
     </tr>
   </table>
