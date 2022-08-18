@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c34dffa3ee633fa3915c6806' alt='Out of Time - KAYTRANADA Remix' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Save Your Tears' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27329a582922631710b2cf10d64' alt='Love Is Gone' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27378e22281eb37208f3da68ba8' alt='Silence' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw'>Nothing Without You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA'>Out of Time - KAYTRANADA Remix</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8'>Love Is Gone</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6l0SEG60EHOxny0ZA4lxmO'>Silence</a>
       </td>
     </tr>
   </table>
