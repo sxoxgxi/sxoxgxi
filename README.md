@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273201c580b75d253dbcdaab94f' alt='僕が死のうと思ったのは' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2NOIV90vZjJEzbKiJyGZiS'>僕が死のうと思ったのは</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3GGqCGjrUlzy4APUnK5tXs'>DEARS</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F'>Mika Nakashima</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ'>Strawberries & Cigarettes</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy'>Strawberries & Cigarettes</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
     </tr>
   </table>
