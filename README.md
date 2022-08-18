@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>From a certain point onward there is no longer any turning back. That is the point that must be reached. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
+<h4 align='center'>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations. - <a href='https://duckduckgo.com/?q=Wayne+Gretzky' target='_blank'>Wayne Gretzky</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
