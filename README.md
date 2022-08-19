@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Slow Grenade-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-2002-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273156d79bdb60fc5f7af75590b' alt='Slow Grenade' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737ff1c1d0d05e123f895635fe' alt='DUMB DUMB' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a' alt='Blank Space' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1' alt='Savage Love (Laxed – Siren Beat) [BTS Remix]' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738046020d2ba421ea91423419' alt='Funny' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0QJqwbSleB55yUd8RnBCE5'>Slow Grenade</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6HAbPNraOVHwShFFtRVTik'>DUMB DUMB</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL'>Savage Love (Laxed – Siren Beat) [BTS Remix]</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW'>Funny</a>
       </td>
     </tr>
   </table>
