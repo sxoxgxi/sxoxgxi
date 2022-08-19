@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='traitor' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247' alt='eight(Prod.&Feat. SUGA of BTS)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732739e569d6b6d0e0abc8cd9b' alt='Lost Me' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c34dffa3ee633fa3915c6806' alt='Out of Time - KAYTRANADA Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Save Your Tears' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT'>traitor</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe'>eight(Prod.&Feat. SUGA of BTS)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA'>Out of Time - KAYTRANADA Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g'>Save Your Tears</a>
       </td>
     </tr>
   </table>
