@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Pink Venom-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-positions-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273647e50ec7319c38e2b7a661e' alt='Pink Venom' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379bd6e8222975ccfa35f2321' alt='Ghosts' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='I Heard You’re Married (feat. Lil Wayne)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='traitor' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247' alt='eight(Prod.&Feat. SUGA of BTS)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7EyhPjrJzjx0fk2i7vUJCS'>Pink Venom</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/17DTV3UEaE6T8yWgygOUlW'>Ghosts</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT'>traitor</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe'>eight(Prod.&Feat. SUGA of BTS)</a>
       </td>
     </tr>
   </table>
