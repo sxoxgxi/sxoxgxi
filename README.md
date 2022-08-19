@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Gone-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Wolves-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730fdd9fc8745ed9185dc95873' alt='Gone' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='MONEY' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247' alt='eight(Prod.&Feat. SUGA of BTS)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d' alt='Euphoria' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='34+35' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2ayIgfvWo3SfYP2pVOr4pC'>Gone</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/45OX2jjEw1l7lOFJfDP9fv'>MONEY</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK'>Euphoria</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF'>34+35</a>
       </td>
     </tr>
   </table>
