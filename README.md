@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-紅蓮華-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Permission to Dance-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='紅蓮華' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955' alt='Wolves' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730fdd9fc8745ed9185dc95873' alt='Gone' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247' alt='eight(Prod.&Feat. SUGA of BTS)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre'>紅蓮華</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU'>Wolves</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe'>eight(Prod.&Feat. SUGA of BTS)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1R0hxCA5R7z5TiaXBZR7Mf'>SOLO</a>
       </td>
     </tr>
   </table>
