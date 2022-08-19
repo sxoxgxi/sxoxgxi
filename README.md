@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Levitating-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-34+35-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='LALISA' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5' alt='Dynamite' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27391994452af66b672954b6eb4' alt='Way Back Home (feat. Conor Maynard) - Sam Feldt Edit' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP'>Levitating</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy'>LALISA</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW'>Dynamite</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk'>Way Back Home (feat. Conor Maynard) - Sam Feldt Edit</a>
       </td>
     </tr>
   </table>
