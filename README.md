@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d' alt='Euphoria' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='34+35' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='LALISA' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1R0hxCA5R7z5TiaXBZR7Mf'>SOLO</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK'>Euphoria</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy'>LALISA</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
       </td>
     </tr>
   </table>
