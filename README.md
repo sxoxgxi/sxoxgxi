@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Strawberries & Cigarettes-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-i'm so tired...-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273135a78be90223c126a4e2c36' alt='lowkey' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732d602ab2d4acff0c2cf57683' alt='Don't Know What To Do' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a7e481899b7e0396f93d10b8' alt='Permission to Dance' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ'>Strawberries & Cigarettes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4ghGrdxwqLA6ZoCiu0u4IR'>Don't Know What To Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry'>Permission to Dance</a>
       </td>
     </tr>
   </table>
