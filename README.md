@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Celebrity-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Blank Space-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff' alt='Celebrity' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1' alt='Savage Love (Laxed – Siren Beat) [BTS Remix]' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738046020d2ba421ea91423419' alt='Funny' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730f5c597bba60a1e0c5364baa' alt='Stay With Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os'>Celebrity</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL'>Savage Love (Laxed – Siren Beat) [BTS Remix]</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc'>Angel Baby</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K'>Stay With Me</a>
       </td>
     </tr>
   </table>
