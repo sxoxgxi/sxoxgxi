@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4c8c8b6a8f52a5946897da3' alt='Ross And Rachel' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92' alt='Forever Young' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273156d79bdb60fc5f7af75590b' alt='Slow Grenade' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737ff1c1d0d05e123f895635fe' alt='DUMB DUMB' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4vCiNW18AyeaUAZosVnX61'>Ross And Rachel</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0QJqwbSleB55yUd8RnBCE5'>Slow Grenade</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6HAbPNraOVHwShFFtRVTik'>DUMB DUMB</a>
       </td>
     </tr>
   </table>
