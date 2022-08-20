@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The greatest miracle is to be alive. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
+<h4 align='center'>The dreamers are the saviors of the worlds. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
