@@ -142,38 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5'>love + everything else</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE'>John K</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273201c580b75d253dbcdaab94f' alt='僕が死のうと思ったのは' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2NOIV90vZjJEzbKiJyGZiS'>僕が死のうと思ったのは</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3GGqCGjrUlzy4APUnK5tXs'>DEARS</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F'>Mika Nakashima</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:10%'>
       </td>
       <td>
@@ -188,18 +156,50 @@
     </tr>
     <tr align='center'>
       <td>
+      3
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379bd6e8222975ccfa35f2321' alt='Ghosts' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/17DTV3UEaE6T8yWgygOUlW'>Ghosts</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6dqQPsBNU5vQQgLwzfqYTE'>Ghosts</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE'>Gatton</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
       5
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
+      <a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
+      <a href='https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5'>love + everything else</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
+      <a href='https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE'>John K</a>
       </td>
     </tr>
   </table>
