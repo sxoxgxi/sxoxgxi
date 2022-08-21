@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Blinding Lights-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Attention-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Blinding Lights' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Perfect Strangers' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa' alt='Love Me Harder' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b'>Blinding Lights</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o'>Perfect Strangers</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj'>We Don't Talk Anymore (feat. Selena Gomez)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt'>Party Monster</a>
       </td>
     </tr>
   </table>
