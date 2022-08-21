@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Love Me Harder-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Perfect Strangers-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa' alt='Love Me Harder' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Fantasy' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730cafd72d01fdb1dc3b00a239' alt='Make It (feat. The Weeknd) [DJAmg Remixer]' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b993cba8ff7d0a8e9ee18d46' alt='Stay' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn'>Love Me Harder</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK'>Fantasy</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6q4EtrwC14rUa98NhI0vKx'>Make It (feat. The Weeknd) [DJAmg Remixer]</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0'>Stay</a>
       </td>
     </tr>
   </table>
