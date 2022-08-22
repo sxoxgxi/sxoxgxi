@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Gasoline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Pretty Girl-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Gasoline' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4' alt='Without Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27361727acb2055493e4a9ec324' alt='Believers' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c59ca0ffeef8d8a1790a936a' alt='I Miss Myself (with HRVY)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC'>Gasoline</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk'>Without Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/27mxreQeh8gGd4E0kup0ry'>Believers</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l'>I Miss Myself (with HRVY)</a>
       </td>
     </tr>
   </table>
