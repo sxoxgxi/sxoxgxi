@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb7d31fb0829be9751c55ce4' alt='Congratulations' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273358f874d5d31e76a8fe3f6d0' alt='Beautiful People (feat. Khalid)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374' alt='Scared to Be Lonely' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='Company' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6WaogiItGdUTm490XN4QKJ'>Congratulations</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH'>Scared to Be Lonely</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO'>Company</a>
       </td>
     </tr>
   </table>
