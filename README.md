@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Is There Someone Else?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='What Lovers Do (feat. SZA)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5' alt='Everyday' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Save Your Tears' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh'>Is There Someone Else?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1cPWughgzWBJa3PPVPjrmO'>What Lovers Do (feat. SZA)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc'>Mercy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g'>Save Your Tears</a>
       </td>
     </tr>
   </table>
