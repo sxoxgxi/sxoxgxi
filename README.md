@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Animals-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Smile (with The Weeknd)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c' alt='Animals' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374' alt='Scared to Be Lonely' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='Company' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='What Lovers Do (feat. SZA)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5' alt='Everyday' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x'>Animals</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH'>Scared to Be Lonely</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1cPWughgzWBJa3PPVPjrmO'>What Lovers Do (feat. SZA)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/30TmLgK0ja5O8q9l4BShIX'>Everyday</a>
       </td>
     </tr>
   </table>
