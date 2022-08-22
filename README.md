@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Falling-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Without Me-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a347571f225888becb791aee' alt='Oceans & Engines' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27361727acb2055493e4a9ec324' alt='Believers' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='rapid lady ハレーション' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Reputation' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD'>Falling</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi'>Oceans & Engines</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4bJoYXbL2tf8LkdOWBF1Uh'>rapid lady ハレーション</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2'>Reputation</a>
       </td>
     </tr>
   </table>
