@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-You should be sad-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Brace It (feat. Ed Sheeran)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='You should be sad' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb7d31fb0829be9751c55ce4' alt='Congratulations' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c' alt='Animals' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374' alt='Scared to Be Lonely' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK'>You should be sad</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x'>Animals</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH'>Scared to Be Lonely</a>
       </td>
     </tr>
   </table>
