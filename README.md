@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-La La Lost You - Acoustic Version-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-I Quit Drinking-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27347669a9be7d201ea97bbd3ee' alt='La La Lost You - Acoustic Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d766fd9e96ce4be7776759a4' alt='I Don't Know Why' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a9ce58085d561eb5af353252' alt='Questions' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN'>La La Lost You - Acoustic Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV'>I Don't Know Why</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3zuLmMxDrpk5J6dEh828CB'>How Could You?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA'>Questions</a>
       </td>
     </tr>
   </table>
