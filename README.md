@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d766fd9e96ce4be7776759a4' alt='I Don't Know Why' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27396457fde794268ab0702f52d' alt='Losing You - Acoustic' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a9ce58085d561eb5af353252' alt='Questions' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e' alt='The Motto' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV'>I Don't Know Why</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez'>You Right</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA'>Questions</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO'>The Motto</a>
       </td>
     </tr>
   </table>
