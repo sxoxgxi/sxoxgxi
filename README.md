@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Train Wreck-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-炎-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Train Wreck' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27347669a9be7d201ea97bbd3ee' alt='La La Lost You - Acoustic Version' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27396457fde794268ab0702f52d' alt='Losing You - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H'>Train Wreck</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM'>I Quit Drinking</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez'>You Right</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4vWP8RQHBDJxpLcLAdK5lU'>Losing You - Acoustic</a>
       </td>
     </tr>
   </table>
