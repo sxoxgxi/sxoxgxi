@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Glimpse of Us (Her Perspective)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Paused-Noche de Novela (feat. Ed Sheeran)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27369937cf201d756253baf8527' alt='Glimpse of Us (Her Perspective)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273286ccb6bbe40a71e3872127d' alt='What's With The Roses' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734fa2524ad6e11753b93766ed' alt='29' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ca0675ae61ab52007f17202' alt='I Wish My Mind Would Shut Up' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738c47a33a55c6d23cc9d2cf3f' alt='Bad Decisions (with BTS & Snoop Dogg)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4dBEjEcM90vRGuUOOTJxWU'>Glimpse of Us (Her Perspective)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/55h1aacXiM4YAUcNi8cfh1'>What's With The Roses</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3GFdTFRjLYEfSa6jCHK6bT'>I Wish My Mind Would Shut Up</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn'>Bad Decisions (with BTS & Snoop Dogg)</a>
       </td>
     </tr>
   </table>
