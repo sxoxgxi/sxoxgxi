@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-One Light (feat. BLEU) - Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Numb - Alok Remix-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273181c3ba2ff765ccc2596899c' alt='One Light (feat. BLEU) - Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27381bb72ecc13bc59a92e547b0' alt='No Ties' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ca095c143f007c2aded3c128' alt='Easy Lover - Four Tet Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dccdc497950fd1b4168f2df' alt='I'm Not Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273770eeb0ee1c91983b1ba4a10' alt='Keeping Tabs' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6zpVhpKYOzgM94384A6Utd'>One Light (feat. BLEU) - Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3c55CwwJyauL7tUHMoVyn7'>No Ties</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1FfczxFNfvUSwEz5lHswm0'>I'm Not Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg'>Keeping Tabs</a>
       </td>
     </tr>
   </table>
