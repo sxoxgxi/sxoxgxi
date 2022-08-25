@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Best Friends - Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bad Decisions (with BTS & Snoop Dogg)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c1ecd80ec5f25b556052431' alt='Best Friends - Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273842c1f486120353916962d58' alt='don't sleep, repeat (feat. Machine Gun Kelly)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737f1c453f407286ddfeb3419f' alt='Numb - Alok Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27381bb72ecc13bc59a92e547b0' alt='No Ties' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ca095c143f007c2aded3c128' alt='Easy Lover - Four Tet Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i'>Best Friends - Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D'>don't sleep, repeat (feat. Machine Gun Kelly)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3c55CwwJyauL7tUHMoVyn7'>No Ties</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI'>Easy Lover - Four Tet Remix</a>
       </td>
     </tr>
   </table>
