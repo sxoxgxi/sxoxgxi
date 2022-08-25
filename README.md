@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-All My Loving - Toby Romeo Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-29-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ca7c0402d1ffcecd2a70834e' alt='All My Loving - Toby Romeo Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ca0675ae61ab52007f17202' alt='I Wish My Mind Would Shut Up' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738c47a33a55c6d23cc9d2cf3f' alt='Bad Decisions (with BTS & Snoop Dogg)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273842c1f486120353916962d58' alt='don't sleep, repeat (feat. Machine Gun Kelly)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737f1c453f407286ddfeb3419f' alt='Numb - Alok Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3QlexqwGDwgIT1DaXMUSzP'>All My Loving - Toby Romeo Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3GFdTFRjLYEfSa6jCHK6bT'>I Wish My Mind Would Shut Up</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D'>don't sleep, repeat (feat. Machine Gun Kelly)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag'>Numb - Alok Remix</a>
       </td>
     </tr>
   </table>
