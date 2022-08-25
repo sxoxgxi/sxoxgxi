@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Sunday Crossword-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-The Look (feat. Kehlani)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27390b8275a703f0a5ebc7cd624' alt='Sunday Crossword' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739eb119195d365d71bfb814a4' alt='Why Don't You Stay (WorldTour Ver.)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a1b86b1a3e2bc987c64320d0' alt='Don't Hurt Me (What Is Love)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ab68ecfc19f94346df433295' alt='What A Convincing Illusion' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310e37dd91e7dcc6580012c0b' alt='Don't Let The Light Go Out' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU'>Sunday Crossword</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf'>Why Don't You Stay (WorldTour Ver.)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV'>What A Convincing Illusion</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao'>Don't Let The Light Go Out</a>
       </td>
     </tr>
   </table>
