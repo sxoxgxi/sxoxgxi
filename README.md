@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Easy Lover - Four Tet Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-No Ties-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ca095c143f007c2aded3c128' alt='Easy Lover - Four Tet Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27375a2c90eca545e6b0557897c' alt='Rap God - Mr. Cii Remix' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dccdc497950fd1b4168f2df' alt='I'm Not Me' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320bdfdd161bffda958e35523' alt='The Look (feat. Kehlani)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27390b8275a703f0a5ebc7cd624' alt='Sunday Crossword' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI'>Easy Lover - Four Tet Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1p8tL0q77EnKkSFssFsXNu'>Rap God - Mr. Cii Remix</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh'>The Look (feat. Kehlani)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU'>Sunday Crossword</a>
       </td>
     </tr>
   </table>
