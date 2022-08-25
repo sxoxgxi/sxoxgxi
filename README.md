@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Don't Hurt Me (What Is Love)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Why Don't You Stay (WorldTour Ver.)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a1b86b1a3e2bc987c64320d0' alt='Don't Hurt Me (What Is Love)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731f0294c93e08866f689d8c7b' alt='fun out of it' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ab68ecfc19f94346df433295' alt='What A Convincing Illusion' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f6fc60d7885fa77b129806ed' alt='Heaven' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731abfc09fba2499dae081d1af' alt='Infinity' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6Lytqcs0fMmCO8JNewrnbj'>Don't Hurt Me (What Is Love)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK'>fun out of it</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP'>Heaven</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ys67ApLdX56j21to2JRIV'>Infinity</a>
       </td>
     </tr>
   </table>
