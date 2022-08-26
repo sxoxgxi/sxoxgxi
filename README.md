@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737aa5933e6a7138c955fb41cd' alt='Walked Through Hell' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Boy In The Bubble' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e7ea9d9c7f3a9fcb28ecbd0' alt='好きだ' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737012e81c7a5f1fd063a02392' alt='Avalanche' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI'>Walked Through Hell</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/60cYr5uuMoxvyuIx45rGEW'>Boy In The Bubble</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL'>Avalanche</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
       </td>
     </tr>
   </table>
