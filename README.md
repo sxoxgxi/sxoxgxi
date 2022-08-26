@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-This City-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-if we never met-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b' alt='This City' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='i'm so tired...' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4' alt='Havana (feat. Young Thug)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27369937cf201d756253baf8527' alt='Glimpse of Us (Her Perspective)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273286ccb6bbe40a71e3872127d' alt='What's With The Roses' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt'>This City</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw'>i'm so tired...</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4dBEjEcM90vRGuUOOTJxWU'>Glimpse of Us (Her Perspective)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/55h1aacXiM4YAUcNi8cfh1'>What's With The Roses</a>
       </td>
     </tr>
   </table>
