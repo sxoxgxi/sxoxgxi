@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never let the things you can't do stop you from doing what you can. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
+<h4 align='center'>Everyone wants to go to Heaven, but no one wants to die. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
