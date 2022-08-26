@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Lose You To Love Me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Devil Doesn’t Bargain - Acoustic-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Patient' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273563944da62812cc5c6e2fe6f' alt='drunk' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9'>drunk</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
       </td>
     </tr>
   </table>
