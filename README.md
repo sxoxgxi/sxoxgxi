@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Everyone wants to go to Heaven, but no one wants to die. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
+<h4 align='center'>Where violence reigns, reason is weak. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
