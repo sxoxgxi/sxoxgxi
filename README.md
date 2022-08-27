@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Palladium-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Mind Is A Prison-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334a1340d3d22e5dfb041ae69' alt='Palladium' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c1872d02df5bf96ffb8ef81c' alt='Let Somebody Go - Ofenbach Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3'>Palladium</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx'>Let Somebody Go - Ofenbach Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
       </td>
     </tr>
   </table>
