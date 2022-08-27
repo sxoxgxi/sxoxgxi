@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Strawberries & Cigarettes-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sofia-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d04f9f90f0bb0788357f4c6' alt='Maybe You’re The Problem' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c1872d02df5bf96ffb8ef81c' alt='Let Somebody Go - Ofenbach Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ'>Strawberries & Cigarettes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA'>Maybe You’re The Problem</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0s26En1JoJhVj32vizElpA'>Feelings</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/74Wuce0fRD4RyGAhwAQieR'>on your sleeve</a>
       </td>
     </tr>
   </table>
