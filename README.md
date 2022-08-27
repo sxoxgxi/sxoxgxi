@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Boy In The Bubble-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Without Me (with Juice WRLD)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Boy In The Bubble' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d885f8dac6c3d3ff459702ff' alt='Fatal Distraction' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731301e3fc608b91a0a23ef06b' alt='魔法' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b' alt='hate u love u' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce' alt='Leave Before You Love Me (with Jonas Brothers)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/60cYr5uuMoxvyuIx45rGEW'>Boy In The Bubble</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6OgrhVp2c2o9PNLJZ8qdzU'>Fatal Distraction</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt'>hate u love u</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1'>Leave Before You Love Me (with Jonas Brothers)</a>
       </td>
     </tr>
   </table>
