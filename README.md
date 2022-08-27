@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Perfect Strangers-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Give Me Your Forever-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Perfect Strangers' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='dawn' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f798d46201c266747be5db2e' alt='Glimpse of Us' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310c7ffb39d047bb532ba4dac' alt='It's Ok If You Forget Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d04f9f90f0bb0788357f4c6' alt='Maybe You’re The Problem' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o'>Perfect Strangers</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3bsORY9UfPVd4yWyuS2Xoc'>dawn</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4YwIOEhqg57IX2QasbetBi'>It's Ok If You Forget Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA'>Maybe You’re The Problem</a>
       </td>
     </tr>
   </table>
