@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-KISS OF DEATH(Produced by HYDE)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Coco-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a0e912d0c3c3ca34dfeddde' alt='KISS OF DEATH(Produced by HYDE)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97' alt='Your eyes tell' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738b5c6d6bb24f7e5bb43b8b44' alt='Cold Heart - PNAU Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW'>KISS OF DEATH(Produced by HYDE)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3TZ7NHkMT82AhwuYsd00Hz'>Your eyes tell</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0p6iibqF4hb6e7nm9rF1MR'>Somebody's Nobody</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3zuLmMxDrpk5J6dEh828CB'>How Could You?</a>
       </td>
     </tr>
   </table>
