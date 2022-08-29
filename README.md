@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Maniac-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Lemon Tree-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Maniac' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='Night Changes' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737f5cbbb4cf8896456a25d02a' alt='Small Talk' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Canada (feat. Alessia Cara)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='ブルーバード' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5luB0CY6Gsobgob9BHWlNg'>Maniac</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ'>Night Changes</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Rf3dWdNQs5LTqFOiavqQr'>Canada (feat. Alessia Cara)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18'>ブルーバード</a>
       </td>
     </tr>
   </table>
