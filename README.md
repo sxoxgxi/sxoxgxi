@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-i'm so tired...-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sucker-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='i'm so tired...' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273358f874d5d31e76a8fe3f6d0' alt='Beautiful People (feat. Khalid)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b46f74097655d7f353caab14' alt='As It Was' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736f48761e92fe02f2a85cc296' alt='Come Over (feat. Anne-Marie) - Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw'>i'm so tired...</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97'>Beautiful People (feat. Khalid)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/40F7w1M0B4KODoiCsbZy8W'>Come Over (feat. Anne-Marie) - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7EyhPjrJzjx0fk2i7vUJCS'>Pink Venom</a>
       </td>
     </tr>
   </table>
