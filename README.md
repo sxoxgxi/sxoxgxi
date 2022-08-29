@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Kaikai Kitan-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-As It Was-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Kaikai Kitan' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736f48761e92fe02f2a85cc296' alt='Come Over (feat. Anne-Marie) - Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379bd6e8222975ccfa35f2321' alt='Ghosts' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e0dc47dd1584c66ad4492094' alt='炎' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos'>Kaikai Kitan</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/40F7w1M0B4KODoiCsbZy8W'>Come Over (feat. Anne-Marie) - Acoustic</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/17DTV3UEaE6T8yWgygOUlW'>Ghosts</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn'>炎</a>
       </td>
     </tr>
   </table>
