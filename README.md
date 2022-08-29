@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Miss America-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-炎-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ebbffec20f4d194f8dad89fb' alt='Miss America' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d' alt='Because Of You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cce6bab1f59b165133175d88' alt='Chained To The Rhythm' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Maniac' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='Night Changes' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5MuTVJ2ShxMA96buyVCEpP'>Miss America</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci'>Because Of You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5luB0CY6Gsobgob9BHWlNg'>Maniac</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ'>Night Changes</a>
       </td>
     </tr>
   </table>
