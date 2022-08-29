@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Canada (feat. Alessia Cara)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Everyday-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Canada (feat. Alessia Cara)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='ブルーバード' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736ea8608f19d2bf0b5198f2cc' alt='Traffic Light' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6Rf3dWdNQs5LTqFOiavqQr'>Canada (feat. Alessia Cara)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18'>ブルーバード</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz'>Cold Heart - PNAU Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0vFlzyabdl9mi1NKUcQDC2'>Traffic Light</a>
       </td>
     </tr>
   </table>
