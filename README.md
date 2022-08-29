@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great things happen to those who don't stop believing, trying, learning, and being grateful. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>While we may not be able to control all that happens to us, we can control what happens inside us. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
