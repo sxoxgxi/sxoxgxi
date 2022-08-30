@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>While we may not be able to control all that happens to us, we can control what happens inside us. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>We must not sit down and wait for miracles. Up and be going! - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
