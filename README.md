@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We must not sit down and wait for miracles. Up and be going! - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
+<h4 align='center'>Your neighbor is the man who needs you. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
