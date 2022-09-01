@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='fuck, i'm lonely (with Anne-Marie)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Never Let You Go' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767' alt='Will He' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/09PGubKAMryhOWv1LHpCYz'>fuck, i'm lonely (with Anne-Marie)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN'>Will He</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR'>again</a>
       </td>
     </tr>
   </table>
