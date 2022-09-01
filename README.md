@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Happier-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Photograph-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304bfd5a5fd5aa6ca648f66aa' alt='Happier' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='fuck, i'm lonely (with Anne-Marie)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685' alt='Lonely (with benny blanco)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767' alt='Will He' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99'>Happier</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q'>Lonely (with benny blanco)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN'>Will He</a>
       </td>
     </tr>
   </table>
