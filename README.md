@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mind Is A Prison-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-YUKON (INTERLUDE)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27378e22281eb37208f3da68ba8' alt='Silence' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27378e22281eb37208f3da68ba8' alt='Silence' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='fuck, i'm lonely (with Anne-Marie)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6l0SEG60EHOxny0ZA4lxmO'>Silence</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/09PGubKAMryhOWv1LHpCYz'>fuck, i'm lonely (with Anne-Marie)</a>
       </td>
     </tr>
   </table>
