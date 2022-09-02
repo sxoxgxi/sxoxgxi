@@ -70,9 +70,9 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebdcd1820cd9a0eaefc5d0646f' alt='LiSA' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb335e53b32dfd6e33fef91466' alt='Bazzi' style='width:50%'>
       </td>
@@ -85,10 +85,10 @@
       <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
@@ -158,22 +158,6 @@
       <td>
       3
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0CQPSBCo1cLsEEJPfmsPmy'>Rare</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'>Selena Gomez</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Don’t Break My Heart' style='width:10%'>
       </td>
       <td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d04f9f90f0bb0788357f4c6' alt='Maybe You’re The Problem' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA'>Maybe You’re The Problem</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg'>Maybe You’re The Problem</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F'>Ava Max</a>
       </td>
     </tr>
   </table>
