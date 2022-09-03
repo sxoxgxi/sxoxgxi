@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Say You Won't Let Go-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-dawn-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273786e4e2c43c2897fafabbfb6' alt='In The Stars' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c34dffa3ee633fa3915c6806' alt='Out of Time - KAYTRANADA Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736ee9a4159b6bd21729e1c460' alt='YUKON (INTERLUDE)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh'>Say You Won't Let Go</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn'>In The Stars</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7c0BPVgoC38LMsUQnu9ZI9'>YUKON (INTERLUDE)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
       </td>
     </tr>
   </table>
