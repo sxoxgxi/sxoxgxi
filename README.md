@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273931bed0e52b517e08c91abfb' alt='Pasta' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Overpass Graffiti' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733edd56946cb788a4d7457a08' alt='Over' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Are you happy?' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6UyqJJUwOrtop3YB8eruGR'>Pasta</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3'>Overpass Graffiti</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM'>Over</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO'>Are you happy?</a>
       </td>
     </tr>
   </table>
