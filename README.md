@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP'>These Two Windows</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Don’t Break My Heart' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d04f9f90f0bb0788357f4c6' alt='Maybe You’re The Problem' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F'>Ava Max</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP'>These Two Windows</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
     </tr>
   </table>
