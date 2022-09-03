@@ -70,9 +70,9 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebdcd1820cd9a0eaefc5d0646f' alt='LiSA' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72c4ca30476ce87954961a10' alt='Alec Benjamin' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb335e53b32dfd6e33fef91466' alt='Bazzi' style='width:50%'>
       </td>
@@ -85,10 +85,10 @@
       <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
+      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
@@ -126,22 +126,6 @@
       <td>
       1
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO'>LEO-NiNE</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:10%'>
       </td>
       <td>
@@ -152,6 +136,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'>BLACKPINK</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      2
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO'>LEO-NiNE</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
     </tr>
     <tr align='center'>
@@ -174,22 +174,6 @@
       <td>
       4
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC'>Dawn FM</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d04f9f90f0bb0788357f4c6' alt='Maybe You’re The Problem' style='width:10%'>
       </td>
       <td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F'>Ava Max</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP'>These Two Windows</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
     </tr>
   </table>
