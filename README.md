@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Like 1999-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Let Me-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e661c05b66f93ae82583cafa' alt='Like 1999' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='What Lovers Do (feat. SZA)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='dawn' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273786e4e2c43c2897fafabbfb6' alt='In The Stars' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c34dffa3ee633fa3915c6806' alt='Out of Time - KAYTRANADA Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC'>Like 1999</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1cPWughgzWBJa3PPVPjrmO'>What Lovers Do (feat. SZA)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn'>In The Stars</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA'>Out of Time - KAYTRANADA Remix</a>
       </td>
     </tr>
   </table>
