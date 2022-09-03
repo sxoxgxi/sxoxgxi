@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-143-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Car's Outside - Acoustic-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730440962b3a068e2ddea8b5d5' alt='143' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735d847661ee74db6591c4a30b' alt='10,000 Hours (with Justin Bieber)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273737c1bef4d45db62ac6dd2f1' alt='One Life' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a20b0fea45e5ab96a19f6b4f' alt='明け星' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='Kings & Queens' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5nVbsouGztZpdwDJPcHGSH'>143</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4j5ffIFh7bFT7GZciP1TCy'>10,000 Hours (with Justin Bieber)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc'>明け星</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI'>Kings & Queens</a>
       </td>
     </tr>
   </table>
