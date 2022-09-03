@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a20b0fea45e5ab96a19f6b4f' alt='明け星' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='Kings & Queens' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b' alt='This City' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Overpass Graffiti' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc'>明け星</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI'>Kings & Queens</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3'>Overpass Graffiti</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7EyhPjrJzjx0fk2i7vUJCS'>Pink Venom</a>
       </td>
     </tr>
   </table>
