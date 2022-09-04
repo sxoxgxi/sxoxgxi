@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Love Me Harder-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Glimpse of Us-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa' alt='Love Me Harder' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a' alt='Nothing Without You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825' alt='光るなら' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730440962b3a068e2ddea8b5d5' alt='143' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735d847661ee74db6591c4a30b' alt='10,000 Hours (with Justin Bieber)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn'>Love Me Harder</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3Te3gG6MPEDNqLGzWrjKC3'>Nothing Without You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5nVbsouGztZpdwDJPcHGSH'>143</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4j5ffIFh7bFT7GZciP1TCy'>10,000 Hours (with Justin Bieber)</a>
       </td>
     </tr>
   </table>
