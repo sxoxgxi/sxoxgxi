@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273559a672bc6ebc4409bc9a5e8' alt='Be Okay (with HRVY)' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='dawn' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW'>Be Okay (with HRVY)</a>
+      <a href='https://open.spotify.com/track/3bsORY9UfPVd4yWyuS2Xoc'>dawn</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v'>Be Okay (with HRVY)</a>
+      <a href='https://open.spotify.com/album/7xpBKnq7W4Xiq4W8A0K9Bh'>dawn</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
     </tr>
   </table>
