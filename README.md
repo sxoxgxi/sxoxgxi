@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Better a diamond with a flaw than a pebble without one. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Never buy a thing you do not want, because it is cheap, it will be dear to you. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
