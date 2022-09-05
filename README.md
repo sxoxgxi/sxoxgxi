@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Heather-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Love Back-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Heather' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='rapid lady ハレーション' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5' alt='怪物' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a2bb57af533aa1ba28bb97a3' alt='Slow Motion' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t'>Heather</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4bJoYXbL2tf8LkdOWBF1Uh'>rapid lady ハレーション</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/30I7kdtPa1Nmun5I5bns7Q'>Slow Motion</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
       </td>
     </tr>
   </table>
