@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never buy a thing you do not want, because it is cheap, it will be dear to you. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>Courage is knowing what not to fear. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
