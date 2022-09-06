@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Complicated-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Big Plans-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273041398c37513dc22753ac3dc' alt='Complicated' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734cdb2dc7cf706a59917be565' alt='ORION' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730a46946aa83f0173db152092' alt='Young & Alive' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='Company' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Watermelon Sugar' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf'>Complicated</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5qRiFTBYluZppQaxp5bGmK'>ORION</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO'>Company</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY'>Watermelon Sugar</a>
       </td>
     </tr>
   </table>
