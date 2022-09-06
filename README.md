@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Pretty Girl-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Slow-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14' alt='Pretty Girl' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d6f6aa28e14c68d91c5854f5' alt='シフクノトキ' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27317514a5aaf5980c96dadc107' alt='Crazy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c0bbb409b68384932d205422' alt='All My Loving - Madism Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l'>Pretty Girl</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs'>シオン</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4L5FErBP8i7KLukuSBsAYd'>Crazy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf'>All My Loving - Madism Remix</a>
       </td>
     </tr>
   </table>
