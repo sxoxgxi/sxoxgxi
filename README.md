@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Courage is knowing what not to fear. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
+<h4 align='center'>I love fools' experiments. I am always making them. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
