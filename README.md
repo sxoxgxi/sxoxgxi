@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Watermelon Sugar-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Company-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Watermelon Sugar' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Watermelon Sugar' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081' alt='Hey There Delilah' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b6cd014d6c38a275f874b5ce' alt='Love Back' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Heather' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY'>Watermelon Sugar</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY'>Watermelon Sugar</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI'>Love Back</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t'>Heather</a>
       </td>
     </tr>
   </table>
