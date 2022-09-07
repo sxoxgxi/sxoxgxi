@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I love fools' experiments. I am always making them. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
+<h4 align='center'>Fear not the path of Truth for the lack of People walking on it. - <a href='https://duckduckgo.com/?q=Robert+F.+Kennedy' target='_blank'>Robert F. Kennedy</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
