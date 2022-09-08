@@ -27,32 +27,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737012e81c7a5f1fd063a02392' alt='Avalanche' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c1872d02df5bf96ffb8ef81c' alt='Let Somebody Go - Ofenbach Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e' alt='The Motto' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14' alt='Pretty Girl' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='pov' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c1dd95aa29782af7e152d0eb' alt='September' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL'>Avalanche</a>
+      <a href='https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx'>Let Somebody Go - Ofenbach Remix</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM'>I Quit Drinking</a>
+      <a href='https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO'>The Motto</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
+      <a href='https://open.spotify.com/track/0s26En1JoJhVj32vizElpA'>Feelings</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l'>Pretty Girl</a>
+      <a href='https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33'>pov</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs'>シオン</a>
+      <a href='https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7'>September</a>
       </td>
     </tr>
   </table>
@@ -68,18 +68,21 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb335e53b32dfd6e33fef91466' alt='Bazzi' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebdcd1820cd9a0eaefc5d0646f' alt='LiSA' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72c4ca30476ce87954961a10' alt='Alec Benjamin' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb335e53b32dfd6e33fef91466' alt='Bazzi' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
@@ -89,9 +92,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
     </tr>
   </table>
@@ -174,32 +174,32 @@
       <td>
       4
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739ee734a46d5a3789d7b867dc' alt='Black Catcher' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix'>Black Catcher</a>
+      <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD'>Devil</a>
+      <a href='https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ'>Saiaku Saiai</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d'>Vickeblanka</a>
+      <a href='https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav'>Higuchi Ai</a>
       </td>
     </tr>
     <tr align='center'>
       <td>
       5
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273559a672bc6ebc4409bc9a5e8' alt='Be Okay (with HRVY)' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW'>Be Okay (with HRVY)</a>
+      <a href='https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz'>再会 (produced by Ayase)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v'>Be Okay (with HRVY)</a>
+      <a href='https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf'>再会 (produced by Ayase)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
     </tr>
   </table>
