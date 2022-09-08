@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Fear not the path of Truth for the lack of People walking on it. - <a href='https://duckduckgo.com/?q=Robert+F.+Kennedy' target='_blank'>Robert F. Kennedy</a>.</h4>
+<h4 align='center'>Death walks faster than the wind and never returns what he has taken. - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
