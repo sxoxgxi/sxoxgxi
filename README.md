@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-The Middle-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Coco-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fbe22d168a743b782a5e856a' alt='The Middle' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27339715e1fc59ec8cc0903fde7' alt='Before' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929' alt='Circles' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc'>The Middle</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt'>Party Monster</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g'>Make You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6vLwsGft7DnZixQVgFlKgU'>Circles</a>
       </td>
     </tr>
   </table>
