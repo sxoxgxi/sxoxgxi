@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is those who concentrate on but one thing at a time who advance in this world. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>Pleasure can be supported by an illusion; but happiness rests upon truth.  - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
