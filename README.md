@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Pleasure can be supported by an illusion; but happiness rests upon truth.  - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
+<h4 align='center'>Death is not an ending. It is a transformation. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
