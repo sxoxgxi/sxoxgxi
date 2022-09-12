@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273135a78be90223c126a4e2c36' alt='lowkey' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi'>lowkey</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw'>lowkey</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh'>NIKI</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag'>Alexander 23</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081' alt='Hey There Delilah' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH'>Hey There Delilah</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY'>All That We Needed</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o'>Plain White T's</a>
       </td>
     </tr>
   </table>
