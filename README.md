@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebdcd1820cd9a0eaefc5d0646f' alt='LiSA' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb335e53b32dfd6e33fef91466' alt='Bazzi' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
     </tr>
   </table>
@@ -158,22 +158,6 @@
       <td>
       3
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d04f9f90f0bb0788357f4c6' alt='Maybe You’re The Problem' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA'>Maybe You’re The Problem</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg'>Maybe You’re The Problem</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F'>Ava Max</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:10%'>
       </td>
       <td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081' alt='Hey There Delilah' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o'>Plain White T's</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ'>Saiaku Saiai</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav'>Higuchi Ai</a>
       </td>
     </tr>
   </table>
