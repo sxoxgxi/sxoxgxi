@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Train Wreck-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-drunk-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Train Wreck' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273375088b9d851e5735dcd1cd2' alt='Omae Wa Mou' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Gasoline' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3' alt='My Oh My (feat. DaBaby)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27317514a5aaf5980c96dadc107' alt='Crazy' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H'>Train Wreck</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa'>Omae Wa Mou</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K'>My Oh My (feat. DaBaby)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4L5FErBP8i7KLukuSBsAYd'>Crazy</a>
       </td>
     </tr>
   </table>
