@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273201c580b75d253dbcdaab94f' alt='僕が死のうと思ったのは' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Woman' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Alone Again' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273931bed0e52b517e08c91abfb' alt='Pasta' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2NOIV90vZjJEzbKiJyGZiS'>僕が死のうと思ったのは</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4'>Woman</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E'>Alone Again</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6UyqJJUwOrtop3YB8eruGR'>Pasta</a>
       </td>
     </tr>
   </table>
