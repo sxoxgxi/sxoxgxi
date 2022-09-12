@@ -74,7 +74,7 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb335e53b32dfd6e33fef91466' alt='Bazzi' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72c4ca30476ce87954961a10' alt='Alec Benjamin' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -91,7 +91,7 @@
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
     </tr>
   </table>
