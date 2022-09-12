@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-pov-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-PHOENIX-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='pov' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d1bc0ae272f8d507108b683e' alt='Hurts So Good' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c7f19f23d8351658de2a89a9' alt='Bleeding Love' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33'>pov</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq'>Cheating on You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7rYGuOLjK3aiNNF21RoCth'>Bleeding Love</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
       </td>
     </tr>
   </table>
