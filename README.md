@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0p6iibqF4hb6e7nm9rF1MR'>Somebody's Nobody</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw'>Aftershock</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag'>Alexander 23</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081' alt='Hey There Delilah' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o'>Plain White T's</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ'>Saiaku Saiai</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav'>Higuchi Ai</a>
       </td>
     </tr>
   </table>
