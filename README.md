@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d885f8dac6c3d3ff459702ff' alt='Fatal Distraction' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737a85715ac742c3bd67bb8b2e' alt='Lost' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273af6b2fca3b6e24612a5fe5d8' alt='Perfect Duet (Ed Sheeran & Beyoncé)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334378507d3131f29899488ff' alt='mr. nice guy' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6OgrhVp2c2o9PNLJZ8qdzU'>Fatal Distraction</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI'>Perfect Duet (Ed Sheeran & Beyoncé)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7hAJdc1P2u9q8G6ucKlZD0'>mr. nice guy</a>
       </td>
     </tr>
   </table>
