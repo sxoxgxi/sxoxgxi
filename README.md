@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-YEAH RIGHT-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-花に亡霊-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='YEAH RIGHT' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737012e81c7a5f1fd063a02392' alt='Avalanche' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273201c580b75d253dbcdaab94f' alt='僕が死のうと思ったのは' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf' alt='All I Want - From "High School Musical: The Musical: The Series"' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14'>YEAH RIGHT</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL'>Avalanche</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz'>Cold Heart - PNAU Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW'>All I Want - From "High School Musical: The Musical: The Series"</a>
       </td>
     </tr>
   </table>
