@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-La La Lost You - Acoustic Version-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Walked Through Hell-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27347669a9be7d201ea97bbd3ee' alt='La La Lost You - Acoustic Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27321367d8a475851a923438320' alt='Mama' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6' alt='Save Your Tears (with Ariana Grande) (Remix)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354de16ac6dc5346bfc1187f5' alt='Post Malone (feat. RANI)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Medicine' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN'>La La Lost You - Acoustic Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p'>Mama</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU'>Post Malone (feat. RANI)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2C4W2HgZRhiruFHmOGa7GB'>Medicine</a>
       </td>
     </tr>
   </table>
