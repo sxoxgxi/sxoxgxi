@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Black Rover-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Cherry Wine-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273874bdb9cecf6f1a1bc0f50ff' alt='Black Rover' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f798d46201c266747be5db2e' alt='Glimpse of Us' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27362d3381a88a63957b563967e' alt='Fallin’ (Adrenaline)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273332c88f9ee7c5942eb54f0b7' alt='Fit In' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP'>Black Rover</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ'>Glimpse of Us</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz'>Fallin’ (Adrenaline)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7r7dFfSp2JjMJSm4L5iqtc'>Fit In</a>
       </td>
     </tr>
   </table>
