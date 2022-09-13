@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Cherry Wine-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Canada (feat. Alessia Cara)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27356de3e4a1c01185ad3225e63' alt='Cherry Wine' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273874bdb9cecf6f1a1bc0f50ff' alt='Black Rover' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f798d46201c266747be5db2e' alt='Glimpse of Us' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='ブルーバード' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27362d3381a88a63957b563967e' alt='Fallin’ (Adrenaline)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU'>Cherry Wine</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP'>Black Rover</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18'>ブルーバード</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz'>Fallin’ (Adrenaline)</a>
       </td>
     </tr>
   </table>
