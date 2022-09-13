@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can only lose something that you have, but you cannot lose something that you are. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>To forgive means pardoning the unpardonable. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
