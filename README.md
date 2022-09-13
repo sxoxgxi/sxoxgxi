@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Spaceman-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Heaven-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,18 +27,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='fuck, i'm lonely (with Anne-Marie)' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f17a48336d1a01731cea9a6d' alt='Spaceman' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Memories' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736a018e10e66dbe7a263a2ab3' alt='I Swear' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273be8d1889afa981ae3d3695f1' alt='Heaven' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b7d90956f81e0cc3f39d0b8' alt='たぶん' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/09PGubKAMryhOWv1LHpCYz'>fuck, i'm lonely (with Anne-Marie)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1Tf0qifzTHdDC9RnTW9Di3'>Spaceman</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP'>Levitating</a>
       </td>
@@ -47,12 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7wHXZdAl7ucbFiuV9vuQp0'>I Swear</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP'>Heaven</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3'>たぶん</a>
       </td>
     </tr>
   </table>
@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0p6iibqF4hb6e7nm9rF1MR'>Somebody's Nobody</a>
+      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw'>Aftershock</a>
+      <a href='https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr'>Manic</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag'>Alexander 23</a>
+      <a href='https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'>Halsey</a>
       </td>
     </tr>
   </table>
