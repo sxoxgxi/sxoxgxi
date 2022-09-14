@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To forgive means pardoning the unpardonable. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
+<h4 align='center'>Success is going from failure to failure without losing your enthusiasm - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
