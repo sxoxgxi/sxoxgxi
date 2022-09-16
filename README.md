@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's just a bad day, not a bad life. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>People should pursue what they're passionate about. That will make them happier than pretty much anything else. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
