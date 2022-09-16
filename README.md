@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-unlasting-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-City Lights-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273af6b2fca3b6e24612a5fe5d8' alt='Perfect Duet (Ed Sheeran & Beyoncé)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27329a582922631710b2cf10d64' alt='Love Is Gone' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42' alt='my ex's best friend (with blackbear)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8'>Love Is Gone</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl'>my ex's best friend (with blackbear)</a>
       </td>
     </tr>
   </table>
