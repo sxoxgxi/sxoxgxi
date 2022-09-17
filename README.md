@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Off My Face' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Kaikai Kitan' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735755e164993798e0c9ef7d7a' alt='Never Gonna Give You Up' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27397f49d5e045af1ef14d8013d' alt='City Lights' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U'>Off My Face</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT'>Never Gonna Give You Up</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/19uGdsVyfOLTQ2qBARMXNg'>City Lights</a>
       </td>
     </tr>
   </table>
