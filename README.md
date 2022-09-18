@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333c3c35e46c08ca30d6411bb' alt='I'm Not Sorry' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f' alt='Hide (feat. Seezyn)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273375088b9d851e5735dcd1cd2' alt='Omae Wa Mou' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4rGyk7HrRoG8NTP5l5ZM5J'>I'm Not Sorry</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp'>Falling</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w'>Hide (feat. Seezyn)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa'>Omae Wa Mou</a>
       </td>
     </tr>
   </table>
