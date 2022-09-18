@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273617b661263721a4a86cb139c' alt='Golden Age' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b54291f7289c20ce2af1b678' alt='Our First Song' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730995575e512dba5834593839' alt='Lifestyle (feat. Adam Levine)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3FfbHT7O32OGWUAqctJ2nt'>Golden Age</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ'>Lifestyle (feat. Adam Levine)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
       </td>
     </tr>
   </table>
