@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f' alt='Hide (feat. Seezyn)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273375088b9d851e5735dcd1cd2' alt='Omae Wa Mou' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='i'm so tired...' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Peaches (feat. Daniel Caesar & Giveon)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq'>Cheating on You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w'>Hide (feat. Seezyn)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw'>i'm so tired...</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI'>Peaches (feat. Daniel Caesar & Giveon)</a>
       </td>
     </tr>
   </table>
