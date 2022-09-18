@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>First learn the meaning of what you say, and then speak. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.  - <a href='https://duckduckgo.com/?q=St.+Jerome' target='_blank'>St. Jerome</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
