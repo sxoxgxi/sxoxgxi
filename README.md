@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Ain't Your Mama-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-A Thousand Years-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,18 +27,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42' alt='my ex's best friend (with blackbear)' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b1ab92b8e26ab1cb783ffe15' alt='Ain't Your Mama' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Maniac' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e522973d50fcbd751850b3cf' alt='Nights With You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020' alt='Dawn FM - OPN Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl'>my ex's best friend (with blackbear)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72'>Ain't Your Mama</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
       </td>
@@ -47,12 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/48Vq4u3bM2BRrEgH4diZXj'>Nights With You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0'>Dawn FM - OPN Remix</a>
       </td>
     </tr>
   </table>
