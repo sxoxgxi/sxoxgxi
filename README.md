@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-A Little Bit Yours-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-In Your Eyes-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8f586f730554a31ff8c42b4' alt='A Little Bit Yours' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731f0294c93e08866f689d8c7b' alt='fun out of it' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5' alt='Dynamite' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42' alt='my ex's best friend (with blackbear)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE'>A Little Bit Yours</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK'>fun out of it</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl'>my ex's best friend (with blackbear)</a>
       </td>
     </tr>
   </table>
