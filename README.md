@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-A Thousand Years-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Late Night Talking-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42' alt='my ex's best friend (with blackbear)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b1ab92b8e26ab1cb783ffe15' alt='Ain't Your Mama' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Maniac' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e522973d50fcbd751850b3cf' alt='Nights With You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl'>my ex's best friend (with blackbear)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5luB0CY6Gsobgob9BHWlNg'>Maniac</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/48Vq4u3bM2BRrEgH4diZXj'>Nights With You</a>
       </td>
     </tr>
   </table>
