@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Another Life (feat. FLETCHER & Josh Golden)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Be Okay (with HRVY)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732c227ea037c950d3dc6bdb7f' alt='Another Life (feat. FLETCHER & Josh Golden)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Adore You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b' alt='This City' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86' alt='ily (i love you baby) (feat. Emilee)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq'>Another Life (feat. FLETCHER & Josh Golden)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7'>Adore You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS'>ily (i love you baby) (feat. Emilee)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
       </td>
     </tr>
   </table>
