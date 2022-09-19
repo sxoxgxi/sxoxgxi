@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Blinding Lights-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-This City-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Blinding Lights' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86' alt='ily (i love you baby) (feat. Emilee)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='熱情のスペクトラム' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6' alt='Save Your Tears (with Ariana Grande) (Remix)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b'>Blinding Lights</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS'>ily (i love you baby) (feat. Emilee)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7'>熱情のスペクトラム</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy'>Save Your Tears (with Ariana Grande) (Remix)</a>
       </td>
     </tr>
   </table>
