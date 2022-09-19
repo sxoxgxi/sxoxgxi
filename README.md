@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0p6iibqF4hb6e7nm9rF1MR'>Somebody's Nobody</a>
+      <a href='https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq'>Cheating on You</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw'>Aftershock</a>
+      <a href='https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L'>Cheating on You</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag'>Alexander 23</a>
+      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
       </td>
     </tr>
   </table>
