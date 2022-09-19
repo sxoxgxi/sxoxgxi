@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Bruises - Steve Void Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Mine-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733327143dd0629e27a9f44c93' alt='Bruises - Steve Void Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8f586f730554a31ff8c42b4' alt='A Little Bit Yours' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5' alt='Dynamite' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0' alt='Late Night Talking' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG'>Bruises - Steve Void Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl'>In Your Eyes</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW'>Dynamite</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK'>Late Night Talking</a>
       </td>
     </tr>
   </table>
