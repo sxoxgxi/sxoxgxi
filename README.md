@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-If the World Was Ending (feat. Julia Michaels)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-What If (I Told You I Like You)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e3eb3b8feeafb746ecf659e7' alt='Savage Love (Laxed - Siren Beat)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273001ec3fff6aa41c9f8020a11' alt='Lose My Mind (feat. Bipolar Sunshine)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310f4c79effa23872e7344fa7' alt='Simple Love' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h'>If the World Was Ending (feat. Julia Michaels)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c'>Savage Love (Laxed - Siren Beat)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0iMIcPbJ3vLcfNw2lCXsd2'>Simple Love</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl'>In Your Eyes</a>
       </td>
     </tr>
   </table>
