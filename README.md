@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732e6028f0c8fd029df19eb013' alt='Better' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eade25766cc01790cef39e96' alt='Only Fan (feat. Cordae)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732fc53ae96b08fe4cfb212c8a' alt='Good Boy Gone Bad - Japanese Ver.' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf'>Better</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4TMvib3pWUD1NzDabYIrBa'>Only Fan (feat. Cordae)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
       </td>
     </tr>
   </table>
