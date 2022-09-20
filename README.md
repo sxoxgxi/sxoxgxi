@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Handle with Care' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dd908ecaa1d2fa5979129302' alt='Dare You To Doubt Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bbb908821bcabe1808e62652' alt='Night Changes (50 Years Later)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27393cce81f353053fbdcaf29b5' alt='something worth working on' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e894b587f5c9eda29d3f5f7' alt='Million Dollar Baby' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6jzhyJiZn9bYHfzoHOzQKS'>Handle with Care</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx'>Dare You To Doubt Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5'>something worth working on</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI'>Million Dollar Baby</a>
       </td>
     </tr>
   </table>
