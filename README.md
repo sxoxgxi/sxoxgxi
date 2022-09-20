@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It doesn't matter what you do, only how well you do it. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>Every second you have on this planet is very precious and it's your responsibility that you're happy. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
