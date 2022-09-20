@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27337a5a19e52f8260b3b158e55' alt='Monster (Shawn Mendes & Justin Bieber)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88' alt='Jar of Hearts' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ab09ecae7741867714366036' alt='Devil Doesn’t Bargain - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3KGOU3IJI5Qs4DrNiEF83r'>For Real</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m'>Jar of Hearts</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y'>Devil Doesn’t Bargain - Acoustic</a>
       </td>
     </tr>
   </table>
