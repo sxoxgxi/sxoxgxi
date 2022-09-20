@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e894b587f5c9eda29d3f5f7' alt='Million Dollar Baby' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730a0ecb9daca90aff13a40513' alt='I Don’t Think That I Like Her' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310b194dc6443307f52d1e713' alt='Another Night' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27373463438a1d335c0c1f9358a' alt='Pero' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732e6028f0c8fd029df19eb013' alt='Better' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI'>Million Dollar Baby</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2'>I Don’t Think That I Like Her</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1i7JnFAxC15AuF1dsosbYM'>Pero</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf'>Better</a>
       </td>
     </tr>
   </table>
