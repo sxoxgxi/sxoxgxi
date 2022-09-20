@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bbb908821bcabe1808e62652' alt='Night Changes (50 Years Later)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Before You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27393cce81f353053fbdcaf29b5' alt='something worth working on' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730a0ecb9daca90aff13a40513' alt='I Don’t Think That I Like Her' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310b194dc6443307f52d1e713' alt='Another Night' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7aULvZzL8fLVQZIhihawOn'>Night Changes (50 Years Later)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6vjf1I3tXhs5s6zx6gYrGz'>Before You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2'>I Don’t Think That I Like Her</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3rJOFcVtvU6ggQwm1sO9Q4'>Another Night</a>
       </td>
     </tr>
   </table>
