@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a5bb87b2f5b576a0927e56d3' alt='SAY' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273447a2800593577401ff51cd9' alt='PATTERNS' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f127e9e7830d2f77c7944354' alt='NEW ME' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Handle with Care' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dd908ecaa1d2fa5979129302' alt='Dare You To Doubt Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2mMYqKDpzLmMth7P6Avb50'>SAY</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7htM3PtOqbtanwimghnf1u'>PATTERNS</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6jzhyJiZn9bYHfzoHOzQKS'>Handle with Care</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx'>Dare You To Doubt Me</a>
       </td>
     </tr>
   </table>
