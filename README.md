@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27322b9ac050a3fb98ec48c4726' alt='Caught Up (feat. Olivia O'Brien) - Slippy Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf' alt='Calm Down (with Selena Gomez)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a5bb87b2f5b576a0927e56d3' alt='SAY' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f127e9e7830d2f77c7944354' alt='NEW ME' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731d31a4969ceaaaa91c52e025' alt='Woke Up in Love' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6MIRjLw5q0qSt6pYr3AGDg'>Caught Up (feat. Olivia O'Brien) - Slippy Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8'>Calm Down (with Selena Gomez)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o'>NEW ME</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo'>Woke Up in Love</a>
       </td>
     </tr>
   </table>
