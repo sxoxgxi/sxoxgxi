@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ff1284011d9406f22cf2d8dd' alt='For You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b74aab3bce8b8d8eeef9ab76' alt='Out of Time - Airliftz Remix' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240' alt='Complicated' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273115378f47dbcbd2d38a0e550' alt='Rather Be' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273711fab3ee0bbeddfac44d7d6' alt='Forget Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK'>For You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5NPhDVh7eebJPm4hmvE81n'>Out of Time - Airliftz Remix</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5LgG5W92wpLsEWGGLIb0DQ'>Rather Be</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym'>Forget Me</a>
       </td>
     </tr>
   </table>
