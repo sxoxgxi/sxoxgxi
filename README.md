@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every second you have on this planet is very precious and it's your responsibility that you're happy. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>The only way to 'find out if it will work out' is to do it. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
