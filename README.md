@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273115378f47dbcbd2d38a0e550' alt='Rather Be' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273711fab3ee0bbeddfac44d7d6' alt='Forget Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27322b9ac050a3fb98ec48c4726' alt='Caught Up (feat. Olivia O'Brien) - Slippy Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a5bb87b2f5b576a0927e56d3' alt='SAY' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273447a2800593577401ff51cd9' alt='PATTERNS' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5LgG5W92wpLsEWGGLIb0DQ'>Rather Be</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym'>Forget Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2mMYqKDpzLmMth7P6Avb50'>SAY</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7htM3PtOqbtanwimghnf1u'>PATTERNS</a>
       </td>
     </tr>
   </table>
