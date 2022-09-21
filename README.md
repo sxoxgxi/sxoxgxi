@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240' alt='Complicated' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27331d97a3a8995847ba3fe5e08' alt='Bois Lie (feat. Machine Gun Kelly) - Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273115378f47dbcbd2d38a0e550' alt='Rather Be' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27322b9ac050a3fb98ec48c4726' alt='Caught Up (feat. Olivia O'Brien) - Slippy Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf' alt='Calm Down (with Selena Gomez)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F'>Complicated</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3W8gnQSIRzUQM6klpRT4jR'>Bois Lie (feat. Machine Gun Kelly) - Acoustic</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6MIRjLw5q0qSt6pYr3AGDg'>Caught Up (feat. Olivia O'Brien) - Slippy Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8'>Calm Down (with Selena Gomez)</a>
       </td>
     </tr>
   </table>
