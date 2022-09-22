@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Best Friends' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734a767758e8ebe2443591c9fd' alt='Ni**as In Paris' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1' alt='Forever' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Less Than Zero' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Take My Breath' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ'>Best Friends</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007'>Ni**as In Paris</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA'>Less Than Zero</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b'>Take My Breath</a>
       </td>
     </tr>
   </table>
