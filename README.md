@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only way to 'find out if it will work out' is to do it. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
+<h4 align='center'>Why do you stay in prison when the door is so wide open? - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
