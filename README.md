@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-For Real-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-SLOW DANCING IN THE DARK-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Every Angel is Terrifying' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Best Friends' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1' alt='Forever' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='I Heard You’re Married (feat. Lil Wayne)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3KGOU3IJI5Qs4DrNiEF83r'>For Real</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU'>Every Angel is Terrifying</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX'>Forever</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D'>I Heard You’re Married (feat. Lil Wayne)</a>
       </td>
     </tr>
   </table>
