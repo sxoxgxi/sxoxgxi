@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great loves too must be endured. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
+<h4 align='center'>You don't earn loyalty in a day. You earn loyalty day-by-day. - <a href='https://duckduckgo.com/?q=Jeffrey+Gitomer' target='_blank'>Jeffrey Gitomer</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
