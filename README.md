@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734bdcedf5eebd141ceb68d258' alt='Suzume (Sparrow) Title Track' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734bdcedf5eebd141ceb68d258' alt='Suzume (Sparrow) Title Track' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa49936448a6fe63e806a7fe' alt='Suzume no Tojimari' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb4788305d9e3e25faf785c2' alt='All My Loving' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e9451fec489049dcb1be6651' alt='魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6jrZzL1qE4exobqSxa1rIt'>Suzume (Sparrow) Title Track</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6jrZzL1qE4exobqSxa1rIt'>Suzume (Sparrow) Title Track</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0ATSSf0bdewfDH1q3LMTnv'>魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3KGOU3IJI5Qs4DrNiEF83r'>For Real</a>
       </td>
     </tr>
   </table>
