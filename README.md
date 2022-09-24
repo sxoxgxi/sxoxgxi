@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-I'm So Far-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Feel Something-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Up Down' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I Loved You, What Happened?' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685' alt='Lonely (with benny blanco)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a' alt='That Should Be Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2tMI3Vki6rmg1Q1Q5oJDq8'>Up Down</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5vf8nV4EbFNGgLZt50rbRE'>I Loved You, What Happened?</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY'>always, i'll care</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S'>That Should Be Me</a>
       </td>
     </tr>
   </table>
