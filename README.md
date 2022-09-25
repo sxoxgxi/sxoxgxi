@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You don't earn loyalty in a day. You earn loyalty day-by-day. - <a href='https://duckduckgo.com/?q=Jeffrey+Gitomer' target='_blank'>Jeffrey Gitomer</a>.</h4>
+<h4 align='center'>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
