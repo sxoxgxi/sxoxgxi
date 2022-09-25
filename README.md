@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-fun out of it-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Feelings-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731f0294c93e08866f689d8c7b' alt='fun out of it' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ebe2ebf168dcbf27f492131b' alt='炎' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f13650decb20299d996448a8' alt='HANABI' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='34+35' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK'>fun out of it</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4rAzjtHqpKYZ9bVKMmaQLU'>HANABI</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF'>34+35</a>
       </td>
     </tr>
   </table>
