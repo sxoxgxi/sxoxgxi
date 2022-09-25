@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-It's You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-愛錠-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720' alt='It's You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27339b75e94a1f716908a4dd5a2' alt='Backwards' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Are you happy?' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f89b8390933e9ccb3673c89' alt='Somebody To You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3' alt='Way Back Home' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29'>It's You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4tUwBXtIker14xxcDxSXCO'>Backwards</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65'>Somebody To You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
       </td>
     </tr>
   </table>
