@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-DADDY ! DADDY ! DO !-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Up Down-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba0437716a439fb23b156338' alt='DADDY ! DADDY ! DO !' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ebe2ebf168dcbf27f492131b' alt='炎' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp'>DADDY ! DADDY ! DO !</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn'>炎</a>
       </td>
     </tr>
   </table>
