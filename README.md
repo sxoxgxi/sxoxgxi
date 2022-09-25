@@ -27,18 +27,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Feel Something' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Up Down' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I Loved You, What Happened?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685' alt='Lonely (with benny blanco)' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Beautiful Mistakes (feat. Megan Thee Stallion)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5v5FJBymVN63CHt9iBXCfs'>Feel Something</a>
       </td>
@@ -47,12 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5vf8nV4EbFNGgLZt50rbRE'>I Loved You, What Happened?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q'>Lonely (with benny blanco)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL'>Beautiful Mistakes (feat. Megan Thee Stallion)</a>
       </td>
     </tr>
   </table>
