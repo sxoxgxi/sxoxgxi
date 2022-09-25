@@ -174,22 +174,6 @@
       <td>
       4
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0p6iibqF4hb6e7nm9rF1MR'>Somebody's Nobody</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw'>Aftershock</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag'>Alexander 23</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:10%'>
       </td>
       <td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2DRlc8pbf096LobLnjGt2b'>Coco</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr'>pewdiepie</a>
       </td>
     </tr>
   </table>
