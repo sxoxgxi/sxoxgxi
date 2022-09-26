@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Bubbly-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Kiss Me More (feat. SZA)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a7e933ef7fbb7e6485b73a' alt='Bubbly' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273651c4282aac6b8c408746037' alt='What If (I Told You I Like You)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a5bb87b2f5b576a0927e56d3' alt='SAY' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Up Down' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba0437716a439fb23b156338' alt='DADDY ! DADDY ! DO !' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO'>Bubbly</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4v7DgEMw6EvYyuQ4eWFD9l'>What If (I Told You I Like You)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC'>Up Down</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp'>DADDY ! DADDY ! DO !</a>
       </td>
     </tr>
   </table>
