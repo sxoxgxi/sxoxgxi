@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Kiss Me More (feat. SZA)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Stranger-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Kiss Me More (feat. SZA)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a7e933ef7fbb7e6485b73a' alt='Bubbly' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273651c4282aac6b8c408746037' alt='What If (I Told You I Like You)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Overpass Graffiti' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Up Down' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz'>Kiss Me More (feat. SZA)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO'>Bubbly</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3'>Overpass Graffiti</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC'>Up Down</a>
       </td>
     </tr>
   </table>
