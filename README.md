@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance.  - <a href='https://duckduckgo.com/?q=W.+Clement+Stone' target='_blank'>W. Clement Stone</a>.</h4>
+<h4 align='center'>It's not about what it is, it's about what it can become. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
