@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's not about what it is, it's about what it can become. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
+<h4 align='center'>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
