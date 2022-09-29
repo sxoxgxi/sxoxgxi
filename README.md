@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb12a2ef08d00dd7451a6dbed6' alt='Ed Sheeran' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952' alt='Ariana Grande' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'>Ed Sheeran</a>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
+      <a href='https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'>Ariana Grande</a>
       </td>
     </tr>
   </table>
