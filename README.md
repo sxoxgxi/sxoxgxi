@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731d31a4969ceaaaa91c52e025' alt='Woke Up in Love' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27348b0cbf55eeb61112436f8bd' alt='Let Me Down Easy (Lie)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735355919e31efac9b14c45c49' alt='I Like Me Better' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wrapped Around Your Finger' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6' alt='Hate Me (with Juice WRLD)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo'>Woke Up in Love</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc'>Let Me Down Easy (Lie)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX'>Wrapped Around Your Finger</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE'>Hate Me (with Juice WRLD)</a>
       </td>
     </tr>
   </table>
