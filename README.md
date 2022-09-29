@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b58a365796533f2d8ea6b67' alt='On the Low' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27337a04015658168ca6e6e604a' alt='Stranger' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Kiss Me More (feat. SZA)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273651c4282aac6b8c408746037' alt='What If (I Told You I Like You)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a5bb87b2f5b576a0927e56d3' alt='SAY' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4MIKclDDgZgzuaATP5yOjW'>On the Low</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz'>Stranger</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4v7DgEMw6EvYyuQ4eWFD9l'>What If (I Told You I Like You)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2mMYqKDpzLmMth7P6Avb50'>SAY</a>
       </td>
     </tr>
   </table>
