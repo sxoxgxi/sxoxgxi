@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-If the World Was Ending (feat. Julia Michaels)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-katharsis (TV edit)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b58a365796533f2d8ea6b67' alt='On the Low' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27337a04015658168ca6e6e604a' alt='Stranger' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4a7e933ef7fbb7e6485b73a' alt='Bubbly' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273651c4282aac6b8c408746037' alt='What If (I Told You I Like You)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h'>If the World Was Ending (feat. Julia Michaels)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4MIKclDDgZgzuaATP5yOjW'>On the Low</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO'>Bubbly</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4v7DgEMw6EvYyuQ4eWFD9l'>What If (I Told You I Like You)</a>
       </td>
     </tr>
   </table>
