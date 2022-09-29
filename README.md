@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-blur-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Be Okay (with HRVY)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273988965647cf9918f515ae79a' alt='blur' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27351f2aaa14bf0cd9f36784592' alt='Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='fuck, i'm lonely (with Anne-Marie)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8'>blur</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4kOGfnVEGTLuxa8fnzlIGj'>Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3KGOU3IJI5Qs4DrNiEF83r'>For Real</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj'>I Like You (A Happier Song) (with Doja Cat)</a>
       </td>
     </tr>
   </table>
