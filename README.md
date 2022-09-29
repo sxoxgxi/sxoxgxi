@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
+<h4 align='center'>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
