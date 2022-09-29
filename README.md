@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Moth To A Flame (with The Weeknd)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-fuck, i'm lonely (with Anne-Marie)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d' alt='Moth To A Flame (with The Weeknd)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdf54a353f1a69035ca8606b' alt='katharsis (TV edit)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK'>Moth To A Flame (with The Weeknd)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3KGOU3IJI5Qs4DrNiEF83r'>For Real</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW'>katharsis (TV edit)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h'>If the World Was Ending (feat. Julia Michaels)</a>
       </td>
     </tr>
   </table>
