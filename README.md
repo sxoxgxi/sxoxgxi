@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-drivers license-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-take care-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='drivers license' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273559a672bc6ebc4409bc9a5e8' alt='Be Okay (with HRVY)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH'>drivers license</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU'>that way - with Jeremy Zucker</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW'>Be Okay (with HRVY)</a>
       </td>
     </tr>
   </table>
