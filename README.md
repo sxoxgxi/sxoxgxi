@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4' alt='Havana (feat. Young Thug)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304bfd5a5fd5aa6ca648f66aa' alt='Happier' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd' alt='2002' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W'>Havana (feat. Young Thug)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99'>Happier</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo'>2002</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
       </td>
     </tr>
   </table>
