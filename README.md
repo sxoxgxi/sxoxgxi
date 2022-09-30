@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Complicated-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Easier-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240' alt='Complicated' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240' alt='Complicated' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a31195a371b2233456f6c07' alt='Unforgettable' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735d93417bde90e0bd951dab08' alt='Bubble Gum' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e9451fec489049dcb1be6651' alt='魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b742c96d78d9091ce4a1c5c1' alt='slower' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F'>Complicated</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F'>Complicated</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0ATSSf0bdewfDH1q3LMTnv'>魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo'>slower</a>
       </td>
     </tr>
   </table>
