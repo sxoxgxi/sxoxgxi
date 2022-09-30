@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735d93417bde90e0bd951dab08' alt='Bubble Gum' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e9451fec489049dcb1be6651' alt='魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b742c96d78d9091ce4a1c5c1' alt='slower' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='drivers license' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t'>Bubble Gum</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0ATSSf0bdewfDH1q3LMTnv'>魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH'>drivers license</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
       </td>
     </tr>
   </table>
