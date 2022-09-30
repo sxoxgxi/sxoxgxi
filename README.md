@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Small Talk' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdb8e20b1dd0ae056defc12f' alt='You Make It Real' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730a0ecb9daca90aff13a40513' alt='I Don’t Think That I Like Her' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa'>Small Talk</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/16LMLWymxxas4jHTI6R6zJ'>You Make It Real</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/74Wuce0fRD4RyGAhwAQieR'>on your sleeve</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2'>I Don’t Think That I Like Her</a>
       </td>
     </tr>
   </table>
