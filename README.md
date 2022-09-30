@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-You Make It Real-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Small Talk-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdb8e20b1dd0ae056defc12f' alt='You Make It Real' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730a0ecb9daca90aff13a40513' alt='I Don’t Think That I Like Her' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27317745f08b79f421ad2176966' alt='Youngblood' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/16LMLWymxxas4jHTI6R6zJ'>You Make It Real</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/74Wuce0fRD4RyGAhwAQieR'>on your sleeve</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2'>I Don’t Think That I Like Her</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5sFRWJi3jzq2EfPCS3VZEJ'>Youngblood</a>
       </td>
     </tr>
   </table>
