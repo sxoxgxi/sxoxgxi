@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Without Me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-2002-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5' alt='Dynamite' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Small Talk' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa'>Small Talk</a>
       </td>
     </tr>
   </table>
