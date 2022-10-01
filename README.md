@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/34GQP3dILpyCN018y2k61L'>BALLADS 1</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9'>Myuk</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273375088b9d851e5735dcd1cd2' alt='Omae Wa Mou' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa'>Omae Wa Mou</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf'>Omae Wa Mou</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9'>deadman 死人</a>
       </td>
     </tr>
   </table>
