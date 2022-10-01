@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You don't have to be great to start, but you have to start to be great.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>Get mad, then get over it. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
