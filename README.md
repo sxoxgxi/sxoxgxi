@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-CHE.R.RY-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Honest (feat. Don Toliver)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='CHE.R.RY' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Castle on the Hill' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='The Real Slim Shady' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Fine Line' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp'>CHE.R.RY</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT'>Castle on the Hill</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR'>The Real Slim Shady</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9'>Fine Line</a>
       </td>
     </tr>
   </table>
