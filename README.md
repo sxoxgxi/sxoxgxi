@@ -126,22 +126,6 @@
       <td>
       1
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0s26En1JoJhVj32vizElpA'>Feelings</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP'>~how i'm feeling~</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:10%'>
       </td>
       <td>
@@ -152,6 +136,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'>Dua Lipa</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      2
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Feelings' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0s26En1JoJhVj32vizElpA'>Feelings</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP'>~how i'm feeling~</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
     </tr>
     <tr align='center'>
