@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Get mad, then get over it. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>Great things are not accomplished by those who yield to trends and fads and popular opinion. - <a href='https://duckduckgo.com/?q=Jack+Kerouac' target='_blank'>Jack Kerouac</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
