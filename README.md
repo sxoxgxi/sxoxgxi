@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is a succession of lessons, which must be lived to be understood. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
+<h4 align='center'>The wise learn many things from their enemies. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
