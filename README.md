@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Omae Wa Mou-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebafa249b777253145791ca327' alt='JP Saxe' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb1d851d77d3ab7d1a29808cb3' alt='Johnny Orlando' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebafa249b777253145791ca327' alt='JP Saxe' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
+      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
       </td>
     </tr>
   </table>
