@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Let Somebody Go-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-なんでもないや - movie ver.-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d' alt='Let Somebody Go' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273135a78be90223c126a4e2c36' alt='lowkey' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ee07f5d93ce85ea2013fc959' alt='Do You Love Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf'>Let Somebody Go</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3zuLmMxDrpk5J6dEh828CB'>How Could You?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1rbjic9uKr1p6nxnjLDHN6'>Do You Love Me</a>
       </td>
     </tr>
   </table>
