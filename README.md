@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>When you judge another, you do not define them, you define yourself - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
