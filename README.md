@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Before You Go-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Your eyes tell-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Losing You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730659ff3278789c1b69c699b7' alt='ADAMAS' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eade25766cc01790cef39e96' alt='Only Fan (feat. Cordae)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP'>Before You Go</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM'>Losing You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5jJXjQcZUdL7sj3hCW4LrJ'>Wonders</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4TMvib3pWUD1NzDabYIrBa'>Only Fan (feat. Cordae)</a>
       </td>
     </tr>
   </table>
