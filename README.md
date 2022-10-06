@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bbb908821bcabe1808e62652' alt='Night Changes (50 Years Later)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732e6028f0c8fd029df19eb013' alt='Better' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='LALISA' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Make us never happen' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732aee3ab9f9afc6bfc43ad9d6' alt='Justin Bieber' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7aULvZzL8fLVQZIhihawOn'>Night Changes (50 Years Later)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf'>Better</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1MwjGc1bwzdDPjj1XBiawA'>Make us never happen</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1DPK4ja9mYqRbQvGgbFxKh'>Justin Bieber</a>
       </td>
     </tr>
   </table>
