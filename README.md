@@ -126,6 +126,22 @@
       <td>
       1
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/34GQP3dILpyCN018y2k61L'>BALLADS 1</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      2
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:10%'>
       </td>
       <td>
@@ -140,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      2
+      3
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:10%'>
       </td>
@@ -152,22 +168,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'>Dua Lipa</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/34GQP3dILpyCN018y2k61L'>BALLADS 1</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
     </tr>
     <tr align='center'>
