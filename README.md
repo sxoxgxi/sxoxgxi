@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Lifestyle (feat. Adam Levine)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730995575e512dba5834593839' alt='Lifestyle (feat. Adam Levine)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379bd6e8222975ccfa35f2321' alt='Ghosts' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Mine' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859' alt='Sweet Creature' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ'>Lifestyle (feat. Adam Levine)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/17DTV3UEaE6T8yWgygOUlW'>Ghosts</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5'>Sweet Creature</a>
       </td>
     </tr>
   </table>
