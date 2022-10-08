@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Sweet Creature-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Heaven-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859' alt='Sweet Creature' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563' alt='Señorita' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27339715e1fc59ec8cc0903fde7' alt='Before' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8f586f730554a31ff8c42b4' alt='A Little Bit Yours' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5'>Sweet Creature</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2'>Señorita</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE'>A Little Bit Yours</a>
       </td>
     </tr>
   </table>
