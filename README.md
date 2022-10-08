@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections. - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
+<h4 align='center'>A comfort zone is a beautiful place, but nothing ever grows there. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
