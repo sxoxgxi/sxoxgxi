@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Bitch Lasagna-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Jar of Hearts-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273db24e98f75215a3df9886be7' alt='Bitch Lasagna' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Losing You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1AKGJQIHP3dIPuhOjdxD6a'>Bitch Lasagna</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G'>Ghost</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP'>Before You Go</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM'>Losing You</a>
       </td>
     </tr>
   </table>
