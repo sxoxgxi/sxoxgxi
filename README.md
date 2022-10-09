@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='pov' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e894b587f5c9eda29d3f5f7' alt='Million Dollar Baby' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379bd6e8222975ccfa35f2321' alt='Ghosts' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Mine' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33'>pov</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj'>We Don't Talk Anymore (feat. Selena Gomez)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/17DTV3UEaE6T8yWgygOUlW'>Ghosts</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR'>Mine</a>
       </td>
     </tr>
   </table>
