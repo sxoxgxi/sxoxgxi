@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb1d851d77d3ab7d1a29808cb3' alt='Johnny Orlando' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebafa249b777253145791ca327' alt='JP Saxe' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
+      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
     </tr>
   </table>
@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr'>Manic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'>Halsey</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:10%'>
       </td>
       <td>
@@ -168,6 +152,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'>Dua Lipa</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr'>Manic</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'>Halsey</a>
       </td>
     </tr>
     <tr align='center'>
