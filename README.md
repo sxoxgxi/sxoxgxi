@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ea22e7718460bda89da5116e' alt='桜日和' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27380eb0d576a3eee4316cc9950' alt='失くした言葉' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27324f5c85b1492323b29bb047f' alt='Glow' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cae19d41cebf854b1f643bf9' alt='ほろよい' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4q1EGSiON8KudLlrSgiDlv'>桜日和</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0pmkdHvXPsxB9oazxqLHKZ'>失くした言葉</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4Aw2k8epSZp7dWbrePpDLY'>Glow</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5IJ7NfZbARDLEmxPgv2dmw'>ほろよい</a>
       </td>
     </tr>
   </table>
