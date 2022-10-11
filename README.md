@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e885db3597a5097ae2245dd3' alt='Blowing' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bef41341ff9c349d571246e3' alt='Requiem' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f9c5b3a8712405ca9c1a301d' alt='炎 - From THE FIRST TAKE' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bf1e77d93e39469441ae6c7f' alt='耳わほう' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/26Jsd08ArcT3PkNe6yBPNT'>Blowing</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5Bopcl6UEcAwJqFOGagI8C'>Requiem</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Uo1VxHGkRC2O2SRaDqpn7'>炎 - From THE FIRST TAKE</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2StLz1e2VTwCm8Jnkke7OF'>耳わほう</a>
       </td>
     </tr>
   </table>
