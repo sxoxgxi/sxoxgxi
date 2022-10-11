@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b218fd0ea716b065dc9870cf' alt='ユメセカイ(TV Size Ver.)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737797b90c9b00241d8002a465' alt='君の行方' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='Rolling star' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730b7550a3743a97626d2beae9' alt='WHITE ALBUM' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e2730fb2d46d38c8dc3e494b' alt='Missing Beauty' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3a2bJM6QPmCrkAzzeYuqlB'>ユメセカイ(TV Size Ver.)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2ULRlLFeju0tYtGEI7gjTJ'>君の行方</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3RvWNzjUkzy2TVTTf6Nv5P'>WHITE ALBUM</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4xVPktMnjvRegYpjzVNAAG'>Missing Beauty</a>
       </td>
     </tr>
   </table>
