@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c76a908d32c682e4a48a14e5' alt='Daisy' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738bd16a47ef3c24e8bf8e0108' alt='フレンズ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ea22e7718460bda89da5116e' alt='桜日和' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304e19ad4ca55b5610363a6cd' alt='Rain' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5QGu0Yr6B8oHjlNNG9ncRG'>Daisy</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2ckFNw40JZVPw1qSuEojX0'>フレンズ</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f'>Rain</a>
       </td>
     </tr>
   </table>
