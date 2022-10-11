@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Glow-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Rain-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27324f5c85b1492323b29bb047f' alt='Glow' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cae19d41cebf854b1f643bf9' alt='ほろよい' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e885db3597a5097ae2245dd3' alt='Blowing' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325124948f493dd596336802d' alt='Harmony of One's Heart' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4Aw2k8epSZp7dWbrePpDLY'>Glow</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5IJ7NfZbARDLEmxPgv2dmw'>ほろよい</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR'>again</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0wL1c6L1KCy1zbH1NgXqxT'>Harmony of One's Heart</a>
       </td>
     </tr>
   </table>
