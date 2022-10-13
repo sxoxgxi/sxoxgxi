@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-再会 (produced by Ayase)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bleeding Love-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273541f626768dd7d76bd46095a' alt='今でもずっと' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b218fd0ea716b065dc9870cf' alt='ユメセカイ(TV Size Ver.)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='Rolling star' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f13650decb20299d996448a8' alt='HANABI' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz'>再会 (produced by Ayase)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0enWmEDou8UsSrmXxg1Ume'>今でもずっと</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0rVH35mmwtelHycrJxFexC'>Rolling star</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4rAzjtHqpKYZ9bVKMmaQLU'>HANABI</a>
       </td>
     </tr>
   </table>
