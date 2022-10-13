@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot. - <a href='https://duckduckgo.com/?q=Wayne+Gretzky' target='_blank'>Wayne Gretzky</a>.</h4>
+<h4 align='center'>I will not walk backward in life. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
