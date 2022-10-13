@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Will It Ever Feel The Same?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0' alt='Joke's On You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273335be3d98f11696dfd534dad' alt='Summer on You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='Build God, Then We'll Talk' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bde319f49b9079c727c46410' alt='Car's Outside - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7EwD5ZeiZO1zCpPOtxb75H'>Will It Ever Feel The Same?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2D0FX6WiP1GKGL3yCdXxs7'>Joke's On You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6uY9kK6gdGDCeT5sklQG7u'>Build God, Then We'll Talk</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0FJlNZyxbicLmzOvNl8PJs'>Car's Outside - Acoustic</a>
       </td>
     </tr>
   </table>
