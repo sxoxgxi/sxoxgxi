@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Pink Venom-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Pretty Girl-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdf54a353f1a69035ca8606b' alt='katharsis (TV edit)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Boy In The Bubble' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='CWJBHN' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7EyhPjrJzjx0fk2i7vUJCS'>Pink Venom</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW'>katharsis (TV edit)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0cHLxojmTlaQwG9hxJW3l9'>CWJBHN</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0p6iibqF4hb6e7nm9rF1MR'>Somebody's Nobody</a>
       </td>
     </tr>
   </table>
