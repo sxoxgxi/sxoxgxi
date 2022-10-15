@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cf76a79dce2bebda318bf9b9' alt='Love Me For Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e70279cb2c329286f7e95af1' alt='Unbelievable' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730be234869860da5118a6c1b6' alt='Waste My Time' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d' alt='Moth To A Flame (with The Weeknd)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4kKhmIdFALmwCYrt90oWUW'>Love Me For Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1LHfEkVMR0Yj20C8lWdgpA'>Unbelievable</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP'>Levitating</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK'>Moth To A Flame (with The Weeknd)</a>
       </td>
     </tr>
   </table>
