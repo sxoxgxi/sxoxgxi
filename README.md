@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-The Motto-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Boy In The Bubble-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e' alt='The Motto' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='CWJBHN' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Will It Ever Feel The Same?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0' alt='Joke's On You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO'>The Motto</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0cHLxojmTlaQwG9hxJW3l9'>CWJBHN</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7EwD5ZeiZO1zCpPOtxb75H'>Will It Ever Feel The Same?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2D0FX6WiP1GKGL3yCdXxs7'>Joke's On You</a>
       </td>
     </tr>
   </table>
