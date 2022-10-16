@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP'>Levitating</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI'>Future Nostalgia</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'>Dua Lipa</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc'>Lana Condor</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86' alt='ily (i love you baby) (feat. Emilee)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS'>ily (i love you baby) (feat. Emilee)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B'>ily (i love you baby) (feat. Emilee)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ'>Surf Mesa</a>
       </td>
     </tr>
   </table>
