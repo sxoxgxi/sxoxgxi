@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - <a href='https://duckduckgo.com/?q=Abraham+Lincoln' target='_blank'>Abraham Lincoln</a>.</h4>
+<h4 align='center'>Out of your vulnerabilities will come your strength. - <a href='https://duckduckgo.com/?q=Sigmund+Freud' target='_blank'>Sigmund Freud</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
