@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd' alt='MONTERO (Call Me By Your Name)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731abfc09fba2499dae081d1af' alt='Infinity' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273926034731cc1c6402644d143' alt='Butterflies' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304e19ad4ca55b5610363a6cd' alt='Rain' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W'>MONTERO (Call Me By Your Name)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ'>Butterflies</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f'>Rain</a>
       </td>
     </tr>
   </table>
