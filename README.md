@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Out of your vulnerabilities will come your strength. - <a href='https://duckduckgo.com/?q=Sigmund+Freud' target='_blank'>Sigmund Freud</a>.</h4>
+<h4 align='center'>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
