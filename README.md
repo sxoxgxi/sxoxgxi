@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273580ac3ad7dfc81e509171120' alt='Shut Down' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd' alt='MONTERO (Call Me By Your Name)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W'>MONTERO (Call Me By Your Name)</a>
       </td>
     </tr>
   </table>
