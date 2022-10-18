@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb' alt='AS IF IT’S YOUR LAST - Japanese Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738a0e912d0c3c3ca34dfeddde' alt='KISS OF DEATH(Produced by HYDE)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf' alt='Beautiful (feat. Camila Cabello)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5DVgfulxeJZJYc8FseyfUf'>AS IF IT’S YOUR LAST - Japanese Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW'>KISS OF DEATH(Produced by HYDE)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
       </td>
     </tr>
   </table>
