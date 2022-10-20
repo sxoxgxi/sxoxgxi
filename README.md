@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY'>always, i'll care</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF'>love is not dying</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3'>Jeremy Zucker</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3'>Nightly</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e9451fec489049dcb1be6651' alt='魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ATSSf0bdewfDH1q3LMTnv'>魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5vwCTYlLESz13IWCkTpy1V'>魔鬼与凡人 (Devil Doesn’t Bargain) [feat. 焦迈奇]</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
     </tr>
   </table>
