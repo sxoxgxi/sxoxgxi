@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732f6a25ebd3f6b19d29c56b3d' alt='But You Love It' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738f7e0b9413802a41c6752c95' alt='Gone' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27312e84271cd4eb2a31cb21a9c' alt='Broken' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c391839c67384bc3ac53efdd' alt='Please Don't Go' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7cUPrTfP6VNOK22pZNEwbq'>But You Love It</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4WYhlaj04fyOWP8J9yIIUl'>Broken</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2F1JKudrXiT3pUwrq6Tu3l'>Please Don't Go</a>
       </td>
     </tr>
   </table>
