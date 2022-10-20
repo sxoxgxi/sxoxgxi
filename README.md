@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>The way we feel is the direct result of what we think. - <a href='https://duckduckgo.com/?q=Peter+A.+Cohen' target='_blank'>Peter A. Cohen</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
