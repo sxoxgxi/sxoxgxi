@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738f7e0b9413802a41c6752c95' alt='Gone' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27312e84271cd4eb2a31cb21a9c' alt='Broken' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98' alt='Tennis Court' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e1ed65d8b6804124e1ebea8f' alt='Rice Pudding' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE'>Gone</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt'>Tennis Court</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1awK3acbaXI4Wu9BG5giND'>Rice Pudding</a>
       </td>
     </tr>
   </table>
