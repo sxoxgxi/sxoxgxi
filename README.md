@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Please Don't Go-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Broken-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c391839c67384bc3ac53efdd' alt='Please Don't Go' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98' alt='Tennis Court' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e1ed65d8b6804124e1ebea8f' alt='Rice Pudding' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273136ef277a0791089f46628bb' alt='Cherry Wine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Bad Habits' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2F1JKudrXiT3pUwrq6Tu3l'>Please Don't Go</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt'>Tennis Court</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce'>Cherry Wine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d'>Bad Habits</a>
       </td>
     </tr>
   </table>
