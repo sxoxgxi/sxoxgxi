@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27328b535c92629e3c8d20ec242' alt='ただ君に晴れ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304e19ad4ca55b5610363a6cd' alt='Rain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de9de89a99032590385d9392' alt='In The Orbit We Meet Again' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273449edaba03fbc4f21158a36d' alt='ハートはお手上げ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba0437716a439fb23b156338' alt='DADDY ! DADDY ! DO !' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz'>ただ君に晴れ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f'>Rain</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2'>ハートはお手上げ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp'>DADDY ! DADDY ! DO !</a>
       </td>
     </tr>
   </table>
