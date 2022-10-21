@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The way we feel is the direct result of what we think. - <a href='https://duckduckgo.com/?q=Peter+A.+Cohen' target='_blank'>Peter A. Cohen</a>.</h4>
+<h4 align='center'>Those who can make you believe absurdities can make you commit atrocities.  - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
