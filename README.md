@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739b2fd3a5d29c28e87a25553a' alt='FLY HIGH!!' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c' alt='だから僕は音楽を辞めた' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310179936604a42f16280835e' alt='残響散歌' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a8fba2c2b6f814544da279d1' alt='老人と海' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT'>FLY HIGH!!</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM'>だから僕は音楽を辞めた</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO'>残響散歌</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ'>老人と海</a>
       </td>
     </tr>
   </table>
