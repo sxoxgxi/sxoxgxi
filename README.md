@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d465dc991a0d81dc6b541f4f' alt='透明だった世界' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27364be01336a8f917538a60b74' alt='シルエット' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739dba8080f150965f83611b2d' alt='知らないままで' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccf5d223349faaca1c9a1b9' alt='Haru wo Tsugeru' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bf1e77d93e39469441ae6c7f' alt='耳わほう' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ'>透明だった世界</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ'>シルエット</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m'>Haru wo Tsugeru</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2StLz1e2VTwCm8Jnkke7OF'>耳わほう</a>
       </td>
     </tr>
   </table>
