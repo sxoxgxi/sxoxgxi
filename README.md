@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-命に嫌われている。-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Paused-耳わほう-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba6d07e00a59d8a88a9cab35' alt='命に嫌われている。' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273925ece61ba709344a5ca9ceb' alt='Kimi No Sei - From "Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai"' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825' alt='光るなら' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273956b310c66f11c4b4e1f603a' alt='Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733b10bc784c23b990c256a2fa' alt='Where The Stars Fall (Up All Night)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2lXu7SNGIKHJ8EV2EetYFa'>命に嫌われている。</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0lIS0dmfRbAeFIVOEJdLZI'>Kimi No Sei - From "Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai"</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6jj44CxAIpfHKbJquGEBCo'>Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3OdAoVRBtEg3PfsXsVoqFg'>Where The Stars Fall (Up All Night)</a>
       </td>
     </tr>
   </table>
