@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-光るなら-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Paused-Kimi No Sei - From "Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai"-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825' alt='光るなら' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273541f626768dd7d76bd46095a' alt='今でもずっと' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273956b310c66f11c4b4e1f603a' alt='Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b56ada0ba61d7787fb213f72' alt='カタオモイ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739775493c517a378586b0367b' alt='最終列車' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa'>光るなら</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0enWmEDou8UsSrmXxg1Ume'>今でもずっと</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz'>カタオモイ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0LeU26cCZ6dyyMRnLhJBtA'>最終列車</a>
       </td>
     </tr>
   </table>
