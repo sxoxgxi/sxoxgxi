@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Snow Fairy-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Black (Feat. JENNIE of BLACKPINK)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d0b57487e4c9b506906203d' alt='Snow Fairy' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdf54a353f1a69035ca8606b' alt='katharsis (TV edit)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739b2fd3a5d29c28e87a25553a' alt='FLY HIGH!!' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='熱情のスペクトラム' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2rYiDn8FjwBnBPtZDP8to3'>Snow Fairy</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW'>katharsis (TV edit)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7'>熱情のスペクトラム</a>
       </td>
     </tr>
   </table>
