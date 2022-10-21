@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-ただ声一つ-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-CHE.R.RY-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de2d1cf763ed06e6874e1e91' alt='ただ声一つ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27328b535c92629e3c8d20ec242' alt='ただ君に晴れ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27304e19ad4ca55b5610363a6cd' alt='Rain' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27325124948f493dd596336802d' alt='Harmony of One's Heart' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273449edaba03fbc4f21158a36d' alt='ハートはお手上げ' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J'>ただ声一つ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz'>ただ君に晴れ</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0wL1c6L1KCy1zbH1NgXqxT'>Harmony of One's Heart</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2'>ハートはお手上げ</a>
       </td>
     </tr>
   </table>
