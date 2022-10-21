@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-katharsis (TV edit)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Snow Fairy-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdf54a353f1a69035ca8606b' alt='katharsis (TV edit)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739b2fd3a5d29c28e87a25553a' alt='FLY HIGH!!' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c' alt='だから僕は音楽を辞めた' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='熱情のスペクトラム' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27310179936604a42f16280835e' alt='残響散歌' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW'>katharsis (TV edit)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT'>FLY HIGH!!</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7'>熱情のスペクトラム</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO'>残響散歌</a>
       </td>
     </tr>
   </table>
