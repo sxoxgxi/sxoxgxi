@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-シルエット-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739dba8080f150965f83611b2d' alt='知らないままで' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0b43791d31a569726a34064' alt='SOLO' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273cccf5d223349faaca1c9a1b9' alt='Haru wo Tsugeru' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba6d07e00a59d8a88a9cab35' alt='命に嫌われている。' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273925ece61ba709344a5ca9ceb' alt='Kimi No Sei - From "Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai"' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg'>知らないままで</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1R0hxCA5R7z5TiaXBZR7Mf'>SOLO</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2lXu7SNGIKHJ8EV2EetYFa'>命に嫌われている。</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0lIS0dmfRbAeFIVOEJdLZI'>Kimi No Sei - From "Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai"</a>
       </td>
     </tr>
   </table>
