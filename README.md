@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='ノーチラス' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8' alt='ベテルギウス' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739ee734a46d5a3789d7b867dc' alt='Black Catcher' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730d0b57487e4c9b506906203d' alt='Snow Fairy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdf54a353f1a69035ca8606b' alt='katharsis (TV edit)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6B8gUB7PhCUDbCO0OiesrB'>ノーチラス</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR'>ベテルギウス</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2rYiDn8FjwBnBPtZDP8to3'>Snow Fairy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW'>katharsis (TV edit)</a>
       </td>
     </tr>
   </table>
