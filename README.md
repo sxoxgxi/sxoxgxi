@@ -68,9 +68,9 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eba6391644f3fd2f9136b2ac49' alt='Fiji Blue' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc' alt='Post Malone' style='width:50%'>
       </td>
@@ -82,10 +82,10 @@
       <a href='https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe'>Fiji Blue</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
+      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY'>always, i'll care</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF'>love is not dying</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3'>Jeremy Zucker</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:10%'>
       </td>
       <td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav'>Higuchi Ai</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/74Wuce0fRD4RyGAhwAQieR'>on your sleeve</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5UXkBKl5X96Ljo6DiQ6Ijd'>on your sleeve</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3'>Nightly</a>
       </td>
     </tr>
   </table>
