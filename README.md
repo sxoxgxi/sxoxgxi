@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3' alt='Compared Child' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733492c68445c4135f4aa27105' alt='PHOENIX' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247' alt='eight(Prod.&Feat. SUGA of BTS)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='ノーチラス' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1FOhzA4qQiyVnzVYt1KcgN'>Compared Child</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe'>eight(Prod.&Feat. SUGA of BTS)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6B8gUB7PhCUDbCO0OiesrB'>ノーチラス</a>
       </td>
     </tr>
   </table>
