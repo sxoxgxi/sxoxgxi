@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-嘘月-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Permission to Dance-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733492c68445c4135f4aa27105' alt='PHOENIX' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f6e9e116e2ae3925f5bc4233' alt='あふれる' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='ノーチラス' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8' alt='ベテルギウス' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK'>PHOENIX</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6B8gUB7PhCUDbCO0OiesrB'>ノーチラス</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR'>ベテルギウス</a>
       </td>
     </tr>
   </table>
