@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Reputation' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273568654abb7a3ce84c3f11251' alt='ハレハレヤ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f8a1e4eb400e681a7d8152c2' alt='Suzume no Tojimari' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733492c68445c4135f4aa27105' alt='PHOENIX' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2'>Reputation</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6gBHA0wQbD4hwCLtOsmkw9'>ハレハレヤ</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK'>PHOENIX</a>
       </td>
     </tr>
   </table>
