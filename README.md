@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Those who can make you believe absurdities can make you commit atrocities.  - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
+<h4 align='center'>When we have our body and mind in order, everything else will exist in the right place, in the right way. - <a href='https://duckduckgo.com/?q=Shunryu+Suzuki' target='_blank'>Shunryu Suzuki</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
