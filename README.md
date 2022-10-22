@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c3c387d65d710a1909ad410d' alt='2 soon' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fe0a8e69ee393443a160e83f' alt='Amekigoe Zankyou' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='Big Plans' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731abfc09fba2499dae081d1af' alt='Infinity' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv'>2 soon</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6UslA9s7ZVOgkSgddK5at2'>Amekigoe Zankyou</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3eng6TJxpqjvDkxRpnfnhB'>Big Plans</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ys67ApLdX56j21to2JRIV'>Infinity</a>
       </td>
     </tr>
   </table>
