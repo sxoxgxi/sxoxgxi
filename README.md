@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Labyrinth' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c3c387d65d710a1909ad410d' alt='2 soon' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fe0a8e69ee393443a160e83f' alt='Amekigoe Zankyou' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d1bc0ae272f8d507108b683e' alt='Hurts So Good' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='Big Plans' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0'>Labyrinth</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv'>2 soon</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/46u5B2WN4wryYLZuMAOmI4'>Hurts So Good</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3eng6TJxpqjvDkxRpnfnhB'>Big Plans</a>
       </td>
     </tr>
   </table>
