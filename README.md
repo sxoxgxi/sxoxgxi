@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When we have our body and mind in order, everything else will exist in the right place, in the right way. - <a href='https://duckduckgo.com/?q=Shunryu+Suzuki' target='_blank'>Shunryu Suzuki</a>.</h4>
+<h4 align='center'>To become what you are not, behave as you do not. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
