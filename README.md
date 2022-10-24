@@ -74,7 +74,7 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -91,7 +91,7 @@
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr>
   </table>
