@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Question...?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Midnight Rain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Mastermind' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Bejeweled' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Lavender Haze' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B'>Question...?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4'>Midnight Rain</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE'>Bejeweled</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC'>Lavender Haze</a>
       </td>
     </tr>
   </table>
