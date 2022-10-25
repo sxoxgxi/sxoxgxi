@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Perfectionism is simply putting a limit on your future. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
+<h4 align='center'>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy. - <a href='https://duckduckgo.com/?q=Wayne+Gretzky' target='_blank'>Wayne Gretzky</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
