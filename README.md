@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='I Loved You, What Happened?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735755e164993798e0c9ef7d7a' alt='Never Gonna Give You Up' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27339e6616a499bc092f469cae0' alt='So Good' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Phantom Regret by Jim' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6BC5HISRZvHCxcLDvO0Flu'>I Loved You, What Happened?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT'>Never Gonna Give You Up</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1NlK2NtpuUazpziLhnJwEV'>Phantom Regret by Jim</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
       </td>
     </tr>
   </table>
