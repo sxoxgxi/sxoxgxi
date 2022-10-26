@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Complicated-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Midsummer Madness-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273041398c37513dc22753ac3dc' alt='Complicated' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Less Than Zero' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Beautiful Mistakes (feat. Megan Thee Stallion)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733edd56946cb788a4d7457a08' alt='Over' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf'>Complicated</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA'>Less Than Zero</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM'>Over</a>
       </td>
     </tr>
   </table>
