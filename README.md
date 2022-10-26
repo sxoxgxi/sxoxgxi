@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Canada (feat. Alessia Cara)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,18 +27,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Maroon' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Karma' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='You're On Your Own, Kid' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Snow On The Beach (feat. Lana Del Rey)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Question...?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Midnight Rain' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Mastermind' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm'>Maroon</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf'>Karma</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t'>You're On Your Own, Kid</a>
       </td>
@@ -47,12 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B'>Question...?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4'>Midnight Rain</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH'>Mastermind</a>
       </td>
     </tr>
   </table>
