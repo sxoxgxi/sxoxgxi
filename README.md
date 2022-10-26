@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='You're On Your Own, Kid' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Snow On The Beach (feat. Lana Del Rey)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Question...?' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Mastermind' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Vigilante Shit' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t'>You're On Your Own, Kid</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h'>Snow On The Beach (feat. Lana Del Rey)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH'>Mastermind</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O'>Vigilante Shit</a>
       </td>
     </tr>
   </table>
