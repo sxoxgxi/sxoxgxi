@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz'>再会 (produced by Ayase)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf'>再会 (produced by Ayase)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Reputation' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3'>Nightly</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Patient' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl'>Patient</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR'>Voicenotes</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
       </td>
     </tr>
   </table>
