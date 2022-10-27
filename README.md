@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Reputation' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2'>Reputation</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx'>Twelve Carat Toothache</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Patient' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Labyrinth' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0'>Labyrinth</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr>
   </table>
