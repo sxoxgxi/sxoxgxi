@@ -190,7 +190,7 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Labyrinth' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Labyrinth' style='width:10%'>
       </td>
       <td>
       <a href='https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0'>Labyrinth</a>
