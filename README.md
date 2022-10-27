@@ -68,13 +68,13 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc' alt='Post Malone' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb12a2ef08d00dd7451a6dbed6' alt='Ed Sheeran' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -82,16 +82,16 @@
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'>Ed Sheeran</a>
       </td>
     </tr>
   </table>
@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d'>SLOW DANCING IN THE DARK</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/34GQP3dILpyCN018y2k61L'>BALLADS 1</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:10%'>
       </td>
       <td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27318871e29a5062e75ef624f42' alt='on your sleeve' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Patient' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394e71ca5acea8203c4aa120c' alt='Labyrinth' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0'>Labyrinth</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr>
   </table>
