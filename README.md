@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27370a876a3c430c3a30f37aabc' alt='One Day Less' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735fb9e3db7385a470bdf559a2' alt='Love Somebody' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy'>One Day Less</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7LEMGMfmJDd1iLsGD9eV5l'>Love Somebody</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
       </td>
     </tr>
   </table>
