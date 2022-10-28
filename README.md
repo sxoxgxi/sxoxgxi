@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is the art of drawing sufficient conclusions from insufficient premises. - <a href='https://duckduckgo.com/?q=Samuel+Butler' target='_blank'>Samuel Butler</a>.</h4>
+<h4 align='center'>Enjoy every minute of life. Never second-guess life. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
