@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Sucker-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-One Day Less-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fbe22d168a743b782a5e856a' alt='The Middle' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a2bb57af533aa1ba28bb97a3' alt='Slow Motion' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/30I7kdtPa1Nmun5I5bns7Q'>Slow Motion</a>
       </td>
     </tr>
   </table>
