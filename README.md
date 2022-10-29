@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='CWJBHN' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0cHLxojmTlaQwG9hxJW3l9'>CWJBHN</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi'>TWENTYTWENTY</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV'>Jake Scott</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='SLOW DANCING IN THE DARK' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz'>再会 (produced by Ayase)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf'>再会 (produced by Ayase)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
     </tr>
   </table>
