@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Enjoy every minute of life. Never second-guess life. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>If you want things to be different, perhaps the answer is to become different yourself. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
