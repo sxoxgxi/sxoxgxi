@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27347669a9be7d201ea97bbd3ee' alt='La La Lost You - Acoustic Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730acfd1cc37e7d4eacfa49c48' alt='Give Me Your Forever' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Visiting Hours' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27370a876a3c430c3a30f37aabc' alt='One Day Less' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN'>La La Lost You - Acoustic Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ'>Give Me Your Forever</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy'>One Day Less</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
       </td>
     </tr>
   </table>
