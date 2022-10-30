@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273335be3d98f11696dfd534dad' alt='Summer on You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='34+35' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730acfd1cc37e7d4eacfa49c48' alt='Give Me Your Forever' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Visiting Hours' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW'>Like I'm Gonna Lose You (feat. John Legend)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/07ipXN6CNTw34qwSYePKpg'>Summer on You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ'>Give Me Your Forever</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6'>Visiting Hours</a>
       </td>
     </tr>
   </table>
