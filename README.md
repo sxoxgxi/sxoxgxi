@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want things to be different, perhaps the answer is to become different yourself. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>I am not what happened to me, I am what I choose to become. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
