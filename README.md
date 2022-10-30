@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-LETTER-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Honest (feat. Don Toliver)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e666597c08e78ec12f18dcdc' alt='LETTER' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4' alt='you broke me first' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='Tell Your Friends' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273335be3d98f11696dfd534dad' alt='Summer on You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/46Gtgo6vbo88TNMyCeH4Ie'>LETTER</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR'>you broke me first</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW'>Like I'm Gonna Lose You (feat. John Legend)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/07ipXN6CNTw34qwSYePKpg'>Summer on You</a>
       </td>
     </tr>
   </table>
