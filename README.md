@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732d9f6ae65924916703d2686c' alt='Hacking to the Gate' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9bd3d1c0ca25bd54b50454c' alt='I Like Me Better' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334378507d3131f29899488ff' alt='mr. nice guy' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e666597c08e78ec12f18dcdc' alt='LETTER' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4' alt='you broke me first' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1g8hAGS8LJJQxMbtiz3AXU'>Hacking to the Gate</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3F9aav1FoBnfKGEdtuQWdu'>I Like Me Better</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/46Gtgo6vbo88TNMyCeH4Ie'>LETTER</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR'>you broke me first</a>
       </td>
     </tr>
   </table>
