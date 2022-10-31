@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Darl+ing-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Keep You Mine-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732139a9fca45751cc0b0f53ba' alt='Darl+ing' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825' alt='光るなら' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732d9f6ae65924916703d2686c' alt='Hacking to the Gate' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c9bd3d1c0ca25bd54b50454c' alt='I Like Me Better' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5'>Darl+ing</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3hciQHIJhgWPv6yJijAqWp'>Flowers</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1g8hAGS8LJJQxMbtiz3AXU'>Hacking to the Gate</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3F9aav1FoBnfKGEdtuQWdu'>I Like Me Better</a>
       </td>
     </tr>
   </table>
