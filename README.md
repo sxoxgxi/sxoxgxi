@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-I Cannot Be (A Sadder Song) (with Gunna)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf' alt='Beautiful (feat. Camila Cabello)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Kaikai Kitan' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Small Talk' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF'>Beautiful (feat. Camila Cabello)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny'>double take</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR'>again</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa'>Small Talk</a>
       </td>
     </tr>
   </table>
