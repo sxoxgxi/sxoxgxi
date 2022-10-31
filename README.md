@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Kaikai Kitan-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-double take-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Kaikai Kitan' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Everybody Wants You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos'>Kaikai Kitan</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/48EDM7iimVXiKEOdo4AJk6'>Everybody Wants You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
       </td>
     </tr>
   </table>
