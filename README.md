@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I am not what happened to me, I am what I choose to become. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
+<h4 align='center'>Embody what you teach, and teach only what you have embodied. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
