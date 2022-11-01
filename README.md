@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:10%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
+      <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw'>Heaven</a>
+      <a href='https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2'>Happiness Begins</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
+      <a href='https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD'>Jonas Brothers</a>
       </td>
     </tr>
   </table>
