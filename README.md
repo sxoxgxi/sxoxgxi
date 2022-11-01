@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-You Are The Reason - Duet Version-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Falling-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f035622d8fdf777b23e9a834' alt='You Are The Reason - Duet Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Midnight Rain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f15ba990dca222e9d5a43c3d' alt='You're the Reason' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596' alt='Butter' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Bad Habits' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6'>You Are The Reason - Duet Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4'>Midnight Rain</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB'>Butter</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d'>Bad Habits</a>
       </td>
     </tr>
   </table>
