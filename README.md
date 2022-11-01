@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-B.O.T.A. (Baddest Of Them All) - Edit-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sunroof-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb15b994e15a3a6634d1694e' alt='B.O.T.A. (Baddest Of Them All) - Edit' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273364ef5f9057092741f667fea' alt='Bam Bam (feat. Ed Sheeran)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f035622d8fdf777b23e9a834' alt='You Are The Reason - Duet Version' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Midnight Rain' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft'>B.O.T.A. (Baddest Of Them All) - Edit</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1'>Bam Bam (feat. Ed Sheeran)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6'>You Are The Reason - Duet Version</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4'>Midnight Rain</a>
       </td>
     </tr>
   </table>
