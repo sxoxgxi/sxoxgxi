@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Falling-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-The Calendar - Live from iTunes Sessions-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f035622d8fdf777b23e9a834' alt='You Are The Reason - Duet Version' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Midnight Rain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f15ba990dca222e9d5a43c3d' alt='You're the Reason' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394237be74edae41560152bce' alt='like i need u' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD'>Falling</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD'>Falling</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6OFiy3gqtMbtiU0yohX1zC'>You're the Reason</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim'>like i need u</a>
       </td>
     </tr>
   </table>
