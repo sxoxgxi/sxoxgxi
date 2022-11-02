@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-フェイクファーワルツ-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Mistletoe-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb15b994e15a3a6634d1694e' alt='B.O.T.A. (Baddest Of Them All) - Edit' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le'>フェイクファーワルツ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1'>Bam Bam (feat. Ed Sheeran)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD'>Falling</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD'>Falling</a>
