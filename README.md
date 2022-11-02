@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you spend too much time thinking about a thing, you'll never get it done.  - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
+<h4 align='center'>There is an essence of when you are fearless, you become more creative. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
