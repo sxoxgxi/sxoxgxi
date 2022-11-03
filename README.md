@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is an essence of when you are fearless, you become more creative. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
+<h4 align='center'>Your chances of success in any undertaking can always be measured by your belief in yourself. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
