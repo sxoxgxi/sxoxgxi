@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your chances of success in any undertaking can always be measured by your belief in yourself. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
+<h4 align='center'>Ripe fruit falls by itself - but it doesn't fall in your mouth.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
