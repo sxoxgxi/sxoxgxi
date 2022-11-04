@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d7979633993a4b041c443106' alt='Independence Center' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738175117ca44bb0d14796174e' alt='Mistletoe' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb15b994e15a3a6634d1694e' alt='B.O.T.A. (Baddest Of Them All) - Edit' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273364ef5f9057092741f667fea' alt='Bam Bam (feat. Ed Sheeran)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0lO7EDnHfZ2IApIrZModWl'>Independence Center</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l'>Mistletoe</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft'>B.O.T.A. (Baddest Of Them All) - Edit</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1'>Bam Bam (feat. Ed Sheeran)</a>
       </td>
     </tr>
   </table>
