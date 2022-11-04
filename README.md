@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730741a2bec17846cdda73207a' alt='1AM FREESTYLE' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730741a2bec17846cdda73207a' alt='Feeling Like The End' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730741a2bec17846cdda73207a' alt='Before The Day Is Over' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730741a2bec17846cdda73207a' alt='Dissolve' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d7979633993a4b041c443106' alt='Independence Center' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0FqBNLXlTNimxmVRdDMj6b'>1AM FREESTYLE</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1abwytAhbWeHrbsA9eODOy'>Feeling Like The End</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4DYKah8mcZf0O4l9Gt7woU'>Dissolve</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0lO7EDnHfZ2IApIrZModWl'>Independence Center</a>
       </td>
     </tr>
   </table>
