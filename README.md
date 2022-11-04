@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-BLAHBLAHBLAH DEMO-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Before The Day Is Over-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730741a2bec17846cdda73207a' alt='BLAHBLAHBLAH DEMO' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730741a2bec17846cdda73207a' alt='Dissolve' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d7979633993a4b041c443106' alt='Independence Center' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0B9D5rzkRgtuAVy4hQ84bD'>BLAHBLAHBLAH DEMO</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4DYKah8mcZf0O4l9Gt7woU'>Dissolve</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le'>フェイクファーワルツ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
       </td>
     </tr>
   </table>
