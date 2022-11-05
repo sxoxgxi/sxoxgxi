@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Ripe fruit falls by itself - but it doesn't fall in your mouth.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>If you are going to achieve excellence in big things, you develop the habit in little matters. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
