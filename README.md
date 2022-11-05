@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27324095cadba9d695e063d1f5d' alt='comethru' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ff3957846c7247b6f526ccc9' alt='Malibu Sunrise' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='CWJBHN' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730741a2bec17846cdda73207a' alt='NIGHT RIDER' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6lrufI7dOdltPpiscAnkvi'>comethru</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3xyAffYZR4biQ6JOKdvSuh'>Malibu Sunrise</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY'>always, i'll care</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I'>NIGHT RIDER</a>
       </td>
     </tr>
   </table>
