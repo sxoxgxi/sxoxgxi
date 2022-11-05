@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Too Late - 18if Episode 7.Ending-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-This City Remix (feat. Anne-Marie)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27328a3d6db59525d93b6fe5ecc' alt='Too Late - 18if Episode 7.Ending' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Perfect' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2TNJl8KvdEFW8FBXIoRxPO'>Too Late - 18if Episode 7.Ending</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4JofVLq2Axe90O7AuSvxEv'>Pancake</a>
       </td>
     </tr>
   </table>
