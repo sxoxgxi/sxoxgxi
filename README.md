@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Sky chord〜大人になる君へ〜-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-This Is Heaven-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273dfc39d3fc11404b8ca8ab7c1' alt='Brace It (feat. Ed Sheeran)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f' alt='Sunflower - Spider-Man: Into the Spider-Verse' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2735c243682bf7d1bbcec0ee000' alt='This City Remix (feat. Anne-Marie)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27328a3d6db59525d93b6fe5ecc' alt='Too Late - 18if Episode 7.Ending' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3yyzLkPAH8Go8yiCHDUOUZ'>Sky chord〜大人になる君へ〜</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7CkBMJ6tGJu3aRMPstGiWI'>Brace It (feat. Ed Sheeran)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs'>This City Remix (feat. Anne-Marie)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2TNJl8KvdEFW8FBXIoRxPO'>Too Late - 18if Episode 7.Ending</a>
       </td>
     </tr>
   </table>
