@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY'>always, i'll care</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF'>love is not dying</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3'>Jeremy Zucker</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='CWJBHN' style='width:10%'>
       </td>
       <td>
@@ -168,6 +152,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV'>Jake Scott</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY'>always, i'll care</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF'>love is not dying</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3'>Jeremy Zucker</a>
       </td>
     </tr>
     <tr align='center'>
