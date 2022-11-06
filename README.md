@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-How Could You?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Till I Collapse-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Insane' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273f17a48336d1a01731cea9a6d' alt='This Is Heaven' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3zuLmMxDrpk5J6dEh828CB'>How Could You?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2meHtZ7N97pJfvTL4hYtfv'>Insane</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/41bqjWvbH0bkuaNqbHy54l'>This Is Heaven</a>
       </td>
     </tr>
   </table>
