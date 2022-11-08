@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give more than you think you can, trusting that you are richer than you think. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
+<h4 align='center'>Be kind whenever possible. It is always possible. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
