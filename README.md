@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-The Drum-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='た、い、せ、つ Pile up' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='た、い、せ、つ Pile up' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e99d204567288c1806e5c127' alt='2step (feat. Lil Baby)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d7c6c95d3ad3d6f67de848d0' alt='Thinking out Loud' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732e6028f0c8fd029df19eb013' alt='Better' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D'>た、い、せ、つ Pile up</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D'>た、い、せ、つ Pile up</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf'>Better</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
       </td>
     </tr>
   </table>
