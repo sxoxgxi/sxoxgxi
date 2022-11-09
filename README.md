@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be kind whenever possible. It is always possible. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>Your chances of success in any undertaking can always be measured by your belief in yourself. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
