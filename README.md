@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your chances of success in any undertaking can always be measured by your belief in yourself. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
+<h4 align='center'>When angry count to ten before you speak. If very angry, count to one hundred. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
