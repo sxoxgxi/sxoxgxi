@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c3c387d65d710a1909ad410d' alt='2 soon' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='た、い、せ、つ Pile up' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='た、い、せ、つ Pile up' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv'>2 soon</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk'>IDK You Yet</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D'>た、い、せ、つ Pile up</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D'>た、い、せ、つ Pile up</a>
