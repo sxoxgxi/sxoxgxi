@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Phases-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Paused-Phases-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='た、い、せ、つ Pile up' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273e99d204567288c1806e5c127' alt='2step (feat. Lil Baby)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D'>た、い、せ、つ Pile up</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3gL6cSxG2YXajO5Mbxijbk'>2step (feat. Lil Baby)</a>
       </td>
     </tr>
   </table>
