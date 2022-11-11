@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When angry count to ten before you speak. If very angry, count to one hundred. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>It is better to learn late than never. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
