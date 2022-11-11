@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Crazy AF-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-summer-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2738dab548cea662866ee18da24' alt='Crazy AF' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739402c71bdf1f769c7eaaa1c8' alt='Love Somebody' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27394237be74edae41560152bce' alt='like i need u' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2732f391e979b5788753c5e397d' alt='With You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7sfhbwZHwE0Hx67bUbluIh'>Crazy AF</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2IzUjVfO3UrAY73UjHHsGi'>Love Somebody</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim'>like i need u</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za'>With You</a>
       </td>
     </tr>
   </table>
