@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Phobias' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273335be3d98f11696dfd534dad' alt='Summer on You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b819b14c019770086d5c0918' alt='I Wouldn't Know Any Better Than You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c59ca0ffeef8d8a1790a936a' alt='I Miss Myself (with HRVY)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273135a78be90223c126a4e2c36' alt='lowkey' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5W3lhjwMUhrkPmbmuYtc7j'>Phobias</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/07ipXN6CNTw34qwSYePKpg'>Summer on You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l'>I Miss Myself (with HRVY)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi'>lowkey</a>
       </td>
     </tr>
   </table>
