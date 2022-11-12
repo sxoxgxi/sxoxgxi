@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Another Night-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bad Things (with Camila Cabello)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310b194dc6443307f52d1e713' alt='Another Night' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Memories' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='Like No One Does' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='I.F.L.Y.' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3rJOFcVtvU6ggQwm1sO9Q4'>Another Night</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP'>Levitating</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0mHvg2txp2llyXiCJZgbCl'>Like No One Does</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4a6q8CR2hzLk2plDkSxkfD'>I.F.L.Y.</a>
       </td>
     </tr>
   </table>
