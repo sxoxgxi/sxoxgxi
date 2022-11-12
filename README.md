@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='Paris in the Rain' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c59ca0ffeef8d8a1790a936a' alt='I Miss Myself (with HRVY)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273135a78be90223c126a4e2c36' alt='lowkey' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731bae2bb66da464345022362d' alt='colorblind' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Mean It' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i'>Paris in the Rain</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l'>I Miss Myself (with HRVY)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0'>colorblind</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN'>Mean It</a>
       </td>
     </tr>
   </table>
