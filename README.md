@@ -29,18 +29,21 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Memories' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738dab548cea662866ee18da24' alt='Crazy AF' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='Like No One Does' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='I.F.L.Y.' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27336b12a4082f11d16a519b964' alt='Canada (feat. Alessia Cara)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
       <td>
       <a href='https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP'>Levitating</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI'>Memories</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/7sfhbwZHwE0Hx67bUbluIh'>Crazy AF</a>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4a6q8CR2hzLk2plDkSxkfD'>I.F.L.Y.</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Rf3dWdNQs5LTqFOiavqQr'>Canada (feat. Alessia Cara)</a>
       </td>
     </tr>
   </table>
