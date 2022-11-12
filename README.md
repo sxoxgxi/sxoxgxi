@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Are you happy?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bleeding Love-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Are you happy?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310b194dc6443307f52d1e713' alt='Another Night' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Memories' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738dab548cea662866ee18da24' alt='Crazy AF' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO'>Are you happy?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI'>Memories</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7sfhbwZHwE0Hx67bUbluIh'>Crazy AF</a>
       </td>
     </tr>
   </table>
