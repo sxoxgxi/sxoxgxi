@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc' alt='Post Malone' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc' alt='Post Malone' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
       </td>
     </tr>
   </table>
