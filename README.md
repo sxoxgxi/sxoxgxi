@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-I Wouldn't Know Any Better Than You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Summer on You-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b819b14c019770086d5c0918' alt='I Wouldn't Know Any Better Than You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='Paris in the Rain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c59ca0ffeef8d8a1790a936a' alt='I Miss Myself (with HRVY)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Why' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731bae2bb66da464345022362d' alt='colorblind' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC'>I Wouldn't Know Any Better Than You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i'>Paris in the Rain</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA'>Why</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0'>colorblind</a>
       </td>
     </tr>
   </table>
