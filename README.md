@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c794bacc5e9913acb1a435cd' alt='KISS OF DEATH' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c7f19f23d8351658de2a89a9' alt='Bleeding Love' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310b194dc6443307f52d1e713' alt='Another Night' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4RzQFsUzSjShauGbdngPRB'>KISS OF DEATH</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3rJOFcVtvU6ggQwm1sO9Q4'>Another Night</a>
       </td>
     </tr>
   </table>
