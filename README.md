@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Rolling star-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Forget Me-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='Rolling star' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27304e19ad4ca55b5610363a6cd' alt='Rain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273719548bf4aef48b52fbb3996' alt='Favourite Goodbye' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3' alt='Way Back Home' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0rVH35mmwtelHycrJxFexC'>Rolling star</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f'>Rain</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5WtJJe1lYmNHcN0Y97uBDA'>Favourite Goodbye</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
       </td>
     </tr>
   </table>
