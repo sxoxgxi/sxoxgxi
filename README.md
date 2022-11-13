@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Glimpse of Us (Her Perspective)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-I Love You 3000-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27369937cf201d756253baf8527' alt='Glimpse of Us (Her Perspective)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362d3381a88a63957b563967e' alt='Fallin’ (Adrenaline)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350b19213366e677d51ac470d' alt='Over the Phone' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4dBEjEcM90vRGuUOOTJxWU'>Glimpse of Us (Her Perspective)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz'>Fallin’ (Adrenaline)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2UfOII98Pgp0ugfokfGuCV'>Over the Phone</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
       </td>
     </tr>
   </table>
