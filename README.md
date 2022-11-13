@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Oh My God-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-On the Low-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Midnight Rain' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337a04015658168ca6e6e604a' alt='Stranger' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27369937cf201d756253baf8527' alt='Glimpse of Us (Her Perspective)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362d3381a88a63957b563967e' alt='Fallin’ (Adrenaline)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4'>Midnight Rain</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4dBEjEcM90vRGuUOOTJxWU'>Glimpse of Us (Her Perspective)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz'>Fallin’ (Adrenaline)</a>
       </td>
     </tr>
   </table>
