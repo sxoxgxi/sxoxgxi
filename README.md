@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-So Real-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-I’m a Mess (with YUNGBLUD)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e1539917eded787e1dd6d1d4' alt='So Real' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b47dff8e46168d9a7c9100f' alt='Forget Me - Piano Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273781904f69fd550c19e6e3b55' alt='My Mind & Me' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7Gh6I4qlsee2L32bUURjQr'>So Real</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB'>Forget Me - Piano Acoustic</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2WeUXHOVyMTcoeTZTdZbaU'>Mirage</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX'>Dancing in My Room</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX'>Dancing in My Room</a>
