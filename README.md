@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx'>Twelve Carat Toothache</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='CWJBHN' style='width:10%'>
       </td>
       <td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:10%'>
       </td>
@@ -184,6 +168,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3'>Jeremy Zucker</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx'>Twelve Carat Toothache</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
       </td>
     </tr>
     <tr align='center'>
