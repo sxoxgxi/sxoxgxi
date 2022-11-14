@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Cheating on You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Easier-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4' alt='Easy On Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273711fab3ee0bbeddfac44d7d6' alt='Forget Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='Rolling star' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq'>Cheating on You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX'>Easy On Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym'>Forget Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rVH35mmwtelHycrJxFexC'>Rolling star</a>
       </td>
     </tr>
   </table>
