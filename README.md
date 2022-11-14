@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mirage-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-My Mind & Me-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353b362a3674d13a9eee0653c' alt='Mirage' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c3c35e46c08ca30d6411bb' alt='I'm Not Sorry' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2WeUXHOVyMTcoeTZTdZbaU'>Mirage</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX'>Dancing in My Room</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4rGyk7HrRoG8NTP5l5ZM5J'>I'm Not Sorry</a>
       </td>
     </tr>
   </table>
