@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-LALISA-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,32 +27,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c3c35e46c08ca30d6411bb' alt='I'm Not Sorry' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563' alt='Señorita' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273332c88f9ee7c5942eb54f0b7' alt='Fit In' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7' alt='Easier' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
       <td>
+      <a href='https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX'>Dancing in My Room</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX'>Dancing in My Room</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX'>Dancing in My Room</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
+      </td>
+      <td>
       <a href='https://open.spotify.com/track/4rGyk7HrRoG8NTP5l5ZM5J'>I'm Not Sorry</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2'>Señorita</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7r7dFfSp2JjMJSm4L5iqtc'>Fit In</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI'>Easier</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq'>Cheating on You</a>
       </td>
     </tr>
   </table>
