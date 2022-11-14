@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Forget Me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Never Be The One-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f794162e1af35133229458cf' alt='Forget Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27339c1f773f83365d4dae1fd74' alt='I’m a Mess (with YUNGBLUD)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e1539917eded787e1dd6d1d4' alt='So Real' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273781904f69fd550c19e6e3b55' alt='My Mind & Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353b362a3674d13a9eee0653c' alt='Mirage' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2XhSWQJMPYdZRJotljAm7b'>Forget Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj'>I’m a Mess (with YUNGBLUD)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y'>My Mind & Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2WeUXHOVyMTcoeTZTdZbaU'>Mirage</a>
       </td>
     </tr>
   </table>
