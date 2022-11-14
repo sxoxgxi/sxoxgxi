@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Never Be The One-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Weapons-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736c865ddf06b08966de1f1f71' alt='Never Be The One' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f794162e1af35133229458cf' alt='Forget Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27339c1f773f83365d4dae1fd74' alt='I’m a Mess (with YUNGBLUD)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b47dff8e46168d9a7c9100f' alt='Forget Me - Piano Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273781904f69fd550c19e6e3b55' alt='My Mind & Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8'>Never Be The One</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2XhSWQJMPYdZRJotljAm7b'>Forget Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB'>Forget Me - Piano Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y'>My Mind & Me</a>
       </td>
     </tr>
   </table>
