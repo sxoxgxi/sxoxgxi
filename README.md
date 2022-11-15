@@ -126,22 +126,6 @@
       <td>
       1
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ'>Saiaku Saiai</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav'>Higuchi Ai</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273df22cf7acc0ea44086e64ea3' alt='CWJBHN' style='width:10%'>
       </td>
       <td>
@@ -156,7 +140,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      2
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:10%'>
       </td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD'>Jonas Brothers</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Midnight Rain' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4'>Midnight Rain</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr>
   </table>
