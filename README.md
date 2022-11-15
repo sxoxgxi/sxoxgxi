@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>One is never afraid of the unknown; one is afraid of the known coming to an end. - <a href='https://duckduckgo.com/?q=Jiddu+Krishnamurti' target='_blank'>Jiddu Krishnamurti</a>.</h4>
+<h4 align='center'>You can suffer the pain of change or suffer remaining the way you are. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
