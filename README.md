@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273467d53de4dcd13656be18e48' alt='Weapons' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736c865ddf06b08966de1f1f71' alt='Never Be The One' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f794162e1af35133229458cf' alt='Forget Me' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e1539917eded787e1dd6d1d4' alt='So Real' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b47dff8e46168d9a7c9100f' alt='Forget Me - Piano Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E'>Weapons</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8'>Never Be The One</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7Gh6I4qlsee2L32bUURjQr'>So Real</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB'>Forget Me - Piano Acoustic</a>
       </td>
     </tr>
   </table>
