@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can suffer the pain of change or suffer remaining the way you are. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
+<h4 align='center'>Don't be afraid to stand for what you believe in, even if that means standing alone. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
