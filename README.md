@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='drivers license' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a2bb57af533aa1ba28bb97a3' alt='Slow Motion' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0b57487e4c9b506906203d' alt='Snow Fairy' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b4d0d46e3a2e317576648b12' alt='Cold Heart - Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27379bd6e8222975ccfa35f2321' alt='Ghosts' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH'>drivers license</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/30I7kdtPa1Nmun5I5bns7Q'>Slow Motion</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9'>Cold Heart - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/17DTV3UEaE6T8yWgygOUlW'>Ghosts</a>
       </td>
     </tr>
   </table>
