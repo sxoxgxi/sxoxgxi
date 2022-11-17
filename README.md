@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-i'm so tired...-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Perfect-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='i'm so tired...' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273136ef277a0791089f46628bb' alt='Cherry Wine' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27331d97a3a8995847ba3fe5e08' alt='Bois Lie (feat. Machine Gun Kelly) - Acoustic' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734bf585b597bb024c29251b8a' alt='雪の華' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f685067786c7e2d1253ecff' alt='crossing field' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91'>i'm so tired...</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce'>Cherry Wine</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Zyizxfz4NXdCgVLwhuBNw'>雪の華</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw'>crossing field</a>
       </td>
     </tr>
   </table>
