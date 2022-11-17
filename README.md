@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Adelaide-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Fade Away-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Adelaide' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b58a365796533f2d8ea6b67' alt='On the Low' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbb908821bcabe1808e62652' alt='Night Changes (50 Years Later)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6Ptb2JSW4var9dPGCmsm3s'>Adelaide</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4MIKclDDgZgzuaATP5yOjW'>On the Low</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7aULvZzL8fLVQZIhihawOn'>Night Changes (50 Years Later)</a>
       </td>
     </tr>
   </table>
