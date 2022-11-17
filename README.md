@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Lemon Tree-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Late Night Talking-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbb908821bcabe1808e62652' alt='Night Changes (50 Years Later)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273af6b2fca3b6e24612a5fe5d8' alt='Perfect Duet (Ed Sheeran & Beyoncé)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='drivers license' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7aULvZzL8fLVQZIhihawOn'>Night Changes (50 Years Later)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH'>drivers license</a>
       </td>
     </tr>
   </table>
