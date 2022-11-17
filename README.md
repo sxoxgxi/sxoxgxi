@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Ghosts-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,32 +27,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a019b3d28cb8e6ae5c77a4bc' alt='Josslyn' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='I Write Sins Not Tragedies' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7' alt='Glimpse of Us' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccf5d223349faaca1c9a1b9' alt='Haru wo Tsugeru' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Dusk Till Dawn (feat. Sia) - Radio Edit' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw'>Nothing Without You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw'>Nothing Without You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/37ZKB38iNyKJ0xYEz9SJgk'>Josslyn</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz'>I Write Sins Not Tragedies</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ'>Glimpse of Us</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m'>Haru wo Tsugeru</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP'>Dusk Till Dawn (feat. Sia) - Radio Edit</a>
       </td>
     </tr>
   </table>
