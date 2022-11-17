@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Be Okay (with HRVY)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-crossing field-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273559a672bc6ebc4409bc9a5e8' alt='Be Okay (with HRVY)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Question...?' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ee9a4159b6bd21729e1c460' alt='YUKON (INTERLUDE)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f8a1e4eb400e681a7d8152c2' alt='Suzume no Tojimari' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273537f0cc27d06681a55dc38e8' alt='Car Crash' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW'>Be Okay (with HRVY)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B'>Question...?</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4wlOGHCurUTa60NQGP2pXV'>Suzume no Tojimari</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2tlJ22iQwiO1CWBQSma23n'>Car Crash</a>
       </td>
     </tr>
   </table>
