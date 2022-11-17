@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Suzume no Tojimari-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sanctuary-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f8a1e4eb400e681a7d8152c2' alt='Suzume no Tojimari' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273537f0cc27d06681a55dc38e8' alt='Car Crash' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8' alt='Nothing Breaks Like a Heart (feat. Miley Cyrus)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d44e723b677380dfbc899bcd' alt='Rewrite The Stars' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4wlOGHCurUTa60NQGP2pXV'>Suzume no Tojimari</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2tlJ22iQwiO1CWBQSma23n'>Car Crash</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN'>Rewrite The Stars</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2Oa3diV0ey46LiFxhIyPRU'>Fade Away</a>
       </td>
     </tr>
   </table>
