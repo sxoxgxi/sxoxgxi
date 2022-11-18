@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-take care-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Love On The Brain-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d50b8016db50b9b0fb746ed0' alt='take care' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Fantasy' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Perfect' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Perfect' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2ajQK2iRKBuDGxMeBxDzPA'>take care</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK'>Fantasy</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW'>Dynamite</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v'>Perfect</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v'>Perfect</a>
