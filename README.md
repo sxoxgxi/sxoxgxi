@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Monster (Shawn Mendes & Justin Bieber)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-ily (i love you baby) (feat. Emilee)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337a5a19e52f8260b3b158e55' alt='Monster (Shawn Mendes & Justin Bieber)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737aa5933e6a7138c955fb41cd' alt='Walked Through Hell' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720' alt='It's You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If I Killed Someone For You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='dawn' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1HbA4N1MiOsPthALesGFR1'>Monster (Shawn Mendes & Justin Bieber)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI'>Walked Through Hell</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ'>If I Killed Someone For You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3bsORY9UfPVd4yWyuS2Xoc'>dawn</a>
       </td>
     </tr>
   </table>
