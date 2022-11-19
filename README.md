@@ -126,22 +126,6 @@
       <td>
       1
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2'>Happiness Begins</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD'>Jonas Brothers</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Midnight Rain' style='width:10%'>
       </td>
       <td>
@@ -156,23 +140,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Reputation' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2'>Reputation</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx'>Twelve Carat Toothache</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
+      2
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:10%'>
       </td>
@@ -188,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
       </td>
@@ -200,6 +168,38 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP'>These Two Windows</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738dab548cea662866ee18da24' alt='Crazy AF' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7sfhbwZHwE0Hx67bUbluIh'>Crazy AF</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7'>She Do</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI'>In Real Life</a>
       </td>
     </tr>
   </table>
