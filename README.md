@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Why do you stay in prison when the door is so wide open? - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Some of us learn from other people's mistakes and the rest of us have to be other people.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
