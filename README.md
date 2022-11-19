@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Akuma no Ko-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-I Like You (A Happier Song) (with Doja Cat)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a47a8c37f83710d4ce75362' alt='everything sucks' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310179936604a42f16280835e' alt='残響散歌' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093' alt='Love On The Brain' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093' alt='Love On The Brain' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK'>everything sucks</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5iscL6Ehw0Ch3B5Rs0KDP1'>Clouds</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp'>Love On The Brain</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp'>Love On The Brain</a>
