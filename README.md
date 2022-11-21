@@ -29,13 +29,13 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f399efa20097105e9db88560' alt='Weightless' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f399efa20097105e9db88560' alt='Weightless' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733fa1ea375a76d60d7977eb0e' alt='Never A Lover' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733fa1ea375a76d60d7977eb0e' alt='Never A Lover' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f399efa20097105e9db88560' alt='Weightless' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Beautiful Mistakes (feat. Megan Thee Stallion)' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -43,6 +43,9 @@
       <a href='https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6'>Weightless</a>
       </td>
       <td>
+      <a href='https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6'>Weightless</a>
+      </td>
+      <td>
       <a href='https://open.spotify.com/track/6bpiQB6UXAoZxmqFDPIv3b'>Never A Lover</a>
       </td>
       <td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6'>Weightless</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL'>Beautiful Mistakes (feat. Megan Thee Stallion)</a>
       </td>
     </tr>
   </table>
