@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731e8fd05e38f85c0a52bf017f' alt='Stfu' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f399efa20097105e9db88560' alt='Weightless' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f399efa20097105e9db88560' alt='Weightless' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez'>You Right</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0BpjobiFk5uMp4u9I9I2bM'>The Calendar - Live from iTunes Sessions</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6'>Weightless</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6'>Weightless</a>
