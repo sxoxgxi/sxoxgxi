@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The dreamers are the saviors of the worlds. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>From a certain point onward there is no longer any turning back. That is the point that must be reached. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
