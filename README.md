@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7c3c6b1c40e7b6d1740824f' alt='アイセタ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Before The Day Is Over' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730b7550a3743a97626d2beae9' alt='WHITE ALBUM' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz'>アイセタ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt'>Party Monster</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03'>Before The Day Is Over</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3RvWNzjUkzy2TVTTf6Nv5P'>WHITE ALBUM</a>
       </td>
     </tr>
   </table>
