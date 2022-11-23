@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fdd9fc8745ed9185dc95873' alt='On The Ground' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7' alt='Glimpse of Us' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2xgACMNtJ5YktyvOC83SPO'>On The Ground</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ'>Glimpse of Us</a>
       </td>
     </tr>
   </table>
