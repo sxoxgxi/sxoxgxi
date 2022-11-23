@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-drunk-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Glimpse of Us-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273563944da62812cc5c6e2fe6f' alt='drunk' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737797b90c9b00241d8002a465' alt='君の行方' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9'>drunk</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4JofVLq2Axe90O7AuSvxEv'>Pancake</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2ULRlLFeju0tYtGEI7gjTJ'>君の行方</a>
       </td>
     </tr>
   </table>
