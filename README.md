@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-On The Ground-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Paradise-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fdd9fc8745ed9185dc95873' alt='On The Ground' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273988965647cf9918f515ae79a' alt='blur' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7' alt='Glimpse of Us' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273563944da62812cc5c6e2fe6f' alt='drunk' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2xgACMNtJ5YktyvOC83SPO'>On The Ground</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk'>IDK You Yet</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ'>Glimpse of Us</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9'>drunk</a>
       </td>
     </tr>
   </table>
