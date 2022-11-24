@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm'>It’s Never Really Over (Expanded)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw'>347aidan</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm'>It’s Never Really Over (Expanded)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
       </td>
     </tr>
   </table>
