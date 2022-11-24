@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>From a certain point onward there is no longer any turning back. That is the point that must be reached. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
+<h4 align='center'>The happiest people in the world are those who feel absolutely terrific about themselves. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
