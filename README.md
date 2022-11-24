@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-雨とカプチーノ-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-五月は花緑青の窓辺から-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='雨とカプチーノ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='憂一乗' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='創作' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732794743c6eb13addc2b01420' alt='爆弾魔 - Re-Recording' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7rX3Gw6nyUuMjiZqe5jyr5'>雨とカプチーノ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1GURqvJ665JtnUp4UmFFm4'>創作</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D'>爆弾魔 - Re-Recording</a>
       </td>
     </tr>
   </table>
