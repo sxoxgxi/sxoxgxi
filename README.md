@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Woke Up in Love (feat. Gryffin & Calum Scott) - Alok Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-DREAM-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b70b12867612fc63a8e35f24' alt='Woke Up in Love (feat. Gryffin & Calum Scott) - Alok Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27367b936d1fee0fde9ecb62da3' alt='Be Alright' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d4f532251adabe3f209e10ce' alt='In Your Arms' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d3a032e8aceb0860299d86d' alt='Ivy Ivy Ivy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27375dc223a58e208c4b3358b8b' alt='KANATA HALUKA' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4HhbayK9gyPmR7Da1e4bN8'>Woke Up in Love (feat. Gryffin & Calum Scott) - Alok Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb'>Be Alright</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ'>Ivy Ivy Ivy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/41CCm3f4KuFKKnsHfc1k99'>KANATA HALUKA</a>
       </td>
     </tr>
   </table>
