@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-だから僕は音楽を辞めた-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-幼年期、思い出の中-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c' alt='だから僕は音楽を辞めた' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c' alt='八月、某、月明かり' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='海底、月明かり' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736954923b6cbb87982a882b4c' alt='Harukaze' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736954923b6cbb87982a882b4c' alt='Harukaze' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM'>だから僕は音楽を辞めた</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2dZP7UEXGIvn1HXgfWFA3Z'>八月、某、月明かり</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ'>老人と海</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/21Jj7td1D5HQYr18MLZTLS'>Harukaze</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/21Jj7td1D5HQYr18MLZTLS'>Harukaze</a>
