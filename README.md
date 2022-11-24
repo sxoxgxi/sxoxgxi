@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-KANATA HALUKA-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Ivy Ivy Ivy-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27375dc223a58e208c4b3358b8b' alt='KANATA HALUKA' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dac8d7043df4091bc509410a' alt='Back Home' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b50274b3e937810fd02c056' alt='Late in the Evening' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e178854bead6823af93b59f4' alt='almost happy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c75885ab275c38af0f3f264d' alt='Gone Girl' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/41CCm3f4KuFKKnsHfc1k99'>KANATA HALUKA</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0w8BI11RZrntFlSNoMlS0E'>Back Home</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky'>almost happy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5HT1AEvDdBgwAxbQc9GLtS'>Gone Girl</a>
       </td>
     </tr>
   </table>
