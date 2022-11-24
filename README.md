@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-10:35-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Late in the Evening-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273999565cd8bea3f8f0985bb31' alt='10:35' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e178854bead6823af93b59f4' alt='almost happy' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c75885ab275c38af0f3f264d' alt='Gone Girl' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334378507d3131f29899488ff' alt='mr. nice guy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c7444a93f5d36cf9bbd37278' alt='P.G.N.L.' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3'>10:35</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky'>almost happy</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7hAJdc1P2u9q8G6ucKlZD0'>mr. nice guy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz'>P.G.N.L.</a>
       </td>
     </tr>
   </table>
