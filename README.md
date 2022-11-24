@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-老人と海-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-August 15-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a8fba2c2b6f814544da279d1' alt='老人と海' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736954923b6cbb87982a882b4c' alt='Harukaze' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736954923b6cbb87982a882b4c' alt='Harukaze' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい - Jazz Version' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27330fdefaca063c694d69d7eca' alt='If I Could Draw Life' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ'>老人と海</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/21Jj7td1D5HQYr18MLZTLS'>Harukaze</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4IsFOV8PfgblaWoFTPqHhW'>ばかみたい - Jazz Version</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR'>If I Could Draw Life</a>
       </td>
     </tr>
   </table>
