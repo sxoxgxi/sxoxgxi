@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-盗作-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-雨とカプチーノ-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e8e0f647681d382ff59598a' alt='盗作' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='森の教会' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27328b535c92629e3c8d20ec242' alt='準透明少年' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c' alt='五月は花緑青の窓辺から' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='雨とカプチーノ' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4NUDg0G6FgcfkxNUbYuOsU'>盗作</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3x5xoVNp8DDYjKKo13OFTV'>森の教会</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/26GW1dAtZ9Ya1GB7bbB9aO'>五月は花緑青の窓辺から</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7rX3Gw6nyUuMjiZqe5jyr5'>雨とカプチーノ</a>
       </td>
     </tr>
   </table>
