@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Carry It Well - Acoustic-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-If I Could Draw Life-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273527fc764c054d146f239da85' alt='Carry It Well - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735fd71030aee6507ffa659b25' alt='DREAM' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b70b12867612fc63a8e35f24' alt='Woke Up in Love (feat. Gryffin & Calum Scott) - Alok Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d4f532251adabe3f209e10ce' alt='In Your Arms' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718ed75bdf6e3addbf37be8' alt='一斉ノ喝采' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5WD2D369riKav4v92rzFjz'>Carry It Well - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0PwknbaUVwXJSmRh7qSfyi'>DREAM</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7wvzAosZd42KdvkATrDxP0'>In Your Arms</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4XP3BtzCEjRYff2K0M1HkY'>一斉ノ喝采</a>
       </td>
     </tr>
   </table>
