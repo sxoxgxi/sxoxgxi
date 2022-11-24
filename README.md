@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d44e723b677380dfbc899bcd' alt='Rewrite The Stars' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2' alt='Shallow - Radio Edit' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Up Down' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='Never Not' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN'>Rewrite The Stars</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj'>Shallow - Radio Edit</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2tMI3Vki6rmg1Q1Q5oJDq8'>Up Down</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC'>Never Not</a>
       </td>
     </tr>
   </table>
