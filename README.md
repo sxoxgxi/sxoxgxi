@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい - Jazz Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27330fdefaca063c694d69d7eca' alt='If I Could Draw Life' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273527fc764c054d146f239da85' alt='Carry It Well - Acoustic' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b70b12867612fc63a8e35f24' alt='Woke Up in Love (feat. Gryffin & Calum Scott) - Alok Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27367b936d1fee0fde9ecb62da3' alt='Be Alright' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4IsFOV8PfgblaWoFTPqHhW'>ばかみたい - Jazz Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR'>If I Could Draw Life</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4HhbayK9gyPmR7Da1e4bN8'>Woke Up in Love (feat. Gryffin & Calum Scott) - Alok Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb'>Be Alright</a>
       </td>
     </tr>
   </table>
