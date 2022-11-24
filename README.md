@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='海底、月明かり' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a8fba2c2b6f814544da279d1' alt='老人と海' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736954923b6cbb87982a882b4c' alt='Harukaze' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362a26a93b759253f87655fb5' alt='ばかみたい' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい - Jazz Version' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/56xDh58H5z7NPMlgXkTQA3'>海底、月明かり</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ'>老人と海</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7yadrxEVKq8z9Oo6Bq6mDU'>ばかみたい</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4IsFOV8PfgblaWoFTPqHhW'>ばかみたい - Jazz Version</a>
       </td>
     </tr>
   </table>
