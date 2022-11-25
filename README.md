@@ -74,7 +74,7 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5' alt='keshi' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -91,7 +91,7 @@
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO'>keshi</a>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
     </tr>
   </table>
