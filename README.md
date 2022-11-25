@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The happiest people in the world are those who feel absolutely terrific about themselves. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Care about what other people think and you will always be their prisoner. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
