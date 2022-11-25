@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5061c4ad9a2daa03bdb9291' alt='そばにいるよ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353b362a3674d13a9eee0653c' alt='Mirage' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db1b28ec01391e71a2147131' alt='雨とカプチーノ' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='森の教会' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27328b535c92629e3c8d20ec242' alt='準透明少年' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K'>そばにいるよ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2WeUXHOVyMTcoeTZTdZbaU'>Mirage</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3x5xoVNp8DDYjKKo13OFTV'>森の教会</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7nj9JW6QQrholNi2R2lffN'>準透明少年</a>
       </td>
     </tr>
   </table>
