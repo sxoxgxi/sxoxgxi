@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba8db944ef3e2846ba9efa57' alt='Let Me Love You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c3c387d65d710a1909ad410d' alt='2 soon' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737644d3cdf5795c3fed7acdfd' alt='Let Me Down Slowly (Her Perspective)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e8e0f647681d382ff59598a' alt='盗作' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27330fdefaca063c694d69d7eca' alt='The Swallow (feat. Midories)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP'>Let Me Love You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv'>2 soon</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4NUDg0G6FgcfkxNUbYuOsU'>盗作</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y'>The Swallow (feat. Midories)</a>
       </td>
     </tr>
   </table>
