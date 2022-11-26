@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737644d3cdf5795c3fed7acdfd' alt='Let Me Down Slowly (Her Perspective)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27369937cf201d756253baf8527' alt='Glimpse of Us (Her Perspective)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e8e0f647681d382ff59598a' alt='盗作' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273467ec925f705206028712da7' alt='麻痺' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5061c4ad9a2daa03bdb9291' alt='そばにいるよ' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/529ygq3Rx0VDN8lZ2UmpGK'>Let Me Down Slowly (Her Perspective)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4dBEjEcM90vRGuUOOTJxWU'>Glimpse of Us (Her Perspective)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb'>麻痺</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K'>そばにいるよ</a>
       </td>
     </tr>
   </table>
