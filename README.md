@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Losing You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bejeweled-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Losing You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Heaven' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98' alt='Tennis Court' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Phantom Regret by Jim' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM'>Losing You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp'>Heaven</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/334P3X7h4tDWeVU4kQ6Sjy'>Sacrifice</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1NlK2NtpuUazpziLhnJwEV'>Phantom Regret by Jim</a>
       </td>
     </tr>
   </table>
