@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You may think I'm small, but I have a universe inside my mind. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
+<h4 align='center'>Creative people are often found either disagreeable or intimidating by mediocrities. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
