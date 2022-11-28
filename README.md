@@ -70,11 +70,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -85,13 +85,13 @@
       <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-      <td>
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
       </td>
     </tr>
   </table>
@@ -142,38 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm'>It’s Never Really Over (Expanded)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC'>Keep You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:10%'>
       </td>
       <td>
@@ -188,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:10%'>
       </td>
@@ -200,6 +168,38 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw'>347aidan</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm'>It’s Never Really Over (Expanded)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP'>These Two Windows</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
     </tr>
   </table>
