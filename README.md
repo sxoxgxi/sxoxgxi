@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing that results in human progress is achieved with unanimous consent. - <a href='https://duckduckgo.com/?q=Christopher+Columbus' target='_blank'>Christopher Columbus</a>.</h4>
+<h4 align='center'>Better to have, and not need, than to need, and not have. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
