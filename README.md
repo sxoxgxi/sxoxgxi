@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-一斉ノ喝采-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Be Alright-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718ed75bdf6e3addbf37be8' alt='一斉ノ喝采' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d3a032e8aceb0860299d86d' alt='Ivy Ivy Ivy' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27346f1ac8f9ebfd8f777b24ce0' alt='影子对手 (Shadow of Mine) [feat. 段奥娟]' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273992a1f56ac5382848277cff2' alt='Born Again' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4XP3BtzCEjRYff2K0M1HkY'>一斉ノ喝采</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ'>Ivy Ivy Ivy</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc'>I Can't Love You Anymore - In Rare Form</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg'>Born Again</a>
       </td>
     </tr>
   </table>
