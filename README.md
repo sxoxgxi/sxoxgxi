@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273339d2501b841d80e9926141d' alt='All By Myself - Club Mix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9108ff83bf5e3a372b3576b' alt='I'll Be Home For Christmas' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dac8d7043df4091bc509410a' alt='Back Home' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718ed75bdf6e3addbf37be8' alt='一斉ノ喝采' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d3a032e8aceb0860299d86d' alt='Ivy Ivy Ivy' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2STdoaCLn66QeImEGQf6ed'>All By Myself - Club Mix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W'>I'll Be Home For Christmas</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4XP3BtzCEjRYff2K0M1HkY'>一斉ノ喝采</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ'>Ivy Ivy Ivy</a>
       </td>
     </tr>
   </table>
