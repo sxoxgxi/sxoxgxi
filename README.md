@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you reach the top of the mountain, keep climbing.  - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>A lot of people have gone further than they thought they could because someone else thought they could. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
