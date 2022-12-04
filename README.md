@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737c497fe3dc3a9370c50a54d0' alt='Taurus (feat. Naomi Wild) - From The Motion Picture Taurus' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f8edde8fc8ad859978597d8e' alt='Real Life [Jethro Sheeran Remix]' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e7038b20e0a14f0cdce404b1' alt='Christmas List' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273708898b110e9f1acc1ae5617' alt='Sorry To Me Too' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6J3Yay84inLJ6b37lpaHFi'>Taurus (feat. Naomi Wild) - From The Motion Picture Taurus</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/76woGeRtSxxiU8K0WxtP9Z'>Real Life [Jethro Sheeran Remix]</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5'>Sorry To Me Too</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
       </td>
     </tr>
   </table>
