@@ -174,22 +174,6 @@
       <td>
       4
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm'>It’s Never Really Over (Expanded)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:10%'>
       </td>
       <td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273559a672bc6ebc4409bc9a5e8' alt='Be Okay (with HRVY)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW'>Be Okay (with HRVY)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v'>Be Okay (with HRVY)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
       </td>
     </tr>
   </table>
