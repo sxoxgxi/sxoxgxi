@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Christmas List-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Real Life [Jethro Sheeran Remix]-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e7038b20e0a14f0cdce404b1' alt='Christmas List' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9108ff83bf5e3a372b3576b' alt='I'll Be Home For Christmas' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273708898b110e9f1acc1ae5617' alt='Sorry To Me Too' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273339d2501b841d80e9926141d' alt='All By Myself - Club Mix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9108ff83bf5e3a372b3576b' alt='I'll Be Home For Christmas' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn'>Christmas List</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W'>I'll Be Home For Christmas</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2STdoaCLn66QeImEGQf6ed'>All By Myself - Club Mix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W'>I'll Be Home For Christmas</a>
       </td>
     </tr>
   </table>
