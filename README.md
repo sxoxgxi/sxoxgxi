@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What people say, what people do, and what they say they do are entirely different things.  - <a href='https://duckduckgo.com/?q=Margaret+Mead' target='_blank'>Margaret Mead</a>.</h4>
+<h4 align='center'>Don't blame others. it won't make you a better person. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
