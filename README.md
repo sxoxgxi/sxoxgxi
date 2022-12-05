@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Nothing's the Same-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-The Motto-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5b0a50f80e21a5593c5aa4d' alt='Nothing's the Same' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Woman' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a97ec7e746405e21ee738285' alt='Gifted' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27326c8d668370af8fe0b5f50c0' alt='You Know What I Need' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3vSLSOhE8HWBC2WiN0j0hD'>Nothing's the Same</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4'>Woman</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3tGLzQPgd3pncT8dYE65WP'>Gifted</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl'>You Know What I Need</a>
       </td>
     </tr>
   </table>
