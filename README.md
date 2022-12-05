@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Crazy AF-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Heaven-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738dab548cea662866ee18da24' alt='Crazy AF' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56' alt='Kiss Me More (feat. SZA)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273719548bf4aef48b52fbb3996' alt='Favourite Goodbye' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5b0a50f80e21a5593c5aa4d' alt='Nothing's the Same' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Woman' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7sfhbwZHwE0Hx67bUbluIh'>Crazy AF</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/748mdHapucXQri7IAO8yFK'>Kiss Me More (feat. SZA)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3vSLSOhE8HWBC2WiN0j0hD'>Nothing's the Same</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4'>Woman</a>
       </td>
     </tr>
   </table>
