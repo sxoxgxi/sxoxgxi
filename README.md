@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a97ec7e746405e21ee738285' alt='Gifted' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27326c8d668370af8fe0b5f50c0' alt='You Know What I Need' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b9e3bc0507bae9257290f7da' alt='Paper Crown' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27320b8f4961ed1a7933750d1e8' alt='Pointless' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d6fe31330875e36304af093e' alt='LIGHTNING' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3tGLzQPgd3pncT8dYE65WP'>Gifted</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl'>You Know What I Need</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347'>Pointless</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5'>LIGHTNING</a>
       </td>
     </tr>
   </table>
