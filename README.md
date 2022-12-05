@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f035622d8fdf777b23e9a834' alt='You Are The Reason - Duet Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5061c4ad9a2daa03bdb9291' alt='そばにいるよ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Maniac' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ff963931b177a82e7ba7b0d' alt='チノカテ' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6'>You Are The Reason - Duet Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K'>そばにいるよ</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5luB0CY6Gsobgob9BHWlNg'>Maniac</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx'>チノカテ</a>
       </td>
     </tr>
   </table>
