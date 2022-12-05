@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-チノカテ-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Maniac-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ff963931b177a82e7ba7b0d' alt='チノカテ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b32d2b30f890b578da3aaff1' alt='Palladium' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Coping' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27375a2c90eca545e6b0557897c' alt='Rap God - Mr. Cii Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx'>チノカテ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I'>Palladium</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/334P3X7h4tDWeVU4kQ6Sjy'>Sacrifice</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1p8tL0q77EnKkSFssFsXNu'>Rap God - Mr. Cii Remix</a>
       </td>
     </tr>
   </table>
