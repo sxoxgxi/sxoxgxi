@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273719548bf4aef48b52fbb3996' alt='Favourite Goodbye' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f48761e92fe02f2a85cc296' alt='Come Over (feat. Anne-Marie) - Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5b0a50f80e21a5593c5aa4d' alt='Nothing's the Same' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5WtJJe1lYmNHcN0Y97uBDA'>Favourite Goodbye</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/40F7w1M0B4KODoiCsbZy8W'>Come Over (feat. Anne-Marie) - Acoustic</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3hciQHIJhgWPv6yJijAqWp'>Flowers</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
       </td>
     </tr>
   </table>
