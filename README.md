@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738dab548cea662866ee18da24' alt='Crazy AF' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7sfhbwZHwE0Hx67bUbluIh'>Crazy AF</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7'>She Do</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI'>In Real Life</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw'>347aidan</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW'>Soul Searching</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
     </tr>
   </table>
