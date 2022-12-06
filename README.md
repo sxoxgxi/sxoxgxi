@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Come Over (feat. Anne-Marie) - Acoustic-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Real Life [Jethro Sheeran Remix]-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f48761e92fe02f2a85cc296' alt='Come Over (feat. Anne-Marie) - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Forever' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c7444a93f5d36cf9bbd37278' alt='P.G.N.L.' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273992a1f56ac5382848277cff2' alt='Born Again' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733327143dd0629e27a9f44c93' alt='Bruises - Steve Void Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/40F7w1M0B4KODoiCsbZy8W'>Come Over (feat. Anne-Marie) - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3'>Forever</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg'>Born Again</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG'>Bruises - Steve Void Remix</a>
       </td>
     </tr>
   </table>
