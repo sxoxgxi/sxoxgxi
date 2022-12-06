@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW'>Soul Searching</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273559a672bc6ebc4409bc9a5e8' alt='Be Okay (with HRVY)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW'>Be Okay (with HRVY)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v'>Be Okay (with HRVY)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
       </td>
     </tr>
   </table>
