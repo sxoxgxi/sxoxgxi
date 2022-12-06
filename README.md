@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bruises - Steve Void Remix-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b154bc645350b122934566e4' alt='Drown (feat. Clinton Kane)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f035622d8fdf777b23e9a834' alt='You Are The Reason - Duet Version' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5061c4ad9a2daa03bdb9291' alt='そばにいるよ' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a' alt='Cry Baby' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Maniac' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4'>Drown (feat. Clinton Kane)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6'>You Are The Reason - Duet Version</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK'>Cry Baby</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5luB0CY6Gsobgob9BHWlNg'>Maniac</a>
       </td>
     </tr>
   </table>
