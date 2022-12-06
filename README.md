@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Born Again-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Love Me More-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273992a1f56ac5382848277cff2' alt='Born Again' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733327143dd0629e27a9f44c93' alt='Bruises - Steve Void Remix' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b154bc645350b122934566e4' alt='Drown (feat. Clinton Kane)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5061c4ad9a2daa03bdb9291' alt='そばにいるよ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg'>Born Again</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG'>Bruises - Steve Void Remix</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K'>そばにいるよ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5jJXjQcZUdL7sj3hCW4LrJ'>Wonders</a>
       </td>
     </tr>
   </table>
