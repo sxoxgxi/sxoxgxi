@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/334P3X7h4tDWeVU4kQ6Sjy'>Sacrifice</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5MO025I6cwvIvaG4EzOHPf'>Massive Club Floorfillers</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb'>Bebe Rexha</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP'>These Two Windows</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
     </tr>
   </table>
