@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He who has overcome his fears will truly be free. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Goodness is the only investment that never fails. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
