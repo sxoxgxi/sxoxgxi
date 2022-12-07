@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310c7ffb39d047bb532ba4dac' alt='It's Ok If You Forget Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='September' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e99d204567288c1806e5c127' alt='2step (feat. Lil Baby)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730f77b506b28aa892702cc101' alt='Here's Your Perfect' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Castle on the Hill' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4YwIOEhqg57IX2QasbetBi'>It's Ok If You Forget Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2lGZVgEWuiJ1cDQAH5fWZs'>September</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P'>Here's Your Perfect</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT'>Castle on the Hill</a>
       </td>
     </tr>
   </table>
