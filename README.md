@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you do what you've always done, you'll get what you've always gotten. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>Difficulties strengthen the mind, as labor does the body.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
