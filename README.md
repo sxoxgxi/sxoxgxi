@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remember we're all in this alone. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
+<h4 align='center'>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. - <a href='https://duckduckgo.com/?q=Denis+Waitley' target='_blank'>Denis Waitley</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
