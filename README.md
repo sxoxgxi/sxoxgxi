@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-盗作-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Nothing Without You-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e8e0f647681d382ff59598a' alt='盗作' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Heather' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fd553b1adff5dd927e5b43f3' alt='Lost' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738b5c6d6bb24f7e5bb43b8b44' alt='Cold Heart - PNAU Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4NUDg0G6FgcfkxNUbYuOsU'>盗作</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t'>Heather</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX'>Lost</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/02pjWffN5Npwv22BShj1vu'>Cold Heart - PNAU Remix</a>
       </td>
     </tr>
   </table>
