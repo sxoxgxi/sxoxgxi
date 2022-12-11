@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Fantasy-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Insane-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Fantasy' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273af6b2fca3b6e24612a5fe5d8' alt='Perfect Duet (Ed Sheeran & Beyoncé)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735755e164993798e0c9ef7d7a' alt='Never Gonna Give You Up' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Photograph' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322e9fc891229db2fd2fafac8' alt='Angel Baby - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK'>Fantasy</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI'>Perfect Duet (Ed Sheeran & Beyoncé)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL'>Photograph</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0hgX5eAmzQZTD2zTnXnSdB'>Angel Baby - Acoustic</a>
       </td>
     </tr>
   </table>
