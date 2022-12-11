@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Eyes Off You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Over-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Here We Go… Again (feat. Tyler, the Creator)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Adelaide' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a' alt='Nothing Without You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e8e0f647681d382ff59598a' alt='盗作' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf'>Here We Go… Again (feat. Tyler, the Creator)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3Te3gG6MPEDNqLGzWrjKC3'>Nothing Without You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4NUDg0G6FgcfkxNUbYuOsU'>盗作</a>
       </td>
     </tr>
   </table>
