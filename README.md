@@ -158,38 +158,6 @@
       <td>
       3
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c' alt='Dancing in My Room' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX'>Dancing in My Room</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta'>Dancing in My Room</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw'>347aidan</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq'>Cheating on You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L'>Cheating on You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:10%'>
       </td>
       <td>
@@ -200,6 +168,38 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW'>Soul Searching</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z'>Phases - EP</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'>PRETTYMUCH</a>
       </td>
     </tr>
   </table>
