@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310c7ffb39d047bb532ba4dac' alt='It's Ok If You Forget Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Why' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7' alt='Lie To Me (feat. Julia Michaels)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732752c64f94f9b37ba08f0f22' alt='Trampoline (with ZAYN)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4YwIOEhqg57IX2QasbetBi'>It's Ok If You Forget Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA'>Why</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3'>Lie To Me (feat. Julia Michaels)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2ez6qvOTHKeI3ss80NGqnI'>Trampoline (with ZAYN)</a>
       </td>
     </tr>
   </table>
