@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Paused-Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02' alt='Sunflower - Spider-Man: Into the Spider-Verse' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Off My Face' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b503cdb444b28826c4ca9217' alt='8 Letters' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu'>Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY'>Sunflower - Spider-Man: Into the Spider-Verse</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U'>Off My Face</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt'>8 Letters</a>
       </td>
     </tr>
   </table>
