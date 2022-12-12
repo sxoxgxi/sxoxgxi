@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-In Your Eyes-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-this is how you fall in love-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a' alt='Cry Baby' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='HADASHi NO STEP' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310b194dc6443307f52d1e713' alt='Another Night' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9c5b3a8712405ca9c1a301d' alt='炎 - From THE FIRST TAKE' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl'>In Your Eyes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK'>Cry Baby</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3rJOFcVtvU6ggQwm1sO9Q4'>Another Night</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Uo1VxHGkRC2O2SRaDqpn7'>炎 - From THE FIRST TAKE</a>
       </td>
     </tr>
   </table>
