@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-always, i'll care-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Why-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27379607801145a93a55ae17e70' alt='always, i'll care' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27375af9fb0fa8dc8f3adef6905' alt='At My Worst' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7' alt='Lie To Me (feat. Julia Michaels)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929' alt='Circles' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY'>always, i'll care</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH'>At My Worst</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6vLwsGft7DnZixQVgFlKgU'>Circles</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
       </td>
     </tr>
   </table>
