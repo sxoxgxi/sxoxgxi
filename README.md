@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Elegance does not consist in putting on a new dress. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
+<h4 align='center'>Failure is a great teacher. If you're open to it every mistake has a lesson to offer. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
