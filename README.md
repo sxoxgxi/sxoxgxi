@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a' alt='Cry Baby' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='HADASHi NO STEP' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccf5d223349faaca1c9a1b9' alt='Haru wo Tsugeru' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9c5b3a8712405ca9c1a301d' alt='炎 - From THE FIRST TAKE' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK'>Cry Baby</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn'>HADASHi NO STEP</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Uo1VxHGkRC2O2SRaDqpn7'>炎 - From THE FIRST TAKE</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2Oa3diV0ey46LiFxhIyPRU'>Fade Away</a>
       </td>
     </tr>
   </table>
