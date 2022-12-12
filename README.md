@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b' alt='This City' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310c7ffb39d047bb532ba4dac' alt='It's Ok If You Forget Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Why' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27375af9fb0fa8dc8f3adef6905' alt='At My Worst' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7' alt='Lie To Me (feat. Julia Michaels)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt'>This City</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4YwIOEhqg57IX2QasbetBi'>It's Ok If You Forget Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH'>At My Worst</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3'>Lie To Me (feat. Julia Michaels)</a>
       </td>
     </tr>
   </table>
