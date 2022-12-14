@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Why do you stay in prison when the door is so wide open? - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.  - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
