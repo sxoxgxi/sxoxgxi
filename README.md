@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most important thing in communication is to hear what isn't being said. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
+<h4 align='center'>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
