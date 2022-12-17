@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Nothing Is Lost (You Give Me Strength)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Die For You-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='Nothing Is Lost (You Give Me Strength)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab09ecae7741867714366036' alt='Devil Doesn’t Bargain - Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1dd95aa29782af7e152d0eb' alt='September' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273634b74c10bd6bd540829a1f0' alt='A Little Bit Yours (feat. Eric Chou) - Mandarin Version' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Feel Something' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk'>Nothing Is Lost (You Give Me Strength)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y'>Devil Doesn’t Bargain - Acoustic</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5iG5lMF8hwVDHtvAa1WoMQ'>A Little Bit Yours (feat. Eric Chou) - Mandarin Version</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5MWA0KkMh18hC2BkcCs4me'>Feel Something</a>
       </td>
     </tr>
   </table>
