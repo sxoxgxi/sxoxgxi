@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Because a thing seems difficult for you, do not think it impossible. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
+<h4 align='center'>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
