@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>You may forget with whom you laughed, but you will never forget with whom you wept.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
