@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Heaven-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Beautiful Love - Free Fire-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Heaven' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8' alt='Nothing Breaks Like a Heart (feat. Miley Cyrus)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273136ef277a0791089f46628bb' alt='Cherry Wine' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='A Little Bit Yours' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='fuck, i'm lonely' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp'>Heaven</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF'>Nothing Breaks Like a Heart (feat. Miley Cyrus)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA'>A Little Bit Yours</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2RNsweBBb1a6tAHXQtt2xH'>fuck, i'm lonely</a>
       </td>
     </tr>
   </table>
