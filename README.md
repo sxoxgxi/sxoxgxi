@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You may forget with whom you laughed, but you will never forget with whom you wept.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
+<h4 align='center'>Attitude, not aptitude, determines altitude.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
