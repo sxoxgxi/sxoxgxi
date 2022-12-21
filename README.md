@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Up Down' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5' alt='Life Goes On' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bf1e77d93e39469441ae6c7f' alt='耳わほう' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b' alt='lie to me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2tMI3Vki6rmg1Q1Q5oJDq8'>Up Down</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2StLz1e2VTwCm8Jnkke7OF'>耳わほう</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4NUgJ9gYHuAhaT3bj9ONh3'>lie to me</a>
       </td>
     </tr>
   </table>
