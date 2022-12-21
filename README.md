@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Single On The 25th-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Spaceman-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27360c5d84189c2a3b26e60e8f8' alt='Single On The 25th' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732344fbe49cc161ab95c2ab3c' alt='Beautiful Love - Free Fire' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Heaven' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273136ef277a0791089f46628bb' alt='Cherry Wine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16'>Single On The 25th</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k'>Beautiful Love - Free Fire</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce'>Cherry Wine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc'>Mercy</a>
       </td>
     </tr>
   </table>
