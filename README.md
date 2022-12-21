@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Midnight Rain-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Dancing On My Own-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Midnight Rain' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cce6bab1f59b165133175d88' alt='Chained To The Rhythm' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='Sweet but Psycho' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Bejeweled' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4'>Midnight Rain</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD'>Chained To The Rhythm</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI'>Sweet but Psycho</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE'>Bejeweled</a>
       </td>
     </tr>
   </table>
