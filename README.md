@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Beautiful Love - Free Fire-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Single On The 25th-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732344fbe49cc161ab95c2ab3c' alt='Beautiful Love - Free Fire' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Heaven' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8' alt='Nothing Breaks Like a Heart (feat. Miley Cyrus)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='A Little Bit Yours' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k'>Beautiful Love - Free Fire</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp'>Heaven</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc'>Mercy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA'>A Little Bit Yours</a>
       </td>
     </tr>
   </table>
