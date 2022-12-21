@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-P.G.N.L.-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Better-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c7444a93f5d36cf9bbd37278' alt='P.G.N.L.' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273617b661263721a4a86cb139c' alt='Golden Age' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27348b0cbf55eeb61112436f8bd' alt='Let Me Down Easy (Lie)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e' alt='Happier Than Ever' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5X7eCLVnUIxEcjGsJCKIsz'>P.G.N.L.</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3FfbHT7O32OGWUAqctJ2nt'>Golden Age</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc'>Let Me Down Easy (Lie)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8'>Happier Than Ever</a>
       </td>
     </tr>
   </table>
