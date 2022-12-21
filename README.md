@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-愛錠-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Left and Right (Feat. Jung Kook of BTS)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b46f98efbcbd0bdbd058f8c5' alt='愛錠' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273708898b110e9f1acc1ae5617' alt='Sorry To Me Too' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Boy In The Bubble' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/67FILuMuRcWo6cX6LwcOVl'>愛錠</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G'>Ghost</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5'>Sorry To Me Too</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/60cYr5uuMoxvyuIx45rGEW'>Boy In The Bubble</a>
       </td>
     </tr>
   </table>
