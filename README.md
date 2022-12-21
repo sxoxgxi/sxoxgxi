@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-SAKURA-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Compared Child-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='SAKURA' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b46f98efbcbd0bdbd058f8c5' alt='愛錠' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27329a582922631710b2cf10d64' alt='Love Is Gone' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1lTfD2M6UpJRWi3YLb8qb5'>SAKURA</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8'>Love Is Gone</a>
       </td>
     </tr>
   </table>
