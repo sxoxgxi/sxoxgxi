@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802' alt='Nothing Else Matters' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs'>Nothing Else Matters</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug'>Metallica</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB'>Metallica</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='Nothing Is Lost (You Give Me Strength)' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/334P3X7h4tDWeVU4kQ6Sjy'>Sacrifice</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5MO025I6cwvIvaG4EzOHPf'>Massive Club Floorfillers</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb'>Bebe Rexha</a>
       </td>
     </tr>
   </table>
