@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273174f89c243a01c6b003a01d2' alt='Or Not' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='BRAND NEW YOU' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2d671c22b70e01b78a618a8' alt='Dancing On My Own' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cce6bab1f59b165133175d88' alt='Chained To The Rhythm' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7mXAlee0nLDTX9e9bDDu9F'>Or Not</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0eCNOrf6dQIkjht5qQOczQ'>BRAND NEW YOU</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD'>Chained To The Rhythm</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR'>again</a>
       </td>
     </tr>
   </table>
