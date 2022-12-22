@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318773c80dc501ca226f22a78' alt='Sacrifice' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/334P3X7h4tDWeVU4kQ6Sjy'>Sacrifice</a>
+      <a href='https://open.spotify.com/track/2Oa3diV0ey46LiFxhIyPRU'>Fade Away</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/5MO025I6cwvIvaG4EzOHPf'>Massive Club Floorfillers</a>
+      <a href='https://open.spotify.com/album/7xOtGndIvYly4ON4iFfIXG'>Fade Away</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb'>Bebe Rexha</a>
+      <a href='https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI'>Tatiana Manaois</a>
       </td>
     </tr>
   </table>
