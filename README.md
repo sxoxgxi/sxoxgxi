@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc'>Mercy</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq'>Illuminate (Deluxe)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'>Shawn Mendes</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77'>AJ Mitchell</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802' alt='Nothing Else Matters' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs'>Nothing Else Matters</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug'>Metallica</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB'>Metallica</a>
       </td>
     </tr>
   </table>
