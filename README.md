@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ'>Like Strangers Do</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77'>AJ Mitchell</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802' alt='Nothing Else Matters' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB'>Metallica</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='Nothing Is Lost (You Give Me Strength)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk'>Nothing Is Lost (You Give Me Strength)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA'>Avatar: The Way of Water (Original Motion Picture Soundtrack)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
     </tr>
   </table>
