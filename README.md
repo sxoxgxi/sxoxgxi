@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Heaven' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp'>Heaven</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr'>Infinite Dream</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802' alt='Nothing Else Matters' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='Nothing Is Lost (You Give Me Strength)' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734317ffe643a0b71b3649cde8' alt='Fade Away' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2Oa3diV0ey46LiFxhIyPRU'>Fade Away</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7xOtGndIvYly4ON4iFfIXG'>Fade Away</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI'>Tatiana Manaois</a>
       </td>
     </tr>
   </table>
