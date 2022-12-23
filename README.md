@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>Until we can manage time, we can manage nothing else. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
