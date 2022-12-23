@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Moth To A Flame (with The Weeknd)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Drown (feat. Clinton Kane)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d' alt='Moth To A Flame (with The Weeknd)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02' alt='Circles' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e6028f0c8fd029df19eb013' alt='Better' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK'>Moth To A Flame (with The Weeknd)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf'>Better</a>
       </td>
     </tr>
   </table>
