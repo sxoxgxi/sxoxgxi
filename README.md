@@ -68,21 +68,18 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36' alt='Justin Bieber' style='width:50%'>
+      </td>
     </tr>
     <tr align='center'>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
@@ -92,6 +89,9 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'>Justin Bieber</a>
       </td>
     </tr>
   </table>
@@ -158,22 +158,6 @@
       <td>
       3
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Heaven' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp'>Heaven</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr'>Infinite Dream</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:10%'>
       </td>
       <td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77'>AJ Mitchell</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802' alt='Nothing Else Matters' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs'>Nothing Else Matters</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug'>Metallica</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB'>Metallica</a>
       </td>
     </tr>
   </table>
