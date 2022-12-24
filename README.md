@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl'>In Your Eyes</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj'>After Hours</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77'>AJ Mitchell</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802' alt='Nothing Else Matters' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs'>Nothing Else Matters</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug'>Metallica</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB'>Metallica</a>
       </td>
     </tr>
   </table>
