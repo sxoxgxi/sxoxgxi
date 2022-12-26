@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be approximately right rather than exactly wrong. - <a href='https://duckduckgo.com/?q=John+Tukey' target='_blank'>John Tukey</a>.</h4>
+<h4 align='center'>Courage is fear that has said its prayers and decided to go forward anyway. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
