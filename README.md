@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-the idea-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Slow Grenade-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fda5851154fa029164a281e1' alt='the idea' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Glimpse of Us' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Visiting Hours' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wrapped Around Your Finger' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2'>the idea</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs'>Glimpse of Us</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX'>Wrapped Around Your Finger</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4LZTRFPU4MDTzQuopPiW5K'>ばかみたい</a>
       </td>
     </tr>
   </table>
