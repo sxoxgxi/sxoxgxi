@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d58f2a8f6b9457f318b3d328' alt='LET IT OUT' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3O6uWEmwDlkT7EmucuRdvB'>LET IT OUT</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1HrYt6AXwsWvj6x0eJTy8J'>LET IT OUT</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe'>Miho Fukuhara</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'>Shawn Mendes</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ'>Like Strangers Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77'>AJ Mitchell</a>
       </td>
     </tr>
   </table>
