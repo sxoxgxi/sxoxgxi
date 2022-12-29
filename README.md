@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never trust he who trusts everyone. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
+<h4 align='center'>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
