@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Heartbeat-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-august-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a' alt='That Should Be Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b915e407b70e121e06fe979' alt='IDGAF' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S'>That Should Be Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr'>IDGAF</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
       </td>
     </tr>
   </table>
