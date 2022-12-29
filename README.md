@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Walk Out That Door-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Lose You - Nicky Romero Remix-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a1f3b4f8dc1ba3e2e9216ea0' alt='Walk Out That Door' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273905710bc1d73a3d02be815a2' alt='i know she knows' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732ecd1934530fde41e4771202' alt='heart notes' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a01f3093ab961242534eb08' alt='Repair' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7lABdrRyMlxMWZzU3SKWoA'>Walk Out That Door</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1ta9r5ThOPkUpf09f85JrT'>i know she knows</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5'>One More Try</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0sfxFjrJEkkqgqYbARgJVD'>Repair</a>
       </td>
     </tr>
   </table>
