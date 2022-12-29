@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a1f3b4f8dc1ba3e2e9216ea0' alt='Walk Out That Door' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273905710bc1d73a3d02be815a2' alt='i know she knows' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='The Songcord' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7lABdrRyMlxMWZzU3SKWoA'>Walk Out That Door</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/43uFqqDlSL5YhKcPnzJi4b'>The Songcord</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5'>One More Try</a>
       </td>
     </tr>
   </table>
