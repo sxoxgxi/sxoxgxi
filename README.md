@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Beautiful (feat. Camila Cabello)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-willow-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf' alt='Beautiful (feat. Camila Cabello)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317514a5aaf5980c96dadc107' alt='Crazy' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Young & Alive' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Perfect' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27373304ce0653c7758dd94b259' alt='Beautiful People (feat. Khalid)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF'>Beautiful (feat. Camila Cabello)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4L5FErBP8i7KLukuSBsAYd'>Crazy</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v'>Perfect</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv'>Beautiful People (feat. Khalid)</a>
       </td>
     </tr>
   </table>
