@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-One More Try-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-10:35 (feat. Tate McRae) - Tiesto’s New Year’s Eve VIP Remix-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a01f3093ab961242534eb08' alt='Repair' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27371c843885ecc7fb8c49c161d' alt='words left unsaid' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dea0ef70b0c6e951713123a2' alt='カタオモイ - From THE FIRST TAKE' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364479b5efd2334beb57a08c5' alt='When You Cry' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5'>One More Try</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0sfxFjrJEkkqgqYbARgJVD'>Repair</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0cc3ypShI5u1WZobBfp3Zw'>カタオモイ - From THE FIRST TAKE</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0TUiCTIDP3LiXxq1EEfVTl'>When You Cry</a>
       </td>
     </tr>
   </table>
