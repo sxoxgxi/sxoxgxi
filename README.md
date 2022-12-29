@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-willow-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Ghost-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf' alt='Beautiful (feat. Camila Cabello)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317514a5aaf5980c96dadc107' alt='Crazy' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273af6b2fca3b6e24612a5fe5d8' alt='Perfect Duet (Ed Sheeran & Beyoncé)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Perfect' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF'>Beautiful (feat. Camila Cabello)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI'>Perfect Duet (Ed Sheeran & Beyoncé)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v'>Perfect</a>
       </td>
     </tr>
   </table>
