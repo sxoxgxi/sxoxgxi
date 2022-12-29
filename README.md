@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-heart notes-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-i know she knows-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732ecd1934530fde41e4771202' alt='heart notes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='The Songcord' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27371c843885ecc7fb8c49c161d' alt='words left unsaid' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732aa989be7ba10bb7beee57a7' alt='Hero' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0'>heart notes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/43uFqqDlSL5YhKcPnzJi4b'>The Songcord</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6yfUJFyCV0Ku9iBzhyRkCI'>words left unsaid</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R'>Hero</a>
       </td>
     </tr>
   </table>
