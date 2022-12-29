@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-When You Cry-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-カタオモイ - From THE FIRST TAKE-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364479b5efd2334beb57a08c5' alt='When You Cry' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7' alt='Easier' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337a04015658168ca6e6e604a' alt='Stranger' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27339e6616a499bc092f469cae0' alt='So Good' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a111c87c210cc9bff93948bd' alt='Summer of Love (Shawn Mendes & Tainy)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0TUiCTIDP3LiXxq1EEfVTl'>When You Cry</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI'>Easier</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu'>So Good</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6'>Summer of Love (Shawn Mendes & Tainy)</a>
       </td>
     </tr>
   </table>
