@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dea0ef70b0c6e951713123a2' alt='カタオモイ - From THE FIRST TAKE' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364479b5efd2334beb57a08c5' alt='When You Cry' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7' alt='Easier' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27339e6616a499bc092f469cae0' alt='So Good' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0cc3ypShI5u1WZobBfp3Zw'>カタオモイ - From THE FIRST TAKE</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0TUiCTIDP3LiXxq1EEfVTl'>When You Cry</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3KGOU3IJI5Qs4DrNiEF83r'>For Real</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu'>So Good</a>
       </td>
     </tr>
   </table>
