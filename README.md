@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Creepin' (with The Weeknd & 21 Savage)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Need to Know-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2' alt='Creepin' (with The Weeknd & 21 Savage)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf' alt='Beautiful (feat. Camila Cabello)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO'>Creepin' (with The Weeknd & 21 Savage)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl'>In Your Eyes</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF'>Beautiful (feat. Camila Cabello)</a>
       </td>
     </tr>
   </table>
