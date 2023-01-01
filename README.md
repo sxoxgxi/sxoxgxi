@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-ばかみたい-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Calm Down (with Selena Gomez)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='September' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27320b8f4961ed1a7933750d1e8' alt='Pointless' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Save Your Tears' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d6fe31330875e36304af093e' alt='LIGHTNING' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4LZTRFPU4MDTzQuopPiW5K'>ばかみたい</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2lGZVgEWuiJ1cDQAH5fWZs'>September</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g'>Save Your Tears</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5'>LIGHTNING</a>
       </td>
     </tr>
   </table>
