@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-blur-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-LIGHTNING-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273988965647cf9918f515ae79a' alt='blur' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c' alt='だから僕は音楽を辞めた' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4' alt='Easy On Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2' alt='Shallow - Radio Edit' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8'>blur</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM'>だから僕は音楽を辞めた</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX'>Easy On Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj'>Shallow - Radio Edit</a>
       </td>
     </tr>
   </table>
