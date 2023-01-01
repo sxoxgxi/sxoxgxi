@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27305559264ebef3889709826cf' alt='Beautiful (feat. Camila Cabello)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317514a5aaf5980c96dadc107' alt='Crazy' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl'>In Your Eyes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF'>Beautiful (feat. Camila Cabello)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4L5FErBP8i7KLukuSBsAYd'>Crazy</a>
       </td>
     </tr>
   </table>
