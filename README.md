@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Lost Time is never found again. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>Everything you've ever wanted is on the other side of fear. - <a href='https://duckduckgo.com/?q=George+Addair' target='_blank'>George Addair</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
