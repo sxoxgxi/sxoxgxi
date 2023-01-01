@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Save Your Tears-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-In Your Eyes-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Save Your Tears' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d6fe31330875e36304af093e' alt='LIGHTNING' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273988965647cf9918f515ae79a' alt='blur' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4' alt='Without Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g'>Save Your Tears</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5'>LIGHTNING</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk'>Without Me</a>
       </td>
     </tr>
   </table>
