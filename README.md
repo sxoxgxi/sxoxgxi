@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d' alt='Euphoria' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027' alt='Slow Motion' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Need to Know' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2' alt='Creepin' (with The Weeknd & 21 Savage)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK'>Euphoria</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi'>Need to Know</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO'>Creepin' (with The Weeknd & 21 Savage)</a>
       </td>
     </tr>
   </table>
