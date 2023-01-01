@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4' alt='Without Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4' alt='Easy On Me' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020' alt='Dawn FM - OPN Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596' alt='Butter' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk'>Without Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0'>Dawn FM - OPN Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB'>Butter</a>
       </td>
     </tr>
   </table>
