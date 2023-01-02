@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027' alt='Slow Motion' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X'>Slow Motion</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d'>Slow Motion</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'>Charlotte Lawrence</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'>Shawn Mendes</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ'>Like Strangers Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77'>AJ Mitchell</a>
       </td>
     </tr>
   </table>
