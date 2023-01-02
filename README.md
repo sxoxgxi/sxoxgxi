@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Everything you've ever wanted is on the other side of fear. - <a href='https://duckduckgo.com/?q=George+Addair' target='_blank'>George Addair</a>.</h4>
+<h4 align='center'>Not doing it is certainly the best way to not getting it.   - <a href='https://duckduckgo.com/?q=Wayne+Gretzky' target='_blank'>Wayne Gretzky</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
