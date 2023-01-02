@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d58f2a8f6b9457f318b3d328' alt='LET IT OUT' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3O6uWEmwDlkT7EmucuRdvB'>LET IT OUT</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1HrYt6AXwsWvj6x0eJTy8J'>LET IT OUT</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe'>Miho Fukuhara</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:10%'>
       </td>
       <td>
@@ -168,6 +152,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d58f2a8f6b9457f318b3d328' alt='LET IT OUT' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3O6uWEmwDlkT7EmucuRdvB'>LET IT OUT</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1HrYt6AXwsWvj6x0eJTy8J'>LET IT OUT</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe'>Miho Fukuhara</a>
       </td>
     </tr>
     <tr align='center'>
