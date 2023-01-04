@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393009d3db274db2036eeb979' alt='花に亡霊' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393009d3db274db2036eeb979' alt='花に亡霊' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e6028f0c8fd029df19eb013' alt='Better' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f' alt='Cheating on You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27381052badd62d5e14c3377786' alt='Mayonaka no Door / Stay With Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN'>花に亡霊</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN'>花に亡霊</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA'>Mayonaka no Door / Stay With Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
       </td>
     </tr>
   </table>
