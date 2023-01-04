@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-You Are The Reason - Duet Version-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-今でもずっと-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f035622d8fdf777b23e9a834' alt='You Are The Reason - Duet Version' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7' alt='Lie To Me (feat. Julia Michaels)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e' alt='Dream On' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27396a926d07aea417327ea024a' alt='Fade To Black - Remastered' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6'>You Are The Reason - Duet Version</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3'>Lie To Me (feat. Julia Michaels)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe'>Dream On</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye'>Fade To Black - Remastered</a>
       </td>
     </tr>
   </table>
