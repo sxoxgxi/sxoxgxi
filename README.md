@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-How Could You?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Lie To Me (feat. Julia Michaels)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e' alt='Dream On' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27396a926d07aea417327ea024a' alt='Fade To Black - Remastered' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Avalanche' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e99d204567288c1806e5c127' alt='2step (feat. Lil Baby)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3zuLmMxDrpk5J6dEh828CB'>How Could You?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3zuLmMxDrpk5J6dEh828CB'>How Could You?</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2PVEZOHWUHr58OXXN2US87'>Avalanche</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3gL6cSxG2YXajO5Mbxijbk'>2step (feat. Lil Baby)</a>
       </td>
     </tr>
   </table>
