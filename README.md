@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mirror-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bad Habits-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27331d97a3a8995847ba3fe5e08' alt='Bois Lie (feat. Machine Gun Kelly) - Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='drivers license' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='SAKURA' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='1AM FREESTYLE' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3W8gnQSIRzUQM6klpRT4jR'>Bois Lie (feat. Machine Gun Kelly) - Acoustic</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1lTfD2M6UpJRWi3YLb8qb5'>SAKURA</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0FqBNLXlTNimxmVRdDMj6b'>1AM FREESTYLE</a>
       </td>
     </tr>
   </table>
