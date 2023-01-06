@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Too Late - 18if Episode 7.Ending-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Compared Child-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27328a3d6db59525d93b6fe5ecc' alt='Too Late - 18if Episode 7.Ending' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Bad Habits' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='drivers license' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='SAKURA' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2TNJl8KvdEFW8FBXIoRxPO'>Too Late - 18if Episode 7.Ending</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d'>Bad Habits</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH'>drivers license</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1lTfD2M6UpJRWi3YLb8qb5'>SAKURA</a>
       </td>
     </tr>
   </table>
