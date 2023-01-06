@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Everybody Wants You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-KISS OF DEATH-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Everybody Wants You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='Heartless' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f17a48336d1a01731cea9a6d' alt='Spaceman' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/48EDM7iimVXiKEOdo4AJk6'>Everybody Wants You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8'>Heartless</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1Tf0qifzTHdDC9RnTW9Di3'>Spaceman</a>
       </td>
     </tr>
   </table>
