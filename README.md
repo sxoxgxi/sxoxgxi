@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>Each day provides it's own gifts. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
