@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Rewrite The Stars-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Heartless-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ee9a4159b6bd21729e1c460' alt='YUKON (INTERLUDE)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9ce58085d561eb5af353252' alt='Questions' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d6f6aa28e14c68d91c5854f5' alt='シフクノトキ' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7c0BPVgoC38LMsUQnu9ZI9'>YUKON (INTERLUDE)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA'>Questions</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay'>シフクノトキ</a>
       </td>
     </tr>
   </table>
