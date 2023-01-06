@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Questions-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Spaceman-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9ce58085d561eb5af353252' alt='Questions' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d6f6aa28e14c68d91c5854f5' alt='シフクノトキ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730659ff3278789c1b69c699b7' alt='ADAMAS' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3' alt='Compared Child' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27328a3d6db59525d93b6fe5ecc' alt='Too Late - 18if Episode 7.Ending' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA'>Questions</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay'>シフクノトキ</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1FOhzA4qQiyVnzVYt1KcgN'>Compared Child</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2TNJl8KvdEFW8FBXIoRxPO'>Too Late - 18if Episode 7.Ending</a>
       </td>
     </tr>
   </table>
