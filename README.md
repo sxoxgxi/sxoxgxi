@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Brace It (feat. Ed Sheeran)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Nothing Breaks Like a Heart (feat. Miley Cyrus)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
