@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Nothing Breaks Like a Heart (feat. Miley Cyrus)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Here We Go… Again (feat. Tyler, the Creator)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8' alt='Nothing Breaks Like a Heart (feat. Miley Cyrus)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27304bfd5a5fd5aa6ca648f66aa' alt='Happier' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='Tell Your Friends' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732344fbe49cc161ab95c2ab3c' alt='Beautiful Love - Free Fire' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd3256e196974f02251d7976' alt='let's run away' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF'>Nothing Breaks Like a Heart (feat. Miley Cyrus)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99'>Happier</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k'>Beautiful Love - Free Fire</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0'>let's run away</a>
       </td>
     </tr>
   </table>
