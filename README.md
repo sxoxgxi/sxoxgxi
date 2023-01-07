@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Each day provides it's own gifts. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
+<h4 align='center'>Whatever happens always happens on time. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
