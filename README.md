@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Here We Go… Again (feat. Tyler, the Creator)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8' alt='Nothing Breaks Like a Heart (feat. Miley Cyrus)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27304bfd5a5fd5aa6ca648f66aa' alt='Happier' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3' alt='Easy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732344fbe49cc161ab95c2ab3c' alt='Beautiful Love - Free Fire' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf'>Here We Go… Again (feat. Tyler, the Creator)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF'>Nothing Breaks Like a Heart (feat. Miley Cyrus)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ'>Easy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k'>Beautiful Love - Free Fire</a>
       </td>
     </tr>
   </table>
