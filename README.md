@@ -126,22 +126,6 @@
       <td>
       1
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu'>Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/05Ng00IfiS6xeyQX8WtjHU'>Bella Ciao (Música Original de la Serie la Casa de Papel/ Money Heist)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2TJHmhbmT7L3gw2NKyDTHh'>Manu Pilas</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e' alt='Dream On' style='width:10%'>
       </td>
       <td>
@@ -156,7 +140,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      2
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:10%'>
       </td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='SAKURA' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d58f2a8f6b9457f318b3d328' alt='LET IT OUT' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe'>Miho Fukuhara</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027' alt='Slow Motion' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X'>Slow Motion</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d'>Slow Motion</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'>Charlotte Lawrence</a>
       </td>
     </tr>
   </table>
