@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remember, hope is a good thing, maybe the best of things. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>Do not stop thinking of life as an adventure. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
