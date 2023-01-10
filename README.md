@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-YUKON (INTERLUDE)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Million Dollar Baby-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ee9a4159b6bd21729e1c460' alt='YUKON (INTERLUDE)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737797b90c9b00241d8002a465' alt='君の行方' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e7eaed7ad31623ed10b0d5c8' alt='Sober' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273580ac3ad7dfc81e509171120' alt='Shut Down' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7c0BPVgoC38LMsUQnu9ZI9'>YUKON (INTERLUDE)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2ULRlLFeju0tYtGEI7gjTJ'>君の行方</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6tCd8bPvYnceDG7W9M1RMk'>Shut Down</a>
       </td>
     </tr>
   </table>
