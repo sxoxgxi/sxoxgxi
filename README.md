@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Ain't Your Mama-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sober-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b1ab92b8e26ab1cb783ffe15' alt='Ain't Your Mama' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273580ac3ad7dfc81e509171120' alt='Shut Down' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273541f626768dd7d76bd46095a' alt='今でもずっと' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72'>Ain't Your Mama</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0enWmEDou8UsSrmXxg1Ume'>今でもずっと</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
       </td>
     </tr>
   </table>
