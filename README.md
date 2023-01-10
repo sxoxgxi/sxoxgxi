@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737797b90c9b00241d8002a465' alt='君の行方' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e7eaed7ad31623ed10b0d5c8' alt='Sober' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b1ab92b8e26ab1cb783ffe15' alt='Ain't Your Mama' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273580ac3ad7dfc81e509171120' alt='Shut Down' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739f89b8390933e9ccb3673c89' alt='Somebody To You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2ULRlLFeju0tYtGEI7gjTJ'>君の行方</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7f2YrnkCsVAmsTgLf7GFAy'>Sober</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6tCd8bPvYnceDG7W9M1RMk'>Shut Down</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65'>Somebody To You</a>
       </td>
     </tr>
   </table>
