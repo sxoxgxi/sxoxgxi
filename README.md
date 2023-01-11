@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Panda Usagi Koara-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Yurikagono Uta-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bfffbf053682edafc3db9795' alt='Panda Usagi Koara' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738f13187629a40e7adf012aa2' alt='Mushino Koe' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b915e407b70e121e06fe979' alt='IDGAF' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5061c4ad9a2daa03bdb9291' alt='そばにいるよ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735c243682bf7d1bbcec0ee000' alt='This City Remix (feat. Anne-Marie)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5eWq2KsVFikW4Ufe0av7cR'>Panda Usagi Koara</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1BVtSvGQ8mQKJcg2KQBxpi'>Mushino Koe</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K'>そばにいるよ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs'>This City Remix (feat. Anne-Marie)</a>
       </td>
     </tr>
   </table>
