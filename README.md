@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>How much pain they have cost us, the evils which have never happened. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>The more you like yourself, the less you are like anyone else, which makes you unique. - <a href='https://duckduckgo.com/?q=Walt+Disney' target='_blank'>Walt Disney</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
