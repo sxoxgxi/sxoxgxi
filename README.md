@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='fuck, i'm lonely' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b' alt='hate u love u' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364be01336a8f917538a60b74' alt='シルエット' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7c3c6b1c40e7b6d1740824f' alt='アイセタ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2RNsweBBb1a6tAHXQtt2xH'>fuck, i'm lonely</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt'>hate u love u</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz'>アイセタ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
       </td>
     </tr>
   </table>
@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027' alt='Slow Motion' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X'>Slow Motion</a>
+      <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d'>Slow Motion</a>
+      <a href='https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d'>Heartbeat</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'>Charlotte Lawrence</a>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
     </tr>
   </table>
