@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-One Call Away - Acoustic-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Be Mine Tonight - Radio Edit-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a3ee6cefb440c82d7512783' alt='One Call Away - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a' alt='Believer' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='Demons' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563' alt='Señorita' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u'>One Call Away - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP'>Believer</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2'>Señorita</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh'>Say You Won't Let Go</a>
       </td>
     </tr>
   </table>
