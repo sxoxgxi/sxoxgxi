@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Devil Doesn’t Bargain - Acoustic-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-comethru-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab09ecae7741867714366036' alt='Devil Doesn’t Bargain - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393009d3db274db2036eeb979' alt='花に亡霊' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a' alt='Believer' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='Demons' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y'>Devil Doesn’t Bargain - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP'>Believer</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR'>Demons</a>
       </td>
     </tr>
   </table>
