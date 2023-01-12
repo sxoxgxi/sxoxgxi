@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Stay With Me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Memories-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11bdc91cb9ac6b14f5c1dae' alt='Stay With Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a' alt='Locked Away (feat. Adam Levine)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946' alt='Levitating' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db24e98f75215a3df9886be7' alt='Bitch Lasagna' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt'>Stay With Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP'>Levitating</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1AKGJQIHP3dIPuhOjdxD6a'>Bitch Lasagna</a>
       </td>
     </tr>
   </table>
