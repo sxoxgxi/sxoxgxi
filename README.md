@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-hate u love u-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-fuck, i'm lonely-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b' alt='hate u love u' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364be01336a8f917538a60b74' alt='シルエット' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14' alt='Pretty Girl' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt'>hate u love u</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ'>シルエット</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
       </td>
     </tr>
   </table>
