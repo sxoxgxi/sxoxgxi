@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731abfc09fba2499dae081d1af' alt='Infinity' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bfffbf053682edafc3db9795' alt='Panda Usagi Koara' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738f13187629a40e7adf012aa2' alt='Mushino Koe' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj'>I Like You (A Happier Song) (with Doja Cat)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj'>I Like You (A Happier Song) (with Doja Cat)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5eWq2KsVFikW4Ufe0av7cR'>Panda Usagi Koara</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1BVtSvGQ8mQKJcg2KQBxpi'>Mushino Koe</a>
       </td>
     </tr>
   </table>
