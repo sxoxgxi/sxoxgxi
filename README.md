@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7c3c6b1c40e7b6d1740824f' alt='アイセタ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731abfc09fba2499dae081d1af' alt='Infinity' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz'>アイセタ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj'>I Like You (A Happier Song) (with Doja Cat)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ys67ApLdX56j21to2JRIV'>Infinity</a>
       </td>
     </tr>
   </table>
