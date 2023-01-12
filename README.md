@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Nothing on You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Say You Won't Let Go-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738e9f43f328f9c92ecfed5da5' alt='Nothing on You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Memories' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11bdc91cb9ac6b14f5c1dae' alt='Stay With Me' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a' alt='Locked Away (feat. Adam Levine)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dcb962de1c1a75e10fc31fc3' alt='Always Be There' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2A5YAFeEwGi7KlGMYRf5dX'>Nothing on You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI'>Memories</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy'>Locked Away (feat. Adam Levine)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1xlTs1jeSyQyJDJSmCsWK8'>Always Be There</a>
       </td>
     </tr>
   </table>
