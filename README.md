@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a' alt='Locked Away (feat. Adam Levine)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dcb962de1c1a75e10fc31fc3' alt='Always Be There' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db24e98f75215a3df9886be7' alt='Bitch Lasagna' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732f6a25ebd3f6b19d29c56b3d' alt='But You Love It' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy'>Locked Away (feat. Adam Levine)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1AKGJQIHP3dIPuhOjdxD6a'>Bitch Lasagna</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7cUPrTfP6VNOK22pZNEwbq'>But You Love It</a>
       </td>
     </tr>
   </table>
