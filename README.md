@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only limits in your life are those that you set yourself. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>If a man knows not to which port he sails, no wind is favorable.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
