@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Till I Collapse-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-MONTERO (Call Me By Your Name) - SATAN'S EXTENDED VERSION-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4' alt='Till I Collapse' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Feelings' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d' alt='Moth To A Flame (with The Weeknd)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081' alt='Hey There Delilah' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a' alt='I Love You 3000 II' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS'>Till I Collapse</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20'>Feelings</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH'>Hey There Delilah</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3witRpHWHqArlnt6GTlH2Y'>I Love You 3000 II</a>
       </td>
     </tr>
   </table>
