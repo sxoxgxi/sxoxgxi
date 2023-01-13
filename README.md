@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Coco-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-London Beckoned Songs About Money Written by Machines-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='i'm so tired...' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Feelings' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d' alt='Moth To A Flame (with The Weeknd)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91'>i'm so tired...</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20'>Feelings</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK'>Moth To A Flame (with The Weeknd)</a>
       </td>
     </tr>
   </table>
