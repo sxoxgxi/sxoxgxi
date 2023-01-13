@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Photograph' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578' alt='Aerials' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27324f5c85b1492323b29bb047f' alt='Glow' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739eb119195d365d71bfb814a4' alt='Why Don't You Stay (WorldTour Ver.)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL'>Photograph</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco'>Aerials</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf'>Why Don't You Stay (WorldTour Ver.)</a>
       </td>
     </tr>
   </table>
