@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d58f2a8f6b9457f318b3d328' alt='LET IT OUT' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d455dcb7c245d4ef1646d38e' alt='Fingers Crossed' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/3O6uWEmwDlkT7EmucuRdvB'>LET IT OUT</a>
+      <a href='https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ'>Fingers Crossed</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/1HrYt6AXwsWvj6x0eJTy8J'>LET IT OUT</a>
+      <a href='https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY'>Fingers Crossed</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe'>Miho Fukuhara</a>
+      <a href='https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50'>Lauren Spencer Smith</a>
       </td>
     </tr>
   </table>
