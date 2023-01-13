@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Aerials-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Photograph-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578' alt='Aerials' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27324f5c85b1492323b29bb047f' alt='Glow' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='I Loved You, What Happened?' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739eb119195d365d71bfb814a4' alt='Why Don't You Stay (WorldTour Ver.)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco'>Aerials</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4Aw2k8epSZp7dWbrePpDLY'>Glow</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf'>Why Don't You Stay (WorldTour Ver.)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
       </td>
     </tr>
   </table>
