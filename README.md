@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Never Let You Go' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737aa5933e6a7138c955fb41cd' alt='Walked Through Hell' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273931bed0e52b517e08c91abfb' alt='Pasta' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b7d90956f81e0cc3f39d0b8' alt='たぶん' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/18uwiumVN4mTME79MT2pTV'>Never Let You Go</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI'>Walked Through Hell</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3'>たぶん</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
       </td>
     </tr>
   </table>
