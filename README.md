@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-2 soon-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Anti-Hero-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c3c387d65d710a1909ad410d' alt='2 soon' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Never Let You Go' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737aa5933e6a7138c955fb41cd' alt='Walked Through Hell' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a347571f225888becb791aee' alt='Oceans & Engines' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b7d90956f81e0cc3f39d0b8' alt='たぶん' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv'>2 soon</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/18uwiumVN4mTME79MT2pTV'>Never Let You Go</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi'>Oceans & Engines</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3'>たぶん</a>
       </td>
     </tr>
   </table>
