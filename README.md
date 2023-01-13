@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Oceans & Engines-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Pasta-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a347571f225888becb791aee' alt='Oceans & Engines' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b7d90956f81e0cc3f39d0b8' alt='たぶん' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27361727acb2055493e4a9ec324' alt='Believers' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6fd961ae941caabd098efc2' alt='Never Let You Go' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi'>Oceans & Engines</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3'>たぶん</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/27mxreQeh8gGd4E0kup0ry'>Believers</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5MdZOhx2f37BPtxaEn0F85'>Never Let You Go</a>
       </td>
     </tr>
   </table>
