@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273813713582dcc508e7d5073c4' alt='Bones' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730659ff3278789c1b69c699b7' alt='ADAMAS' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730995575e512dba5834593839' alt='Lifestyle (feat. Adam Levine)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b742c96d78d9091ce4a1c5c1' alt='slower' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b915e407b70e121e06fe979' alt='IDGAF' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G'>Bones</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS'>ADAMAS</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo'>slower</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr'>IDGAF</a>
       </td>
     </tr>
   </table>
