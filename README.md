@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be4ab46eca6cb3c83df15057' alt='My Enemy' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Anti-Hero' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c3c387d65d710a1909ad410d' alt='2 soon' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737aa5933e6a7138c955fb41cd' alt='Walked Through Hell' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273931bed0e52b517e08c91abfb' alt='Pasta' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1KWLVqVGVrPSVFdprFX82P'>My Enemy</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu'>Anti-Hero</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI'>Walked Through Hell</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6UyqJJUwOrtop3YB8eruGR'>Pasta</a>
       </td>
     </tr>
   </table>
