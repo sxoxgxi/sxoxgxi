@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mine-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Dependent-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Before You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273786e4e2c43c2897fafabbfb6' alt='In The Stars' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54e91cdc2fc4e29efab4e4b' alt='Brave Shine' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f8a1e4eb400e681a7d8152c2' alt='Suzume no Tojimari' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6vjf1I3tXhs5s6zx6gYrGz'>Before You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ'>Brave Shine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4wlOGHCurUTa60NQGP2pXV'>Suzume no Tojimari</a>
       </td>
     </tr>
   </table>
