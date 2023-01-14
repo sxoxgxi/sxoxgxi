@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If a man knows not to which port he sails, no wind is favorable.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>Better to live until you die. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
