@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Better to live until you die. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>Old age is like everything else. To make a success of it, you've got to start young. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
