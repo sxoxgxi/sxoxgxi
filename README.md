@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Be Okay (with HRVY)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Car's Outside - Acoustic-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b154bc645350b122934566e4' alt='Drown (feat. Clinton Kane)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273174f89c243a01c6b003a01d2' alt='Or Not' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273737c1bef4d45db62ac6dd2f1' alt='One Life' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4'>Drown (feat. Clinton Kane)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7mXAlee0nLDTX9e9bDDu9F'>Or Not</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S'>One Life</a>
       </td>
     </tr>
   </table>
