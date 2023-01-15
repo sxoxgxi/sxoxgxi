@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-All My Loving-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Beautiful Love - Free Fire-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb4788305d9e3e25faf785c2' alt='All My Loving' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54291f7289c20ce2af1b678' alt='Our First Song' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bde319f49b9079c727c46410' alt='Car's Outside - Acoustic' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b154bc645350b122934566e4' alt='Drown (feat. Clinton Kane)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl'>All My Loving</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2bkzqem4veyueCgtIJ7bMV'>Our First Song</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4'>Drown (feat. Clinton Kane)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu'>Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist</a>
       </td>
     </tr>
   </table>
