@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732344fbe49cc161ab95c2ab3c' alt='Beautiful Love - Free Fire' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb4788305d9e3e25faf785c2' alt='All My Loving' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54291f7289c20ce2af1b678' alt='Our First Song' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b154bc645350b122934566e4' alt='Drown (feat. Clinton Kane)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k'>Beautiful Love - Free Fire</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl'>All My Loving</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4'>Drown (feat. Clinton Kane)</a>
       </td>
     </tr>
   </table>
