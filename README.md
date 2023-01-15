@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Myself-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Fine Line-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj'>I Like You (A Happier Song) (with Doja Cat)</a>
       </td>
     </tr>
   </table>
