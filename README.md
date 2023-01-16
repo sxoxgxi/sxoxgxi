@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Old age is like everything else. To make a success of it, you've got to start young. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>Fears are nothing more than a state of mind. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
