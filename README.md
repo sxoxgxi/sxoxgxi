@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM'>Heaven & Hell</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F'>Ava Max</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f17a48336d1a01731cea9a6d' alt='Spaceman' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi'>Nick Jonas</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='SAKURA' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1lTfD2M6UpJRWi3YLb8qb5'>SAKURA</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq'>Chou Ikimonobakari Tennen Kinen Members Best Selection</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ'>Ikimonogakari</a>
       </td>
     </tr>
   </table>
