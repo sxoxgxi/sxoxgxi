@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Fears are nothing more than a state of mind. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Never argue with stupid people, they will drag you down to their level and then beat you with experience. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
