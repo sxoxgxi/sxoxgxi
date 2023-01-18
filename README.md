@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Paused-憂一乗-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='憂一乗' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc' alt='august' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Fine Line' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0yVovOZGZtBXoZQr5gakeb'>憂一乗</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K'>august</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
       </td>
     </tr>
   </table>
