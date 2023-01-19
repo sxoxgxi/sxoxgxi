@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='fuck, i'm lonely' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/2RNsweBBb1a6tAHXQtt2xH'>fuck, i'm lonely</a>
+      <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi'>~how i'm feeling~</a>
+      <a href='https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP'>someone will love you better</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
       </td>
     </tr>
   </table>
