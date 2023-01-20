@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-unlasting-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Love Me More-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff3957846c7247b6f526ccc9' alt='Malibu Sunrise' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49' alt='Light Switch' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Phantom Regret by Jim' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3xyAffYZR4biQ6JOKdvSuh'>Malibu Sunrise</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1NlK2NtpuUazpziLhnJwEV'>Phantom Regret by Jim</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
       </td>
     </tr>
   </table>
