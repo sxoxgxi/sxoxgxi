@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-I Heard You’re Married (feat. Lil Wayne)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-You Make It Real-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='I Heard You’re Married (feat. Lil Wayne)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If I Killed Someone For You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='traitor' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Kiss Me More (feat. SZA)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D'>I Heard You’re Married (feat. Lil Wayne)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ'>If I Killed Someone For You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz'>Kiss Me More (feat. SZA)</a>
       </td>
     </tr>
   </table>
