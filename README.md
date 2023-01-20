@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-willow-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Light Switch-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Phantom Regret by Jim' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='I Heard You’re Married (feat. Lil Wayne)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If I Killed Someone For You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1NlK2NtpuUazpziLhnJwEV'>Phantom Regret by Jim</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D'>I Heard You’re Married (feat. Lil Wayne)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ'>If I Killed Someone For You</a>
       </td>
     </tr>
   </table>
