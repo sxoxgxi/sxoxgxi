@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff3957846c7247b6f526ccc9' alt='Malibu Sunrise' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49' alt='Light Switch' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fdb8e20b1dd0ae056defc12f' alt='You Make It Real' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3xyAffYZR4biQ6JOKdvSuh'>Malibu Sunrise</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2'>Light Switch</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/16LMLWymxxas4jHTI6R6zJ'>You Make It Real</a>
       </td>
     </tr>
   </table>
