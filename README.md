@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a' alt='Cry Baby' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Attention' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff3957846c7247b6f526ccc9' alt='Malibu Sunrise' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK'>Cry Baby</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50'>Attention</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3xyAffYZR4biQ6JOKdvSuh'>Malibu Sunrise</a>
       </td>
     </tr>
   </table>
