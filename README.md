@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-LET IT OUT-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-ily (i love you baby) (feat. Emilee)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d58f2a8f6b9457f318b3d328' alt='LET IT OUT' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='1AM FREESTYLE' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a' alt='Cry Baby' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3O6uWEmwDlkT7EmucuRdvB'>LET IT OUT</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK'>Cry Baby</a>
       </td>
     </tr>
   </table>
