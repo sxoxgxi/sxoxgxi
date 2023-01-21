@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>The more you take responsibility for your past and present, the more you are able to create the future you seek. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
