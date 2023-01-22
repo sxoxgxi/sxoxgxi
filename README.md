@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more you take responsibility for your past and present, the more you are able to create the future you seek. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>Life is but one dream flowing into another. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
