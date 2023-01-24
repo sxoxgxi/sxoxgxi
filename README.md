@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3' alt='Compared Child' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ff963931b177a82e7ba7b0d' alt='チノカテ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353f6fa0d2589c6a7174f4b81' alt='Sanctuary' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1FOhzA4qQiyVnzVYt1KcgN'>Compared Child</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5jJXjQcZUdL7sj3hCW4LrJ'>Wonders</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx'>チノカテ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK'>Sanctuary</a>
       </td>
     </tr>
   </table>
