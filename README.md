@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27311e74da76894db87e41054fb' alt='can I call you back?' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU'>that way - with Jeremy Zucker</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5jJXjQcZUdL7sj3hCW4LrJ'>Wonders</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4JofVLq2Axe90O7AuSvxEv'>Pancake</a>
       </td>
     </tr>
   </table>
