@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-can I call you back?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-if we never met-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27311e74da76894db87e41054fb' alt='can I call you back?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec61804d798b2c42fe23f7c3' alt='Compared Child' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf76a79dce2bebda318bf9b9' alt='Love Me For Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ff963931b177a82e7ba7b0d' alt='チノカテ' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3bWubl9oMzs5Z1n5KZXSSz'>can I call you back?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1FOhzA4qQiyVnzVYt1KcgN'>Compared Child</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4kKhmIdFALmwCYrt90oWUW'>Love Me For Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx'>チノカテ</a>
       </td>
     </tr>
   </table>
