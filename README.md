@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You may think I'm small, but I have a universe inside my mind. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
+<h4 align='center'>It's your life-but only if you make it so. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
