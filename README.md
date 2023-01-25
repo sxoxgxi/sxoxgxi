@@ -29,16 +29,19 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738175117ca44bb0d14796174e' alt='Mistletoe' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738175117ca44bb0d14796174e' alt='Mistletoe' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54291f7289c20ce2af1b678' alt='Our First Song' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351f2aaa14bf0cd9f36784592' alt='Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Overpass Graffiti' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l'>Mistletoe</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l'>Mistletoe</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4kOGfnVEGTLuxa8fnzlIGj'>Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3'>Overpass Graffiti</a>
       </td>
     </tr>
   </table>
