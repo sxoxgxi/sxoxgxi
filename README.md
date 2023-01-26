@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's your life-but only if you make it so. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>You cannot control the behavior of others, but you can always choose how you respond to it. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
