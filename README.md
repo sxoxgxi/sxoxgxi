@@ -66,21 +66,18 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb12a2ef08d00dd7451a6dbed6' alt='Ed Sheeran' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
@@ -88,10 +85,13 @@
       <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
       </td>
       <td>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
+      </td>
+      <td>
       <a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'>Ed Sheeran</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr>
   </table>
@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d'>Heartbeat</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:10%'>
       </td>
       <td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='fuck, i'm lonely' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d'>Heartbeat</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
     </tr>
   </table>
