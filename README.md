@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You cannot control the behavior of others, but you can always choose how you respond to it. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>Our deeds determine us, as much as we determine our deeds. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
