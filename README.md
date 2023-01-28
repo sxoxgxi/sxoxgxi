@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our deeds determine us, as much as we determine our deeds. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
+<h4 align='center'>The greatest treasures are those invisible to the eye but found by the heart. - <a href='https://duckduckgo.com/?q=Judy+Garland' target='_blank'>Judy Garland</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
