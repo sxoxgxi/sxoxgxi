@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-life after life-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sugar Rush Ride-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ba2d2482483dabad9dec897' alt='life after life' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27355a86aaf56c9a74d523d7480' alt='City Of Love' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db235a7a8fdacc20bafaba26' alt='Beyond' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e17ac064a8699f2670a697f0' alt='River - Live in Studio' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6KkSvREHsN9bFe1zrH3jVB'>life after life</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA'>City Of Love</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM'>River - Live in Studio</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g'>Make You Mine</a>
       </td>
     </tr>
   </table>
