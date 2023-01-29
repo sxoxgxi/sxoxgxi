@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Woke Up in Love - Acoustic-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Heaven-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737523885bbdc00de20704c481' alt='Woke Up in Love - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a53643fc03785efb9926443d' alt='Love Again' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732dbf9b3d85d0b75392e40238' alt='If I Ever' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27355a86aaf56c9a74d523d7480' alt='City Of Love' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db235a7a8fdacc20bafaba26' alt='Beyond' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0ryULsOBEF00i4XwnF3brE'>Woke Up in Love - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ'>Love Again</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA'>City Of Love</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY'>Beyond</a>
       </td>
     </tr>
   </table>
