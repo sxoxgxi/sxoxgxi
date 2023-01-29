@@ -68,9 +68,9 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
@@ -82,10 +82,10 @@
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
+      <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
@@ -126,22 +126,6 @@
       <td>
       1
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e' alt='Dream On' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe'>Dream On</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ'>Aerosmith</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH'>Aerosmith</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:10%'>
       </td>
       <td>
@@ -156,7 +140,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      2
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='fuck, i'm lonely' style='width:10%'>
       </td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393009d3db274db2036eeb979' alt='花に亡霊' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d455dcb7c245d4ef1646d38e' alt='Fingers Crossed' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ'>Fingers Crossed</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY'>Fingers Crossed</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50'>Lauren Spencer Smith</a>
       </td>
     </tr>
   </table>
