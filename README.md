@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db235a7a8fdacc20bafaba26' alt='Beyond' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e17ac064a8699f2670a697f0' alt='River - Live in Studio' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c0bbb409b68384932d205422' alt='All My Loving - Madism Remix' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY'>Beyond</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM'>River - Live in Studio</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf'>All My Loving - Madism Remix</a>
       </td>
     </tr>
   </table>
