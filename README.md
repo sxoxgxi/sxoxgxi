@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e17ac064a8699f2670a697f0' alt='River - Live in Studio' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27302e38aa08451ffc986f76247' alt='Kiss Me More (feat. Naomi Watanabe)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c0bbb409b68384932d205422' alt='All My Loving - Madism Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54e91cdc2fc4e29efab4e4b' alt='Brave Shine' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM'>River - Live in Studio</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g'>Make You Mine</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf'>All My Loving - Madism Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ'>Brave Shine</a>
       </td>
     </tr>
   </table>
