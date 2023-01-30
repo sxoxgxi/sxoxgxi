@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If a thing is worth doing, it is worth doing badly. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
+<h4 align='center'>I try more and more to be myself, caring relatively little whether people approve or disapprove. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
