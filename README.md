@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732d275e884d2ab7db51a060b6' alt='escalate' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732aad1951d19937cdf9460e5f' alt='恋' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c76ab7a6728045085cd85ab' alt='BETTING' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334fe96571d591bc626f61999' alt='HOME THERAPY' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e270f22edececd4f10739c7a' alt='Enough To Drink' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3'>escalate</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU'>恋</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3ecqR3d7t7Ynx2LOHlW7ED'>HOME THERAPY</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP'>Enough To Drink</a>
       </td>
     </tr>
   </table>
