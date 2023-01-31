@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc3ff54493fcc890bcaa036c' alt='I'm Not Here To Make Friends' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334fe96571d591bc626f61999' alt='HOME THERAPY' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e270f22edececd4f10739c7a' alt='Enough To Drink' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737523885bbdc00de20704c481' alt='Woke Up in Love - Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a53643fc03785efb9926443d' alt='Love Again' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM'>I'm Not Here To Make Friends</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3ecqR3d7t7Ynx2LOHlW7ED'>HOME THERAPY</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0ryULsOBEF00i4XwnF3brE'>Woke Up in Love - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ'>Love Again</a>
       </td>
     </tr>
   </table>
