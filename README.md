@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-BETTING-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-恋-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c76ab7a6728045085cd85ab' alt='BETTING' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc3ff54493fcc890bcaa036c' alt='I'm Not Here To Make Friends' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334fe96571d591bc626f61999' alt='HOME THERAPY' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737523885bbdc00de20704c481' alt='Woke Up in Love - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d'>BETTING</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM'>I'm Not Here To Make Friends</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ryULsOBEF00i4XwnF3brE'>Woke Up in Love - Acoustic</a>
       </td>
     </tr>
   </table>
