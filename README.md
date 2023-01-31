@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-What you want-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-A Milli - SIDEPIECE Remix-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1244c46203e0d9616970098' alt='What you want' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732d275e884d2ab7db51a060b6' alt='escalate' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732aad1951d19937cdf9460e5f' alt='恋' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc3ff54493fcc890bcaa036c' alt='I'm Not Here To Make Friends' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334fe96571d591bc626f61999' alt='HOME THERAPY' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5StFg7VQbHh24jKe1RQoKx'>What you want</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3'>escalate</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM'>I'm Not Here To Make Friends</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3ecqR3d7t7Ynx2LOHlW7ED'>HOME THERAPY</a>
       </td>
     </tr>
   </table>
