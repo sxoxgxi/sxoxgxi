@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-HOME THERAPY-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-I'm Not Here To Make Friends-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334fe96571d591bc626f61999' alt='HOME THERAPY' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e270f22edececd4f10739c7a' alt='Enough To Drink' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a53643fc03785efb9926443d' alt='Love Again' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732dbf9b3d85d0b75392e40238' alt='If I Ever' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3ecqR3d7t7Ynx2LOHlW7ED'>HOME THERAPY</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP'>Enough To Drink</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ'>Love Again</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7bRz4TuVPUqb97BFcLPCqM'>If I Ever</a>
       </td>
     </tr>
   </table>
