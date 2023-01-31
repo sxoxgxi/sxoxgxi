@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e270f22edececd4f10739c7a' alt='Enough To Drink' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737523885bbdc00de20704c481' alt='Woke Up in Love - Acoustic' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732dbf9b3d85d0b75392e40238' alt='If I Ever' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ba2d2482483dabad9dec897' alt='life after life' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP'>Enough To Drink</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7bRz4TuVPUqb97BFcLPCqM'>If I Ever</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6KkSvREHsN9bFe1zrH3jVB'>life after life</a>
       </td>
     </tr>
   </table>
