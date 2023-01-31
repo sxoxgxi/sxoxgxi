@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I try more and more to be myself, caring relatively little whether people approve or disapprove. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>I was wise enough to never grow up while fooling most people into believing I had.  - <a href='https://duckduckgo.com/?q=Margaret+Mead' target='_blank'>Margaret Mead</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
