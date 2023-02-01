@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I was wise enough to never grow up while fooling most people into believing I had.  - <a href='https://duckduckgo.com/?q=Margaret+Mead' target='_blank'>Margaret Mead</a>.</h4>
+<h4 align='center'>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire? - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
