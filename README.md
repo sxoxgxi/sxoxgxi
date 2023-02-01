@@ -68,21 +68,18 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb12a2ef08d00dd7451a6dbed6' alt='Ed Sheeran' style='width:50%'>
+      </td>
     </tr>
     <tr align='center'>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
@@ -92,6 +89,9 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'>Ed Sheeran</a>
       </td>
     </tr>
   </table>
@@ -174,22 +174,6 @@
       <td>
       4
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393009d3db274db2036eeb979' alt='花に亡霊' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN'>花に亡霊</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR'>花に亡霊</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d455dcb7c245d4ef1646d38e' alt='Fingers Crossed' style='width:10%'>
       </td>
       <td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50'>Lauren Spencer Smith</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3wcVENZJmJZm7tE4zQJfgB'>love, pain, & retrospect</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw'>Before You Exit</a>
       </td>
     </tr>
   </table>
