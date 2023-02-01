@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308a7d6323d02627a27fc3979' alt='Made You Look (feat. Kim Petras)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ac87535728a0b40073887cf' alt='テレパス' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1244c46203e0d9616970098' alt='What you want' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732aad1951d19937cdf9460e5f' alt='恋' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c76ab7a6728045085cd85ab' alt='BETTING' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3EdDaqA9IkOwD8rcRyK60b'>Made You Look (feat. Kim Petras)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7C37yaKPoOJHUvlNYv991q'>テレパス</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU'>恋</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d'>BETTING</a>
       </td>
     </tr>
   </table>
