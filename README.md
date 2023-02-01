@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Waiting For Never-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-again-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc559ebbed8b0b100ad206c' alt='Anti-Hero - Acoustic Version' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f127e9e7830d2f77c7944354' alt='NEW ME' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736033361211c3a118a7f7a6c2' alt='I Don't Do Drugs - Y2K Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308a7d6323d02627a27fc3979' alt='Made You Look (feat. Kim Petras)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F'>Anti-Hero - Acoustic Version</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/49CHpBYoeE9j0QIXy9dKI7'>I Don't Do Drugs - Y2K Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3EdDaqA9IkOwD8rcRyK60b'>Made You Look (feat. Kim Petras)</a>
       </td>
     </tr>
   </table>
