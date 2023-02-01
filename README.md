@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='September' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736033361211c3a118a7f7a6c2' alt='I Don't Do Drugs - Y2K Remix' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308a7d6323d02627a27fc3979' alt='Made You Look (feat. Kim Petras)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1244c46203e0d9616970098' alt='What you want' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732d275e884d2ab7db51a060b6' alt='escalate' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2lGZVgEWuiJ1cDQAH5fWZs'>September</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/49CHpBYoeE9j0QIXy9dKI7'>I Don't Do Drugs - Y2K Remix</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5StFg7VQbHh24jKe1RQoKx'>What you want</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3'>escalate</a>
       </td>
     </tr>
   </table>
