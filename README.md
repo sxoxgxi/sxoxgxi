@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-NEW ME-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Anti-Hero - Acoustic Version-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f127e9e7830d2f77c7944354' alt='NEW ME' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='September' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736033361211c3a118a7f7a6c2' alt='I Don't Do Drugs - Y2K Remix' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ac87535728a0b40073887cf' alt='テレパス' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1244c46203e0d9616970098' alt='What you want' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o'>NEW ME</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2lGZVgEWuiJ1cDQAH5fWZs'>September</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7C37yaKPoOJHUvlNYv991q'>テレパス</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5StFg7VQbHh24jKe1RQoKx'>What you want</a>
       </td>
     </tr>
   </table>
