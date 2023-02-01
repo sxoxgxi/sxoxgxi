@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334378507d3131f29899488ff' alt='fine' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='YEAH RIGHT' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Don’t Break My Heart' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7EyhPjrJzjx0fk2i7vUJCS'>Pink Venom</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/34FlGAOQi36sh65cl3UzPF'>fine</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92'>Don’t Break My Heart</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR'>again</a>
       </td>
     </tr>
   </table>
