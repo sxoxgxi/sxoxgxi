@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cf76a79dce2bebda318bf9b9' alt='Love Me For Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Memories' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5' alt='Dynamite' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4kKhmIdFALmwCYrt90oWUW'>Love Me For Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI'>Memories</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW'>Dynamite</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj'>I Like You (A Happier Song) (with Doja Cat)</a>
       </td>
     </tr>
   </table>
