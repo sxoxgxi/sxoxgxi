@@ -126,6 +126,22 @@
       <td>
       1
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj'>I Like You (A Happier Song) (with Doja Cat)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx'>Twelve Carat Toothache</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      2
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:10%'>
       </td>
       <td>
@@ -140,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      2
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='fuck, i'm lonely' style='width:10%'>
       </td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d455dcb7c245d4ef1646d38e' alt='Fingers Crossed' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50'>Lauren Spencer Smith</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3wcVENZJmJZm7tE4zQJfgB'>love, pain, & retrospect</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw'>Before You Exit</a>
       </td>
     </tr>
   </table>
