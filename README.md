@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire? - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>There are dark shadows on the earth, but its lights are stronger in the contrast. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
