@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Believer-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-All 4 Nothing (I'm So In Love)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a' alt='Believer' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='CHE.R.RY' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP'>Believer</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp'>CHE.R.RY</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
       </td>
     </tr>
   </table>
