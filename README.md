@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e8e0f647681d382ff59598a' alt='盗作' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a' alt='Believer' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='CHE.R.RY' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dedbec8cca43642f06533476' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4NUDg0G6FgcfkxNUbYuOsU'>盗作</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP'>Believer</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ'>If the World Was Ending (feat. Julia Michaels)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
       </td>
     </tr>
   </table>
