@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
