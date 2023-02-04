@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Like I'm Gonna Lose You (feat. John Legend)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Somebody's Nobody-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1' alt='アンコール' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1' alt='アンコール' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a' alt='Believer' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='CHE.R.RY' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW'>Like I'm Gonna Lose You (feat. John Legend)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC'>アンコール</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP'>Believer</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp'>CHE.R.RY</a>
       </td>
     </tr>
   </table>
