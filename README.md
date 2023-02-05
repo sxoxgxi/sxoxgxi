@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Feelings' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20'>Feelings</a>
+      <a href='https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW'>Like I'm Gonna Lose You (feat. John Legend)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi'>~how i'm feeling~</a>
+      <a href='https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE'>Title (Deluxe)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      <a href='https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz'>Meghan Trainor</a>
       </td>
     </tr>
   </table>
