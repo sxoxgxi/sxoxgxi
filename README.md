@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d455dcb7c245d4ef1646d38e' alt='Fingers Crossed' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Feelings' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ'>Fingers Crossed</a>
+      <a href='https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20'>Feelings</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY'>Fingers Crossed</a>
+      <a href='https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi'>~how i'm feeling~</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50'>Lauren Spencer Smith</a>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
     </tr>
   </table>
