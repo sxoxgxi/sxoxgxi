@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e741cd9dc139d57cc2906186' alt='iPad' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733391ed08316b55df8205120e' alt='Hate How Much I Love You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273491c7ca64a8353acfc2ab4cb' alt='The Reason' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e3049fef96abebf336b7366' alt='Hall of Fame (feat. will.i.am)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6'>iPad</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2v00WuRHH1WdnXxlHnyURi'>Hate How Much I Love You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX'>Hall of Fame (feat. will.i.am)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
       </td>
     </tr>
   </table>
