@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Too Good At Goodbyes-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Say You Won't Let Go-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='Demons' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e741cd9dc139d57cc2906186' alt='iPad' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733391ed08316b55df8205120e' alt='Hate How Much I Love You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR'>Demons</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6'>iPad</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2v00WuRHH1WdnXxlHnyURi'>Hate How Much I Love You</a>
       </td>
     </tr>
   </table>
