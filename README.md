@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The scariest moment is always just before you start. After that, things can only get better. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>If you don't know, the thing to do is not to get scared, but to learn. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
