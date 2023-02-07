@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-POSE-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Mirror-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cae19d41cebf854b1f643bf9' alt='POSE' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f8a1e4eb400e681a7d8152c2' alt='Suzume no Tojimari' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738bd16a47ef3c24e8bf8e0108' alt='フレンズ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11bdc91cb9ac6b14f5c1dae' alt='Stay With Me' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1Namp0zU6fbrj8hXO0quIA'>POSE</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3yyzLkPAH8Go8yiCHDUOUZ'>Sky chord〜大人になる君へ〜</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2ckFNw40JZVPw1qSuEojX0'>フレンズ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt'>Stay With Me</a>
       </td>
     </tr>
   </table>
