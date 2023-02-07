@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-We Don't Talk Anymore (feat. Selena Gomez)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Be Mine Tonight - Radio Edit-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
