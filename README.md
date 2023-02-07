@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='What Do You Mean?' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff' alt='Payphone' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Mama' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a2fac16a87e3cc06593c57fa' alt='Thinkin' Bout You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj'>We Don't Talk Anymore (feat. Selena Gomez)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs'>What Do You Mean?</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj'>Mama</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3DA7OTkagu4y6VpU2yhnPa'>Thinkin' Bout You</a>
       </td>
     </tr>
   </table>
