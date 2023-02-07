@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-What Do You Mean?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-We Don't Talk Anymore (feat. Selena Gomez)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='What Do You Mean?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff' alt='Payphone' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Dusk Till Dawn (feat. Sia) - Radio Edit' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a2fac16a87e3cc06593c57fa' alt='Thinkin' Bout You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs'>What Do You Mean?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A'>Payphone</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3DA7OTkagu4y6VpU2yhnPa'>Thinkin' Bout You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh'>Say You Won't Let Go</a>
       </td>
     </tr>
   </table>
