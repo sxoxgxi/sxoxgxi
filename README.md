@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738bd16a47ef3c24e8bf8e0108' alt='フレンズ' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11bdc91cb9ac6b14f5c1dae' alt='Stay With Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e74ecdb2f1316c8f026970a8' alt='No Promises (feat. Demi Lovato)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Photograph' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2ckFNw40JZVPw1qSuEojX0'>フレンズ</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt'>Stay With Me</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW'>No Promises (feat. Demi Lovato)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL'>Photograph</a>
       </td>
     </tr>
   </table>
