@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you don't know, the thing to do is not to get scared, but to learn. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
+<h4 align='center'>Successful people do what unsuccessful people are not willing to do. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
