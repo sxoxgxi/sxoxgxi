@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mirror-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-たぶん-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cae19d41cebf854b1f643bf9' alt='POSE' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='ブルーバード' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738bd16a47ef3c24e8bf8e0108' alt='フレンズ' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1Namp0zU6fbrj8hXO0quIA'>POSE</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18'>ブルーバード</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2ckFNw40JZVPw1qSuEojX0'>フレンズ</a>
       </td>
     </tr>
   </table>
