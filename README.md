@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-All We Know-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Like I'm Gonna Lose You (feat. John Legend)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff8d8c5662a96d41433e9ee1' alt='All We Know' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e74ecdb2f1316c8f026970a8' alt='No Promises (feat. Demi Lovato)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd' alt='Photograph' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='What Do You Mean?' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK'>All We Know</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW'>No Promises (feat. Demi Lovato)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj'>We Don't Talk Anymore (feat. Selena Gomez)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs'>What Do You Mean?</a>
       </td>
     </tr>
   </table>
