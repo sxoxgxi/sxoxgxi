@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW'>Like I'm Gonna Lose You (feat. John Legend)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE'>Title (Deluxe)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz'>Meghan Trainor</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Like You (A Happier Song) (with Doja Cat)' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:10%'>
       </td>
@@ -168,22 +184,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW'>Johnny Orlando</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW'>Like I'm Gonna Lose You (feat. John Legend)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE'>Title (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz'>Meghan Trainor</a>
       </td>
     </tr>
     <tr align='center'>
