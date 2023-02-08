@@ -174,22 +174,6 @@
       <td>
       4
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d'>Heartbeat</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:10%'>
       </td>
       <td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz'>Meghan Trainor</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Feelings' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20'>Feelings</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi'>~how i'm feeling~</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
     </tr>
   </table>
