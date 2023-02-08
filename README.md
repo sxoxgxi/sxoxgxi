@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Successful people do what unsuccessful people are not willing to do. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>The opposite of courage in our society is not cowardice... it is conformity. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
