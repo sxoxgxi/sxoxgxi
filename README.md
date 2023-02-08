@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Devil Doesn’t Bargain - Acoustic-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Train Wreck-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab09ecae7741867714366036' alt='Devil Doesn’t Bargain - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c240b59c9965c20dd65e617b' alt='disaster' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393009d3db274db2036eeb979' alt='花に亡霊' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='森の教会' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y'>Devil Doesn’t Bargain - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0l39wZwdO1xqIbw3DgGRxk'>disaster</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN'>花に亡霊</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3x5xoVNp8DDYjKKo13OFTV'>森の教会</a>
       </td>
     </tr>
   </table>
