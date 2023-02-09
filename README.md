@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Ghost-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Forever-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731f0294c93e08866f689d8c7b' alt='someone will love you better' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Glimpse of Us' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27344efe5f03af11e4c2e7f0dd7' alt='Little Bit More' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f15ba990dca222e9d5a43c3d' alt='You're the Reason' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G'>Ghost</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5BIEu2u0dElmmyiZxTLBty'>someone will love you better</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws'>Little Bit More</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6OFiy3gqtMbtiU0yohX1zC'>You're the Reason</a>
       </td>
     </tr>
   </table>
