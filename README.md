@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-You're the Reason-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Little Bit More-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f15ba990dca222e9d5a43c3d' alt='You're the Reason' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a7bc8b3ab715ffaa204538a0' alt='Kid In My 20s' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a7bc8b3ab715ffaa204538a0' alt='Fit In' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab09ecae7741867714366036' alt='Devil Doesn’t Bargain - Acoustic' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c240b59c9965c20dd65e617b' alt='disaster' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6OFiy3gqtMbtiU0yohX1zC'>You're the Reason</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4Odx1segLFVrXKUkG7WItr'>Kid In My 20s</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y'>Devil Doesn’t Bargain - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0l39wZwdO1xqIbw3DgGRxk'>disaster</a>
       </td>
     </tr>
   </table>
