@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dc94a17624484c674252385b' alt='GHOST TOWN' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660' alt='Car's Outside' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739796826c43dfde83d5adce57' alt='It Is What It Is' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='traitor' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee73b2c2c924db08045f4f3d' alt='Proud' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH'>GHOST TOWN</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt'>Car's Outside</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT'>traitor</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/16YR8xOtyBR8B4YYColGwZ'>Proud</a>
       </td>
     </tr>
   </table>
