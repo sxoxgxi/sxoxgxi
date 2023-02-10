@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-you were good to me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Paper Crown-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758' alt='you were good to me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273409f7ee20c9f63b61aea0369' alt='Hair Toss, Arms Crossed' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738b2f7c8ee7be76c742014acf' alt='wildfire' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27342bd4d8a3042334c222efacb' alt='i think i wanna text u' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P'>you were good to me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU'>that way - with Jeremy Zucker</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5qz7zyJ2YAhER8DXTcRyQg'>wildfire</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3'>i think i wanna text u</a>
       </td>
     </tr>
   </table>
