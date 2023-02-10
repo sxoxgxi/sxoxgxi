@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-爆弾魔 - Re-Recording-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Nandemonaiya - movie ver.-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732794743c6eb13addc2b01420' alt='爆弾魔 - Re-Recording' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e666597c08e78ec12f18dcdc' alt='LETTER' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731301e3fc608b91a0a23ef06b' alt='魔法' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D'>爆弾魔 - Re-Recording</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz'>再会 (produced by Ayase)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/46Gtgo6vbo88TNMyCeH4Ie'>LETTER</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW'>魔法</a>
       </td>
     </tr>
   </table>
