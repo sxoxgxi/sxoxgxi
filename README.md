@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Brave Shine-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-愛錠-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54e91cdc2fc4e29efab4e4b' alt='Brave Shine' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cdfa670b06d20b03a490e22a' alt='Some Days' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337edf1e67bda87c49dc06da1' alt='We're Getting Older' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If We Have Each Other' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ'>Brave Shine</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6vfZSkjmzjo6q5BhkWSRxY'>Some Days</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF'>If We Have Each Other</a>
       </td>
     </tr>
   </table>
