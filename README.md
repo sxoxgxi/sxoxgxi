@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Water Fountain-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-It Is What It Is-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Water Fountain' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='traitor' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee73b2c2c924db08045f4f3d' alt='Proud' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ce26aadfde6d3a4c9f7e0d0' alt='aftermath' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735490abac01abd3ef13c059e6' alt='If I Don't Laugh, I'll Cry' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To'>Water Fountain</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT'>traitor</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po'>aftermath</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD'>If I Don't Laugh, I'll Cry</a>
       </td>
     </tr>
   </table>
