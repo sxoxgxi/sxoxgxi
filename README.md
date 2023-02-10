@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Car's Outside-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-GHOST TOWN-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660' alt='Car's Outside' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739796826c43dfde83d5adce57' alt='It Is What It Is' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Water Fountain' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee73b2c2c924db08045f4f3d' alt='Proud' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733c64f8e4633e494fc9ca4db4' alt='Emerald City' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt'>Car's Outside</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6'>It Is What It Is</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/16YR8xOtyBR8B4YYColGwZ'>Proud</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/63ZmPonhAmcxXZCzYHLwXk'>Emerald City</a>
       </td>
     </tr>
   </table>
