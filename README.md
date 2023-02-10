@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b46f98efbcbd0bdbd058f8c5' alt='愛錠' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54e91cdc2fc4e29efab4e4b' alt='Brave Shine' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cdfa670b06d20b03a490e22a' alt='Some Days' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27328aec13f7c4b762c5c9433f4' alt='Unloving You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/67FILuMuRcWo6cX6LwcOVl'>愛錠</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ'>Brave Shine</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34'>Unloving You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
       </td>
     </tr>
   </table>
