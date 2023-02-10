@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273409f7ee20c9f63b61aea0369' alt='Hair Toss, Arms Crossed' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273409f7ee20c9f63b61aea0369' alt='Hair Toss, Arms Crossed' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27342bd4d8a3042334c222efacb' alt='i think i wanna text u' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730c8a0405b0035e48ab780eec' alt='Older' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU'>that way - with Jeremy Zucker</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA'>Hair Toss, Arms Crossed</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3'>i think i wanna text u</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH'>Older</a>
       </td>
     </tr>
   </table>
