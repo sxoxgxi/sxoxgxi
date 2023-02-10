@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Unloving You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-We're Getting Older-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27328aec13f7c4b762c5c9433f4' alt='Unloving You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If We Have Each Other' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b8defbf4520d65c93b00c4ea' alt='Riptide' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dc94a17624484c674252385b' alt='GHOST TOWN' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34'>Unloving You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1OEN5wnzICsfdDOGbwaAdb'>Riptide</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH'>GHOST TOWN</a>
       </td>
     </tr>
   </table>
