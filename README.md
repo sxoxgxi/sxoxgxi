@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-aftermath-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Emerald City-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ce26aadfde6d3a4c9f7e0d0' alt='aftermath' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735490abac01abd3ef13c059e6' alt='If I Don't Laugh, I'll Cry' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b9e3bc0507bae9257290f7da' alt='Paper Crown' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273409f7ee20c9f63b61aea0369' alt='Hair Toss, Arms Crossed' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po'>aftermath</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD'>If I Don't Laugh, I'll Cry</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU'>that way - with Jeremy Zucker</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA'>Hair Toss, Arms Crossed</a>
       </td>
     </tr>
   </table>
