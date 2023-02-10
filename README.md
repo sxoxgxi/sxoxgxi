@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Riptide-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Like I Can-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b8defbf4520d65c93b00c4ea' alt='Riptide' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dc94a17624484c674252385b' alt='GHOST TOWN' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660' alt='Car's Outside' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Water Fountain' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='traitor' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1OEN5wnzICsfdDOGbwaAdb'>Riptide</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH'>GHOST TOWN</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To'>Water Fountain</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT'>traitor</a>
       </td>
     </tr>
   </table>
