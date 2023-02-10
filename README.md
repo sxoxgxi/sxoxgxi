@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cdfa670b06d20b03a490e22a' alt='Some Days' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337edf1e67bda87c49dc06da1' alt='We're Getting Older' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27328aec13f7c4b762c5c9433f4' alt='Unloving You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If We Have Each Other' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11bdc91cb9ac6b14f5c1dae' alt='Like I Can' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6vfZSkjmzjo6q5BhkWSRxY'>Some Days</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1bzfMcmuImln3h9YWyhOnh'>We're Getting Older</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF'>If We Have Each Other</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut'>Like I Can</a>
       </td>
     </tr>
   </table>
