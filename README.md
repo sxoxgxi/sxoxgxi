@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The danger of an adventure is worth a thousand days of ease and comfort. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>Here and now...breathe and relax...in battle and in life. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
