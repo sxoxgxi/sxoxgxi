@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be as fluid as water, do not give your enemies anything solid to attack. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
+<h4 align='center'>Success is getting what you want. Happiness is wanting what you get. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
