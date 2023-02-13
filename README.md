@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='A Little Bit Yours' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1' alt='アンコール' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f6e9e116e2ae3925f5bc4233' alt='あふれる' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f6e9e116e2ae3925f5bc4233' alt='あふれる' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA'>A Little Bit Yours</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
       </td>
@@ -47,9 +50,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs'>シオン</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6bBK7IhHhRGpGUR2J7ULVJ'>あふれる</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/6bBK7IhHhRGpGUR2J7ULVJ'>あふれる</a>
