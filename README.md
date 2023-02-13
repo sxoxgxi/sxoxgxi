@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-アンコール-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-ADAMAS-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1' alt='アンコール' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f6e9e116e2ae3925f5bc4233' alt='あふれる' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732794743c6eb13addc2b01420' alt='爆弾魔 - Re-Recording' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC'>アンコール</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs'>シオン</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D'>爆弾魔 - Re-Recording</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz'>再会 (produced by Ayase)</a>
       </td>
     </tr>
   </table>
