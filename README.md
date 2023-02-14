@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is getting what you want. Happiness is wanting what you get. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>It is what we make out of what we have, not what we are given, that separates one person from another. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
