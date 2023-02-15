@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f69d13a2b91adb353bc01cc9' alt='Tell Me That You Love Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de' alt='Love Yourself' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7' alt='Lie To Me (feat. Julia Michaels)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734f236e65690f82cc8a6d2a55' alt='More Than Friends' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX'>Tell Me That You Love Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0'>Love Yourself</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0WkapTWP1Z1kJqxj2Hjzcl'>More Than Friends</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
       </td>
     </tr>
   </table>
