@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734f236e65690f82cc8a6d2a55' alt='More Than Friends' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563' alt='Señorita' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0WkapTWP1Z1kJqxj2Hjzcl'>More Than Friends</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2'>Señorita</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu'>Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist</a>
       </td>
     </tr>
   </table>
