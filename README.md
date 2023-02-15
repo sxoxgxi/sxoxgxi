@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Lie To Me (feat. Julia Michaels)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Love Yourself-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7' alt='Lie To Me (feat. Julia Michaels)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734f236e65690f82cc8a6d2a55' alt='More Than Friends' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479' alt='10,000 Hours (with Justin Bieber)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563' alt='Señorita' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3'>Lie To Me (feat. Julia Michaels)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa'>10,000 Hours (with Justin Bieber)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2'>Señorita</a>
       </td>
     </tr>
   </table>
