@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is what we make out of what we have, not what we are given, that separates one person from another. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
+<h4 align='center'>Winners never quit and quitters never win. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
