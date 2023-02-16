@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Way Back Home-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-THATS WHAT I WANT-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3' alt='Way Back Home' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27397f49d5e045af1ef14d8013d' alt='City Lights' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218' alt='The Man Who Can't Be Moved' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/19uGdsVyfOLTQ2qBARMXNg'>City Lights</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf'>The Man Who Can't Be Moved</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM'>18</a>
       </td>
     </tr>
   </table>
