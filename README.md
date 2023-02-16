@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1872d02df5bf96ffb8ef81c' alt='Let Somebody Go - Ofenbach Remix' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758' alt='you were good to me' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7' alt='Easier' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx'>Let Somebody Go - Ofenbach Remix</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI'>Easier</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
       </td>
     </tr>
   </table>
