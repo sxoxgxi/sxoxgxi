@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Midsummer Madness-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Attention-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734aedbebc17bc6ebccad220e9' alt='Midsummer Madness' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d44e723b677380dfbc899bcd' alt='Rewrite The Stars' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='The Hills' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1872d02df5bf96ffb8ef81c' alt='Let Somebody Go - Ofenbach Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6TodWdTSDfzwgYynTZSvJn'>Midsummer Madness</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN'>Rewrite The Stars</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx'>Let Somebody Go - Ofenbach Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
       </td>
     </tr>
   </table>
