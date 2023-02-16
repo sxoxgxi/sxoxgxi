@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Maroon-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Two of Us-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Maroon' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731a12c03676b1f8475b972eac' alt='Bleeding Love' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739f89b8390933e9ccb3673c89' alt='Somebody To You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Feelings' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm'>Maroon</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/19UR10Y2LQwlUn3Fv9gVq4'>Bleeding Love</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65'>Somebody To You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20'>Feelings</a>
       </td>
     </tr>
   </table>
