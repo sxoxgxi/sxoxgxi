@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='I Loved You, What Happened?' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27370a876a3c430c3a30f37aabc' alt='One Day Less' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6fd961ae941caabd098efc2' alt='Never Let You Go' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6BC5HISRZvHCxcLDvO0Flu'>I Loved You, What Happened?</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp'>Falling</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5MdZOhx2f37BPtxaEn0F85'>Never Let You Go</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
       </td>
     </tr>
   </table>
