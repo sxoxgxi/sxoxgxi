@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-The Way I Am-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Anyone Else But You-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fd094b00d1d8dddf6cdc86a6' alt='The Way I Am' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Brand New Day' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310179936604a42f16280835e' alt='残響散歌' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Attention' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7KIM8PBwYO69LTZnQ04Nfp'>The Way I Am</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5DHodhUXJJBNySODQCzcOv'>Brand New Day</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO'>残響散歌</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50'>Attention</a>
       </td>
     </tr>
   </table>
