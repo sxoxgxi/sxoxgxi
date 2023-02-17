@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27370a876a3c430c3a30f37aabc' alt='One Day Less' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353d6f7a28c0f2a28e0649882' alt='Scars' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6fd961ae941caabd098efc2' alt='Never Let You Go' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fd094b00d1d8dddf6cdc86a6' alt='The Way I Am' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Brand New Day' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy'>One Day Less</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0'>Scars</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7KIM8PBwYO69LTZnQ04Nfp'>The Way I Am</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5DHodhUXJJBNySODQCzcOv'>Brand New Day</a>
       </td>
     </tr>
   </table>
