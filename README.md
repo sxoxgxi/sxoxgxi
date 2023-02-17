@@ -70,11 +70,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867' alt='The Script' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebef59d8c7b5ba8de893a2ce4d' alt='shy martin' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -85,13 +85,13 @@
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
       <td>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
+      </td>
+      <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'>The Script</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM'>shy martin</a>
       </td>
     </tr>
   </table>
