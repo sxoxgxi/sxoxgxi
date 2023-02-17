@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man should do his job so well that the living, the dead, and the unborn could do it no better. - <a href='https://duckduckgo.com/?q=Martin+Luther+King,+Jr.' target='_blank'>Martin Luther King, Jr.</a>.</h4>
+<h4 align='center'>Others can stop you temporarily - you are the only one who can do it permanently. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
