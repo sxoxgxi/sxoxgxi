@@ -29,18 +29,21 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='I Loved You, What Happened?' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27348b0cbf55eeb61112436f8bd' alt='Let Me Down Easy (Lie)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27370a876a3c430c3a30f37aabc' alt='One Day Less' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353d6f7a28c0f2a28e0649882' alt='Scars' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6fd961ae941caabd098efc2' alt='Never Let You Go' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
       <td>
       <a href='https://open.spotify.com/track/6BC5HISRZvHCxcLDvO0Flu'>I Loved You, What Happened?</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc'>Let Me Down Easy (Lie)</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp'>Falling</a>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0'>Scars</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5MdZOhx2f37BPtxaEn0F85'>Never Let You Go</a>
       </td>
     </tr>
   </table>
