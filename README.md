@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Brand New Day' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Attention' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734aedbebc17bc6ebccad220e9' alt='Midsummer Madness' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5DHodhUXJJBNySODQCzcOv'>Brand New Day</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0AFxxY9L92avLBXXhBZFqK'>Not the End</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50'>Attention</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6TodWdTSDfzwgYynTZSvJn'>Midsummer Madness</a>
       </td>
     </tr>
   </table>
