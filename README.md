@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6fd961ae941caabd098efc2' alt='Never Let You Go' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fd094b00d1d8dddf6cdc86a6' alt='The Way I Am' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5MdZOhx2f37BPtxaEn0F85'>Never Let You Go</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0AFxxY9L92avLBXXhBZFqK'>Not the End</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
       </td>
     </tr>
   </table>
