@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Silence-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Genie In a Bottle-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If We Have Each Other' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736e9cf1cc6445c642e219678a' alt='Who are you?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='deja vu' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1GfUfl8HGB2UxOgnncUX29'>Who are you?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr'>deja vu</a>
       </td>
     </tr>
   </table>
