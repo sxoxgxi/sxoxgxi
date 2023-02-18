@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-deja vu-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Who are you?-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='deja vu' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a' alt='Nothing Without You' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d6fe31330875e36304af093e' alt='LIGHTNING' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='I Loved You, What Happened?' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27348b0cbf55eeb61112436f8bd' alt='Let Me Down Easy (Lie)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr'>deja vu</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3Te3gG6MPEDNqLGzWrjKC3'>Nothing Without You</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6BC5HISRZvHCxcLDvO0Flu'>I Loved You, What Happened?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc'>Let Me Down Easy (Lie)</a>
       </td>
     </tr>
   </table>
