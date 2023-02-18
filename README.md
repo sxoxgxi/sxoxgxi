@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Others can stop you temporarily - you are the only one who can do it permanently. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>The most effective way to do it, is to do it. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
