@@ -74,7 +74,7 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf01bf904b446e4a043acb867' alt='The Script' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -91,7 +91,7 @@
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'>The Script</a>
+      <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
       </td>
     </tr>
   </table>
