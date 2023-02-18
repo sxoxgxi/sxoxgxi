@@ -158,6 +158,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1iAPmpj1xtcFvTgmsnJKNd'>Will</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:10%'>
       </td>
       <td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu'>elijah woods</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1iAPmpj1xtcFvTgmsnJKNd'>Will</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr>
   </table>
