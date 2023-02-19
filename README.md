@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b' alt='hate u love u' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fd553b1adff5dd927e5b43f3' alt='Lost' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Mastermind' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt'>hate u love u</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5'>One More Try</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX'>Lost</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH'>Mastermind</a>
       </td>
     </tr>
   </table>
