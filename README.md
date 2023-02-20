@@ -74,7 +74,7 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb72c4ca30476ce87954961a10' alt='Alec Benjamin' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eba876cce57ccb11531390ed5f' alt='Calum Scott' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -91,7 +91,7 @@
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
+      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
       </td>
     </tr>
   </table>
