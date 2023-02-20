@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Paradise-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-heart notes-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff' alt='Payphone' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273041398c37513dc22753ac3dc' alt='Complicated' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27369937cf201d756253baf8527' alt='Glimpse of Us (Her Perspective)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9a776c0d4ec78052c92882b' alt='hate u love u' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A'>Payphone</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4dBEjEcM90vRGuUOOTJxWU'>Glimpse of Us (Her Perspective)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt'>hate u love u</a>
       </td>
     </tr>
   </table>
