@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is not final, failure is not fatal: it is the courage to continue that counts. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
+<h4 align='center'>Someday death will take us to another star. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
