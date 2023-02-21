@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Before You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3' alt='Easy' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273926034731cc1c6402644d143' alt='Butterflies' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273651c4282aac6b8c408746037' alt='What If (I Told You I Like You)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6vjf1I3tXhs5s6zx6gYrGz'>Before You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ'>Easy</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4v7DgEMw6EvYyuQ4eWFD9l'>What If (I Told You I Like You)</a>
       </td>
     </tr>
   </table>
