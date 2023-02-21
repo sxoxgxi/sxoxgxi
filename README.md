@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Someday death will take us to another star. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>What you get by achieving your goals is not as important as what you become by achieving your goals. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
