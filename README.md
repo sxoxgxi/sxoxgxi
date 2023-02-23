@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A thing must be loved before it is lovable. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
+<h4 align='center'>If there is a book that you want to read, but it hasn't been written yet, then you must write it. - <a href='https://duckduckgo.com/?q=Toni+Morrison' target='_blank'>Toni Morrison</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
