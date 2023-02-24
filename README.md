@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If there is a book that you want to read, but it hasn't been written yet, then you must write it. - <a href='https://duckduckgo.com/?q=Toni+Morrison' target='_blank'>Toni Morrison</a>.</h4>
+<h4 align='center'>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
