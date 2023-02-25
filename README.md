@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
+<h4 align='center'>Life is ours to be spent, not to be saved.  - <a href='https://duckduckgo.com/?q=D.+H.+Lawrence' target='_blank'>D. H. Lawrence</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
