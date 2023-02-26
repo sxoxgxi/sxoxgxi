@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is ours to be spent, not to be saved.  - <a href='https://duckduckgo.com/?q=D.+H.+Lawrence' target='_blank'>D. H. Lawrence</a>.</h4>
+<h4 align='center'>The highest level of wisdom is when you not only accept but love adversity. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
