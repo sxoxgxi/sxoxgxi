@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. - <a href='https://duckduckgo.com/?q=James+Matthew+Barrie' target='_blank'>James Matthew Barrie</a>.</h4>
+<h4 align='center'>Most people fail in life because they major in minor things. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
