@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is only one thing that makes a dream impossible to achieve: the fear of failure. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>The four P's to success are pressure, persistence, perseverance, and prayer. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
