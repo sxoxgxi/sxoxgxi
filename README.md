@@ -142,6 +142,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a' alt='Locked Away (feat. Adam Levine)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy'>Locked Away (feat. Adam Levine)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB'>What Dreams Are Made Of</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX'>R. City</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc' alt='Like I'm Gonna Lose You (feat. John Legend)' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:10%'>
       </td>
@@ -172,7 +188,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273786e4e2c43c2897fafabbfb6' alt='In The Stars' style='width:10%'>
       </td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET'>Benson Boone</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479' alt='10,000 Hours (with Justin Bieber)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa'>10,000 Hours (with Justin Bieber)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY'>10,000 Hours (with Justin Bieber)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T'>Dan + Shay</a>
       </td>
     </tr>
   </table>
