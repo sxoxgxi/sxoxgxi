@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He who has overcome his fears will truly be free. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
