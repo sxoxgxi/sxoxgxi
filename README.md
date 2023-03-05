@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>Don't settle, and don't struggle. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
