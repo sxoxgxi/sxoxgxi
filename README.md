@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Youngblood-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Patient-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317745f08b79f421ad2176966' alt='Youngblood' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b6cd014d6c38a275f874b5ce' alt='Love Back' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a' alt='Locked Away (feat. Adam Levine)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5sFRWJi3jzq2EfPCS3VZEJ'>Youngblood</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI'>Love Back</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy'>Locked Away (feat. Adam Levine)</a>
       </td>
     </tr>
   </table>
