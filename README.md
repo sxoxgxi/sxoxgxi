@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dc94a17624484c674252385b' alt='GHOST TOWN' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317745f08b79f421ad2176966' alt='Youngblood' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b6cd014d6c38a275f874b5ce' alt='Love Back' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739ee734a46d5a3789d7b867dc' alt='Black Catcher' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH'>GHOST TOWN</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5sFRWJi3jzq2EfPCS3VZEJ'>Youngblood</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix'>Black Catcher</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
       </td>
     </tr>
   </table>
