@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Let each man exercise the art he knows. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
+<h4 align='center'>All power is from within and therefore under our control. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
