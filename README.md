@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All power is from within and therefore under our control. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
+<h4 align='center'>We have a choice everyday regarding the attitude we will embrace for that day. - <a href='https://duckduckgo.com/?q=Charles+Swindoll' target='_blank'>Charles Swindoll</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
