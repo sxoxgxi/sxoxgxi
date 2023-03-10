@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We have a choice everyday regarding the attitude we will embrace for that day. - <a href='https://duckduckgo.com/?q=Charles+Swindoll' target='_blank'>Charles Swindoll</a>.</h4>
+<h4 align='center'>Nothing is particularly hard if you divide it into small jobs.  - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
