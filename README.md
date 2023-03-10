@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eba876cce57ccb11531390ed5f' alt='Calum Scott' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb72c4ca30476ce87954961a10' alt='Alec Benjamin' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8' alt='5 Seconds of Summer' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f' alt='Charlie Puth' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
+      <a href='https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'>5 Seconds of Summer</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'>5 Seconds of Summer</a>
+      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
       </td>
     </tr>
   </table>
@@ -142,22 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg'>fingers crossed</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu'>elijah woods</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479' alt='10,000 Hours (with Justin Bieber)' style='width:10%'>
       </td>
       <td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:10%'>
       </td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg'>fingers crossed</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu'>elijah woods</a>
       </td>
     </tr>
   </table>
