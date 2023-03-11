@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing is particularly hard if you divide it into small jobs.  - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
+<h4 align='center'>When it hurts - observe. Life is trying to teach you something. - <a href='https://duckduckgo.com/?q=Anita+Krizzan' target='_blank'>Anita Krizzan</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
