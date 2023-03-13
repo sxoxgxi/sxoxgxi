@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738f2eeb11b9c2d5c86b70eb92' alt='Gunfire' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737127de18828e2d0a5d5114d5' alt='SAME PLACE' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273403f4b7dc98e3a3f7433fbe0' alt='Red Sky' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273308f9319a3d6f6737f43b3fc' alt='Is There Someone Else? - Live' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0' alt='Miracle (with Ellie Goulding)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0mmKJCFvzPlvQD20G0xMFj'>Gunfire</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2wqB9l07hjkM1Vc0dXIVQD'>SAME PLACE</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1um00PH48BzDbULgyQyRUA'>Is There Someone Else? - Live</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ'>Miracle (with Ellie Goulding)</a>
       </td>
     </tr>
   </table>
