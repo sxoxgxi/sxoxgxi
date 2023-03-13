@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27319872bd328737cfff03074fb' alt='Crystal Clear' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27374b9a0a138b331a6d1cbd32f' alt='ホタルノヒカリ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1' alt='夜に駆ける' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317745f08b79f421ad2176966' alt='Youngblood' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b6cd014d6c38a275f874b5ce' alt='Love Back' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4tOV0dfBRkAFcAEPP18Vbt'>Crystal Clear</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7AffKWcNn5Zv7QFgScW2ox'>ホタルノヒカリ</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5sFRWJi3jzq2EfPCS3VZEJ'>Youngblood</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI'>Love Back</a>
       </td>
     </tr>
   </table>
