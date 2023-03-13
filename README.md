@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Miracle (with Ellie Goulding)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Is There Someone Else? - Live-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0' alt='Miracle (with Ellie Goulding)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27304f615a46fd6e5ddf79094ab' alt='Girl's A Liar' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c67ab7b21b3872fada803c0a' alt='Don't Text Don't Call' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f7c84273e5c8ecb7594b4357' alt='Lavender Haze - Snakehips Remix' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27319872bd328737cfff03074fb' alt='Crystal Clear' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ'>Miracle (with Ellie Goulding)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2uUfAmZQkdJvTjispWncKb'>Girl's A Liar</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL'>Lavender Haze - Snakehips Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4tOV0dfBRkAFcAEPP18Vbt'>Crystal Clear</a>
       </td>
     </tr>
   </table>
