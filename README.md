@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The greatest gift that you can give to others is the gift of unconditional love and acceptance.  - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Passion is energy. Feel the power that comes from focusing on what excites you.  - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
