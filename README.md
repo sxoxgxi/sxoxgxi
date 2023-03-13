@@ -142,38 +142,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479' alt='10,000 Hours (with Justin Bieber)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa'>10,000 Hours (with Justin Bieber)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY'>10,000 Hours (with Justin Bieber)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T'>Dan + Shay</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu'>Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/05Ng00IfiS6xeyQX8WtjHU'>Bella Ciao (Música Original de la Serie la Casa de Papel/ Money Heist)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2TJHmhbmT7L3gw2NKyDTHh'>Manu Pilas</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:10%'>
       </td>
       <td>
@@ -188,18 +156,50 @@
     </tr>
     <tr align='center'>
       <td>
+      3
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec' alt='Die For You - Remix' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki'>Die For You - Remix</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy'>Die For You (Remix)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dd908ecaa1d2fa5979129302' alt='Dare You To Doubt Me' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx'>Dare You To Doubt Me</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5EUrcYE8wqM2tavV6GXDM3'>Dare You To Doubt Me</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'>The Script</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
+      <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg'>fingers crossed</a>
+      <a href='https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx'>This City (Acoustic)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu'>elijah woods</a>
+      <a href='https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA'>Sam Fischer</a>
       </td>
     </tr>
   </table>
