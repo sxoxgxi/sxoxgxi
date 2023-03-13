@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Red Sky-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-SAME PLACE-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273403f4b7dc98e3a3f7433fbe0' alt='Red Sky' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb62d02d8bd1aff69a1a1cd2' alt='someone will love you better - Zack Tabudlo Version' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273308f9319a3d6f6737f43b3fc' alt='Is There Someone Else? - Live' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27304f615a46fd6e5ddf79094ab' alt='Girl's A Liar' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c67ab7b21b3872fada803c0a' alt='Don't Text Don't Call' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1LApBt4nLmRLXoBaAFQHqp'>Red Sky</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh'>someone will love you better - Zack Tabudlo Version</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2uUfAmZQkdJvTjispWncKb'>Girl's A Liar</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn'>Don't Text Don't Call</a>
       </td>
     </tr>
   </table>
