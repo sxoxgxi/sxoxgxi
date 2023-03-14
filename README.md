@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eba876cce57ccb11531390ed5f' alt='Calum Scott' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8' alt='5 Seconds of Summer' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb7fe87aab0b0c1c0d8c9c87fb' alt='Link Lewis' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f' alt='Charlie Puth' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8' alt='5 Seconds of Summer' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'>5 Seconds of Summer</a>
+      <a href='https://open.spotify.com/artist/2aBpZ2C5sQ8eZuHG7xLEAt'>Link Lewis</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
+      <a href='https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'>5 Seconds of Summer</a>
       </td>
     </tr>
   </table>
