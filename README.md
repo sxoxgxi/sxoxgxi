@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-deja vu-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Because Of You-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='deja vu' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='You're On Your Own, Kid' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273169d573d0570bb6a49d19578' alt='One For' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a77e5b723fc46158f7406b5' alt='crossovers' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr'>deja vu</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t'>You're On Your Own, Kid</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/79erxfnOS3GubC1BUAC8Jx'>One For</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3T6iotCGoXj5koiIifL1OR'>crossovers</a>
       </td>
     </tr>
   </table>
