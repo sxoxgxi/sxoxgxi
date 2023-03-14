@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273169d573d0570bb6a49d19578' alt='One For' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a77e5b723fc46158f7406b5' alt='crossovers' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27321153709d4871879d7e8ef69' alt='I GUESS IT'S LOVE?' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737127de18828e2d0a5d5114d5' alt='SAME PLACE' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273403f4b7dc98e3a3f7433fbe0' alt='Red Sky' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/79erxfnOS3GubC1BUAC8Jx'>One For</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3T6iotCGoXj5koiIifL1OR'>crossovers</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/2wqB9l07hjkM1Vc0dXIVQD'>SAME PLACE</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1LApBt4nLmRLXoBaAFQHqp'>Red Sky</a>
       </td>
     </tr>
   </table>
