@@ -74,7 +74,7 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb7fe87aab0b0c1c0d8c9c87fb' alt='Link Lewis' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb92ce1e218cb7b48386efe3d8' alt='5 Seconds of Summer' style='width:50%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4e2e2c78de847c4d9b12d32f' alt='Charlie Puth' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -91,7 +91,7 @@
       <a href='https://open.spotify.com/artist/2aBpZ2C5sQ8eZuHG7xLEAt'>Link Lewis</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'>5 Seconds of Summer</a>
+      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
       </td>
     </tr>
   </table>
@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
+      <a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx'>This City (Acoustic)</a>
+      <a href='https://open.spotify.com/album/3wcVENZJmJZm7tE4zQJfgB'>love, pain, & retrospect</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA'>Sam Fischer</a>
+      <a href='https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw'>Before You Exit</a>
       </td>
     </tr>
   </table>
