@@ -190,16 +190,16 @@
       <td>
       5
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
+      <a href='https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc'>Angel Baby</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/3wcVENZJmJZm7tE4zQJfgB'>love, pain, & retrospect</a>
+      <a href='https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43'>Angel Baby</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw'>Before You Exit</a>
+      <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
     </tr>
   </table>
