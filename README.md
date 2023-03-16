@@ -174,6 +174,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW'>Soul Searching</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dd908ecaa1d2fa5979129302' alt='Dare You To Doubt Me' style='width:10%'>
       </td>
       <td>
@@ -184,22 +200,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'>The Script</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc'>Angel Baby</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43'>Angel Baby</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
     </tr>
   </table>
