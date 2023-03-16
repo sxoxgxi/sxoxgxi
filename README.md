@@ -68,18 +68,21 @@
     <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eba6391644f3fd2f9136b2ac49' alt='Fiji Blue' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eba876cce57ccb11531390ed5f' alt='Calum Scott' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb7fe87aab0b0c1c0d8c9c87fb' alt='Link Lewis' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe'>Fiji Blue</a>
       </td>
       <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
@@ -89,9 +92,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/2aBpZ2C5sQ8eZuHG7xLEAt'>Link Lewis</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr>
   </table>
