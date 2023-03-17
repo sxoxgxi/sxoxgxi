@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Canada (feat. Alessia Cara)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bois Lie (feat. Machine Gun Kelly) - Acoustic-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
