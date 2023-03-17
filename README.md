@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Canada' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b56ada0ba61d7787fb213f72' alt='カタオモイ' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa' alt='Love Me Harder' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d' alt='Because Of You' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d3a032e8aceb0860299d86d' alt='Ivy Ivy Ivy' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5EfNBzwOjAfF9qgsWr9XGP'>Canada</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz'>カタオモイ</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci'>Because Of You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ'>Ivy Ivy Ivy</a>
       </td>
     </tr>
   </table>
