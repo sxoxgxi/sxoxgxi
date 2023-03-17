@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Who (feat. BTS)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Make us never happen-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Who' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Canada' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b56ada0ba61d7787fb213f72' alt='カタオモイ' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27391bf597d2ed7528de53f71be' alt='Circles' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d' alt='Because Of You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0pSqYDTjY1Xt86usTQslAx'>Who</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5EfNBzwOjAfF9qgsWr9XGP'>Canada</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6KjegbJPzNRetrgFJiHVMp'>Circles</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci'>Because Of You</a>
       </td>
     </tr>
   </table>
