@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity. - <a href='https://duckduckgo.com/?q=Charles+Spurgeon' target='_blank'>Charles Spurgeon</a>.</h4>
+<h4 align='center'>Silence is a source of great strength. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
