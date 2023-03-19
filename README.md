@@ -72,9 +72,9 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eba876cce57ccb11531390ed5f' alt='Calum Scott' style='width:50%'>
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb92dac8a69c119f259ec42c8e' alt='Aimer' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
@@ -88,10 +88,10 @@
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
+      <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a>
+      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
     </tr>
   </table>
@@ -158,22 +158,6 @@
       <td>
       3
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5'>One More Try</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO'>One More Try</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec' alt='Die For You - Remix' style='width:10%'>
       </td>
       <td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dd908ecaa1d2fa5979129302' alt='Dare You To Doubt Me' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx'>Dare You To Doubt Me</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5EUrcYE8wqM2tavV6GXDM3'>Dare You To Doubt Me</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'>The Script</a>
       </td>
     </tr>
   </table>
