@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4' alt='Never Be the Same' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc' alt='august' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc' alt='august' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Feel Something' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ'>Never Be the Same</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K'>august</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le'>フェイクファーワルツ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5MWA0KkMh18hC2BkcCs4me'>Feel Something</a>
       </td>
     </tr>
   </table>
