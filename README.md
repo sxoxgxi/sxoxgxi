@@ -126,22 +126,6 @@
       <td>
       1
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le'>フェイクファーワルツ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7GoLkOzneXrgq1Y5YZ5aWq'>フェイクファーワルツ</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9'>Myuk</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d' alt='Because Of You' style='width:10%'>
       </td>
       <td>
@@ -152,6 +136,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj'>Ne-Yo</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      2
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le'>フェイクファーワルツ</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7GoLkOzneXrgq1Y5YZ5aWq'>フェイクファーワルツ</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9'>Myuk</a>
       </td>
     </tr>
     <tr align='center'>
