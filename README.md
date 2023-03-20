@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Silence is a source of great strength. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>The more you trust yourself, the less you compare yourself to others. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
