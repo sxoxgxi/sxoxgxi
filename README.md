@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Take responsibility of your own happiness, never put it in other people's hands. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>Learning is a gift, even when pain is your teacher. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
