@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Learning is a gift, even when pain is your teacher. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
