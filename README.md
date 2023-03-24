@@ -158,22 +158,6 @@
       <td>
       3
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec' alt='Die For You - Remix' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki'>Die For You - Remix</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy'>Die For You (Remix)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dd908ecaa1d2fa5979129302' alt='Dare You To Doubt Me' style='width:10%'>
       </td>
       <td>
@@ -188,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:10%'>
       </td>
@@ -200,6 +184,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If I Killed Someone For You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ'>If I Killed Someone For You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ'>Narrated For You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'>Alec Benjamin</a>
       </td>
     </tr>
   </table>
