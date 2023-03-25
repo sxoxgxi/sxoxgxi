@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The final mystery is oneself. - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
+<h4 align='center'>Man should fear never beginning to live. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
