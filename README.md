@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Surround yourself only with people who are going to take you higher. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>There are no secrets to success. It is the result of preparation, hard work, learning from failure. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
