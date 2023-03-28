@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Reruns' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738175117ca44bb0d14796174e' alt='Mistletoe' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bde319f49b9079c727c46410' alt='Car's Outside - Acoustic' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Best Friends' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4' alt='Never Be the Same' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2YBbTgu1H0kQttnPetbPGS'>Reruns</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l'>Mistletoe</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ'>Best Friends</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ'>Never Be the Same</a>
       </td>
     </tr>
   </table>
