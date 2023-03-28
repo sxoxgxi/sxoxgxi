@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739bea3b79b95f86d1b66ac960' alt='Never Really Over' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ebe2ebf168dcbf27f492131b' alt='ロストロマンス' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0b6b07ddb848e1b916c0d38' alt='Emily' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0'>Never Really Over</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3lfpnhiO6whPEdBM6O9Sdr'>ロストロマンス</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL'>Emily</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa'>Sanctuary</a>
       </td>
     </tr>
   </table>
