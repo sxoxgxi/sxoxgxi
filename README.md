@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
+<h4 align='center'>It is indeed a radical act of love just to sit down and be quiet for a time by yourself. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
