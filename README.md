@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-double take-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-老人と海-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273df9a35baaa98675256b35177' alt='On My Way' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a' alt='STAY (with Justin Bieber)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e8e0f647681d382ff59598a' alt='盗作' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny'>double take</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3BomnHfqKZCdPJC9bkGBjE'>On My Way</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4NUDg0G6FgcfkxNUbYuOsU'>盗作</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
       </td>
     </tr>
   </table>
