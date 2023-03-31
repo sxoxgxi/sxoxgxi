@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-嘘月-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Genie In a Bottle-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27394237be74edae41560152bce' alt='like i need u' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27324095cadba9d695e063d1f5d' alt='comethru' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a8fba2c2b6f814544da279d1' alt='老人と海' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim'>like i need u</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ'>老人と海</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny'>double take</a>
       </td>
     </tr>
   </table>
