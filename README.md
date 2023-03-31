@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273df9a35baaa98675256b35177' alt='On My Way' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a' alt='STAY (with Justin Bieber)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b915e407b70e121e06fe979' alt='IDGAF' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273931bed0e52b517e08c91abfb' alt='Pasta' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3BomnHfqKZCdPJC9bkGBjE'>On My Way</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo'>STAY (with Justin Bieber)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6UyqJJUwOrtop3YB8eruGR'>Pasta</a>
       </td>
     </tr>
   </table>
