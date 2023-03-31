@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Circles-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Wrapped Around Your Finger-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929' alt='Circles' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733f28db056181576c756727fe' alt='いつのまに' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='Cold (feat. Future)' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731e8fd05e38f85c0a52bf017f' alt='Stfu' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7' alt='嘘月' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6vLwsGft7DnZixQVgFlKgU'>Circles</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0'>いつのまに</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5IJbTPhcj0IjdzUaYqwe2I'>Stfu</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay'>嘘月</a>
       </td>
     </tr>
   </table>
