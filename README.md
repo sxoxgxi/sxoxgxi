@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Inside Out-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-dazzling tomorrow -Instrumental--&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734dfce1d72153c26ed35d06c0' alt='Mirror' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bc5dff32a4147c406d6a4095' alt='Message' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273200b78fa8c5b5eadd9f72f1d' alt='風の中' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731997039d11aaa4e713ca318f' alt='恋詩' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1dnF40AEK62CBUPAJjuUOU'>Mirror</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/5xDZUVqgZdxqcpV2e2R07C'>風の中</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/14JCxd8kvV5RLkhHhrTj1p'>恋詩</a>
       </td>
     </tr>
   </table>
