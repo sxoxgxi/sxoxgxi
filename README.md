@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273200b78fa8c5b5eadd9f72f1d' alt='風の中' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731997039d11aaa4e713ca318f' alt='恋詩' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/5xDZUVqgZdxqcpV2e2R07C'>風の中</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/14JCxd8kvV5RLkhHhrTj1p'>恋詩</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc'>Mercy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3zuLmMxDrpk5J6dEh828CB'>How Could You?</a>
       </td>
     </tr>
   </table>
