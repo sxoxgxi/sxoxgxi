@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life happens in the river, not the shore. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>The world doesn't owe you anything. It was here first. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
