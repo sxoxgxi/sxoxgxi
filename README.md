@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Either you run the day or the day runs you. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
