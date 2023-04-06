@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Once you learn to quit, it becomes a habit. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>Get busy living, or get busy dying. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
