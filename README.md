@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Being in a good frame of mind helps keep one in the picture of health. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>It is in your moments of decision that your destiny is shaped. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
