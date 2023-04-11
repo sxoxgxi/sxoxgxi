@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is in your moments of decision that your destiny is shaped. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>Numbing the pain for a while will make it worse when you finally feel it. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
