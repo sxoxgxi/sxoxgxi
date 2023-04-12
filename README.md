@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Numbing the pain for a while will make it worse when you finally feel it. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>You can, you should, and if you're brave enough to start, you will. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
