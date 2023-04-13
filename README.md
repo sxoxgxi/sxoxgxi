@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can, you should, and if you're brave enough to start, you will. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
