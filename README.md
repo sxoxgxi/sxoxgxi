@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fde669ed38a5e3c9906f1585' alt='Dance' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Reruns' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730acfd1cc37e7d4eacfa49c48' alt='Give Me Your Forever' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738ca73ea0e126cbeb8fc11d05' alt='シグナル' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6IxKxdVuFi4B2iaxVxRt2X'>Dance</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2YBbTgu1H0kQttnPetbPGS'>Reruns</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ'>Give Me Your Forever</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0PYkliLxHlN8VTXQMPkNZb'>シグナル</a>
       </td>
     </tr>
   </table>
