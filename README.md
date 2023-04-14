@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-you were good to me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
