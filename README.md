@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Heather-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-someone will love you better-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Heather' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a0e912d0c3c3ca34dfeddde' alt='KISS OF DEATH(Produced by HYDE)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fde669ed38a5e3c9906f1585' alt='Dance' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Reruns' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t'>Heather</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW'>KISS OF DEATH(Produced by HYDE)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6IxKxdVuFi4B2iaxVxRt2X'>Dance</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2YBbTgu1H0kQttnPetbPGS'>Reruns</a>
       </td>
     </tr>
   </table>
