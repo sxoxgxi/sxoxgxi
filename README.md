@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e99d204567288c1806e5c127' alt='2step (feat. Lil Baby)' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27325fb12689bbc453d22c322fc' alt='Heather' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c2bd783533a07368136793a8' alt='Hate You + Love You (feat. AJ Mitchell)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3gL6cSxG2YXajO5Mbxijbk'>2step (feat. Lil Baby)</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7DgkSYT6vh3UAYQlFbsj6z'>Hate You + Love You (feat. AJ Mitchell)</a>
       </td>
     </tr>
   </table>
