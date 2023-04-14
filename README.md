@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c2bd783533a07368136793a8' alt='Hate You + Love You (feat. AJ Mitchell)' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fde669ed38a5e3c9906f1585' alt='Dance' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='deja vu' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7DgkSYT6vh3UAYQlFbsj6z'>Hate You + Love You (feat. AJ Mitchell)</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr'>deja vu</a>
       </td>
     </tr>
   </table>
