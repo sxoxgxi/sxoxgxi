@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Work harder on yourself than you do on your job. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>I begin with an idea and then it becomes something else. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
