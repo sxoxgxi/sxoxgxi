@@ -65,18 +65,18 @@
   <h1>Top artists this month</h1>
   <p></p>
   <table style='width:100%'>
-  <tr align='center'>
-    <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'></td>
-  </tr>
-  <tr align='center'>
-    <td><a href='{'spotify': 'https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'}'>Rei Yasuda</a></td>
-  </tr>
-  <tr align='center'>
-    <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'></td>
-  </tr>
-  <tr align='center'>
-    <td><a href='{'spotify': 'https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'}'>ヨルシカ</a></td>
-  </tr>
+<tr>
+<td align='center'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
+<br>
+<a href='{'spotify': 'https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'}'>Rei Yasuda</a>
+</td>
+<td align='center'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
+<br>
+<a href='{'spotify': 'https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'}'>ヨルシカ</a>
+</td>
+</tr>
 </table>
 </p topartists>
 <!------ .TOP ARTISTS ------>
