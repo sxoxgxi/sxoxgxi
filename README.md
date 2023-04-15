@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-My Head & My Heart-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273956b310c66f11c4b4e1f603a' alt='Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720' alt='It's You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='MONEY' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/6jj44CxAIpfHKbJquGEBCo'>Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny'>double take</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/45OX2jjEw1l7lOFJfDP9fv'>MONEY</a>
       </td>
     </tr>
   </table>
