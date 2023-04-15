@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Anyone Else But You-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Save Your Tears (Remix) (with Ariana Grande) - Bonus Track-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e' alt='Viva La Vida' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b' alt='I Want It That Way' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe' alt='unlasting' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Adelaide' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b'>Viva La Vida</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk'>unlasting</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Ptb2JSW4var9dPGCmsm3s'>Adelaide</a>
       </td>
     </tr>
   </table>
