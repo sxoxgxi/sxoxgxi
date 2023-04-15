@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-アンコール-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-All For Us-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,18 +27,24 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1' alt='アンコール' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718ed75bdf6e3addbf37be8' alt='一斉ノ喝采' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273956b310c66f11c4b4e1f603a' alt='Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720' alt='It's You' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz'>YOUTH</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC'>アンコール</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4XP3BtzCEjRYff2K0M1HkY'>一斉ノ喝采</a>
       </td>
@@ -47,12 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6jj44CxAIpfHKbJquGEBCo'>Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny'>double take</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29'>It's You</a>
       </td>
     </tr>
   </table>
