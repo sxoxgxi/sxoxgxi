@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a' alt='I Love You 3000 II' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d24f8fa55739bdf2fecfd24' alt='Kirameki' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eade25766cc01790cef39e96' alt='Only Fan (feat. Cordae)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27325124948f493dd596336802d' alt='Harmony of One's Heart' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3witRpHWHqArlnt6GTlH2Y'>I Love You 3000 II</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB'>Happier</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4TMvib3pWUD1NzDabYIrBa'>Only Fan (feat. Cordae)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0wL1c6L1KCy1zbH1NgXqxT'>Harmony of One's Heart</a>
       </td>
     </tr>
   </table>
