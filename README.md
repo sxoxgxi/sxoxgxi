@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-MONEY-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bitch Lasagna-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='MONEY' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf' alt='Save Your Tears (Remix) (with Ariana Grande) - Bonus Track' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b' alt='I Want It That Way' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/45OX2jjEw1l7lOFJfDP9fv'>MONEY</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX'>Save Your Tears (Remix) (with Ariana Grande) - Bonus Track</a>
       </td>
@@ -51,9 +54,6 @@
       <td>
       <a href='https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya'>I Want It That Way</a>
       </td>
-      <td>
-      <a href='https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT'>Never Gonna Give You Up</a>
-      </td>
     </tr>
   </table>
 </p recentlyplayed>
@@ -61,40 +61,25 @@
 <!------ TOP ARTISTS ------>
 
 <p topartists, float='left'>
-  <br>
-  <h1>Top artists this month</h1>
-  <p></p>
-  <table style='width:100%'>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eba6391644f3fd2f9136b2ac49' alt='Fiji Blue' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb92dac8a69c119f259ec42c8e' alt='Aimer' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      <a href='https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe'>Fiji Blue</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-    </tr>
-  </table>
+<br>
+<h1>Top artists this month</h1>
+<p></p>
+<table style='width:100%'>
+<tr align='center'>
+<td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'></td>
+<td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr align='center'>
+<td><a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a></td>
+<td><a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 </p topartists>
 <!------ .TOP ARTISTS ------>
 
