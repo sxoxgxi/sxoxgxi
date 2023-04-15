@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-My Head & My Heart-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-一斉ノ喝采-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273956b310c66f11c4b4e1f603a' alt='Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273705946eddc0302d66180e94c' alt='Good In Me' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6jj44CxAIpfHKbJquGEBCo'>Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe'>Good In Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
       </td>
     </tr>
   </table>
@@ -66,19 +66,18 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      
-            <td>
-                <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
-                <br>
-                <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-            </td>
-        
-            <td>
-                <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
-                <br>
-                <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'>ヨルシカ</a>
-            </td>
-        
+      <table border="1" class="dataframe">
+  <tbody>
+    <tr>
+      <td>&lt;img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'&gt;</td>
+      <td>&lt;a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'&gt;Rei Yasuda&lt;/a&gt;</td>
+    </tr>
+    <tr>
+      <td>&lt;img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'&gt;</td>
+      <td>&lt;a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'&gt;ヨルシカ&lt;/a&gt;</td>
+    </tr>
+  </tbody>
+</table>
     </tr>
   </table>
 </p topartists>
