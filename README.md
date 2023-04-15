@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='MONEY' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf' alt='Save Your Tears (Remix) (with Ariana Grande) - Bonus Track' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e' alt='Viva La Vida' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b' alt='I Want It That Way' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/45OX2jjEw1l7lOFJfDP9fv'>MONEY</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b'>Viva La Vida</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya'>I Want It That Way</a>
       </td>
     </tr>
   </table>
