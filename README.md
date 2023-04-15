@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-unravel-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-A Little Bit Yours-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd' alt='unravel' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a' alt='I Love You 3000 II' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:50%'>
@@ -36,10 +38,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eade25766cc01790cef39e96' alt='Only Fan (feat. Cordae)' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1'>unravel</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/3witRpHWHqArlnt6GTlH2Y'>I Love You 3000 II</a>
       </td>
@@ -51,9 +54,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU'>that way - with Jeremy Zucker</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4TMvib3pWUD1NzDabYIrBa'>Only Fan (feat. Cordae)</a>
       </td>
     </tr>
   </table>
