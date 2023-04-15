@@ -27,32 +27,32 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27325124948f493dd596336802d' alt='Harmony of One's Heart' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='One Right Now (with The Weeknd)' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4c8c8b6a8f52a5946897da3' alt='Ross And Rachel' style='width:50%'>
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737127de18828e2d0a5d5114d5' alt='SAME PLACE' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6fd961ae941caabd098efc2' alt='Never Let You Go' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='Nothing Is Lost (You Give Me Strength)' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3' alt='Way Back Home' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
       <td>
+      <a href='https://open.spotify.com/track/0wL1c6L1KCy1zbH1NgXqxT'>Harmony of One's Heart</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk'>One Right Now (with The Weeknd)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4vCiNW18AyeaUAZosVnX61'>Ross And Rachel</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
+      </td>
+      <td>
       <a href='https://open.spotify.com/track/2wqB9l07hjkM1Vc0dXIVQD'>SAME PLACE</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5MdZOhx2f37BPtxaEn0F85'>Never Let You Go</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk'>Nothing Is Lost (You Give Me Strength)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
       </td>
     </tr>
   </table>
