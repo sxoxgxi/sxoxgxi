@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-All For Us-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-It Ain't Up To Me-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27343bc512b34c0dba811c70e12' alt='All For Us' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1' alt='アンコール' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273956b310c66f11c4b4e1f603a' alt='Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P'>All For Us</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz'>YOUTH</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6jj44CxAIpfHKbJquGEBCo'>Hope - 希望 - GrandChase オリジナル・ゲーム・サウンドトラック</a>
       </td>
     </tr>
   </table>
