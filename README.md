@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Euphoria-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Never Let You Go-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -66,13 +66,13 @@
   <p></p>
   <table style='width:100%'>
   <tr align='center'>
-    <td><img class='artists' src='[{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79', 'width': 640}, {'height': 320, 'url': 'https://i.scdn.co/image/ab676161000051741b31e7422ccb01ac29fb8b79', 'width': 320}, {'height': 160, 'url': 'https://i.scdn.co/image/ab6761610000f1781b31e7422ccb01ac29fb8b79', 'width': 160}]' alt='Rei Yasuda' style='width:50%'></td>
+    <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'></td>
   </tr>
   <tr align='center'>
     <td><a href='{'spotify': 'https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'}'>Rei Yasuda</a></td>
   </tr>
   <tr align='center'>
-    <td><img class='artists' src='[{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab', 'width': 640}, {'height': 320, 'url': 'https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab', 'width': 320}, {'height': 160, 'url': 'https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab', 'width': 160}]' alt='ヨルシカ' style='width:50%'></td>
+    <td><img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'></td>
   </tr>
   <tr align='center'>
     <td><a href='{'spotify': 'https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'}'>ヨルシカ</a></td>
