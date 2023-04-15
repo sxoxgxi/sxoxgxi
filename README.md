@@ -16,7 +16,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-It Ain't Up To Me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Kings & Queens-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -27,6 +27,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27343bc512b34c0dba811c70e12' alt='All For Us' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:50%'>
@@ -35,10 +37,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718ed75bdf6e3addbf37be8' alt='一斉ノ喝采' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P'>All For Us</a>
       </td>
@@ -50,9 +53,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/4XP3BtzCEjRYff2K0M1HkY'>一斉ノ喝采</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
       </td>
     </tr>
   </table>
