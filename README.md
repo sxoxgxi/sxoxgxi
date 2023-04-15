@@ -158,6 +158,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a0e912d0c3c3ca34dfeddde' alt='KISS OF DEATH(Produced by HYDE)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW'>KISS OF DEATH(Produced by HYDE)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6BaJvcf33DHd916Fo0fxuO'>雪の華15周年記念ベスト盤 BIBLE</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F'>Mika Nakashima</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738ca73ea0e126cbeb8fc11d05' alt='You're the one' style='width:10%'>
       </td>
       <td>
@@ -168,22 +184,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521' alt='Mercy' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc'>Mercy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq'>Illuminate (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'>Shawn Mendes</a>
       </td>
     </tr>
   </table>
