@@ -77,6 +77,11 @@
 <br>
 <a href='{'spotify': 'https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik'}'>ヨルシカ</a>
 </td>
+<td align='center'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
+<br>
+<a href='{'spotify': 'https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'}'>LiSA</a>
+</td>
 </tr>
 </table>
 </p topartists>
