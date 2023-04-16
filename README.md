@@ -147,6 +147,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4qT57u3gSvIXaWGtInIp60'>Anyone Else But You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4'>Anthony de la Torre</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
       </td>
       <td>
@@ -161,7 +177,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:10%'>
       </td>
@@ -173,22 +189,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW'>Soul Searching</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
     </tr>
   </table>
