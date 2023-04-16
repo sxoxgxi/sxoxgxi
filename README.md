@@ -126,22 +126,6 @@
       <td>
       2
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d' alt='Because Of You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci'>Because Of You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg'>Because Of You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj'>Ne-Yo</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:10%'>
       </td>
       <td>
@@ -156,7 +140,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      3
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
       </td>
@@ -172,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      5
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='Cold (feat. Future)' style='width:10%'>
       </td>
@@ -184,6 +168,22 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'>Maroon 5</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738ca73ea0e126cbeb8fc11d05' alt='You're the one' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7iXOBMQiRf5h25qnuJKkVB'>You're the one</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4jXcPlmkRM1afloJ7IKXCh'>PRISM</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr>
   </table>
