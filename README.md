@@ -142,6 +142,22 @@
       <td>
       3
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT'>Never Gonna Give You Up</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw'>Whenever You Need Somebody</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt'>Rick Astley</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      4
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:10%'>
       </td>
       <td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
       </td>
@@ -168,22 +184,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='Cold (feat. Future)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2nJCmhPrPOHZcULTDVfWaM'>Cold (feat. Future)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3CxzjUQWtYW0MrQmTiprou'>Red Pill Blues (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'>Maroon 5</a>
       </td>
     </tr>
   </table>
