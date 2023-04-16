@@ -82,6 +82,11 @@
 <br>
 <a href='{'spotify': 'https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'}'>LiSA</a>
 </td>
+<td align='center'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1' alt='Post Malone' style='width:50%'>
+<br>
+<a href='{'spotify': 'https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'}'>Post Malone</a>
+</td>
 </tr>
 </table>
 </p topartists>
