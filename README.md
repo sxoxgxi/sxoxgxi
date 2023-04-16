@@ -126,6 +126,22 @@
       <td>
       2
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny'>double take</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6'>rapunzel</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb'>dhruv</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      3
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:10%'>
       </td>
       <td>
@@ -140,7 +156,7 @@
     </tr>
     <tr align='center'>
       <td>
-      3
+      4
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
       </td>
@@ -156,7 +172,7 @@
     </tr>
     <tr align='center'>
       <td>
-      4
+      5
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='Cold (feat. Future)' style='width:10%'>
       </td>
@@ -168,22 +184,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'>Maroon 5</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738ca73ea0e126cbeb8fc11d05' alt='You're the one' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7iXOBMQiRf5h25qnuJKkVB'>You're the one</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4jXcPlmkRM1afloJ7IKXCh'>PRISM</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr>
   </table>
