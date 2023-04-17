@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mama-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Emily-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27321367d8a475851a923438320' alt='Mama' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee07f5d93ce85ea2013fc959' alt='Do You Love Me' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa17df75e24a81590ad597b8' alt='Somebody's Nobody' style='width:50%'>
@@ -36,10 +38,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bbb908821bcabe1808e62652' alt='Night Changes (50 Years Later)' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p'>Mama</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/1rbjic9uKr1p6nxnjLDHN6'>Do You Love Me</a>
       </td>
@@ -51,9 +54,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/7aULvZzL8fLVQZIhihawOn'>Night Changes (50 Years Later)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP'>Before You Go</a>
       </td>
     </tr>
   </table>
