@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Small Talk-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-The Hills-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Small Talk' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e741cd9dc139d57cc2906186' alt='iPad' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46' alt='How Do You Sleep?' style='width:50%'>
@@ -36,10 +38,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Perfect Strangers' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Before The Day Is Over' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa'>Small Talk</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6'>iPad</a>
       </td>
@@ -51,9 +54,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o'>Perfect Strangers</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03'>Before The Day Is Over</a>
       </td>
     </tr>
   </table>
