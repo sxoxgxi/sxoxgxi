@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-CWJBHN-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Heaven (Acoustic)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,9 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bed2d78b153a97b2ea9d55d7' alt='CWJBHN' style='width:50%'>
+</td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I'm So Far' style='width:50%'>
 </td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b154bc645350b122934566e4' alt='Drown (feat. Clinton Kane)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db235a7a8fdacc20bafaba26' alt='Beyond' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7iUvAa3bxGrNoVmpjZyWOU'>CWJBHN</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2jVgBMSh9xjhlrtmRRhvuu'>I'm So Far</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4'>Drown (feat. Clinton Kane)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY'>Beyond</a>
 </td>
 </tr>
 </table>
