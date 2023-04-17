@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Find Yourself-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-I Don’t Think That I Like Her-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,9 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d1d50b393b56627258010fd5' alt='Find Yourself' style='width:50%'>
+</td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b154bc645350b122934566e4' alt='Drown (feat. Clinton Kane)' style='width:50%'>
 </td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/75bpVVgp0HCT9Ad6uIFGvH'>Find Yourself</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4'>Drown (feat. Clinton Kane)</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt'>Party Monster</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4LZTRFPU4MDTzQuopPiW5K'>ばかみたい</a>
 </td>
 </tr>
 </table>
