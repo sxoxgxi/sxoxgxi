@@ -29,6 +29,9 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Party Monster' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf' alt='Calm Down (with Selena Gomez)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt'>Party Monster</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4LZTRFPU4MDTzQuopPiW5K'>ばかみたい</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8'>Calm Down (with Selena Gomez)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
 </td>
 </tr>
 </table>
