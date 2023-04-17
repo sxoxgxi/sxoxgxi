@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Sunny-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-All I Want - From "High School Musical: The Musical: The Series"-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -32,6 +32,9 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:50%'>
 </td>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='The Hills' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e741cd9dc139d57cc2906186' alt='iPad' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46' alt='How Do You Sleep?' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0Snq14Stek86vDCHQ8vx1X'>Sunny</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0Snq14Stek86vDCHQ8vx1X'>Sunny</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6'>iPad</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/34pRqzRiFcIuyRMuuEayzY'>How Do You Sleep?</a>
 </td>
 </tr>
 </table>
