@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Perfect Strangers-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Oh My God-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Perfect Strangers' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Before The Day Is Over' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='Demons' style='width:50%'>
@@ -36,10 +38,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe0a8e69ee393443a160e83f' alt='Amekigoe Zankyou' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9caa6f71e2799766c10a323' alt='A Perfect Sky' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o'>Perfect Strangers</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03'>Before The Day Is Over</a>
       </td>
@@ -51,9 +54,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/6UslA9s7ZVOgkSgddK5at2'>Amekigoe Zankyou</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7Lj4NhIc2eU8JN9zPDjQEX'>A Perfect Sky</a>
       </td>
     </tr>
   </table>
