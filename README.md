@@ -34,6 +34,15 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Small Talk' style='width:50%'>
 </td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e741cd9dc139d57cc2906186' alt='iPad' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46' alt='How Do You Sleep?' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
 <td>
@@ -41,6 +50,15 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa'>Small Talk</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6'>iPad</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/34pRqzRiFcIuyRMuuEayzY'>How Do You Sleep?</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
 </td>
 </tr>
 </table>
@@ -61,6 +79,15 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
 </td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1' alt='Post Malone' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
 <td>
@@ -68,6 +95,15 @@
 </td>
 <td>
 <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik' target='_blank'>ヨルシカ</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60' target='_blank'>Post Malone</a>
 </td>
 </tr>
 </table>
