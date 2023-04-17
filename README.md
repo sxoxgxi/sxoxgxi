@@ -71,7 +71,7 @@
   <br>
   <h1>Top artists this month</h1>
   <p></p>
-  < style='width:100%'>
+  <table style='width:100%'>
 <tr align='center'>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
