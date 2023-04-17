@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-ばかみたい-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Party Monster-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,9 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d5105e10521c59b80a09158' alt='ばかみたい' style='width:50%'>
+</td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='Feel Something' style='width:50%'>
 </td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf' alt='All I Want - From "High School Musical: The Musical: The Series"' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4LZTRFPU4MDTzQuopPiW5K'>ばかみたい</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5MWA0KkMh18hC2BkcCs4me'>Feel Something</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW'>All I Want - From "High School Musical: The Musical: The Series"</a>
 </td>
 </tr>
 </table>
