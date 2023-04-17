@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you build the guts to do something, anything, then you better save enough to face the consequences. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles. - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
