@@ -29,6 +29,9 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf' alt='All I Want - From "High School Musical: The Musical: The Series"' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='The Hills' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c620654b9952d064ffdca345' alt='Small Talk' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW'>All I Want - From "High School Musical: The Musical: The Series"</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB'>The Hills</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa'>Small Talk</a>
 </td>
 </tr>
 </table>
