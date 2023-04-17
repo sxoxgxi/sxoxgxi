@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Cooped Up (with Roddy Ricch)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Godzilla (feat. Juice WRLD)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,9 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Cooped Up (with Roddy Ricch)' style='width:50%'>
+</td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:50%'>
 </td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49' alt='I Don’t Think That I Like Her' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d1d50b393b56627258010fd5' alt='Find Yourself' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d'>Cooped Up (with Roddy Ricch)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/3iLBFgaQJ94iarMgzrTuWb'>I Don’t Think That I Like Her</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/75bpVVgp0HCT9Ad6uIFGvH'>Find Yourself</a>
 </td>
 </tr>
 </table>
