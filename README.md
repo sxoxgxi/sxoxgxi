@@ -61,13 +61,6 @@
 <a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
 </td>
 </tr>
-<tr align='center'>
-<td>2023-04-17 08:21:45</td>
-<td>2023-04-17 08:16:25</td>
-<td>2023-04-17 08:12:46</td>
-<td>2023-04-17 08:09:23</td>
-<td>2023-04-17 08:06:00</td>
-</tr>
 </table>
 
 </p recentlyplayed>
