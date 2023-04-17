@@ -29,6 +29,9 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I'm So Far' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49' alt='I Don’t Think That I Like Her' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db235a7a8fdacc20bafaba26' alt='Beyond' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='I Cannot Be (A Sadder Song) (with Gunna)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2jVgBMSh9xjhlrtmRRhvuu'>I'm So Far</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3iLBFgaQJ94iarMgzrTuWb'>I Don’t Think That I Like Her</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY'>Beyond</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK'>I Cannot Be (A Sadder Song) (with Gunna)</a>
 </td>
 </tr>
 </table>
