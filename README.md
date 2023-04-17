@@ -29,6 +29,9 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='The Hills' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46' alt='How Do You Sleep?' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0Snq14Stek86vDCHQ8vx1X'>Sunny</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB'>The Hills</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/34pRqzRiFcIuyRMuuEayzY'>How Do You Sleep?</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
 </td>
 </tr>
 </table>
