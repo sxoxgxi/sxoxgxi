@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-willow-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Demons-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,8 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe0a8e69ee393443a160e83f' alt='Amekigoe Zankyou' style='width:50%'>
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9caa6f71e2799766c10a323' alt='A Perfect Sky' style='width:50%'>
@@ -36,10 +38,11 @@
       </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0b6b07ddb848e1b916c0d38' alt='Emily' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0b6b07ddb848e1b916c0d38' alt='Emily' style='width:50%'>
-      </td>
     </tr>
     <tr align='center'>
+      <td>
+      <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
+      </td>
       <td>
       <a href='https://open.spotify.com/track/6UslA9s7ZVOgkSgddK5at2'>Amekigoe Zankyou</a>
       </td>
@@ -48,9 +51,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm'>You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL'>Emily</a>
       </td>
       <td>
       <a href='https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL'>Emily</a>
