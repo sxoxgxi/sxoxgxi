@@ -29,6 +29,9 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27390c00af3fd8de6b9f510c1b8' alt='Flaming Hot Cheetos' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bed2d78b153a97b2ea9d55d7' alt='CWJBHN' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I'm So Far' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV'>Flaming Hot Cheetos</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/7iUvAa3bxGrNoVmpjZyWOU'>CWJBHN</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2jVgBMSh9xjhlrtmRRhvuu'>I'm So Far</a>
 </td>
 </tr>
 </table>
