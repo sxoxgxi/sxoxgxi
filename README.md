@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Choose to be optimistic, it feels better. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
