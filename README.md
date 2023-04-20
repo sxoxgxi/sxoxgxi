@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
+<h4 align='center'>I am thankful to all who said no to me. It is because of them that I'm doing it myself. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
