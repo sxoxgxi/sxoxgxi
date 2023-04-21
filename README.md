@@ -29,6 +29,12 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738dd6de651baf8860665f8003' alt='It's Definitely You' style='width:50%'>
 </td>
 <td>
@@ -37,14 +43,14 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Someone You Loved' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a7bc8b3ab715ffaa204538a0' alt='Kid In My 20s' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738175117ca44bb0d14796174e' alt='Mistletoe' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz'>YOUTH</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK'>It's Definitely You</a>
 </td>
@@ -53,12 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf'>Someone You Loved</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4Odx1segLFVrXKUkG7WItr'>Kid In My 20s</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l'>Mistletoe</a>
 </td>
 </tr>
 </table>
