@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Waiting For Never-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Mama-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,9 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
+</td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273905710bc1d73a3d02be815a2' alt='i know she knows' style='width:50%'>
 </td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738dd6de651baf8860665f8003' alt='It's Definitely You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1ta9r5ThOPkUpf09f85JrT'>i know she knows</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK'>It's Definitely You</a>
 </td>
 </tr>
 </table>
@@ -85,6 +85,9 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
 </td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
 <td>
@@ -98,6 +101,9 @@
 </td>
 <td>
 <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik' target='_blank'>ヨルシカ</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
 </td>
 </tr>
 </table>
