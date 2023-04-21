@@ -40,9 +40,6 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738b2f7c8ee7be76c742014acf' alt='wildfire' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Mama' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
 <td>
@@ -56,9 +53,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/5qz7zyJ2YAhER8DXTcRyQg'>wildfire</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj'>Mama</a>
 </td>
 </tr>
 </table>
