@@ -29,7 +29,13 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738175117ca44bb0d14796174e' alt='Mistletoe' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27394237be74edae41560152bce' alt='like i need u' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735d93417bde90e0bd951dab08' alt='Bubble Gum' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a' alt='Die For You' style='width:50%'>
@@ -37,28 +43,22 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27390c00af3fd8de6b9f510c1b8' alt='Flaming Hot Cheetos' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Cooped Up (with Roddy Ricch)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
 <td>
+<a href='https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l'>Mistletoe</a>
+</td>
+<td>
 <a href='https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim'>like i need u</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t'>Bubble Gum</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3'>Die For You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV'>Flaming Hot Cheetos</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d'>Cooped Up (with Roddy Ricch)</a>
 </td>
 </tr>
 </table>
