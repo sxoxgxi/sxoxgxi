@@ -32,6 +32,9 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738175117ca44bb0d14796174e' alt='Mistletoe' style='width:50%'>
 </td>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27397f49d5e045af1ef14d8013d' alt='City Lights' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27394237be74edae41560152bce' alt='like i need u' style='width:50%'>
 </td>
 <td>
@@ -40,13 +43,13 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a' alt='Die For You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27390c00af3fd8de6b9f510c1b8' alt='Flaming Hot Cheetos' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
 <td>
 <a href='https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l'>Mistletoe</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/19uGdsVyfOLTQ2qBARMXNg'>City Lights</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim'>like i need u</a>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3'>Die For You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV'>Flaming Hot Cheetos</a>
 </td>
 </tr>
 </table>
@@ -85,9 +85,6 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
 <td>
@@ -101,9 +98,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik' target='_blank'>ヨルシカ</a>
-</td>
-<td>
-<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
 </td>
 </tr>
 </table>
