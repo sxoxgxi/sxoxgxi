@@ -29,6 +29,9 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Someone You Loved' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a7bc8b3ab715ffaa204538a0' alt='Kid In My 20s' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27394237be74edae41560152bce' alt='like i need u' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735d93417bde90e0bd951dab08' alt='Bubble Gum' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf'>Someone You Loved</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4Odx1segLFVrXKUkG7WItr'>Kid In My 20s</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim'>like i need u</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t'>Bubble Gum</a>
 </td>
 </tr>
 </table>
@@ -83,10 +83,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1' alt='Post Malone' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab' alt='ヨルシカ' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -100,10 +100,10 @@
 <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60' target='_blank'>Post Malone</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
+<a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik' target='_blank'>ヨルシカ</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik' target='_blank'>ヨルシカ</a>
+<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
 </td>
 </tr>
 </table>
