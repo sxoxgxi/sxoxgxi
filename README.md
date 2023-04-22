@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
