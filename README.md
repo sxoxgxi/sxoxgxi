@@ -29,6 +29,9 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737355aaee321cc2b4a9e7586f' alt='everything everywhere always' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a111c87c210cc9bff93948bd' alt='Summer of Love (Shawn Mendes & Tainy)' style='width:50%'>
 </td>
 <td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a' alt='Locked Away (feat. Adam Levine)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738b2f7c8ee7be76c742014acf' alt='wildfire' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN'>everything everywhere always</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6'>Summer of Love (Shawn Mendes & Tainy)</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy'>Locked Away (feat. Adam Levine)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5qz7zyJ2YAhER8DXTcRyQg'>wildfire</a>
 </td>
 </tr>
 </table>
