@@ -187,6 +187,22 @@
       <td>
       4
       </td>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1'>You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+      5
+      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273450e6ff7c4e2297c96349ec3' alt='How Could You?' style='width:10%'>
       </td>
       <td>
@@ -197,22 +213,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/2aBpZ2C5sQ8eZuHG7xLEAt'>Link Lewis</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      5
-      </td>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4qT57u3gSvIXaWGtInIp60'>Anyone Else But You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4'>Anthony de la Torre</a>
       </td>
     </tr>
   </table>
