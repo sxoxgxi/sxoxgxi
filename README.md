@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Paused-Summer of Love (Shawn Mendes & Tainy)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -28,6 +28,9 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a111c87c210cc9bff93948bd' alt='Summer of Love (Shawn Mendes & Tainy)' style='width:50%'>
+</td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:50%'>
 </td>
@@ -40,11 +43,11 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738b2f7c8ee7be76c742014acf' alt='wildfire' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Mama' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6'>Summer of Love (Shawn Mendes & Tainy)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs'>シオン</a>
 </td>
@@ -56,9 +59,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/5qz7zyJ2YAhER8DXTcRyQg'>wildfire</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj'>Mama</a>
 </td>
 </tr>
 </table>
