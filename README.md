@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>The quality, not the longevity, of one's life is what is important. - <a href='https://duckduckgo.com/?q=Martin+Luther+King,+Jr.' target='_blank'>Martin Luther King, Jr.</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
