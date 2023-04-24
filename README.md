@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Automatic (feat. Jake Miller)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-mr. nice guy-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273805769b01bd782fed624853f' alt='Automatic (feat. Jake Miller)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730' alt='Call Out My Name' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6aZ8xwHXBLY8Cph8GWdtWr'>Automatic (feat. Jake Miller)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4'>lovely (with Khalid)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN'>Call Out My Name</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
 </td>
 </tr>
 </table>
