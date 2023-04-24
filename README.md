@@ -35,7 +35,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730' alt='Call Out My Name' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -46,7 +46,7 @@
 <a href='https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN'>Call Out My Name</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
+<a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
 </td>
 </tr>
 </table>
