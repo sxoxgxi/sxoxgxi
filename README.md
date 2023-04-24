@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='The Real Slim Shady' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f89996e214be1763b2a9e948' alt='Genie In a Bottle' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR'>The Real Slim Shady</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP'>Genie In a Bottle</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc'>I Can't Love You Anymore - In Rare Form</a>
 </td>
 </tr>
 </table>
