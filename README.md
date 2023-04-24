@@ -175,6 +175,9 @@
     </tr>
   </table>
 </p topsongs>
+<table classification align='center'>
+  <td>Music Mood is 😊: Happy | Happiness Level: 60% | Current Taste: Energetic and Dancable Music</td>
+</table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
   <img src='https://profile-counter.glitch.me/sxoxgxi/count.svg'>
