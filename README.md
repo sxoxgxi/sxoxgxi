@@ -37,12 +37,6 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a' alt='Locked Away (feat. Adam Levine)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
 <td>
@@ -53,12 +47,6 @@
 </td>
 <td>
 <a href='https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs'>シオン</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy'>Locked Away (feat. Adam Levine)</a>
 </td>
 </tr>
 </table>
@@ -108,9 +96,6 @@
   <table style='width:100%'>
     <tr align='center'>
       <td>
-      <h2>Rank</h2>
-      </td>
-      <td>
       <h2>Poster</h2>
       </td>
       <td>
@@ -124,9 +109,6 @@
       </td>
     </tr>
     <tr align='center'>
-      <td>
-      1
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
       </td>
       <td>
@@ -140,9 +122,6 @@
       </td>
     </tr>
     <tr align='center'>
-      <td>
-      2
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:10%'>
       </td>
       <td>
@@ -156,9 +135,6 @@
       </td>
     </tr>
     <tr align='center'>
-      <td>
-      3
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:10%'>
       </td>
       <td>
@@ -172,9 +148,6 @@
       </td>
     </tr>
     <tr align='center'>
-      <td>
-      4
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:10%'>
       </td>
       <td>
@@ -188,9 +161,6 @@
       </td>
     </tr>
     <tr align='center'>
-      <td>
-      5
-      </td>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
       </td>
       <td>
