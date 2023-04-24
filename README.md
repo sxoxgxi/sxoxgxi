@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Make us never happen-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Make us never happen' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334378507d3131f29899488ff' alt='mr. nice guy' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273805769b01bd782fed624853f' alt='Automatic (feat. Jake Miller)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1MwjGc1bwzdDPjj1XBiawA'>Make us never happen</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7hAJdc1P2u9q8G6ucKlZD0'>mr. nice guy</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6aZ8xwHXBLY8Cph8GWdtWr'>Automatic (feat. Jake Miller)</a>
 </td>
 </tr>
 </table>
