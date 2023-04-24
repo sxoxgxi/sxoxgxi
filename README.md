@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The quality, not the longevity, of one's life is what is important. - <a href='https://duckduckgo.com/?q=Martin+Luther+King,+Jr.' target='_blank'>Martin Luther King, Jr.</a>.</h4>
+<h4 align='center'>Confidence comes not from always being right but not fearing to be wrong. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
