@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-One Last Time-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Mama' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737355aaee321cc2b4a9e7586f' alt='everything everywhere always' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a111c87c210cc9bff93948bd' alt='Summer of Love (Shawn Mendes & Tainy)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27301edecca3f479be9d12ff70d' alt='シオン' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj'>Mama</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN'>everything everywhere always</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6'>Summer of Love (Shawn Mendes & Tainy)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs'>シオン</a>
 </td>
 </tr>
 </table>
