@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eade25766cc01790cef39e96' alt='Only Fan (feat. Cordae)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730659ff3278789c1b69c699b7' alt='ADAMAS' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733f28db056181576c756727fe' alt='いつのまに' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Mama' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4TMvib3pWUD1NzDabYIrBa'>Only Fan (feat. Cordae)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS'>ADAMAS</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0'>いつのまに</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj'>Mama</a>
 </td>
 </tr>
 </table>
