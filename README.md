@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Hacking to the Gate-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-cardigan-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732d9f6ae65924916703d2686c' alt='Hacking to the Gate' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8d74ce2d3df9747e61a39d7' alt='Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317514a5aaf5980c96dadc107' alt='Crazy' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ba5c1d554ee7d5f1eb43dc4' alt='ilu' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1g8hAGS8LJJQxMbtiz3AXU'>Hacking to the Gate</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1W4F63YEZCBAXCSHynoxDa'>Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4L5FErBP8i7KLukuSBsAYd'>Crazy</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp'>ilu</a>
 </td>
 </tr>
 </table>
