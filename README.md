@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Confidence comes not from always being right but not fearing to be wrong. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>The single biggest problem in communication is the illusion that it has taken place. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
