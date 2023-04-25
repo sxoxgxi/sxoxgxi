@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Unforgettable-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Paper Crown-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a31195a371b2233456f6c07' alt='Unforgettable' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731431c3bdf16aa99f71799d95' alt='Rockabye (feat. Sean Paul & Anne-Marie)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a' alt='Nothing Without You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874' alt='Sunroof' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe'>Unforgettable</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW'>Rockabye (feat. Sean Paul & Anne-Marie)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3Te3gG6MPEDNqLGzWrjKC3'>Nothing Without You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8'>Sunroof</a>
 </td>
 </tr>
 </table>
