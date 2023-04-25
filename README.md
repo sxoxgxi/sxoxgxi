@@ -109,6 +109,19 @@
       </td>
     </tr>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0AFxxY9L92avLBXXhBZFqK'>Not the End</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6uaQc25boGfgpNK38CEZwN'>Circle</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr>
+    <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
       </td>
       <td>
@@ -160,23 +173,10 @@
       <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
     </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1'>You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
-      </td>
-    </tr>
   </table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 49% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 44% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
