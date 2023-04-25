@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Kiss Me More (feat. SZA)-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Sunroof-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Kiss Me More (feat. SZA)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Heaven' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='Woman' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825' alt='光るなら' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz'>Kiss Me More (feat. SZA)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp'>Heaven</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4'>Woman</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa'>光るなら</a>
 </td>
 </tr>
 </table>
