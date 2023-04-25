@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Keep You Mine-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Never Gonna Give You Up-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd' alt='MONTERO (Call Me By Your Name)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b9e3bc0507bae9257290f7da' alt='Paper Crown' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a31195a371b2233456f6c07' alt='Unforgettable' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W'>MONTERO (Call Me By Your Name)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ'>Paper Crown</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe'>Unforgettable</a>
 </td>
 </tr>
 </table>
