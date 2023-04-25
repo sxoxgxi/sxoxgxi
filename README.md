@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-I Like Me Better-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-光るなら-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081' alt='Hey There Delilah' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739b516fc20117ea087d85d331' alt='Goin'on' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d08223fafab14fd3d996c9c0' alt='YUKON (INTERLUDE)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH'>Hey There Delilah</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7wWrsUq7ha4kanXPxHv17r'>Goin'on</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq'>YUKON (INTERLUDE)</a>
 </td>
 </tr>
 </table>
