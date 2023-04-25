@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739b516fc20117ea087d85d331' alt='Goin'on' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d08223fafab14fd3d996c9c0' alt='YUKON (INTERLUDE)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Make us never happen' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7wWrsUq7ha4kanXPxHv17r'>Goin'on</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq'>YUKON (INTERLUDE)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1MwjGc1bwzdDPjj1XBiawA'>Make us never happen</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
 </td>
 </tr>
 </table>
