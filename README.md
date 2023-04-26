@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The single biggest problem in communication is the illusion that it has taken place. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>Guilt is perhaps the most painful companion of death. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
