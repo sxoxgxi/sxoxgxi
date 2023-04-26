@@ -122,6 +122,19 @@
       </td>
     </tr>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT'>Never Gonna Give You Up</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw'>Whenever You Need Somebody</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt'>Rick Astley</a>
+      </td>
+    </tr>
+    <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:10%'>
       </td>
       <td>
@@ -160,23 +173,10 @@
       <a href='https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb'>dhruv</a>
       </td>
     </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Snq14Stek86vDCHQ8vx1X'>Sunny</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7cIDWaRNejeVN675f4zmYS'>Sunny</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr>
   </table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 50% | Current Taste: Energetic and Vocal Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 58% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
