@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273da513d25e8b3cdd4f43f7512' alt='Moonlight' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Insane' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9caa6f71e2799766c10a323' alt='A Perfect Sky' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1rWzYSHyZ5BiI4DnDRCwy7'>Moonlight</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2meHtZ7N97pJfvTL4hYtfv'>Insane</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7Lj4NhIc2eU8JN9zPDjQEX'>A Perfect Sky</a>
 </td>
 </tr>
 </table>
