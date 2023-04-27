@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Insane' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9caa6f71e2799766c10a323' alt='A Perfect Sky' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27396457fde794268ab0702f52d' alt='Losing You - Acoustic' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce' alt='Leave Before You Love Me (with Jonas Brothers)' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4' alt='Easy On Me' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
+<a href='https://open.spotify.com/track/2meHtZ7N97pJfvTL4hYtfv'>Insane</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/7Lj4NhIc2eU8JN9zPDjQEX'>A Perfect Sky</a>
+</td>
+<td>
 <a href='https://open.spotify.com/track/4vWP8RQHBDJxpLcLAdK5lU'>Losing You - Acoustic</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1'>Leave Before You Love Me (with Jonas Brothers)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX'>Easy On Me</a>
 </td>
 </tr>
 </table>
