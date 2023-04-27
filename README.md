@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Guilt is perhaps the most painful companion of death. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
+<h4 align='center'>It's not the love you make. It's the love you give.  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
