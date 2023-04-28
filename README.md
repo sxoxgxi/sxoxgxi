@@ -122,6 +122,19 @@
       </td>
     </tr>
     <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a9caa6f71e2799766c10a323' alt='A Perfect Sky' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7Lj4NhIc2eU8JN9zPDjQEX'>A Perfect Sky</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7xc4z5o77FLbGkdDcfzIol'>A Perfect Sky</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr>
+    <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0bed1087c400dd50e0c09ac' alt='Not the End' style='width:10%'>
       </td>
       <td>
@@ -160,23 +173,10 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz'>YOUTH</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2mRBvhDWqm8Fj2U0F6mMY4'>Blue Neighbourhood (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
-      </td>
-    </tr>
   </table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 58% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 60% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
