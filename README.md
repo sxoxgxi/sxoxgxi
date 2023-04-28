@@ -109,19 +109,6 @@
       </td>
     </tr>
     <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733f28db056181576c756727fe' alt='いつのまに' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0'>いつのまに</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB'>いつのまに</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM'>MAISONdes</a>
-      </td>
-    </tr>
-    <tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
       </td>
       <td>
@@ -161,16 +148,29 @@
       </td>
     </tr>
     <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842' alt='double take' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny'>double take</a>
+      <a href='https://open.spotify.com/track/0Snq14Stek86vDCHQ8vx1X'>Sunny</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6'>rapunzel</a>
+      <a href='https://open.spotify.com/album/7cIDWaRNejeVN675f4zmYS'>Sunny</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb'>dhruv</a>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr>
+    <tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz'>YOUTH</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2mRBvhDWqm8Fj2U0F6mMY4'>Blue Neighbourhood (Deluxe)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
     </tr>
   </table>
