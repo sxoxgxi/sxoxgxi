@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Angel Baby-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
