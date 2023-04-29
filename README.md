@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Is There Someone Else?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Starry Eyes-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Is There Someone Else?' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Best Friends' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Here We Go… Again (feat. Tyler, the Creator)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh'>Is There Someone Else?</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ'>Best Friends</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf'>Here We Go… Again (feat. Tyler, the Creator)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
 </td>
 </tr>
 </table>
