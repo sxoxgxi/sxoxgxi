@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Sacrifice-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Out of Time-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='A Tale By Quincy' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Sacrifice' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Take My Breath' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='How Do I Make You Love Me?' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Gasoline' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
+<a href='https://open.spotify.com/track/759ndr57jb0URg4j9YSWml'>A Tale By Quincy</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU'>Sacrifice</a>
+</td>
+<td>
 <a href='https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b'>Take My Breath</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ'>How Do I Make You Love Me?</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC'>Gasoline</a>
 </td>
 </tr>
 </table>
@@ -89,92 +89,47 @@
 
 <!------ TOP SONGS ------>
 
-<p topsongs, float='left' >
-  <br>
-  <h1>Top tracks this month</h1>
-  <p></p>
-  <table style='width:100%'>
-    <tr align='center'>
-      <td>
-      <h2>Poster</h2>
-      </td>
-      <td>
-      <h2>Song</h2>
-      </td>
-      <td>
-      <h2>Album</h2>
-      </td>
-      <td>
-      <h2>Artist</h2>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT'>Never Gonna Give You Up</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw'>Whenever You Need Somebody</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt'>Rick Astley</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz'>YOUTH</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2mRBvhDWqm8Fj2U0F6mMY4'>Blue Neighbourhood (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733f28db056181576c756727fe' alt='いつのまに' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0'>いつのまに</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB'>いつのまに</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM'>MAISONdes</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1'>You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc'>I Can't Love You Anymore - In Rare Form</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8'>Humble Quest: In Rare Form</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI'>Maren Morris</a>
-      </td>
-    </tr>
-  </table>
-</p topsongs>
+
+    <p topsongs, float='left'>
+    <br>
+    <h1>Top tracks this month</h1>
+    <p></p>
+    <table style='width:100%'>
+      <tr align="center">
+<td><h2>Poster</h2></td>
+<td><h2>Song</h2></td>
+<td><h2>Album</h2></td>
+<td><h2>Artist</h2></td>
+</tr>
+      <tr align="center">
+<td><img class="artists" src="https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0" alt="Never Gonna Give You Up" style="width:10%"></td>
+<td><a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT">Never Gonna Give You Up</a></td>
+<td><a href="https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw">Whenever You Need Somebody</a></td>
+<td><a href="https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt">Rick Astley</a></td>
+</tr><tr align="center">
+<td><img class="artists" src="https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8" alt="YOUTH" style="width:10%"></td>
+<td><a href="https://open.spotify.com/track/0nhBKubnVz9yFNNprBniWz">YOUTH</a></td>
+<td><a href="https://open.spotify.com/album/2mRBvhDWqm8Fj2U0F6mMY4">Blue Neighbourhood (Deluxe)</a></td>
+<td><a href="https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP">Troye Sivan</a></td>
+</tr><tr align="center">
+<td><img class="artists" src="https://i.scdn.co/image/ab67616d0000b2733f28db056181576c756727fe" alt="いつのまに" style="width:10%"></td>
+<td><a href="https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0">いつのまに</a></td>
+<td><a href="https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB">いつのまに</a></td>
+<td><a href="https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM">MAISONdes</a></td>
+</tr><tr align="center">
+<td><img class="artists" src="https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a" alt="You" style="width:10%"></td>
+<td><a href="https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE">You</a></td>
+<td><a href="https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1">You</a></td>
+<td><a href="https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev">Regard</a></td>
+</tr><tr align="center">
+<td><img class="artists" src="https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da" alt="I Can't Love You Anymore - In Rare Form" style="width:10%"></td>
+<td><a href="https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc">I Can't Love You Anymore - In Rare Form</a></td>
+<td><a href="https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8">Humble Quest: In Rare Form</a></td>
+<td><a href="https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI">Maren Morris</a></td>
+</tr>
+      </table>
+    </p topsongs>
+    
 <table classification align='center'>
   <td>Music Mood is 😊: Happy | Happiness Level: 68% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
