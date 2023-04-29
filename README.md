@@ -107,8 +107,7 @@
       <td>
       <h2>Artist</h2>
       </td>
-    </tr>
-    <tr align='center'>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
       </td>
       <td>
@@ -120,8 +119,7 @@
       <td>
       <a href='https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt'>Rick Astley</a>
       </td>
-    </tr>
-    <tr align='center'>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:10%'>
       </td>
       <td>
@@ -133,8 +131,7 @@
       <td>
       <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
-    </tr>
-    <tr align='center'>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733f28db056181576c756727fe' alt='いつのまに' style='width:10%'>
       </td>
       <td>
@@ -146,8 +143,7 @@
       <td>
       <a href='https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM'>MAISONdes</a>
       </td>
-    </tr>
-    <tr align='center'>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
       </td>
       <td>
@@ -159,8 +155,7 @@
       <td>
       <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
       </td>
-    </tr>
-    <tr align='center'>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:10%'>
       </td>
       <td>
@@ -172,8 +167,7 @@
       <td>
       <a href='https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI'>Maren Morris</a>
       </td>
-    </tr>
-  </table>
+    </tr></table>
 </p topsongs>
 <table classification align='center'>
   <td>Music Mood is 😊: Happy | Happiness Level: 68% | Current Taste: Energetic and Danceable Music</td>
