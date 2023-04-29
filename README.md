@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Gasoline-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Here We Go… Again (feat. Tyler, the Creator)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='A Tale By Quincy' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Sacrifice' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/3hciQHIJhgWPv6yJijAqWp'>Flowers</a>
+<a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/3hciQHIJhgWPv6yJijAqWp'>Flowers</a>
+<a href='https://open.spotify.com/track/759ndr57jb0URg4j9YSWml'>A Tale By Quincy</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
+<a href='https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU'>Sacrifice</a>
 </td>
 </tr>
 </table>
