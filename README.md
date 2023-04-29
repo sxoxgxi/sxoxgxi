@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Beautiful Girls-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f3c7e4934b8dd9eedf69e6e5' alt='Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734dfce1d72153c26ed35d06c0' alt='Mirror' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273da513d25e8b3cdd4f43f7512' alt='Moonlight' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu'>Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc'>Angel Baby</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1dnF40AEK62CBUPAJjuUOU'>Mirror</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1rWzYSHyZ5BiI4DnDRCwy7'>Moonlight</a>
 </td>
 </tr>
 </table>
