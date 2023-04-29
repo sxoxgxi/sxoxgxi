@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Mirror-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Angel Baby-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734dfce1d72153c26ed35d06c0' alt='Mirror' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273da513d25e8b3cdd4f43f7512' alt='Moonlight' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Insane' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1dnF40AEK62CBUPAJjuUOU'>Mirror</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1rWzYSHyZ5BiI4DnDRCwy7'>Moonlight</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2meHtZ7N97pJfvTL4hYtfv'>Insane</a>
 </td>
 </tr>
 </table>
