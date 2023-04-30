@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Fake-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-on your sleeve-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b653ef10e004c8407a51a8af' alt='Fake' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='You should be sad' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733edd56946cb788a4d7457a08' alt='Over' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1oz3gEoNWHAS3pjwThdSJb'>Fake</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK'>You should be sad</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM'>Over</a>
 </td>
 </tr>
 </table>
