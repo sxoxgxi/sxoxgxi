@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Fantasy' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='Demons' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e' alt='Happier Than Ever' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK'>Fantasy</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le'>フェイクファーワルツ</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR'>Demons</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8'>Happier Than Ever</a>
 </td>
 </tr>
 </table>
