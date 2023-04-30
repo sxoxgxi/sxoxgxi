@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-WITHOUT YOU-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-What Lovers Do (feat. SZA)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a' alt='WITHOUT YOU' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364d0c8e1abf7f728b45c23ad' alt='Fatal Distraction' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b' alt='lie to me' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e17ac064a8699f2670a697f0' alt='River - Live in Studio' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L'>WITHOUT YOU</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6OgrhVp2c2o9PNLJZ8qdzU'>Fatal Distraction</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4NUgJ9gYHuAhaT3bj9ONh3'>lie to me</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM'>River - Live in Studio</a>
 </td>
 </tr>
 </table>
