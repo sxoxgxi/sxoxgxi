@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02' alt='Circles' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='What Lovers Do (feat. SZA)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a' alt='WITHOUT YOU' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364d0c8e1abf7f728b45c23ad' alt='Fatal Distraction' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb'>Circles</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1cPWughgzWBJa3PPVPjrmO'>What Lovers Do (feat. SZA)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L'>WITHOUT YOU</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6OgrhVp2c2o9PNLJZ8qdzU'>Fatal Distraction</a>
 </td>
 </tr>
 </table>
