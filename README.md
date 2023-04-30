@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Watermelon Sugar-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Let Me-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Watermelon Sugar' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c794bacc5e9913acb1a435cd' alt='KISS OF DEATH' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b06c09b9f72389ee7f1cbd6b' alt='BED' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2' alt='Shallow - Radio Edit' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY'>Watermelon Sugar</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4RzQFsUzSjShauGbdngPRB'>KISS OF DEATH</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS'>BED</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj'>Shallow - Radio Edit</a>
 </td>
 </tr>
 </table>
