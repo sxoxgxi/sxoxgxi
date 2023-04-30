@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-143-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Hold On-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730440962b3a068e2ddea8b5d5' alt='143' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='た、い、せ、つ Pile up' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Bejeweled' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732f6a25ebd3f6b19d29c56b3d' alt='But You Love It' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5nVbsouGztZpdwDJPcHGSH'>143</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D'>た、い、せ、つ Pile up</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE'>Bejeweled</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7cUPrTfP6VNOK22pZNEwbq'>But You Love It</a>
 </td>
 </tr>
 </table>
