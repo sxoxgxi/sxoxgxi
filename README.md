@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273988965647cf9918f515ae79a' alt='blur' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I Think It Went Like' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27397f49d5e045af1ef14d8013d' alt='City Lights' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d7c6c95d3ad3d6f67de848d0' alt='Thinking out Loud' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I Think It Went Like' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
+<a href='https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8'>blur</a>
+</td>
+<td>
 <a href='https://open.spotify.com/track/57PI93nJkYoyXIOXDOI5yK'>I Think It Went Like</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/19uGdsVyfOLTQ2qBARMXNg'>City Lights</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1pxZQi9tJZonnr9sLVEZ1x'>Thinking out Loud</a>
+<a href='https://open.spotify.com/track/57PI93nJkYoyXIOXDOI5yK'>I Think It Went Like</a>
 </td>
 </tr>
 </table>
