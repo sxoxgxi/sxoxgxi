@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-BLAHBLAHBLAH DEMO-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Cold (feat. Future)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='BLAHBLAHBLAH DEMO' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273409f7ee20c9f63b61aea0369' alt='Hair Toss, Arms Crossed' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a2fac16a87e3cc06593c57fa' alt='Thinkin' Bout You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d41d8a1e8dec3f47438801b3' alt='Try' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0B9D5rzkRgtuAVy4hQ84bD'>BLAHBLAHBLAH DEMO</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA'>Hair Toss, Arms Crossed</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3DA7OTkagu4y6VpU2yhnPa'>Thinkin' Bout You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/712wbgMintvTknMpMDIR09'>Try</a>
 </td>
 </tr>
 </table>
