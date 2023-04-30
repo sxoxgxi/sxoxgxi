@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Happier Than Ever-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8d74ce2d3df9747e61a39d7' alt='Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27381052badd62d5e14c3377786' alt='Mayonaka no Door / Stay With Me' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273135a78be90223c126a4e2c36' alt='lowkey' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4' alt='Havana (feat. Young Thug)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1W4F63YEZCBAXCSHynoxDa'>Atashi ga Tonari ni Iru Uchi ni - From "The Rising of the Shield Hero"</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA'>Mayonaka no Door / Stay With Me</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi'>lowkey</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W'>Havana (feat. Young Thug)</a>
 </td>
 </tr>
 </table>
