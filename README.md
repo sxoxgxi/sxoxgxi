@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bed2d78b153a97b2ea9d55d7' alt='CWJBHN' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='Cold (feat. Future)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='BLAHBLAHBLAH DEMO' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273409f7ee20c9f63b61aea0369' alt='Hair Toss, Arms Crossed' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7iUvAa3bxGrNoVmpjZyWOU'>CWJBHN</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2nJCmhPrPOHZcULTDVfWaM'>Cold (feat. Future)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0B9D5rzkRgtuAVy4hQ84bD'>BLAHBLAHBLAH DEMO</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA'>Hair Toss, Arms Crossed</a>
 </td>
 </tr>
 </table>
