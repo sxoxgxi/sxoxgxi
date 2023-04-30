@@ -108,6 +108,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1'>You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
       </td>
       <td>
@@ -154,18 +166,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1'>You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
       </td>
     </tr></table>
 </p topsongs>
