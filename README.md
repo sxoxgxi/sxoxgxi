@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Over-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-You should be sad-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733edd56946cb788a4d7457a08' alt='Over' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732794743c6eb13addc2b01420' alt='爆弾魔 - Re-Recording' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c3c35e46c08ca30d6411bb' alt='I'm Not Sorry' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2d671c22b70e01b78a618a8' alt='Dancing On My Own' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM'>Over</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4wufVE3ELYSfNRBIjvSi5D'>爆弾魔 - Re-Recording</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4rGyk7HrRoG8NTP5l5ZM5J'>I'm Not Sorry</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ'>Dancing On My Own</a>
 </td>
 </tr>
 </table>
