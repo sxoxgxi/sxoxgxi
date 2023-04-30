@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Anti-Hero - Acoustic Version-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-if we never met-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc559ebbed8b0b100ad206c' alt='Anti-Hero - Acoustic Version' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731301e3fc608b91a0a23ef06b' alt='魔法' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F'>Anti-Hero - Acoustic Version</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW'>魔法</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
 </td>
 </tr>
 </table>
