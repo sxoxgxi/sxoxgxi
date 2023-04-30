@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Thinking out Loud-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-City Lights-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d7c6c95d3ad3d6f67de848d0' alt='Thinking out Loud' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732d275e884d2ab7db51a060b6' alt='escalate' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27302e38aa08451ffc986f76247' alt='Kiss Me More (feat. Naomi Watanabe)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wasting Angels (with The Kid LAROI)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1pxZQi9tJZonnr9sLVEZ1x'>Thinking out Loud</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3'>escalate</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6XgBxK1v4li6dOI5to10Sz'>Kiss Me More (feat. Naomi Watanabe)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ'>Wasting Angels (with The Kid LAROI)</a>
 </td>
 </tr>
 </table>
