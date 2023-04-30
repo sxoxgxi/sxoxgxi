@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27302e38aa08451ffc986f76247' alt='Kiss Me More (feat. Naomi Watanabe)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wasting Angels (with The Kid LAROI)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d50b8016db50b9b0fb746ed0' alt='take care' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720' alt='It's You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6XgBxK1v4li6dOI5to10Sz'>Kiss Me More (feat. Naomi Watanabe)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ'>Wasting Angels (with The Kid LAROI)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2ajQK2iRKBuDGxMeBxDzPA'>take care</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29'>It's You</a>
 </td>
 </tr>
 </table>
