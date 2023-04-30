@@ -132,6 +132,18 @@
       <a href='https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt'>Rick Astley</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN'>Heaven (Acoustic)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cc2504583eeb105a99b54cc8' alt='YOUTH' style='width:10%'>
       </td>
       <td>
@@ -155,22 +167,10 @@
       <td>
       <a href='https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM'>MAISONdes</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/13WlQvCxVKxRu0CIJmFWa0'>Pure... 2000s Party</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 73% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 66% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
