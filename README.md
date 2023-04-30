@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-What Am I-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Beautiful Girls-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d' alt='My Universe' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Less Than Zero' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI'>My Universe</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA'>Less Than Zero</a>
 </td>
 </tr>
 </table>
