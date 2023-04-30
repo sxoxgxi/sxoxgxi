@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-River - Live in Studio-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-lie to me-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,10 +29,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273988965647cf9918f515ae79a' alt='blur' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e17ac064a8699f2670a697f0' alt='River - Live in Studio' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I Think It Went Like' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273988965647cf9918f515ae79a' alt='blur' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I Think It Went Like' style='width:50%'>
@@ -40,10 +40,10 @@
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8'>blur</a>
+<a href='https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM'>River - Live in Studio</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/57PI93nJkYoyXIOXDOI5yK'>I Think It Went Like</a>
+<a href='https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8'>blur</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/57PI93nJkYoyXIOXDOI5yK'>I Think It Went Like</a>
