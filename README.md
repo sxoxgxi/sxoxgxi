@@ -144,6 +144,18 @@
       <a href='https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM'>MAISONdes</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/13WlQvCxVKxRu0CIJmFWa0'>Pure... 2000s Party</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
       </td>
       <td>
@@ -155,22 +167,10 @@
       <td>
       <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc'>I Can't Love You Anymore - In Rare Form</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8'>Humble Quest: In Rare Form</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI'>Maren Morris</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 68% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 73% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
