@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3' alt='Easy' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27310b194dc6443307f52d1e713' alt='Another Night' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c0bbb409b68384932d205422' alt='All My Loving - Madism Remix' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ'>Easy</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3rJOFcVtvU6ggQwm1sO9Q4'>Another Night</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf'>All My Loving - Madism Remix</a>
 </td>
 </tr>
 </table>
