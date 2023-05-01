@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='London Beckoned Songs About Money Written by Machines' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27367b936d1fee0fde9ecb62da3' alt='Be Alright' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Miss America' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5Tpo1UIFouVNIcEDpkxTSj'>London Beckoned Songs About Money Written by Machines</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb'>Be Alright</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1B1uaSbtfpUlImcePkdryk'>Miss America</a>
 </td>
 </tr>
 </table>
