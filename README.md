@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730b7550a3743a97626d2beae9' alt='WHITE ALBUM' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758' alt='you were good to me' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='pov' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3RvWNzjUkzy2TVTTf6Nv5P'>WHITE ALBUM</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P'>you were good to me</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33'>pov</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez'>You Right</a>
 </td>
 </tr>
 </table>
