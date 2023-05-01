@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-POSE-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Love On The Brain-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cae19d41cebf854b1f643bf9' alt='POSE' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='In The Night' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2' alt='YEAH RIGHT' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1Namp0zU6fbrj8hXO0quIA'>POSE</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3yyzLkPAH8Go8yiCHDUOUZ'>Sky chord〜大人になる君へ〜</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/25KybV9BOUlvcnv7nN3Pyo'>In The Night</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14'>YEAH RIGHT</a>
 </td>
 </tr>
 </table>
