@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273813713582dcc508e7d5073c4' alt='Bones' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736aae0560fbc2d06e2ba81faa' alt='Just for a Moment - From "High School Musical: The Musical: The Series"' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27343bc512b34c0dba811c70e12' alt='All For Us' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b742c96d78d9091ce4a1c5c1' alt='slower' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G'>Bones</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5Yc2A0YtK6PaXT8J1MQ0Rd'>Just for a Moment - From "High School Musical: The Musical: The Series"</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P'>All For Us</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo'>slower</a>
 </td>
 </tr>
 </table>
