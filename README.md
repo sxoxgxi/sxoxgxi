@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Never Not-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Crazy AF-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='Never Not' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de2d1cf763ed06e6874e1e91' alt='ただ声一つ' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='Without Me' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273868a31de8e31a9c7984b1aab' alt='Bad Habits' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC'>Never Not</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J'>ただ声一つ</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ'>Without Me</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4QUjn6cprNKiyA8dMTOQ33'>Bad Habits</a>
 </td>
 </tr>
 </table>
