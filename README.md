@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='HADASHi NO STEP' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27331d97a3a8995847ba3fe5e08' alt='Bois Lie (feat. Machine Gun Kelly) - Acoustic' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a8ab877792c1e38c4e9a3de' alt='Mine' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='You're On Your Own, Kid' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn'>HADASHi NO STEP</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3W8gnQSIRzUQM6klpRT4jR'>Bois Lie (feat. Machine Gun Kelly) - Acoustic</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4bmQ3WP0Y8k9mZk3Ajdm6W'>Mine</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t'>You're On Your Own, Kid</a>
 </td>
 </tr>
 </table>
