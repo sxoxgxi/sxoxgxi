@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Inside Out-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Miss America-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -32,10 +32,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02' alt='Circles' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='What Lovers Do (feat. SZA)' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02' alt='Circles' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -43,10 +43,10 @@
 <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb'>Circles</a>
+<a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/1cPWughgzWBJa3PPVPjrmO'>What Lovers Do (feat. SZA)</a>
+<a href='https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb'>Circles</a>
 </td>
 </tr>
 </table>
