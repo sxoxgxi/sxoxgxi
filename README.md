@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Oh My God-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Perfect Duet (Ed Sheeran & Beyoncé)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
