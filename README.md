@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093' alt='Love On The Brain' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cae19d41cebf854b1f643bf9' alt='POSE' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='In The Night' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp'>Love On The Brain</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1Namp0zU6fbrj8hXO0quIA'>POSE</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3yyzLkPAH8Go8yiCHDUOUZ'>Sky chord〜大人になる君へ〜</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/25KybV9BOUlvcnv7nN3Pyo'>In The Night</a>
 </td>
 </tr>
 </table>
@@ -108,6 +108,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5ajqo3BCJU7MGEhA2tXUyN'>Cheerleader (Remixes)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:10%'>
       </td>
       <td>
@@ -155,22 +167,10 @@
       <td>
       <a href='https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T'>Ali Gatie</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so'>Twelve Carat Toothache (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 63% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 70% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
