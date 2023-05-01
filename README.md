@@ -156,21 +156,21 @@
       <a href='https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T'>Ali Gatie</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
+      <a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN'>Heaven (Acoustic)</a>
+      <a href='https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so'>Twelve Carat Toothache (Deluxe)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
+      <a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60'>Post Malone</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 59% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 63% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
