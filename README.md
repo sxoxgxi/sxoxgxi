@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-All My Loving - Madism Remix-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Another Night-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c0bbb409b68384932d205422' alt='All My Loving - Madism Remix' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0' alt='Late Night Talking' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374' alt='Scared to Be Lonely' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf'>All My Loving - Madism Remix</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK'>Late Night Talking</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH'>Scared to Be Lonely</a>
 </td>
 </tr>
 </table>
