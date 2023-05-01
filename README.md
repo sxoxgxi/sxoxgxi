@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-I Don't Know Why-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Night Changes-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d766fd9e96ce4be7776759a4' alt='I Don't Know Why' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd3256e196974f02251d7976' alt='let's run away' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='Kings & Queens' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fd094b00d1d8dddf6cdc86a6' alt='The Way I Am' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV'>I Don't Know Why</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0'>let's run away</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI'>Kings & Queens</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7KIM8PBwYO69LTZnQ04Nfp'>The Way I Am</a>
 </td>
 </tr>
 </table>
