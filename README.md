@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Pancake-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-A Little Bit Yours (feat. Eric Chou) - Mandarin Version-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e522973d50fcbd751850b3cf' alt='Nights With You' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730b7550a3743a97626d2beae9' alt='WHITE ALBUM' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758' alt='you were good to me' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4JofVLq2Axe90O7AuSvxEv'>Pancake</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/48Vq4u3bM2BRrEgH4diZXj'>Nights With You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3RvWNzjUkzy2TVTTf6Nv5P'>WHITE ALBUM</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P'>you were good to me</a>
 </td>
 </tr>
 </table>
