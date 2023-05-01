@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273358f874d5d31e76a8fe3f6d0' alt='Beautiful People (feat. Khalid)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093' alt='Love On The Brain' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cae19d41cebf854b1f643bf9' alt='POSE' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G'>Ghost</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97'>Beautiful People (feat. Khalid)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp'>Love On The Brain</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1Namp0zU6fbrj8hXO0quIA'>POSE</a>
 </td>
 </tr>
 </table>
