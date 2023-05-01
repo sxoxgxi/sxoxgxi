@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
+<h4 align='center'>Raise your words, not voice. It is rain that grows flowers, not thunder. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
