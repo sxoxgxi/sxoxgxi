@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-明け星-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Lost-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a20b0fea45e5ab96a19f6b4f' alt='明け星' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f6e9e116e2ae3925f5bc4233' alt='あふれる' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273634b74c10bd6bd540829a1f0' alt='A Little Bit Yours (feat. Eric Chou) - Mandarin Version' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a6a0caadc3966a6a9fb50b95' alt='Pancake' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc'>明け星</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6bBK7IhHhRGpGUR2J7ULVJ'>あふれる</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5iG5lMF8hwVDHtvAa1WoMQ'>A Little Bit Yours (feat. Eric Chou) - Mandarin Version</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4JofVLq2Axe90O7AuSvxEv'>Pancake</a>
 </td>
 </tr>
 </table>
