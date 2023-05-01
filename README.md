@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-you were good to me-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-WHITE ALBUM-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758' alt='you were good to me' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='pov' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Ghost' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P'>you were good to me</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33'>pov</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez'>You Right</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G'>Ghost</a>
 </td>
 </tr>
 </table>
