@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Be Alright-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-London Beckoned Songs About Money Written by Machines-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,10 +29,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Miss America' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27367b936d1fee0fde9ecb62da3' alt='Be Alright' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Miss America' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:50%'>
@@ -40,10 +40,10 @@
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/1B1uaSbtfpUlImcePkdryk'>Miss America</a>
+<a href='https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb'>Be Alright</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
+<a href='https://open.spotify.com/track/1B1uaSbtfpUlImcePkdryk'>Miss America</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
