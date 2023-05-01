@@ -17,7 +17,7 @@
 </p>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-I Loved You, What Happened?-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-positions-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3aa457c9caa306e5fdaa87b' alt='I Loved You, What Happened?' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Kaikai Kitan' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e' alt='The Motto' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3' alt='Easy' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6BC5HISRZvHCxcLDvO0Flu'>I Loved You, What Happened?</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos'>Kaikai Kitan</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO'>The Motto</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ'>Easy</a>
 </td>
 </tr>
 </table>
