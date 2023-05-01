@@ -108,6 +108,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/13WlQvCxVKxRu0CIJmFWa0'>Pure... 2000s Party</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
       </td>
       <td>
@@ -155,22 +167,10 @@
       <td>
       <a href='https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'>Troye Sivan</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733f28db056181576c756727fe' alt='いつのまに' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0'>いつのまに</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB'>いつのまに</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM'>MAISONdes</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 66% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 63% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
