@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f46b5e01e02ab8247be49978' alt='The Bones' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='Sweet but Psycho' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a1a7f0b95a16de24a870ea5e' alt='The Greatest Show' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ'>The Bones</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI'>Sweet but Psycho</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/43ay9lQZ5rfNcOOHhRF2cM'>The Greatest Show</a>
 </td>
 </tr>
 </table>
