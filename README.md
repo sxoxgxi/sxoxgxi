@@ -17,7 +17,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Kirameki-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Dawn FM - OPN Remix-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
