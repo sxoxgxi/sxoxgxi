@@ -17,7 +17,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Jimmy, Brian and Mike-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-ブルーバード-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a18291a1854b9b6371ff9663' alt='Jimmy, Brian and Mike' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f46b5e01e02ab8247be49978' alt='The Bones' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='Sweet but Psycho' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p'>Jimmy, Brian and Mike</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ'>The Bones</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI'>Sweet but Psycho</a>
 </td>
 </tr>
 </table>
