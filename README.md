@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Raise your words, not voice. It is rain that grows flowers, not thunder. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Repetition does not transform a lie into a truth. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
