@@ -144,6 +144,18 @@
       <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eade25766cc01790cef39e96' alt='Only Fan (feat. Cordae)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4TMvib3pWUD1NzDabYIrBa'>Only Fan (feat. Cordae)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5JEt5aR5cMevrlfDrmdVdP'>Only Fan (feat. Cordae)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0' alt='Never Gonna Give You Up' style='width:10%'>
       </td>
       <td>
@@ -155,22 +167,10 @@
       <td>
       <a href='https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt'>Rick Astley</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720' alt='It's You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29'>It's You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa'>YOU</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T'>Ali Gatie</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 70% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😃: Very Happy! | Happiness Level: 81% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
