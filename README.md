@@ -17,7 +17,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Easier-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Thousand Miles-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7' alt='Easier' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='ブルーバード' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a18291a1854b9b6371ff9663' alt='Jimmy, Brian and Mike' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI'>Easier</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18'>ブルーバード</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p'>Jimmy, Brian and Mike</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
 </td>
 </tr>
 </table>
