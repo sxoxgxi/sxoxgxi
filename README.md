@@ -17,7 +17,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-The Bones-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Bad Things (with Camila Cabello)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -29,24 +29,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f46b5e01e02ab8247be49978' alt='The Bones' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='Sweet but Psycho' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a1a7f0b95a16de24a870ea5e' alt='The Greatest Show' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7526adff151e584dad4229d' alt='Lose You To Love Me' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ'>The Bones</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI'>Sweet but Psycho</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/43ay9lQZ5rfNcOOHhRF2cM'>The Greatest Show</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5eUvtb2X5BwnuGHnckOEhI'>Lose You To Love Me</a>
 </td>
 </tr>
 </table>
