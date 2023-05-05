@@ -1,23 +1,25 @@
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Sogi' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='avatar.png' alt='sogi' width='200'></a>
   <br>
-  Sogi
+  sogi
   <br>
 </h1>
 
-<h4 align='center'>Do not be so open-minded that your brains fall out. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
+<h4 align='center'>First learn the meaning of what you say, and then speak. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
-<p align='center'>
-  <a href='https://discord.gg/96EA7ENfV9'>
-    <img src='https://img.shields.io/discord/775232281954353183?color=blue&label=Discord'>
+<p align='center' socials>
+  <a href='https://discord.com/invite/96EA7ENfV9'>
+    <img src='https://img.shields.io/badge/Discord-server-blue'>
   </a>
-  <a href='https://sxoxgxi.pythonanywhere.com/'><img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Blog&up_color=light%20green&up_message=online&url=https%3A%2F%2Fsxoxgxi.pythonanywhere.com'></a>
-<img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
+  <a href='https://sxoxgxi.github.io/'>
+    <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
+  </a>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
-  <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-憂一乗-&?style=social&logo=spotify'>
+  <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
+    <img src="https://img.shields.io/badge/Playing-憂一乗-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -68,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1' alt='Post Malone' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebcf69007a4806cbac70737247' alt='Bazzi' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -79,7 +81,7 @@
 <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60' target='_blank'>Post Malone</a>
+<a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl' target='_blank'>Bazzi</a>
 </td>
 </tr>
 </table>
