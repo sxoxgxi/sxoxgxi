@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Wrapped Around Your Finger-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Is There Someone Else?-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wrapped Around Your Finger' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739eb119195d365d71bfb814a4' alt='Why Don't You Stay (WorldTour Ver.)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd' alt='THATS WHAT I WANT' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f336551e673acd06f57878c5' alt='Backwards' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX'>Wrapped Around Your Finger</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf'>Why Don't You Stay (WorldTour Ver.)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO'>THATS WHAT I WANT</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR'>Backwards</a>
 </td>
 </tr>
 </table>
