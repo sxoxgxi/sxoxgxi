@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-positions-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-NIGHT RIDER-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27321367d8a475851a923438320' alt='Mama' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p'>Mama</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
 </td>
 </tr>
 </table>
