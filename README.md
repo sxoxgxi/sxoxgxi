@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Blowing-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Love Is Gone-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e885db3597a5097ae2245dd3' alt='Blowing' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9c5b3a8712405ca9c1a301d' alt='炎 - From THE FIRST TAKE' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e' alt='Viva La Vida' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/26Jsd08ArcT3PkNe6yBPNT'>Blowing</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc'>Angel Baby</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6Uo1VxHGkRC2O2SRaDqpn7'>炎 - From THE FIRST TAKE</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b'>Viva La Vida</a>
 </td>
 </tr>
 </table>
