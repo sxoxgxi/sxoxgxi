@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-きみのうた-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27327ba4e77092551b7b4229ea7' alt='きみのうた' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='パスコード4854' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27327ba4e77092551b7b4229ea7' alt='赤信号' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9016f0cc9d6340cbac7c80e' alt='Make You Say' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7z6Iw2caEROGEpo2mGtc79'>きみのうた</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2KYQfTGU9fRPqQjHqMVSN3'>パスコード4854</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1OjeO5FR5TRe2oKlTWgZeD'>赤信号</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV'>Make You Say</a>
 </td>
 </tr>
 </table>
