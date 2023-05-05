@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you always do what you've always done, you'll always get what you've always got.  - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
+<h4 align='center'>Do not be so open-minded that your brains fall out. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center'>
   <a href='https://discord.gg/96EA7ENfV9'>
