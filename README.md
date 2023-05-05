@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-赤信号-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-パスコード4854-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27327ba4e77092551b7b4229ea7' alt='赤信号' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9016f0cc9d6340cbac7c80e' alt='Make You Say' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f17a48336d1a01731cea9a6d' alt='Spaceman' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c7d6fe09dfe4af1580e59705' alt='Double Fantasy (with Future)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1OjeO5FR5TRe2oKlTWgZeD'>赤信号</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV'>Make You Say</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1Tf0qifzTHdDC9RnTW9Di3'>Spaceman</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi'>Double Fantasy (with Future)</a>
 </td>
 </tr>
 </table>
