@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-THATS WHAT I WANT-&?style=social&logo=spotify'>
+    <img src='https://img.shields.io/badge/Playing-Why Don't You Stay (WorldTour Ver.)-&?style=social&logo=spotify'>
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
