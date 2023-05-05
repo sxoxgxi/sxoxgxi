@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27321153709d4871879d7e8ef69' alt='I GUESS IT'S LOVE?' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f7c84273e5c8ecb7594b4357' alt='Lavender Haze - Snakehips Remix' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7c3c6b1c40e7b6d1740824f' alt='アイセタ' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5'>I GUESS IT'S LOVE?</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL'>Lavender Haze - Snakehips Remix</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz'>アイセタ</a>
 </td>
 </tr>
 </table>
