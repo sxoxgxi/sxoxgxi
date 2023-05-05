@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='NIGHT RIDER' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27321367d8a475851a923438320' alt='Mama' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I'>NIGHT RIDER</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p'>Mama</a>
 </td>
 </tr>
 </table>
