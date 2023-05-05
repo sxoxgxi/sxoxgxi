@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Viva La Vida-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e' alt='Viva La Vida' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56' alt='Kiss Me More (feat. SZA)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27321153709d4871879d7e8ef69' alt='I GUESS IT'S LOVE?' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b'>Viva La Vida</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/748mdHapucXQri7IAO8yFK'>Kiss Me More (feat. SZA)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR'>again</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5'>I GUESS IT'S LOVE?</a>
 </td>
 </tr>
 </table>
