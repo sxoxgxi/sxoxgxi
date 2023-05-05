@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Anyone-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Lavender Haze -- Snakehips Remix-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b7c3c6b1c40e7b6d1740824f' alt='アイセタ' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27330fdefaca063c694d69d7eca' alt='If I Could Draw Life' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Is There Someone Else?' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz'>アイセタ</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR'>If I Could Draw Life</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh'>Is There Someone Else?</a>
 </td>
 </tr>
 </table>
