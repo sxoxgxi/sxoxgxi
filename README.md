@@ -1,12 +1,12 @@
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='avatar.png' alt='sogi' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='avatar.png' alt='Sogi' width='200'></a>
   <br>
-  sogi
+  Sogi
   <br>
 </h1>
 
-<h4 align='center'>First learn the meaning of what you say, and then speak. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>What you become is far more important than what you get. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
