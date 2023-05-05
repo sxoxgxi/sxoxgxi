@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27329a582922631710b2cf10d64' alt='Love Is Gone' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e885db3597a5097ae2245dd3' alt='Blowing' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cf05521594fbf41d2a48893' alt='Angel Baby' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9c5b3a8712405ca9c1a301d' alt='炎 - From THE FIRST TAKE' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8'>Love Is Gone</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/26Jsd08ArcT3PkNe6yBPNT'>Blowing</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc'>Angel Baby</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6Uo1VxHGkRC2O2SRaDqpn7'>炎 - From THE FIRST TAKE</a>
 </td>
 </tr>
 </table>
