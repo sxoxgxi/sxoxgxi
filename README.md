@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What you become is far more important than what you get. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power! - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -18,8 +18,8 @@
   <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
-  <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi'>
-    <img src='https://img.shields.io/badge/Playing-Why Don't You Stay (WorldTour Ver.)-&?style=social&logo=spotify'>
+  <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
+    <img src="https://img.shields.io/badge/Playing-Why Don't You Stay (WorldTour Ver.)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
