@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No snowflake ever falls in the wrong place. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>Do not allow your inner doubts to keep you from achieving what you can do. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
