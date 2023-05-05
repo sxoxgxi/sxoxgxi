@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Make It Right (feat. Lauv)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Sacrifice-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735767942fc21a271950c459cb' alt='Make It Right (feat. Lauv)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='One Right Now (with The Weeknd)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273737c1bef4d45db62ac6dd2f1' alt='One Life' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Mastermind' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2WH4oy1SYppZrcdgKwSA0j'>Make It Right (feat. Lauv)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk'>One Right Now (with The Weeknd)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S'>One Life</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH'>Mastermind</a>
 </td>
 </tr>
 </table>
