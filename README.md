@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Kiss Me More (feat. SZA)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c' alt='again' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27321153709d4871879d7e8ef69' alt='I GUESS IT'S LOVE?' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f7c84273e5c8ecb7594b4357' alt='Lavender Haze - Snakehips Remix' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR'>again</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5'>I GUESS IT'S LOVE?</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL'>Lavender Haze - Snakehips Remix</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
 </td>
 </tr>
 </table>
