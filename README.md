@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-NEW ME-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Favourite Goodbye-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f127e9e7830d2f77c7944354' alt='NEW ME' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='I'm So Far' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27327ba4e77092551b7b4229ea7' alt='きみのうた' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o'>NEW ME</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2jVgBMSh9xjhlrtmRRhvuu'>I'm So Far</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7z6Iw2caEROGEpo2mGtc79'>きみのうた</a>
 </td>
 </tr>
 </table>
