@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-The Man Who Can't Be Moved-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-BRAND NEW YOU-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218' alt='The Man Who Can't Be Moved' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Take My Breath' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273719548bf4aef48b52fbb3996' alt='Favourite Goodbye' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf'>The Man Who Can't Be Moved</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b'>Take My Breath</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5WtJJe1lYmNHcN0Y97uBDA'>Favourite Goodbye</a>
 </td>
 </tr>
 </table>
