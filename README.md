@@ -146,6 +146,18 @@
       <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd'>Positions</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'>Ariana Grande</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:10%'>
       </td>
       <td>
@@ -157,22 +169,10 @@
       <td>
       <a href='https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI'>Maren Morris</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eade25766cc01790cef39e96' alt='Only Fan (feat. Cordae)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4TMvib3pWUD1NzDabYIrBa'>Only Fan (feat. Cordae)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5JEt5aR5cMevrlfDrmdVdP'>Only Fan (feat. Cordae)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 73% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 68% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
