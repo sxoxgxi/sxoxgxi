@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>People who bite the hand that feeds them usually lick the boot that kicks them. - <a href='https://duckduckgo.com/?q=Eric+Hoffer' target='_blank'>Eric Hoffer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
