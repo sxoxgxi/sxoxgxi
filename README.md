@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Judgments prevent us from seeing the good that lies beyond appearances.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>Let us rather run the risk of wearing out than rusting out. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
