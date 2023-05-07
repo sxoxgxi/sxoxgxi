@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Let us rather run the risk of wearing out than rusting out. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>Silence is the great teacher and to learn its lessons you must pay attention to it. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
