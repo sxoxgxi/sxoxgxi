@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27390c00af3fd8de6b9f510c1b8' alt='Flaming Hot Cheetos' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7' alt='Glimpse of Us' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734a70dde853389bc836199008' alt='BRAND NEW YOU' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218' alt='The Man Who Can't Be Moved' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV'>Flaming Hot Cheetos</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ'>Glimpse of Us</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0eCNOrf6dQIkjht5qQOczQ'>BRAND NEW YOU</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf'>The Man Who Can't Be Moved</a>
 </td>
 </tr>
 </table>
