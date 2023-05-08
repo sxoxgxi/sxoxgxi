@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No snowflake ever falls in the wrong place. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive. - <a href='https://duckduckgo.com/?q=Joan+Rivers' target='_blank'>Joan Rivers</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
