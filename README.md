@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>An intelligent person hires people who are more intelligent than he is. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
+<h4 align='center'>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
