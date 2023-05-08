@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive. - <a href='https://duckduckgo.com/?q=Joan+Rivers' target='_blank'>Joan Rivers</a>.</h4>
+<h4 align='center'>Learning is a gift, even when pain is your teacher. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
