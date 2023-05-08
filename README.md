@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
+<h4 align='center'>No snowflake ever falls in the wrong place. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
