@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Before You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27316bcc658f1459e335dc3bbbb' alt='Friend Like Me' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27370a876a3c430c3a30f37aabc' alt='One Day Less' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6vjf1I3tXhs5s6zx6gYrGz'>Before You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs'>Friend Like Me</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy'>One Day Less</a>
 </td>
 </tr>
 </table>
