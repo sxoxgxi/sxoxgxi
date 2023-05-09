@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27375dc223a58e208c4b3358b8b' alt='KANATA HALUKA' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Before You' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27316bcc658f1459e335dc3bbbb' alt='Friend Like Me' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734420ee3826d454daee3f960e' alt='This City - Acoustic' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/41CCm3f4KuFKKnsHfc1k99'>KANATA HALUKA</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6vjf1I3tXhs5s6zx6gYrGz'>Before You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs'>Friend Like Me</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF'>This City - Acoustic</a>
 </td>
 </tr>
 </table>
