@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Learning is a gift, even when pain is your teacher. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>It's your outlook on life that counts. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
