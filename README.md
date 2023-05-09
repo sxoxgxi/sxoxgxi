@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In the end, it's not the years in your life that count. It's the life in your years. - <a href='https://duckduckgo.com/?q=Abraham+Lincoln' target='_blank'>Abraham Lincoln</a>.</h4>
+<h4 align='center'>Death is not sad; the sad thing is that most people don't really live at all. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
