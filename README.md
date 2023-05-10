@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you are tough on yourself, life is going to be infinitely easier on you.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>It's your outlook on life that counts. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
