@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Out of Time-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Dissolve-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738f7e0b9413802a41c6752c95' alt='Gone' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b32d2b30f890b578da3aaff1' alt='Palladium' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Forever' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE'>Gone</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I'>Palladium</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3'>Forever</a>
 </td>
 </tr>
 </table>
