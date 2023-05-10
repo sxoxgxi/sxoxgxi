@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Butterflies-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Dusk Till Dawn (feat. Sia) -- Radio Edit-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273926034731cc1c6402644d143' alt='Butterflies' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3' alt='Way Back Home' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd' alt='You should be sad' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020' alt='Dawn FM - OPN Remix' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ'>Butterflies</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK'>You should be sad</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0'>Dawn FM - OPN Remix</a>
 </td>
 </tr>
 </table>
