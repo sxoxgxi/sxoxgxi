@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's your outlook on life that counts. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
+<h4 align='center'>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Dawn FM -- OPN Remix-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-You should be sad-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020' alt='Dawn FM - OPN Remix' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d61f3f55a4e103be5d4c8855' alt='rapid lady ハレーション' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b9e3bc0507bae9257290f7da' alt='Paper Crown' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0'>Dawn FM - OPN Remix</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4bJoYXbL2tf8LkdOWBF1Uh'>rapid lady ハレーション</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ'>Paper Crown</a>
 </td>
 </tr>
 </table>
