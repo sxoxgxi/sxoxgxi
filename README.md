@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27395dfd0ff97f6cecc44b6b770' alt='my home' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739f89b8390933e9ccb3673c89' alt='Somebody To You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/08ENSwiGEQ1rd5NFwE0tbD'>Delight</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7hrEbEm2Gyeoc8ecOA88Xh'>my home</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65'>Somebody To You</a>
 </td>
 </tr>
 </table>
