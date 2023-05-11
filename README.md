@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
+<h4 align='center'>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
