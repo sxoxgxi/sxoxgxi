@@ -122,6 +122,18 @@
       <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:10%'>
       </td>
       <td>
@@ -157,22 +169,10 @@
       <td>
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd'>Positions</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'>Ariana Grande</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 68% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 67% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
