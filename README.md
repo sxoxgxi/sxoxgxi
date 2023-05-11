@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,6 +108,66 @@
       </td>
       <td>
       <h2>Artist</h2>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5ajqo3BCJU7MGEhA2tXUyN'>Cheerleader (Remixes)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/13WlQvCxVKxRu0CIJmFWa0'>Pure... 2000s Party</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a04805b9c9723c18995c4b9a' alt='You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE'>You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1'>You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd'>Positions</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'>Ariana Grande</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc'>I Can't Love You Anymore - In Rare Form</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8'>Humble Quest: In Rare Form</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI'>Maren Morris</a>
       </td>
     </tr></table>
 </p topsongs>
