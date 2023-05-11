@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>You have a brain and mind of your own. Use it, and reach your own decisions. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
