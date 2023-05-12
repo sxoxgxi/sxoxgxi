@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If it is not right, do not do it, if it is not true, do not say it. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
+<h4 align='center'>Leaders think and talk about solutions. Followers think and talk about the problems. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
