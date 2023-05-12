@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-魔法-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-We'll be fine-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731301e3fc608b91a0a23ef06b' alt='魔法' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Let It Snow' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW'>魔法</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/08ENSwiGEQ1rd5NFwE0tbD'>Delight</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0bgjdHPrazAn8uYhtk94Qc'>Let It Snow</a>
 </td>
 </tr>
 </table>
