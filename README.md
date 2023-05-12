@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Muddy water is best cleared by leaving it alone. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
+<h4 align='center'>Never to suffer would never to have been blessed. - <a href='https://duckduckgo.com/?q=Edgar+Allan+Poe' target='_blank'>Edgar Allan Poe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-ヒカリ-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732794743c6eb13addc2b01420' alt='夜行' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273479313307f6c3b116041711d' alt='Cage' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c76a908d32c682e4a48a14e5' alt='Daisy' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de9614ca7864f6f41a40439f' alt='ヒカリ' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b10bc784c23b990c256a2fa' alt='Where The Stars Fall (Up All Night)' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c5d339e4346028648c72bc0b' alt='Tell me' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/1srR6pbN1YCtIulufVNeMZ'>夜行</a>
+<a href='https://open.spotify.com/track/3Nme2cUHImNsW4nYF7q4VZ'>Cage</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/5QGu0Yr6B8oHjlNNG9ncRG'>Daisy</a>
+<a href='https://open.spotify.com/track/0yufeKCZsUBAoUAprazz9C'>ヒカリ</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/3OdAoVRBtEg3PfsXsVoqFg'>Where The Stars Fall (Up All Night)</a>
+<a href='https://open.spotify.com/track/12MNPXTSJp3n2YvrzsCSv0'>Tell me</a>
 </td>
 </tr>
 </table>
