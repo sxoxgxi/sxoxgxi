@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Shoot for the moon, because even if you miss, you'll land among the stars. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
+<h4 align='center'>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27313762d237b3be12f8c65f150' alt='One Last Try (feat. Maisie Peters)' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e666597c08e78ec12f18dcdc' alt='LETTER' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='パスコード4854' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027' alt='Slow Motion' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734bf585b597bb024c29251b8a' alt='雪の華' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321' alt='You Right' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/11C9N9amqqrk5akjubsdOV'>One Last Try (feat. Maisie Peters)</a>
+<a href='https://open.spotify.com/track/46Gtgo6vbo88TNMyCeH4Ie'>LETTER</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/2KYQfTGU9fRPqQjHqMVSN3'>パスコード4854</a>
+<a href='https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X'>Slow Motion</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/6Zyizxfz4NXdCgVLwhuBNw'>雪の華</a>
+<a href='https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez'>You Right</a>
 </td>
 </tr>
 </table>
