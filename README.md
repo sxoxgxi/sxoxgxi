@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Either write something worth reading or do something worth writing. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>Shoot for the moon, because even if you miss, you'll land among the stars. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
