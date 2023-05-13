@@ -134,6 +134,18 @@
       <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1iAPmpj1xtcFvTgmsnJKNd'>Will</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
       </td>
       <td>
@@ -156,18 +168,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev'>Regard</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1iAPmpj1xtcFvTgmsnJKNd'>Will</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr></table>
 </p topsongs>
