@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a' alt='Nothing Without You' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27324095cadba9d695e063d1f5d' alt='comethru' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e666597c08e78ec12f18dcdc' alt='LETTER' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733391ed08316b55df8205120e' alt='Hate How Much I Love You' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027' alt='Slow Motion' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/3Te3gG6MPEDNqLGzWrjKC3'>Nothing Without You</a>
+<a href='https://open.spotify.com/track/6lrufI7dOdltPpiscAnkvi'>comethru</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/46Gtgo6vbo88TNMyCeH4Ie'>LETTER</a>
+<a href='https://open.spotify.com/track/2v00WuRHH1WdnXxlHnyURi'>Hate How Much I Love You</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X'>Slow Motion</a>
+<a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
 </td>
 </tr>
 </table>
