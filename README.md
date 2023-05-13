@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>Either write something worth reading or do something worth writing. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
