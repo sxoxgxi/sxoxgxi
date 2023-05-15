@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Children are our greatest natural resource. - <a href='https://duckduckgo.com/?q=Herbert+Hoover' target='_blank'>Herbert Hoover</a>.</h4>
+<h4 align='center'>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
