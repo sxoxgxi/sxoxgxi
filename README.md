@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
+<h4 align='center'>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
