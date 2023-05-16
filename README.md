@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
+<h4 align='center'>New beginnings are disguised as painful endings. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
