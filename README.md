@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
+<h4 align='center'>Never take your position for granted and never let any favors you receive go to your head. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
