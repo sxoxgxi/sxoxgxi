@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>New beginnings are disguised as painful endings. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>When one door closes another door opens.  - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
