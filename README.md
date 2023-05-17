@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When one door closes another door opens.  - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
+<h4 align='center'>Definiteness of purpose is the starting point of all achievement.  - <a href='https://duckduckgo.com/?q=W.+Clement+Stone' target='_blank'>W. Clement Stone</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
