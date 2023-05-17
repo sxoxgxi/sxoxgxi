@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>It is indeed a radical act of love just to sit down and be quiet for a time by yourself. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
