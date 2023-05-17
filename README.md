@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Definiteness of purpose is the starting point of all achievement.  - <a href='https://duckduckgo.com/?q=W.+Clement+Stone' target='_blank'>W. Clement Stone</a>.</h4>
+<h4 align='center'>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
