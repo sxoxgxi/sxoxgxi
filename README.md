@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is indeed a radical act of love just to sit down and be quiet for a time by yourself. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
+<h4 align='center'>If it is not right, do not do it, if it is not true, do not say it. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
