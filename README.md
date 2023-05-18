@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only place where success comes before work is in the dictionary. - <a href='https://duckduckgo.com/?q=Vidal+Sassoon' target='_blank'>Vidal Sassoon</a>.</h4>
+<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
