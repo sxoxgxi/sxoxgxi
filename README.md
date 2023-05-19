@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving. - <a href='https://duckduckgo.com/?q=Martin+Luther+King,+Jr.' target='_blank'>Martin Luther King, Jr.</a>.</h4>
+<h4 align='center'>There is no significance in life without struggle. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
