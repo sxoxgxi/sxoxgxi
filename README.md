@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Once you choose hope, anything's possible. - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
+<h4 align='center'>Don't be afraid to see what you see. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
