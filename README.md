@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The smallest of actions is always better than the noblest of intentions. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>Once you choose hope, anything's possible. - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
