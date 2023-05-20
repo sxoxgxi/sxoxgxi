@@ -64,24 +64,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
-</td>
-<td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
-</td>
-<td>
 <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
+<a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
 </td>
 </tr>
 </table>
