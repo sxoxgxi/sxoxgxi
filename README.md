@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't be afraid to see what you see. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
+<h4 align='center'>Better to die fighting for freedom than be a prisoner all the days of your life. - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
