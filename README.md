@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Dancing With A Stranger (with Normani)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Perfect Strangers-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46' alt='Dancing With A Stranger (with Normani)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e661c05b66f93ae82583cafa' alt='Like 1999' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273273faff605c5d92e5de2302c' alt='Storage' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Hold Me While You Wait' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp'>Dancing With A Stranger (with Normani)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC'>Like 1999</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2raxtboskowNEHgAp82hEN'>Storage</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM'>Hold Me While You Wait</a>
 </td>
 </tr>
 </table>
