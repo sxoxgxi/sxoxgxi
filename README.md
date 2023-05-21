@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Let Me' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Perfect Strangers' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt'>Let Me</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB'>Happier</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7'>Cupid - Twin Ver.</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o'>Perfect Strangers</a>
 </td>
 </tr>
 </table>
