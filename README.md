@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e661c05b66f93ae82583cafa' alt='Like 1999' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273273faff605c5d92e5de2302c' alt='Storage' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Hold Me While You Wait' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273358f874d5d31e76a8fe3f6d0' alt='Beautiful People (feat. Khalid)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC'>Like 1999</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2raxtboskowNEHgAp82hEN'>Storage</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM'>Hold Me While You Wait</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97'>Beautiful People (feat. Khalid)</a>
 </td>
 </tr>
 </table>
