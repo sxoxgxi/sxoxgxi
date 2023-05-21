@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Storage-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Like 1999-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273273faff605c5d92e5de2302c' alt='Storage' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Hold Me While You Wait' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273358f874d5d31e76a8fe3f6d0' alt='Beautiful People (feat. Khalid)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2raxtboskowNEHgAp82hEN'>Storage</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM'>Hold Me While You Wait</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97'>Beautiful People (feat. Khalid)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
 </td>
 </tr>
 </table>
