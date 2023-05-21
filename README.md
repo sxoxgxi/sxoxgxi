@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Perfect Strangers' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46' alt='Dancing With A Stranger (with Normani)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e661c05b66f93ae82583cafa' alt='Like 1999' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273273faff605c5d92e5de2302c' alt='Storage' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o'>Perfect Strangers</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp'>Dancing With A Stranger (with Normani)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC'>Like 1999</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2raxtboskowNEHgAp82hEN'>Storage</a>
 </td>
 </tr>
 </table>
