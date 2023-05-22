@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Education breeds confidence. Confidence breeds hope. Hope breeds peace. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>If you want to see things just as they are, then you yourself must practice just as you are. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
