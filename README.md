@@ -70,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -81,7 +81,7 @@
 <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
+<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 </tr>
 </table>
@@ -122,6 +122,18 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/1iAPmpj1xtcFvTgmsnJKNd'>Will</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
       </td>
       <td>
@@ -144,18 +156,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1iAPmpj1xtcFvTgmsnJKNd'>Will</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:10%'>
