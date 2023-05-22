@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Education breeds confidence. Confidence breeds hope. Hope breeds peace. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
