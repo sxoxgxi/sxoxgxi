@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Sometimes success isn't about making the right decision, it's more about making some decision. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
