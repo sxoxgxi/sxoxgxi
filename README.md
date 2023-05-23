@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8' alt='Let Me' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt'>Let Me</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB'>Happier</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7'>Cupid - Twin Ver.</a>
 </td>
 </tr>
 </table>
