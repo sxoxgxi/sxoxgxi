@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Against the assault of laughter nothing can stand. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
+<h4 align='center'>Sometimes success isn't about making the right decision, it's more about making some decision. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
