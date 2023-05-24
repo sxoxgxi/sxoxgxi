@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. - <a href='https://duckduckgo.com/?q=Herodotus' target='_blank'>Herodotus</a>.</h4>
+<h4 align='center'>No great discovery was ever made without a bold guess.  - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
