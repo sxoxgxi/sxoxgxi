@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Motivation gets you going and habit gets you there.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>The primary cause of unhappiness is never the situation but your thoughts about it. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
