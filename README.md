@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
+<h4 align='center'>There is no path to Peace. Peace is the path. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
