@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Insanity is relative. It depends on who has who locked in what cage.   - <a href='https://duckduckgo.com/?q=Ray+Bradbury' target='_blank'>Ray Bradbury</a>.</h4>
+<h4 align='center'>There is no path to Peace. Peace is the path. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
