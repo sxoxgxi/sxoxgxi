@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is no path to Peace. Peace is the path. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
