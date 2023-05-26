@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Action is the foundational key to all success. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
+<h4 align='center'>The wisest men follow their own direction. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
