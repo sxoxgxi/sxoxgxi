@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The wisest men follow their own direction. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
+<h4 align='center'>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
