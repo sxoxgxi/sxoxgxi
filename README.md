@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b915e407b70e121e06fe979' alt='IDGAF' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27384a5651f3ab1604570ea0405' alt='Without Me (with Juice WRLD)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308ab2ffa655b2053660096b0' alt='Too Good At Goodbyes' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733391ed08316b55df8205120e' alt='Hate How Much I Love You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr'>IDGAF</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6Zc5f20q7sOe1IC1c1jQvZ'>Without Me (with Juice WRLD)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3Bnp8jESRRNiJ6izll3Qds'>Too Good At Goodbyes</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2v00WuRHH1WdnXxlHnyURi'>Hate How Much I Love You</a>
 </td>
 </tr>
 </table>
