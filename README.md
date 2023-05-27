@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more something scares you, the more you should do it. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>I'd rather welcome change than cling to the past. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
