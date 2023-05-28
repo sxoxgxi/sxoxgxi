@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The truth is not for all men, but for those who seek it. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
+<h4 align='center'>Don't let the silly little dramas of each day get you down. For you are here to do great things. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
