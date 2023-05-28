@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No matter what happens, always be yourself. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
+<h4 align='center'>Don't look back - you're not going that way. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
