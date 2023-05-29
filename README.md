@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't look back - you're not going that way. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>The big thing is to make a winning effort. I'm not obsessed with wins. - <a href='https://duckduckgo.com/?q=Morgan+Wootten' target='_blank'>Morgan Wootten</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
