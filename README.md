@@ -70,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebc983b74b84e1f258e7c89da3' alt='LiSA' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -81,7 +81,7 @@
 <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
+<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 </tr>
 </table>
@@ -122,18 +122,6 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Inside Out' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2pWXtJZSvj1OwNZ9V5xoks'>Inside Out</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1iAPmpj1xtcFvTgmsnJKNd'>Will</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Will It Ever Feel The Same?' style='width:10%'>
       </td>
       <td>
@@ -158,21 +146,33 @@
       <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020' alt='Dawn FM - OPN Remix' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
+      <a href='https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0'>Dawn FM - OPN Remix</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/6HlvjQ7eUBKvCJmYcSJZwR'>Be Okay</a>
+      <a href='https://open.spotify.com/album/0Vz32hcNoqOZIpJVI0qExN'>Dawn FM (OPN Remix)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
+      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e' alt='Bad Things (with Camila Cabello)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj'>Bad Things (with Camila Cabello)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp'>bloom</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX'>Machine Gun Kelly</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 57% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 45% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
