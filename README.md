@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Knowing yourself is the beginning of all wisdom. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Today will never happen again. Don't waste it with a false start or no start at all. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
