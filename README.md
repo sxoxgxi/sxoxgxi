@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Today will never happen again. Don't waste it with a false start or no start at all. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach. - <a href='https://duckduckgo.com/?q=Benjamin+Mays' target='_blank'>Benjamin Mays</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
