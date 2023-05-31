@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>When your intuition is strong, follow it. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
