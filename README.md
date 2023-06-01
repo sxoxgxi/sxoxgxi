@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The positive thinker sees the invisible, feels the intangible, and achieves the impossible. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
+<h4 align='center'>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
