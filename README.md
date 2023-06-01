@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e99d204567288c1806e5c127' alt='2step (feat. Lil Baby)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b915e407b70e121e06fe979' alt='IDGAF' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27384a5651f3ab1604570ea0405' alt='Without Me (with Juice WRLD)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7'>Cupid - Twin Ver.</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3gL6cSxG2YXajO5Mbxijbk'>2step (feat. Lil Baby)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr'>IDGAF</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6Zc5f20q7sOe1IC1c1jQvZ'>Without Me (with Juice WRLD)</a>
 </td>
 </tr>
 </table>
