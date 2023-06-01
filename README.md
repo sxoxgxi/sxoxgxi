@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Today will never happen again. Don't waste it with a false start or no start at all. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>If I can stop one heart from breaking, I shall not live in vain. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
