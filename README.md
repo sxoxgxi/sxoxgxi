@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If I can stop one heart from breaking, I shall not live in vain. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
+<h4 align='center'>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -70,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0' alt='Taylor Swift' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb9e690225ad4445530612ccc9' alt='Ed Sheeran' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -81,7 +81,7 @@
 <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
+<a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V' target='_blank'>Ed Sheeran</a>
 </td>
 </tr>
 </table>
@@ -122,18 +122,6 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Will It Ever Feel The Same?' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7EwD5ZeiZO1zCpPOtxb75H'>Will It Ever Feel The Same?</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr'>Infinite Dream</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:10%'>
       </td>
       <td>
@@ -169,10 +157,22 @@
       <td>
       <a href='https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag'>Clairo</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6'>Hey Stupid, I Love You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 52% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 60% | Current Taste: Energetic and Vocal Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
