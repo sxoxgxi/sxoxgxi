@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You may be disappointed if you fail, but you are doomed if you don't try. - <a href='https://duckduckgo.com/?q=Beverly+Sills' target='_blank'>Beverly Sills</a>.</h4>
+<h4 align='center'>If you try, you might get exactly what you want. If you don't, you don't. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
