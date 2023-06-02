@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
+<h4 align='center'>We would accomplish many more things if we did not think of them as impossible. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
