@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be regular and orderly in your life, so that you may be violent and original in your work. - <a href='https://duckduckgo.com/?q=Gustave+Flaubert' target='_blank'>Gustave Flaubert</a>.</h4>
+<h4 align='center'>Men do not attract which they want but that which they are. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
