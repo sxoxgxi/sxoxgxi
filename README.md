@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Men do not attract which they want but that which they are. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>It's not the love you make. It's the love you give.  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
