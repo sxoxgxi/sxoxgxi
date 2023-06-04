@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
+<h4 align='center'>Enlightenment is intimacy with all things. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
