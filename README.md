@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,66 +108,6 @@
       </td>
       <td>
       <h2>Artist</h2>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7'>Cupid - Twin Ver.</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4'>The Beginning: Cupid</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6'>FIFTY FIFTY</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1oqnHxrKI3Gq8MKgAGDtMr'>The Greatest Showman: Reimagined (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD'>Where Are You Now</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7'>Lost Frequencies</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7JX98HsEi7hCH0vmfT7s2K'>Sofia</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag'>Clairo</a>
       </td>
     </tr></table>
 </p topsongs>
