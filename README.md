@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you want something in life, you just gotta reach out and grab it. - <a href='https://duckduckgo.com/?q=Christopher+McCandless' target='_blank'>Christopher McCandless</a>.</h4>
+<h4 align='center'>Everyone you admire was once a beginner. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
