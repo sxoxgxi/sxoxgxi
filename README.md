@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The journey, not the destination matters. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>Everyone you admire was once a beginner. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
