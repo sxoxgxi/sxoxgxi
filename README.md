@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Enlightenment is intimacy with all things. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
+<h4 align='center'>Confidence breeds beauty.   - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
