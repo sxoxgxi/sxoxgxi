@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>With the new day comes new strength and new thoughts. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
