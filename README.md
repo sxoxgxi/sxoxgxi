@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>With the new day comes new strength and new thoughts. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>A hut full of laughter is richer than a palace full of sadness. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
