@@ -122,6 +122,18 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6'>Hey Stupid, I Love You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:10%'>
       </td>
       <td>
@@ -157,22 +169,10 @@
       <td>
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD'>Where Are You Now</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7'>Lost Frequencies</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 55% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 67% | Current Taste: Energetic and Vocal Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
