@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's OK to have your eggs in one basket as long as you control what happens to that basket. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>To belittle, you have to be little. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
