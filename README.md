@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No valid plans for the future can be made by those who have no capacity for living now. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
+<h4 align='center'>Anger begins with folly, and ends with repentance.  - <a href='https://duckduckgo.com/?q=Beverly+Sills' target='_blank'>Beverly Sills</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
