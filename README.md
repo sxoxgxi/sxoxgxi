@@ -146,18 +146,6 @@
       <a href='https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6'>FIFTY FIFTY</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/1oqnHxrKI3Gq8MKgAGDtMr'>The Greatest Showman: Reimagined (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:10%'>
       </td>
       <td>
@@ -169,10 +157,22 @@
       <td>
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD'>Where Are You Now</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7'>Lost Frequencies</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 67% | Current Taste: Energetic and Vocal Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 61% | Current Taste: Energetic and Vocal Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
