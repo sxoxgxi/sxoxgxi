@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Sorry To Me Too-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273708898b110e9f1acc1ae5617' alt='Sorry To Me Too' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a' alt='WITHOUT YOU' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27339e6616a499bc092f469cae0' alt='So Good' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5'>Sorry To Me Too</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB'>Happier</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L'>WITHOUT YOU</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu'>So Good</a>
 </td>
 </tr>
 </table>
