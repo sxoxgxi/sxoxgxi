@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318f8847562d1f5392b55fc00' alt='Dependent' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334378507d3131f29899488ff' alt='mr. nice guy' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1LEEVrSTobMkzG7r2vSoEJ'>Dependent</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj'>We Don't Talk Anymore (feat. Selena Gomez)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7hAJdc1P2u9q8G6ucKlZD0'>mr. nice guy</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5jJXjQcZUdL7sj3hCW4LrJ'>Wonders</a>
 </td>
 </tr>
 </table>
