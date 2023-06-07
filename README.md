@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Make You Mine -- Acoustic-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-can I call you back?-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318f8847562d1f5392b55fc00' alt='Dependent' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk'>IDK You Yet</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1LEEVrSTobMkzG7r2vSoEJ'>Dependent</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj'>We Don't Talk Anymore (feat. Selena Gomez)</a>
 </td>
 </tr>
 </table>
