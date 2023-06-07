@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-So Good-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-WITHOUT YOU-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27339e6616a499bc092f469cae0' alt='So Good' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27311e74da76894db87e41054fb' alt='can I call you back?' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56' alt='IDK You Yet' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu'>So Good</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3bWubl9oMzs5Z1n5KZXSSz'>can I call you back?</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk'>IDK You Yet</a>
 </td>
 </tr>
 </table>
