@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>No valid plans for the future can be made by those who have no capacity for living now. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
