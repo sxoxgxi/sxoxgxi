@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-We Don't Talk Anymore (feat. Selena Gomez)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Dependent-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45' alt='We Don't Talk Anymore (feat. Selena Gomez)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334378507d3131f29899488ff' alt='mr. nice guy' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735409d6da4f0a9aa86edd4ef4' alt='Wonders' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597' alt='Sucker' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj'>We Don't Talk Anymore (feat. Selena Gomez)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7hAJdc1P2u9q8G6ucKlZD0'>mr. nice guy</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5jJXjQcZUdL7sj3hCW4LrJ'>Wonders</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD'>Sucker</a>
 </td>
 </tr>
 </table>
