@@ -158,16 +158,16 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
+      <a href='https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB'>Happier</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD'>Where Are You Now</a>
+      <a href='https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu'>÷ (Deluxe)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7'>Lost Frequencies</a>
+      <a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'>Ed Sheeran</a>
       </td>
     </tr></table>
 </p topsongs>
