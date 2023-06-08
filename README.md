@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The first step is to establish that something is possible; then probability will occur. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>Disobedience is the true foundation of liberty. The obedient must be slaves. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
