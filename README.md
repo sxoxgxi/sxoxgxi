@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anger begins with folly, and ends with repentance.  - <a href='https://duckduckgo.com/?q=Beverly+Sills' target='_blank'>Beverly Sills</a>.</h4>
+<h4 align='center'>Attitude is a little thing that makes a big difference. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
