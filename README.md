@@ -70,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb9e690225ad4445530612ccc9' alt='Ed Sheeran' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb0c80045d26963eb66c745c78' alt='Mika Nakashima' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -81,7 +81,7 @@
 <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V' target='_blank'>Ed Sheeran</a>
+<a href='https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F' target='_blank'>Mika Nakashima</a>
 </td>
 </tr>
 </table>
