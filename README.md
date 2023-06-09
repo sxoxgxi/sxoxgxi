@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Disobedience is the true foundation of liberty. The obedient must be slaves. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>Inspire yourself to be great. Being good isn't good enough. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
