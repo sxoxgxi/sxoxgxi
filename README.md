@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Inspire yourself to be great. Being good isn't good enough. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
+<h4 align='center'>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
