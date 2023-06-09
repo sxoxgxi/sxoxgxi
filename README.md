@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Inspire yourself to be great. Being good isn't good enough. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
+<h4 align='center'>Don't seek, don't avoid, don't expect. Take what comes and be happy. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
