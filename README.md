@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is no truth. There is only perception. - <a href='https://duckduckgo.com/?q=Gustave+Flaubert' target='_blank'>Gustave Flaubert</a>.</h4>
+<h4 align='center'>Reversing your treatment of the man you have wronged is better than asking his forgiveness. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
