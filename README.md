@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Reversing your treatment of the man you have wronged is better than asking his forgiveness. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
+<h4 align='center'>Poetry is written with tears, fiction with blood, and history with invisible ink. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
