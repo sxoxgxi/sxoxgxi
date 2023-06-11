@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Gone Girl-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c75885ab275c38af0f3f264d' alt='Gone Girl' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273708898b110e9f1acc1ae5617' alt='Sorry To Me Too' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
+<a href='https://open.spotify.com/track/5HT1AEvDdBgwAxbQc9GLtS'>Gone Girl</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5'>Sorry To Me Too</a>
+<a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
 </td>
 </tr>
 </table>
