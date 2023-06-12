@@ -97,66 +97,6 @@
       <td>
       <h2>Artist</h2>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7'>Cupid - Twin Ver.</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4'>The Beginning: Cupid</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6'>FIFTY FIFTY</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2hEnymoejldpuxSdTnkard'>SMITHEREENS</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB'>Happier</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu'>÷ (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'>Ed Sheeran</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6'>Hey Stupid, I Love You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
