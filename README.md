@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you consider things like the stars, our affairs don't seem to matter very much, do they? - <a href='https://duckduckgo.com/?q=Virginia+Woolf' target='_blank'>Virginia Woolf</a>.</h4>
+<h4 align='center'>Mistakes are always forgivable, if one has the courage to admit them.  - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
