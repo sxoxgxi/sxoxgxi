@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Worry is a waste of emotional reserve. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
+<h4 align='center'>Sometimes things become possible if we want them bad enough. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
