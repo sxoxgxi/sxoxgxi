@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>True it is, we only hate those whom we do not know. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>Everything that is made beautiful and fair and lovely is made for the eye of one who sees. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
