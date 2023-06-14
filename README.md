@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only way out is through. - <a href='https://duckduckgo.com/?q=Robert+Frost' target='_blank'>Robert Frost</a>.</h4>
+<h4 align='center'>Human beings believe just as they breathe - in order to survive. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
