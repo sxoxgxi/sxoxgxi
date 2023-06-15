@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>For things to change, you have to change. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>When you know what you want, and want it bad enough, you will find a way to get it. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
