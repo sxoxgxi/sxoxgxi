@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The sweetest pleasure arises from difficulties overcome. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
+<h4 align='center'>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
