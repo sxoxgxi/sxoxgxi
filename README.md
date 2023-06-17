@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-gave u my h3@rt-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739888e790d4f58b837e15419e' alt='gave u my h3@rt' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Medicine' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631' alt='Memories' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0tvhSkTe9W8dRbnh6DtuB5'>gave u my h3@rt</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2C4W2HgZRhiruFHmOGa7GB'>Medicine</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI'>Memories</a>
 </td>
 </tr>
 </table>
