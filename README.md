@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Greatness comes from living with purpose and passion. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
+<h4 align='center'>If you do not change direction, you may end up where you are heading. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
