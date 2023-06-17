@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
+<h4 align='center'>We must not sit down and wait for miracles. Up and be going! - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
