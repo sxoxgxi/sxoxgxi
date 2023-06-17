@@ -37,7 +37,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Mind Is A Prison' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -48,7 +48,7 @@
 <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF'>Mind Is A Prison</a>
+<a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
 </td>
 </tr>
 </table>
