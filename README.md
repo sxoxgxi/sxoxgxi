@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We must not sit down and wait for miracles. Up and be going! - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
+<h4 align='center'>Greatness comes from living with purpose and passion. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
