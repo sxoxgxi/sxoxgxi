@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-I Heard You’re Married (feat. Lil Wayne)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-The Real Slim Shady-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='I Heard You’re Married (feat. Lil Wayne)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e' alt='The Motto' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737cdf9838412bb52df6e9a952' alt='Forget Me' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ba5c1d554ee7d5f1eb43dc4' alt='ilu' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D'>I Heard You’re Married (feat. Lil Wayne)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO'>The Motto</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA'>Forget Me</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp'>ilu</a>
 </td>
 </tr>
 </table>
