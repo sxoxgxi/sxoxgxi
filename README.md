@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Wasting Angels (with The Kid LAROI)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Will He-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wasting Angels (with The Kid LAROI)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f685067786c7e2d1253ecff' alt='crossing field' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767' alt='I Don't Wanna Waste My Time' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739888e790d4f58b837e15419e' alt='gave u my h3@rt' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ'>Wasting Angels (with The Kid LAROI)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw'>crossing field</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/72Qo3U5apeuv91j9BEqJBM'>I Don't Wanna Waste My Time</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0tvhSkTe9W8dRbnh6DtuB5'>gave u my h3@rt</a>
 </td>
 </tr>
 </table>
