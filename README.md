@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To be happy we need something to solve. Happiness is therefore a form of action. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>If you do not change direction, you may end up where you are heading. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
