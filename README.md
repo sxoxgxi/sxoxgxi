@@ -140,6 +140,18 @@
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Young & Alive' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2jppfWqd0NmoYK81irH7Gk'>Young & Alive</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr'>Infinite Dream</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:10%'>
       </td>
       <td>
@@ -150,18 +162,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27384a5651f3ab1604570ea0405' alt='Without Me (with Juice WRLD)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/6Zc5f20q7sOe1IC1c1jQvZ'>Without Me (with Juice WRLD)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6JFsisjpUarmCfG3lrfP4Q'>Without Me (with Juice WRLD)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'>Halsey</a>
       </td>
     </tr></table>
 </p topsongs>
