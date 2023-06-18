@@ -63,14 +63,8 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb9e690225ad4445530612ccc9' alt='Ed Sheeran' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
-<td>
-<a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V' target='_blank'>Ed Sheeran</a>
-</td>
 </tr>
 </table>
 
@@ -110,18 +104,6 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7'>Cupid - Twin Ver.</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4'>The Beginning: Cupid</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6'>FIFTY FIFTY</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:10%'>
       </td>
       <td>
@@ -132,18 +114,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Happier' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB'>Happier</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu'>÷ (Deluxe)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'>Ed Sheeran</a>
       </td>
     </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:10%'>
@@ -157,10 +127,34 @@
       <td>
       <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27384a5651f3ab1604570ea0405' alt='Without Me (with Juice WRLD)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/6Zc5f20q7sOe1IC1c1jQvZ'>Without Me (with Juice WRLD)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6JFsisjpUarmCfG3lrfP4Q'>Without Me (with Juice WRLD)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'>Halsey</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Will It Ever Feel The Same?' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7EwD5ZeiZO1zCpPOtxb75H'>Will It Ever Feel The Same?</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr'>Infinite Dream</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 53% | Current Taste: Energetic and Vocal Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 52% | Current Taste: Energetic and Vocal Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
