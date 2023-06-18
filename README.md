@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you do not change direction, you may end up where you are heading. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>Truth is like the sun. You can shut it out for a time, but it ain't going away. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
