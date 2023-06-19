@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Let It Snow-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Let It Snow' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dedbec8cca43642f06533476' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Off My Face' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fdb8e20b1dd0ae056defc12f' alt='You Make It Real' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0bgjdHPrazAn8uYhtk94Qc'>Let It Snow</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ'>If the World Was Ending (feat. Julia Michaels)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U'>Off My Face</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/16LMLWymxxas4jHTI6R6zJ'>You Make It Real</a>
 </td>
 </tr>
 </table>
