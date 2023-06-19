@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No matter what happens, always be yourself. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
+<h4 align='center'>Truth is like the sun. You can shut it out for a time, but it ain't going away. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
