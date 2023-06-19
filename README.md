@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's the unknown we fear when we look upon death and darkness, nothing more. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>When you can't make them see the light, make them feel the heat. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
