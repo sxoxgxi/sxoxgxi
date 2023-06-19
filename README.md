@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738854d738e53ce8a49be027d1' alt='Easy Lover (feat. Big Sean)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b9e3bc0507bae9257290f7da' alt='Paper Crown' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c3ff35fffb6052a81cec1883' alt='You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs'>Easy Lover (feat. Big Sean)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ'>Paper Crown</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm'>You</a>
 </td>
 </tr>
 </table>
