@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Paper Crown-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Easy Lover (feat. Big Sean)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b9e3bc0507bae9257290f7da' alt='Paper Crown' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c3ff35fffb6052a81cec1883' alt='You' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5' alt='Everyday' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27343275240f8d72faac186400f' alt='At My Worst' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ'>Paper Crown</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm'>You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/30TmLgK0ja5O8q9l4BShIX'>Everyday</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/00yCFRFQLu3OAhGahgVimh'>At My Worst</a>
 </td>
 </tr>
 </table>
