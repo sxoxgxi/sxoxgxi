@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f1bff89049561177b7cccebb' alt='Someone To You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Let It Snow' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dedbec8cca43642f06533476' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Off My Face' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr'>Someone To You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0bgjdHPrazAn8uYhtk94Qc'>Let It Snow</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ'>If the World Was Ending (feat. Julia Michaels)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U'>Off My Face</a>
 </td>
 </tr>
 </table>
