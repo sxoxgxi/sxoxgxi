@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c9d0ed687a7dbc7065aacf3' alt='Forever (feat. NIKI)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Lemon Tree' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a8749bca86555138589ac1' alt='Cold (feat. Future)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734dbf782532ca5d09012dc2d5' alt='Falling' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2wyp1XPf7VKe7mTljnsMs8'>Forever (feat. NIKI)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7'>Lemon Tree</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2nJCmhPrPOHZcULTDVfWaM'>Cold (feat. Future)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD'>Falling</a>
 </td>
 </tr>
 </table>
