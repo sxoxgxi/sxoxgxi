@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-I Don’t Think That I Like Her-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-You Make It Real-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49' alt='I Don’t Think That I Like Her' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b46f74097655d7f353caab14' alt='As It Was' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737012e81c7a5f1fd063a02392' alt='Avalanche' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3iLBFgaQJ94iarMgzrTuWb'>I Don’t Think That I Like Her</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7'>As It Was</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL'>Avalanche</a>
 </td>
 </tr>
 </table>
