@@ -70,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb63a65de1f3d0224a2a901343' alt='James Arthur' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd9b2d906669656a2ece9302e' alt='Lauv' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -81,7 +81,7 @@
 <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv' target='_blank'>Lauv</a>
+<a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
 </td>
 </tr>
 </table>
