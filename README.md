@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Godzilla (feat. Juice WRLD)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Too Late -- 18if Episode 7.Ending-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49' alt='Light Switch' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737127de18828e2d0a5d5114d5' alt='SAME PLACE' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2'>Light Switch</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2wqB9l07hjkM1Vc0dXIVQD'>SAME PLACE</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
 </td>
 </tr>
 </table>
