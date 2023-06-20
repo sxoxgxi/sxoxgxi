@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>The best revenge is to be unlike him who performed the injury. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
