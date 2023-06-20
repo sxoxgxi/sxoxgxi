@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431' alt='Anyone' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e59615b5018e1de7d4aaea18' alt='I'm So Happy (with BENEE)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f1bff89049561177b7cccebb' alt='Someone To You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Let It Snow' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC'>Anyone</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO'>I'm So Happy (with BENEE)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr'>Someone To You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0bgjdHPrazAn8uYhtk94Qc'>Let It Snow</a>
 </td>
 </tr>
 </table>
