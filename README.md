@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Levitating (feat. DaBaby)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be' alt='Levitating (feat. DaBaby)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Brand New Day' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685' alt='Lonely (with benny blanco)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165' alt='Godzilla (feat. Juice WRLD)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF'>Levitating (feat. DaBaby)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5DHodhUXJJBNySODQCzcOv'>Brand New Day</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q'>Lonely (with benny blanco)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4rTlPsga6T8yiHGOvZAPhJ'>Godzilla (feat. Juice WRLD)</a>
 </td>
 </tr>
 </table>
