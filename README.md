@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859' alt='Sweet Creature' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be' alt='Levitating (feat. DaBaby)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Brand New Day' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685' alt='Lonely (with benny blanco)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5'>Sweet Creature</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF'>Levitating (feat. DaBaby)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5DHodhUXJJBNySODQCzcOv'>Brand New Day</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q'>Lonely (with benny blanco)</a>
 </td>
 </tr>
 </table>
