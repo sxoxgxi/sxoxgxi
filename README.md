@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The best revenge is to be unlike him who performed the injury. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
+<h4 align='center'>The greatest miracle is to be alive. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
