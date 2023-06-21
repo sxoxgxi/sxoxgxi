@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>Everything has beauty but not everyone sees it. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
