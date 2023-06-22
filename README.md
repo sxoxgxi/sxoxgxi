@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do anything, but let it produce joy. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
+<h4 align='center'>Absorb what is useful, discard what is not, add what is uniquely your own. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
