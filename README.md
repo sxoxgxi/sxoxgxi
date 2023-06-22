@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>All human wisdom is contained in these two words - Wait and Hope - <a href='https://duckduckgo.com/?q=Alexandre+Dumas' target='_blank'>Alexandre Dumas</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
