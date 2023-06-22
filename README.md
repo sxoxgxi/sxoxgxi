@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The two most powerful warriors are patience and time. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
+<h4 align='center'>Muddy water is best cleared by leaving it alone. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
