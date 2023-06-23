@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The best mind-altering drug is the truth. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
+<h4 align='center'>Everyone thinks of changing the world, but no one thinks of changing himself. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
