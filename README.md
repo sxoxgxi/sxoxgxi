@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='pov' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767' alt='I Don't Wanna Waste My Time' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317514a5aaf5980c96dadc107' alt='Crazy' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33'>pov</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/72Qo3U5apeuv91j9BEqJBM'>I Don't Wanna Waste My Time</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4L5FErBP8i7KLukuSBsAYd'>Crazy</a>
 </td>
 </tr>
 </table>
