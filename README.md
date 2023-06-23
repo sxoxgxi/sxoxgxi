@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more you extend kindness to yourself, the more it will become your automatic response to others. - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>The best mind-altering drug is the truth. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
