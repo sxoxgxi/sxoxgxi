@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Try all things, hold fast that which is good. - <a href='https://duckduckgo.com/?q=John+Locke' target='_blank'>John Locke</a>.</h4>
+<h4 align='center'>The more you extend kindness to yourself, the more it will become your automatic response to others. - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
