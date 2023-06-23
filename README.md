@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Time doesn't heal emotional pain, you need to learn how to let go. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>Even in the grave, all is not lost. - <a href='https://duckduckgo.com/?q=Edgar+Allan+Poe' target='_blank'>Edgar Allan Poe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
