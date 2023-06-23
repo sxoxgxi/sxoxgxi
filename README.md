@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A good system shortens the road to the goal.  - <a href='https://duckduckgo.com/?q=Orison+Swett+Marden' target='_blank'>Orison Swett Marden</a>.</h4>
+<h4 align='center'>Even in the grave, all is not lost. - <a href='https://duckduckgo.com/?q=Edgar+Allan+Poe' target='_blank'>Edgar Allan Poe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
