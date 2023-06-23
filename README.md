@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Forget safety. Live where you fear to live. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
