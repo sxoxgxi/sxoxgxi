@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Where violence reigns, reason is weak. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
+<h4 align='center'>To be truly ignorant, be content with your own knowledge. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
