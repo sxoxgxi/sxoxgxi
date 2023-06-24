@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I would rather be hated for who I am than loved for who I'm not.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>Where violence reigns, reason is weak. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
