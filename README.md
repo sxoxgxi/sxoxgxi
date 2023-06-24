@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great things are not done by impulse, but by a series of small things brought together. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>You are never too old to set another goal or to dream a new dream. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
