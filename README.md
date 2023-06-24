@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Lavender Haze-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Lavender Haze' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Reputation' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767' alt='Will He' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC'>Lavender Haze</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2'>Reputation</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g'>Make You Mine</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN'>Will He</a>
 </td>
 </tr>
 </table>
