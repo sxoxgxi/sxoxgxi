@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27354aa2ae2566c92b299d5272e' alt='All 4 Nothing (I'm So In Love)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712' alt='Strawberries & Cigarettes' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479' alt='10,000 Hours (with Justin Bieber)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733edd56946cb788a4d7457a08' alt='Over' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5'>All 4 Nothing (I'm So In Love)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ'>Strawberries & Cigarettes</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa'>10,000 Hours (with Justin Bieber)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM'>Over</a>
 </td>
 </tr>
 </table>
