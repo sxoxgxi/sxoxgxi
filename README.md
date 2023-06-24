@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Over-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733edd56946cb788a4d7457a08' alt='Over' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Forever' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b0be5e7275db8b7baa1ef779' alt='I Quit Drinking' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM'>Over</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3'>Forever</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM'>I Quit Drinking</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
 </td>
 </tr>
 </table>
