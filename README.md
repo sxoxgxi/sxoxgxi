@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every blessing ignored becomes a curse. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>Great things are not done by impulse, but by a series of small things brought together. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
