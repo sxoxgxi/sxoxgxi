@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The way to change others' minds is with affection, and not anger. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>No one can confidently say that he will still be living tomorrow. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
