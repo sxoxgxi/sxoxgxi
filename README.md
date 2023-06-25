@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No one can confidently say that he will still be living tomorrow. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
+<h4 align='center'>Success is getting what you want, happiness is wanting what you get. - <a href='https://duckduckgo.com/?q=W.P.+Kinsella' target='_blank'>W.P. Kinsella</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
