@@ -158,21 +158,21 @@
       <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27354aa2ae2566c92b299d5272e' alt='All 4 Nothing (I'm So In Love)' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
+      <a href='https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5'>All 4 Nothing (I'm So In Love)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/2hEnymoejldpuxSdTnkard'>SMITHEREENS</a>
+      <a href='https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd'>All 4 Nothing (I'm So In Love)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 56% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 71% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
