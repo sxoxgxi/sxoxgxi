@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
+<h4 align='center'>I am not proud, but I am happy; and happiness blinds, I think, more than pride. - <a href='https://duckduckgo.com/?q=Alexandre+Dumas' target='_blank'>Alexandre Dumas</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
