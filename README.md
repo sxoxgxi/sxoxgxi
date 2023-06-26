@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-再会 (produced by Ayase)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Bubble Gum-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d2674895674a060312dff2b7' alt='再会 (produced by Ayase)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4a7e933ef7fbb7e6485b73a' alt='Bubbly' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Water Fountain' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Starboy' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz'>再会 (produced by Ayase)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO'>Bubbly</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To'>Water Fountain</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB'>Starboy</a>
 </td>
 </tr>
 </table>
