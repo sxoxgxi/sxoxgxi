@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,6 +108,66 @@
       </td>
       <td>
       <h2>Artist</h2>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6HlvjQ7eUBKvCJmYcSJZwR'>Be Okay</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d766fd9e96ce4be7776759a4' alt='I Don't Know Why' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV'>I Don't Know Why</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj'>I Don't Know Why</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2DRlc8pbf096LobLnjGt2b'>Coco</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr'>pewdiepie</a>
       </td>
     </tr></table>
 </p topsongs>
