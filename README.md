@@ -158,21 +158,21 @@
       <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27352c0bc0a1140dc54f12d9359' alt='Beautiful Girls' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/1peT7rhuRsVvJVSSd0iXXp'>Beautiful Girls</a>
+      <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/13WlQvCxVKxRu0CIJmFWa0'>Pure... 2000s Party</a>
+      <a href='https://open.spotify.com/album/2DRlc8pbf096LobLnjGt2b'>Coco</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'>Sean Kingston</a>
+      <a href='https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr'>pewdiepie</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 56% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 59% | Current Taste: Energetic and Vocal Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
