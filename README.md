@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Luck is what happens when preparation meets opportunity.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.  - <a href='https://duckduckgo.com/?q=Martin+Luther' target='_blank'>Martin Luther</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
