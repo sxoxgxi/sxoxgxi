@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Avoiding failure is to avoid progress. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Happiness is when what you think, what you say, and what you do are in harmony. - <a href='https://duckduckgo.com/?q=Mahatma+Gandhi' target='_blank'>Mahatma Gandhi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
