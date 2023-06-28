@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.  - <a href='https://duckduckgo.com/?q=Martin+Luther' target='_blank'>Martin Luther</a>.</h4>
+<h4 align='center'>I am always doing that which I can not do, in order that I may learn how to do it. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
