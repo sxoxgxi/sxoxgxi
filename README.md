@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you're not making mistakes, then you're not doing anything. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>Avoiding failure is to avoid progress. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
