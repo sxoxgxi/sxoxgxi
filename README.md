@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Being ignorant is not so much a shame, as being unwilling to learn. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>If you're not making mistakes, then you're not doing anything. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
