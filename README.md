@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I am always doing that which I can not do, in order that I may learn how to do it. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
+<h4 align='center'>Being ignorant is not so much a shame, as being unwilling to learn. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
