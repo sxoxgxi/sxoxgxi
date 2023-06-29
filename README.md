@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Lavender Haze' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27338c7334a39295ffda1add6da' alt='I Can't Love You Anymore - In Rare Form' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27354d4b18b9f5dfe0da3e3d97a' alt='For Real' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC'>Lavender Haze</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/08ENSwiGEQ1rd5NFwE0tbD'>Delight</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc'>I Can't Love You Anymore - In Rare Form</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3KGOU3IJI5Qs4DrNiEF83r'>For Real</a>
 </td>
 </tr>
 </table>
