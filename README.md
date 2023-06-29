@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Sanctuary-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Flowers-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fdd9fc8745ed9185dc95873' alt='On The Ground' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Before The Day Is Over' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa'>Sanctuary</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2xgACMNtJ5YktyvOC83SPO'>On The Ground</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03'>Before The Day Is Over</a>
 </td>
 </tr>
 </table>
