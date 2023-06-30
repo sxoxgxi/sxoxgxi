@@ -158,21 +158,21 @@
       <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273807fe78b50e7fb1a1d22bf66' alt='Coco' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/1aZmrST6ppqWbi0bwbwlOj'>Coco</a>
+      <a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/2DRlc8pbf096LobLnjGt2b'>Coco</a>
+      <a href='https://open.spotify.com/album/5lIHNjXK59tJpLxM5flyOE'>Writer's Block</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr'>pewdiepie</a>
+      <a href='https://open.spotify.com/artist/3b30rpDj4m6EaAZwCkIzok'>Dylan Bernard</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 59% | Current Taste: Energetic and Vocal Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 47% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
