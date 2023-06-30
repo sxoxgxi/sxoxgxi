@@ -146,6 +146,18 @@
       <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/08ENSwiGEQ1rd5NFwE0tbD'>Delight</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:10%'>
       </td>
       <td>
@@ -157,22 +169,10 @@
       <td>
       <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d766fd9e96ce4be7776759a4' alt='I Don't Know Why' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV'>I Don't Know Why</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj'>I Don't Know Why</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 58% | Current Taste: Energetic and Vocal Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 57% | Current Taste: Energetic and Vocal Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
