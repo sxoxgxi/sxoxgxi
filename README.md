@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
+<h4 align='center'>an action committed in anger is an action doomed to failure.  - <a href='https://duckduckgo.com/?q=Genghis+Khan' target='_blank'>Genghis Khan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
