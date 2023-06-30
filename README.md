@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
+<h4 align='center'>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
