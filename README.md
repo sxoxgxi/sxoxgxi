@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. - <a href='https://duckduckgo.com/?q=James+Cameron' target='_blank'>James Cameron</a>.</h4>
+<h4 align='center'>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
