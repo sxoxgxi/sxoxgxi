@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself. - <a href='https://duckduckgo.com/?q=Samuel+Butler' target='_blank'>Samuel Butler</a>.</h4>
+<h4 align='center'>The glow of one warm thought is to me worth more than money. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
