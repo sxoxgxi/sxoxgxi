@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I try more and more to be myself, caring relatively little whether people approve or disapprove. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest. - <a href='https://duckduckgo.com/?q=Josh+Waitzkin' target='_blank'>Josh Waitzkin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
