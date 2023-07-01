@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The ability to observe without evaluating is the highest form of intelligence. - <a href='https://duckduckgo.com/?q=Jiddu+Krishnamurti' target='_blank'>Jiddu Krishnamurti</a>.</h4>
+<h4 align='center'>It is passion that makes man live; wisdom makes one only last. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
