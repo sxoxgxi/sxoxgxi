@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Zen insists that the whole trouble is just our failure to realize that there is no problem. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
+<h4 align='center'>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. - <a href='https://duckduckgo.com/?q=James+Cameron' target='_blank'>James Cameron</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Paused-Lost-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
