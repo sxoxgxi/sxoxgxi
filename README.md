@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-WALK -- movie ver.-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-夜行-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c39e6a78572b3929ac88e0e' alt='WALK - movie ver.' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27351ff87ca0816816aff45edd6' alt='Mirror' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733b10bc784c23b990c256a2fa' alt='Where The Stars Fall (Up All Night)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn'>WALK - movie ver.</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5a3Q6vyaCNMtpQ5a1wnofp'>Mirror</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3OdAoVRBtEg3PfsXsVoqFg'>Where The Stars Fall (Up All Night)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/08ENSwiGEQ1rd5NFwE0tbD'>Delight</a>
 </td>
 </tr>
 </table>
