@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Take away love and our earth is a tomb. - <a href='https://duckduckgo.com/?q=Robert+Browning' target='_blank'>Robert Browning</a>.</h4>
+<h4 align='center'>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
