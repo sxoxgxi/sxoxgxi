@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is not what we get. But who we become, what we contribute... that gives meaning to our lives. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>Take away love and our earth is a tomb. - <a href='https://duckduckgo.com/?q=Robert+Browning' target='_blank'>Robert Browning</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
