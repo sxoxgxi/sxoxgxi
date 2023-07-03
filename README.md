@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Cold Heart -- PNAU Remix-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Eyes Off You-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738b5c6d6bb24f7e5bb43b8b44' alt='Cold Heart - PNAU Remix' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96' alt='Perfect' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c39e6a78572b3929ac88e0e' alt='WALK - movie ver.' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b653ef10e004c8407a51a8af' alt='Fake' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/02pjWffN5Npwv22BShj1vu'>Cold Heart - PNAU Remix</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v'>Perfect</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn'>WALK - movie ver.</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1oz3gEoNWHAS3pjwThdSJb'>Fake</a>
 </td>
 </tr>
 </table>
