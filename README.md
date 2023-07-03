@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-ただ声一つ-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Labyrinth-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de2d1cf763ed06e6874e1e91' alt='ただ声一つ' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c3c35e46c08ca30d6411bb' alt='I'm Not Sorry' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Anti-Hero' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J'>ただ声一つ</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4rGyk7HrRoG8NTP5l5ZM5J'>I'm Not Sorry</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV'>Cupid</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu'>Anti-Hero</a>
 </td>
 </tr>
 </table>
