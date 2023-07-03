@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-This City Remix (feat. Anne -- Marie)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Be Okay (with HRVY)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735c243682bf7d1bbcec0ee000' alt='This City Remix (feat. Anne-Marie)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4c8c8b6a8f52a5946897da3' alt='Ross And Rachel' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f336551e673acd06f57878c5' alt='Backwards' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs'>This City Remix (feat. Anne-Marie)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4vCiNW18AyeaUAZosVnX61'>Ross And Rachel</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR'>Backwards</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
 </td>
 </tr>
 </table>
