@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Brand New Day-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730ceb00274ab3e634c68283c7' alt='Lost' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bf1e77d93e39469441ae6c7f' alt='耳わほう' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de9614ca7864f6f41a40439f' alt='ヒカリ' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732794743c6eb13addc2b01420' alt='夜行' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs'>Lost</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2StLz1e2VTwCm8Jnkke7OF'>耳わほう</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0yufeKCZsUBAoUAprazz9C'>ヒカリ</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1srR6pbN1YCtIulufVNeMZ'>夜行</a>
 </td>
 </tr>
 </table>
