@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Build God, Then We'll Talk-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Born Again-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e8b923caee478adf4a5b56de' alt='Build God, Then We'll Talk' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374' alt='Scared to Be Lonely' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a' alt='That Should Be Me' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Die For You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6uY9kK6gdGDCeT5sklQG7u'>Build God, Then We'll Talk</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH'>Scared to Be Lonely</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S'>That Should Be Me</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t'>Die For You</a>
 </td>
 </tr>
 </table>
