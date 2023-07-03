@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
+<h4 align='center'>You are not stuck where you are unless you decide to be.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
