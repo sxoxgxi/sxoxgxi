@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Who you are is defined by what you're willing to struggle for. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>The desire for more positive experience is itself a negative experience. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
