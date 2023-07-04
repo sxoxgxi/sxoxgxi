@@ -122,6 +122,18 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6HlvjQ7eUBKvCJmYcSJZwR'>Be Okay</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ'>R3HAB</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b653ef10e004c8407a51a8af' alt='Fake' style='width:10%'>
       </td>
       <td>
@@ -157,22 +169,10 @@
       <td>
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f336551e673acd06f57878c5' alt='Backwards' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR'>Backwards</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi'>Backwards</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT'>Alexander Stewart</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 50% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 49% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
