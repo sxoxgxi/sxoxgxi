@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your spirit is the true shield. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Hold yourself responsible for a higher standard than anybody else expects of you. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
