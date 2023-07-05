@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I am not absentminded. It is the presence of mind that makes me unaware of everything else. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
+<h4 align='center'>I was angered, for I had no shoes. Then I met a man who had no feet.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
