@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Absurdity is the ecstasy of intellectualism. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations. - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
