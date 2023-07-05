@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I was angered, for I had no shoes. Then I met a man who had no feet.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Absurdity is the ecstasy of intellectualism. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
