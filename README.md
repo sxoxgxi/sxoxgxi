@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Blessed is he who expects nothing, for he shall never be disappointed. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
+<h4 align='center'>You change the world by being yourself. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
