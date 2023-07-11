@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The hard path is often the right one. The river teaches more than the shore. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>Every day may not be good, but there's something good in every day. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
