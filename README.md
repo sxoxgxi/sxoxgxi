@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every day may not be good, but there's something good in every day. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
