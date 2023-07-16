@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is like playing the violin in public and learning the instrument as one goes on. - <a href='https://duckduckgo.com/?q=Samuel+Butler' target='_blank'>Samuel Butler</a>.</h4>
+<h4 align='center'>The smallest act of kindness is worth more than the greatest intention.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
