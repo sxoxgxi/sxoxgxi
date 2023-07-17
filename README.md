@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more you like yourself, the less you are like anyone else, which makes you unique. - <a href='https://duckduckgo.com/?q=Walt+Disney' target='_blank'>Walt Disney</a>.</h4>
+<h4 align='center'>The universe doesn't allow perfection. - <a href='https://duckduckgo.com/?q=Stephen+Hawking' target='_blank'>Stephen Hawking</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
