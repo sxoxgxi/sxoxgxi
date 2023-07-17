@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The smallest act of kindness is worth more than the greatest intention.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
+<h4 align='center'>Fear is a natural reaction to moving closer to the truth. - <a href='https://duckduckgo.com/?q=Pema+Chodron' target='_blank'>Pema Chodron</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
