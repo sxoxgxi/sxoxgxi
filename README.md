@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself. - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
+<h4 align='center'>The more you like yourself, the less you are like anyone else, which makes you unique. - <a href='https://duckduckgo.com/?q=Walt+Disney' target='_blank'>Walt Disney</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
