@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Paused-Stereo Hearts (feat. Adam Levine)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff' alt='Payphone' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff' alt='Payphone' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de9614ca7864f6f41a40439f' alt='ヒカリ' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273208d8536eccf7692be56a91d' alt='Baby you' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Avalanche' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
+<a href='https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A'>Payphone</a>
+</td>
+<td>
+<a href='https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A'>Payphone</a>
+</td>
+<td>
 <a href='https://open.spotify.com/track/0yufeKCZsUBAoUAprazz9C'>ヒカリ</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb'>Baby you</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2PVEZOHWUHr58OXXN2US87'>Avalanche</a>
 </td>
 </tr>
 </table>
