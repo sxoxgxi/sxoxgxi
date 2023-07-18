@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A person is only by the thoughts that he chooses. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Excellence is not an exception, it is a prevailing attitude. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
