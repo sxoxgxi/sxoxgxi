@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The universe doesn't allow perfection. - <a href='https://duckduckgo.com/?q=Stephen+Hawking' target='_blank'>Stephen Hawking</a>.</h4>
+<h4 align='center'>A person is only by the thoughts that he chooses. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
