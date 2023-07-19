@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Paused-Stereo Hearts (feat. Adam Levine)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff' alt='Payphone' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A'>Payphone</a>
 </td>
 </tr>
 </table>
