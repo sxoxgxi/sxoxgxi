@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You don't get in life what you want; you get in life what you are. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
+<h4 align='center'>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
