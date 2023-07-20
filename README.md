@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - <a href='https://duckduckgo.com/?q=Abraham+Lincoln' target='_blank'>Abraham Lincoln</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
