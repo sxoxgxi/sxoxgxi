@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People who say it cannot be done should not interrupt those who are doing it. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>Perfection is not attainable, but if we chase perfection we can catch excellence. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
