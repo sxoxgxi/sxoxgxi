@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - <a href='https://duckduckgo.com/?q=Abraham+Lincoln' target='_blank'>Abraham Lincoln</a>.</h4>
+<h4 align='center'>If I have seen further than others, it is by standing upon the shoulders of giants. - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
