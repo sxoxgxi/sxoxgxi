@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Perfection is not attainable, but if we chase perfection we can catch excellence. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>The more you trust yourself, the less you compare yourself to others. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
