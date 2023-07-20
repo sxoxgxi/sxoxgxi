@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more you trust yourself, the less you compare yourself to others. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
