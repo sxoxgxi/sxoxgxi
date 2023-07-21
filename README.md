@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't stumble over something that's behind you. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Your past does not equal your future. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
