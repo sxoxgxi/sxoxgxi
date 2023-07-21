@@ -64,24 +64,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
-</td>
-<td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
 </td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
-<td>
-<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
-</td>
 <td>
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
 <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
 </td>
 </tr>
 </table>
@@ -158,21 +158,21 @@
       <a href='https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d'>Vickeblanka</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f336551e673acd06f57878c5' alt='Backwards' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR'>Backwards</a>
+      <a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi'>Backwards</a>
+      <a href='https://open.spotify.com/album/5lIHNjXK59tJpLxM5flyOE'>Writer's Block</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT'>Alexander Stewart</a>
+      <a href='https://open.spotify.com/artist/3b30rpDj4m6EaAZwCkIzok'>Dylan Bernard</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 58% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 51% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
