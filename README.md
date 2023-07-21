@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Our First Song-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Traffic Light-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54291f7289c20ce2af1b678' alt='Our First Song' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Sweet Nothing' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='It's Time' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2bkzqem4veyueCgtIJ7bMV'>Our First Song</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb'>Sweet Nothing</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc'>It's Time</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
 </td>
 </tr>
 </table>
