@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only by acceptance of the past, can you alter it. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>Don't stumble over something that's behind you. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
