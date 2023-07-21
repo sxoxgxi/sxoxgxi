@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All we have to decide is what to do with the time that is given to us. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>Whenever people agree with me I always feel I must be wrong. - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
