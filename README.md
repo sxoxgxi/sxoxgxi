@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you can't imagine it, you can't have it. - <a href='https://duckduckgo.com/?q=Toni+Morrison' target='_blank'>Toni Morrison</a>.</h4>
+<h4 align='center'>Everything that is made beautiful and fair and lovely is made for the eye of one who sees. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
