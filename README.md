@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
+<h4 align='center'>If you can't imagine it, you can't have it. - <a href='https://duckduckgo.com/?q=Toni+Morrison' target='_blank'>Toni Morrison</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
