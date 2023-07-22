@@ -158,21 +158,21 @@
       <a href='https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d'>Vickeblanka</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Avalanche' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/2PVEZOHWUHr58OXXN2US87'>Avalanche</a>
+      <a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79'>It'll All Make Sense In The End (Deluxe)</a>
+      <a href='https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB'>The Papercut Chronicles II</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
+      <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 51% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 60% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
