@@ -158,16 +158,16 @@
       <a href='https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d'>Vickeblanka</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Avalanche' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
+      <a href='https://open.spotify.com/track/2PVEZOHWUHr58OXXN2US87'>Avalanche</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/5lIHNjXK59tJpLxM5flyOE'>Writer's Block</a>
+      <a href='https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79'>It'll All Make Sense In The End (Deluxe)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/3b30rpDj4m6EaAZwCkIzok'>Dylan Bernard</a>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
     </tr></table>
 </p topsongs>
