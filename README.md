@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We would accomplish many more things if we did not think of them as impossible. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>Winning isn't always championships. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
