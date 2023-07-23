@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Make us never happen-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Make It Right (feat. Lauv)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Make us never happen' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Fantasy' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0' alt='Life's Too Short (English Version)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb4788305d9e3e25faf785c2' alt='All My Loving' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1MwjGc1bwzdDPjj1XBiawA'>Make us never happen</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK'>Fantasy</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T'>Life's Too Short (English Version)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl'>All My Loving</a>
 </td>
 </tr>
 </table>
