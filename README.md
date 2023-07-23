@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A path is made by walking on it. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
+<h4 align='center'>None of us can change our yesterdays but all of us can change our tomorrows. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
