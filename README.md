@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Winning isn't always championships. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>A path is made by walking on it. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
