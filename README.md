@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-The Motto-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Euphoria-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e' alt='The Motto' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735f685067786c7e2d1253ecff' alt='crossing field' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735e07cea6a3c231c7d45785cb' alt='AS IF IT’S YOUR LAST - Japanese Version' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100' alt='Love The Way You Lie' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO'>The Motto</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw'>crossing field</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5DVgfulxeJZJYc8FseyfUf'>AS IF IT’S YOUR LAST - Japanese Version</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED'>Love The Way You Lie</a>
 </td>
 </tr>
 </table>
