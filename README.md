@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is a difference between giving directions and giving direction. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
+<h4 align='center'>If you want peace, you won't get it with violence. - <a href='https://duckduckgo.com/?q=John+Lennon' target='_blank'>John Lennon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
