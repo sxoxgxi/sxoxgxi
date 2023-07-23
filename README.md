@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only thing we have to fear is fear itself. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>There is a difference between giving directions and giving direction. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
