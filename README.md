@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>None of us can change our yesterdays but all of us can change our tomorrows. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>Success is good at any age, but the sooner you find it, the longer you will enjoy it. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
