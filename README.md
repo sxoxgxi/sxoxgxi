@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Self-knowledge is the beginning of self-correction. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>Your setback is just a setup for a comeback. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
