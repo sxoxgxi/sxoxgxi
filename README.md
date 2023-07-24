@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
+<h4 align='center'>Self-knowledge is the beginning of self-correction. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
