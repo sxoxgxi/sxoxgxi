@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your setback is just a setup for a comeback. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Better the cottage where one is merry than the palace where one weeps. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
