@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be willing to be a beginner every single morning. - <a href='https://duckduckgo.com/?q=Meister+Eckhart' target='_blank'>Meister Eckhart</a>.</h4>
+<h4 align='center'>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
