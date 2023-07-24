@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>May you live all the days of your life. - <a href='https://duckduckgo.com/?q=Jonathan+Swift' target='_blank'>Jonathan Swift</a>.</h4>
+<h4 align='center'>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
