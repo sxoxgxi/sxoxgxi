@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,66 +108,6 @@
       </td>
       <td>
       <h2>Artist</h2>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b653ef10e004c8407a51a8af' alt='Fake' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1oz3gEoNWHAS3pjwThdSJb'>Fake</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6UGVIMVaihtvkXRHsgQped'>Fake</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/08ENSwiGEQ1rd5NFwE0tbD'>Delight</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c39e6a78572b3929ac88e0e' alt='WALK - movie ver.' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn'>WALK - movie ver.</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/03sgjxuA0soDPpj5Kzf2e1'>夏の夢/WALK</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d'>Vickeblanka</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB'>The Papercut Chronicles II</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
       </td>
     </tr></table>
 </p topsongs>
