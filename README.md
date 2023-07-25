@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Quality is not an act, it is a habit. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Pain doesn't last. And when it's gone, we have something to show for it. Growth. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
