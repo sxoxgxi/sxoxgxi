@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only those who dare to fail greatly can ever achieve greatly. - <a href='https://duckduckgo.com/?q=Robert+F.+Kennedy' target='_blank'>Robert F. Kennedy</a>.</h4>
+<h4 align='center'>Awaken. Take heed, do not squander your life. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
