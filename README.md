@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Change is hardest at the beginning, messiest in the middle and best at the end. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>Quality is not an act, it is a habit. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
