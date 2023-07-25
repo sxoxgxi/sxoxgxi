@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In the midst of movement and chaos, keep stillness inside of you. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>Do every act of your life as if it were your last. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
