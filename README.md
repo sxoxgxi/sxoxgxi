@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>Do your duty and a little more and the future will take care of itself. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
