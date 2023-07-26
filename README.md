@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is the meaning and the purpose of life, the whole aim and end of human existence. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>All men are equal before fish. - <a href='https://duckduckgo.com/?q=Herbert+Hoover' target='_blank'>Herbert Hoover</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
