@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
+<h4 align='center'>Success is not final, failure is not fatal: it is the courage to continue that counts. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
