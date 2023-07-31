@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The opportunity of defeating the enemy is provided by the enemy himself. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
+<h4 align='center'>We will now discuss in a little more detail the Struggle for Existence. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
