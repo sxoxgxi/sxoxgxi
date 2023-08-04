@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-CWJBHN-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Automatic (feat. Jake Miller)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bed2d78b153a97b2ea9d55d7' alt='CWJBHN' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='The Real Slim Shady' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737508bd4e7236b2524dc2ec91' alt='CHE.R.RY' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737881600984748e524019f5ca' alt='優しい赤' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7iUvAa3bxGrNoVmpjZyWOU'>CWJBHN</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR'>The Real Slim Shady</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp'>CHE.R.RY</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/13InsFJi4rwmMCtzmX4Qzt'>優しい赤</a>
 </td>
 </tr>
 </table>
