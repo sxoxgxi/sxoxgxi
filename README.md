@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We run to win, not just to be in the race.   - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>Life is and will ever remain an equation incapable of solution, but it contains certain known factors.  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
