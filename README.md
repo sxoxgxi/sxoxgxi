@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>A tiny change today brings a dramatically different tomorrow. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Mirrors-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Make us never happen' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273801133d42421e0e6c3385d84' alt='Moments' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Fantasy' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a5bb87b2f5b576a0927e56d3' alt='SAY' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0' alt='Life's Too Short (English Version)' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc9f40ffa270f17b66bcdac' alt='憂一乗' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/1MwjGc1bwzdDPjj1XBiawA'>Make us never happen</a>
+<a href='https://open.spotify.com/track/7LiJ0JzkwqfPUVS5mOHwBs'>Moments</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK'>Fantasy</a>
+<a href='https://open.spotify.com/track/2mMYqKDpzLmMth7P6Avb50'>SAY</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T'>Life's Too Short (English Version)</a>
+<a href='https://open.spotify.com/track/0yVovOZGZtBXoZQr5gakeb'>憂一乗</a>
 </td>
 </tr>
 </table>
@@ -64,24 +64,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b' alt='Taylor Swift' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb63a65de1f3d0224a2a901343' alt='James Arthur' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb1b31e7422ccb01ac29fb8b79' alt='Rei Yasuda' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebc983b74b84e1f258e7c89da3' alt='LiSA' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
+<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
+</td>
+<td>
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
-</td>
-<td>
-<a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi' target='_blank'>Rei Yasuda</a>
+<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
 </td>
 </tr>
 </table>
@@ -110,6 +110,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='It's Time' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc'>It's Time</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS'>Night Visions</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'>Imagine Dragons</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
       </td>
       <td>
@@ -122,40 +134,16 @@
       <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b653ef10e004c8407a51a8af' alt='Fake' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Anti-Hero' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/1oz3gEoNWHAS3pjwThdSJb'>Fake</a>
+      <a href='https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu'>Anti-Hero</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/6UGVIMVaihtvkXRHsgQped'>Fake</a>
+      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Delight' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/08ENSwiGEQ1rd5NFwE0tbD'>Delight</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738c39e6a78572b3929ac88e0e' alt='WALK - movie ver.' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn'>WALK - movie ver.</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/03sgjxuA0soDPpj5Kzf2e1'>夏の夢/WALK</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d'>Vickeblanka</a>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:10%'>
@@ -169,10 +157,22 @@
       <td>
       <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Sweet Nothing' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb'>Sweet Nothing</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 60% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 65% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
