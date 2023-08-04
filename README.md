@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A tiny change today brings a dramatically different tomorrow. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>It is in your moments of decision that your destiny is shaped. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-something worth working on-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273634b74c10bd6bd540829a1f0' alt='A Little Bit Yours (feat. Eric Chou) - Mandarin Version' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ef37416970812293c08e8a78' alt='CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS")' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273db1d1cdc927a07825a2ed244' alt='Mirrors' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273801133d42421e0e6c3385d84' alt='Moments' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5iG5lMF8hwVDHtvAa1WoMQ'>A Little Bit Yours (feat. Eric Chou) - Mandarin Version</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc'>CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS")</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV'>Mirrors</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7LiJ0JzkwqfPUVS5mOHwBs'>Moments</a>
 </td>
 </tr>
 </table>
