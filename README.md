@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2' alt='Bad Habits' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273801133d42421e0e6c3385d84' alt='Moments' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c34dffa3ee633fa3915c6806' alt='Out of Time - KAYTRANADA Remix' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw'>Nothing Without You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d'>Bad Habits</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7LiJ0JzkwqfPUVS5mOHwBs'>Moments</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA'>Out of Time - KAYTRANADA Remix</a>
 </td>
 </tr>
 </table>
