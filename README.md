@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c34dffa3ee633fa3915c6806' alt='Out of Time - KAYTRANADA Remix' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be4ab46eca6cb3c83df15057' alt='My Enemy' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='deja vu' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA'>Out of Time - KAYTRANADA Remix</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1KWLVqVGVrPSVFdprFX82P'>My Enemy</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr'>deja vu</a>
 </td>
 </tr>
 </table>
