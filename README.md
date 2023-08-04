@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt. - <a href='https://duckduckgo.com/?q=Honore+de+Balzac' target='_blank'>Honore de Balzac</a>.</h4>
+<h4 align='center'>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
