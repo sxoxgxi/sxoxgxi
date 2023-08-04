@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is in your moments of decision that your destiny is shaped. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>We run to win, not just to be in the race.   - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
