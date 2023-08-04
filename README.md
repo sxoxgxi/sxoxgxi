@@ -34,10 +34,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c59ca0ffeef8d8a1790a936a' alt='I Miss Myself (with HRVY)' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='Demons' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730' alt='Call Out My Name' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731abfc09fba2499dae081d1af' alt='Infinity' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737' alt='Demons' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -45,10 +45,10 @@
 <a href='https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l'>I Miss Myself (with HRVY)</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR'>Demons</a>
+<a href='https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN'>Call Out My Name</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/0ys67ApLdX56j21to2JRIV'>Infinity</a>
+<a href='https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR'>Demons</a>
 </td>
 </tr>
 </table>
