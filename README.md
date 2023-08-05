@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Good judgment comes from experience, and experience comes from bad judgment. - <a href='https://duckduckgo.com/?q=Rita+Mae+Brown' target='_blank'>Rita Mae Brown</a>.</h4>
+<h4 align='center'>Know your gifts and share them. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -67,10 +67,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb63a65de1f3d0224a2a901343' alt='James Arthur' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebc983b74b84e1f258e7c89da3' alt='LiSA' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb9160fac7a1ecb8ee89a633ac' alt='Why Don't We' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -78,10 +78,10 @@
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
+<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv' target='_blank'>LiSA</a>
+<a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2' target='_blank'>Why Don't We</a>
 </td>
 </tr>
 </table>
@@ -122,6 +122,18 @@
       <a href='https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'>Imagine Dragons</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ff601a11071ca2208e332497' alt='Silence' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0B4HypTyjcUq6VU02MyBz8'>Silence</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3wcVENZJmJZm7tE4zQJfgB'>love, pain, & retrospect</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw'>Before You Exit</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
       </td>
       <td>
@@ -157,22 +169,10 @@
       <td>
       <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Sweet Nothing' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb'>Sweet Nothing</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😊: Happy | Happiness Level: 65% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😊: Happy | Happiness Level: 72% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
