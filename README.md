@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>Good judgment comes from experience, and experience comes from bad judgment. - <a href='https://duckduckgo.com/?q=Rita+Mae+Brown' target='_blank'>Rita Mae Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
