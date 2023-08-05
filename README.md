@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Know your gifts and share them. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
+<h4 align='center'>Whatever your mind can conceive and believe, it can achieve. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
