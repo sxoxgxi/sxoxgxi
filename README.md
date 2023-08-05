@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The truth is rarely pure and never simple.  - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
+<h4 align='center'>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
