@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Whatever your mind can conceive and believe, it can achieve. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Always be a first-rate version of yourself, instead of a second-rate version of someone else. - <a href='https://duckduckgo.com/?q=Judy+Garland' target='_blank'>Judy Garland</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
