@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Always be a first-rate version of yourself, instead of a second-rate version of someone else. - <a href='https://duckduckgo.com/?q=Judy+Garland' target='_blank'>Judy Garland</a>.</h4>
+<h4 align='center'>Great loves too must be endured. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
