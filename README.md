@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remember that the best relationship is one in which your love for each other exceeds your need for each other. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27390189bfc9a5d39e0d88e4103' alt='I Love You 3000' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273802daca0d0ad4f91cf420b56' alt='Like Strangers Do' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36' alt='In Your Eyes' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Losing You' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc'>I Love You 3000</a>
+<a href='https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F'>Like Strangers Do</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
+<a href='https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl'>In Your Eyes</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
+<a href='https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM'>Losing You</a>
 </td>
 </tr>
 </table>
