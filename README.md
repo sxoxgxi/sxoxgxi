@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great loves too must be endured. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
+<h4 align='center'>Goals are the fuel in the furnace of achievement. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
