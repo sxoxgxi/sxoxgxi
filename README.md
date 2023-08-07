@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The man who moved the mountain was the one who began carrying away the smallest stones. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>Patience is bitter, but its fruit is sweet. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
