@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
