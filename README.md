@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>A leader leads by example, not by force. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
