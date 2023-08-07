@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>The man who moved the mountain was the one who began carrying away the smallest stones. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
