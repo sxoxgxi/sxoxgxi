@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>Fear is what stops you. Courage is what keeps you going. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
