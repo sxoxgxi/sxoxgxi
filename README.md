@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Patience is bitter, but its fruit is sweet. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
