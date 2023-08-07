@@ -70,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb9160fac7a1ecb8ee89a633ac' alt='Why Don't We' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb63a65de1f3d0224a2a901343' alt='James Arthur' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -81,7 +81,7 @@
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2' target='_blank'>Why Don't We</a>
+<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
 </td>
 </tr>
 </table>
