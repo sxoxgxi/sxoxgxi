@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't hate the player. Change the game. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
