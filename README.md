@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A leader leads by example, not by force. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
+<h4 align='center'>We're kept from our goal not by obstacles, but by a clear path to a lesser goal. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
