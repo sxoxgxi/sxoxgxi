@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can suffer the pain of change or suffer remaining the way you are. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
+<h4 align='center'>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
