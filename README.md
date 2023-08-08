@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you can't feed a hundred people, then feed just one. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Pursue what catches your heart, not what catches your eyes. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
