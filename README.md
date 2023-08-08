@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
+<h4 align='center'>If you can't feed a hundred people, then feed just one. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
