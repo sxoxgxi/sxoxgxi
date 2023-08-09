@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A goal is a dream with a deadline. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Wheresoever you go, go with all your heart. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
