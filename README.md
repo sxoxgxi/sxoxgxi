@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Dream big and dare to fail. - <a href='https://duckduckgo.com/?q=Norman+Vaughan' target='_blank'>Norman Vaughan</a>.</h4>
+<h4 align='center'>A goal is a dream with a deadline. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
