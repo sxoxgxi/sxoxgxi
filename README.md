@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is not the absence of problems, it's the ability to deal with them. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
+<h4 align='center'>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
