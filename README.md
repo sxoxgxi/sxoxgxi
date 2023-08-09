@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>You can only lose something that you have, but you cannot lose something that you are. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
