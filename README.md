@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our happiness depends on the habit of mind we cultivate. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>It's not what we do once in a while that shapes our lives, but what we do consistently. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
