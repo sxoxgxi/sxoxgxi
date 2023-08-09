@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wheresoever you go, go with all your heart. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>Character is doing what you don't want to do but know you should do. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
