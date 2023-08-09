@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our happiness depends on the habit of mind we cultivate. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>You can live a whole life time never being awake. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
