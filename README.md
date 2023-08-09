@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more you give, the more comes back to you. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Happiness is not the absence of problems, it's the ability to deal with them. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
