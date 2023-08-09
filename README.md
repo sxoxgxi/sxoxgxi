@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can only lose something that you have, but you cannot lose something that you are. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>I hear and I forget. I see and I remember. I do and I understand.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
