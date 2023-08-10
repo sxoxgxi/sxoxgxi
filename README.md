@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Character is doing what you don't want to do but know you should do. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
+<h4 align='center'>If you get up one more time than you fall, you will make it through. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
