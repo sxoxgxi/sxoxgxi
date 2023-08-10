@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you get up one more time than you fall, you will make it through. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>The only place success comes before work is in the dictionary. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
