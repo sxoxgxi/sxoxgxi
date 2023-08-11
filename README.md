@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Facts are the enemy of truth.  - <a href='https://duckduckgo.com/?q=Miguel+de+Cervantes' target='_blank'>Miguel de Cervantes</a>.</h4>
+<h4 align='center'>Happiness is pretty simple: someone to love, something to do, something to look forward to. - <a href='https://duckduckgo.com/?q=Rita+Mae+Brown' target='_blank'>Rita Mae Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
