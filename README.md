@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only place success comes before work is in the dictionary. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>Facts are the enemy of truth.  - <a href='https://duckduckgo.com/?q=Miguel+de+Cervantes' target='_blank'>Miguel de Cervantes</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
