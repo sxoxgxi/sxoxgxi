@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>Courage is found in unlikely places. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
