@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Courage is found in unlikely places. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence. - <a href='https://duckduckgo.com/?q=Sydney+Smith' target='_blank'>Sydney Smith</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
