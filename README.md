@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All know that the drop merges into the ocean, but few know that the ocean merges into the drop. - <a href='https://duckduckgo.com/?q=Kabir' target='_blank'>Kabir</a>.</h4>
+<h4 align='center'>Being wrong opens us up to the possibility of change. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
