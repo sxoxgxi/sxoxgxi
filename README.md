@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Being wrong opens us up to the possibility of change. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>Optimism is the one quality more associated with success and happiness than any other. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
