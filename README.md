@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>Make your life a mission - not an intermission. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
