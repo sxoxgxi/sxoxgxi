@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Make your life a mission - not an intermission. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Whoever is happy will make others happy too. - <a href='https://duckduckgo.com/?q=Anne+Frank' target='_blank'>Anne Frank</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
