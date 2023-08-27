@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Whoever is happy will make others happy too. - <a href='https://duckduckgo.com/?q=Anne+Frank' target='_blank'>Anne Frank</a>.</h4>
+<h4 align='center'>I try more and more to be myself, caring relatively little whether people approve or disapprove. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
