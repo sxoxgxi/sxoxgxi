@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I try more and more to be myself, caring relatively little whether people approve or disapprove. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>Never buy a thing you do not want, because it is cheap, it will be dear to you. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
