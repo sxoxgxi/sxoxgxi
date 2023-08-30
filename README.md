@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We can see through others only when we can see through ourselves. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
+<h4 align='center'>The sun is new each day. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
