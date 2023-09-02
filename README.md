@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Perseverance and spirit have done wonders in all ages.  - <a href='https://duckduckgo.com/?q=George+Washington' target='_blank'>George Washington</a>.</h4>
+<h4 align='center'>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. - <a href='https://duckduckgo.com/?q=Carl+Bard' target='_blank'>Carl Bard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
