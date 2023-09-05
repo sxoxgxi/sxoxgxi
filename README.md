@@ -97,6 +97,66 @@
       <td>
       <h2>Artist</h2>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734c39cdf9af585b5fe44d22e9' alt='ムスビメ' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0pkVxyrTqqlv3moOEA2wOt'>ムスビメ</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3PRUbUlarV6rpompdRENpr'>ムスビメ</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy'>大原ゆい子</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB'>The Papercut Chronicles II</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5ajqo3BCJU7MGEhA2tXUyN'>Cheerleader (Remixes)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf'>Thousand Miles</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'>The Kid LAROI</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3yyzLkPAH8Go8yiCHDUOUZ'>Sky chord〜大人になる君へ〜</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3NeTHPAnm7tS5yfcVbWyYg'>Catch!</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4nEJOLgBBjsWUWBMgs3IZG'>Shion Tsuji</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
