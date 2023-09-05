@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Ao No Waltz' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb81235f3135e8af228cfe98' alt='フェイクファーワルツ' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606' alt='Canada' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1AfFUID69eG8hOkkc3asNM'>Ao No Waltz</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0Snq14Stek86vDCHQ8vx1X'>Sunny</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5TmbgwYdEtleS8fiNz17Le'>フェイクファーワルツ</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5EfNBzwOjAfF9qgsWr9XGP'>Canada</a>
 </td>
 </tr>
 </table>
