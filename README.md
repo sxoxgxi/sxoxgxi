@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
+<h4 align='center'>Public opinion is the worst of all opinions. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
