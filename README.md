@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Truth is the offspring of silence and meditation. - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
+<h4 align='center'>Leadership starts at the top. - <a href='https://duckduckgo.com/?q=Morgan+Wootten' target='_blank'>Morgan Wootten</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
