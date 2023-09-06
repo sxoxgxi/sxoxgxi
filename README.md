@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-In The Night-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Moments-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b' alt='In The Night' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e6fd961ae941caabd098efc2' alt='Never Let You Go' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d' alt='Moth To A Flame (with The Weeknd)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Are you happy?' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/25KybV9BOUlvcnv7nN3Pyo'>In The Night</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5MdZOhx2f37BPtxaEn0F85'>Never Let You Go</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK'>Moth To A Flame (with The Weeknd)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO'>Are you happy?</a>
 </td>
 </tr>
 </table>
