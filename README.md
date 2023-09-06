@@ -63,14 +63,8 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db' alt='Shawn Mendes' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
-<td>
-<a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr' target='_blank'>Shawn Mendes</a>
-</td>
 </tr>
 </table>
 
@@ -96,6 +90,66 @@
       </td>
       <td>
       <h2>Artist</h2>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734c39cdf9af585b5fe44d22e9' alt='ムスビメ' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0pkVxyrTqqlv3moOEA2wOt'>ムスビメ</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3PRUbUlarV6rpompdRENpr'>ムスビメ</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy'>大原ゆい子</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB'>The Papercut Chronicles II</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5ajqo3BCJU7MGEhA2tXUyN'>Cheerleader (Remixes)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf'>Thousand Miles</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'>The Kid LAROI</a>
       </td>
     </tr></table>
 </p topsongs>
