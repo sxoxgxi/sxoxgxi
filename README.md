@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Head Spins-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fd2bbf3791020c24c9f1f00' alt='Head Spins' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9' alt='Ao No Waltz' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27366f9e4c5b840ba1bc866ccf3' alt='Sunny' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5gPNHUhi4cFKwzpxIzj1C0'>Head Spins</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1AfFUID69eG8hOkkc3asNM'>Ao No Waltz</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0Snq14Stek86vDCHQ8vx1X'>Sunny</a>
 </td>
 </tr>
 </table>
