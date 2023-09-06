@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-WITHOUT YOU-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Sweet Nothing-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a' alt='WITHOUT YOU' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929' alt='Circles' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fd2bbf3791020c24c9f1f00' alt='Head Spins' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L'>WITHOUT YOU</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6vLwsGft7DnZixQVgFlKgU'>Circles</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5gPNHUhi4cFKwzpxIzj1C0'>Head Spins</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
 </td>
 </tr>
 </table>
