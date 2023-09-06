@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>As a man thinketh in his heart, so shall he be. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Make no small plans for they have no power to stir the soul. - <a href='https://duckduckgo.com/?q=Niccolo+Machiavelli' target='_blank'>Niccolo Machiavelli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
