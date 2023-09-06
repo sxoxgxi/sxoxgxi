@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273174f89c243a01c6b003a01d2' alt='Or Not' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733327143dd0629e27a9f44c93' alt='Bruises - Steve Void Remix' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Feeling Like The End' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa'>Sanctuary</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7mXAlee0nLDTX9e9bDDu9F'>Or Not</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG'>Bruises - Steve Void Remix</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1abwytAhbWeHrbsA9eODOy'>Feeling Like The End</a>
 </td>
 </tr>
 </table>
