@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Leadership starts at the top. - <a href='https://duckduckgo.com/?q=Morgan+Wootten' target='_blank'>Morgan Wootten</a>.</h4>
+<h4 align='center'>The journey, not the destination matters. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
