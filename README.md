@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Bruises -- Steve Void Remix-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-なんでもないや -- movie ver.-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733327143dd0629e27a9f44c93' alt='Bruises - Steve Void Remix' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Feeling Like The End' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cccbf4cde69d5bfd03b7fc3a' alt='Up Down' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Sweet Nothing' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG'>Bruises - Steve Void Remix</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1abwytAhbWeHrbsA9eODOy'>Feeling Like The End</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2tMI3Vki6rmg1Q1Q5oJDq8'>Up Down</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb'>Sweet Nothing</a>
 </td>
 </tr>
 </table>
