@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Are you happy?-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Moth To A Flame (with The Weeknd)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f047039273f69d31b3208fa4' alt='Are you happy?' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273678b73320fb1e93f0abb5c6a' alt='Be Mine Tonight - Radio Edit' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='Will It Ever Feel The Same?' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO'>Are you happy?</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4wnaVcqWugCzvCvN2bKBAE'>Be Mine Tonight - Radio Edit</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7EwD5ZeiZO1zCpPOtxb75H'>Will It Ever Feel The Same?</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa'>Sanctuary</a>
 </td>
 </tr>
 </table>
