@@ -63,8 +63,14 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db' alt='Shawn Mendes' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr' target='_blank'>Shawn Mendes</a>
+</td>
 </tr>
 </table>
 
