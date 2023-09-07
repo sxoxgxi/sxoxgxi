@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't settle, and don't struggle. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
