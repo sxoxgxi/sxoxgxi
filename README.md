@@ -104,6 +104,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa'>Sanctuary</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm'>Nectar</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734c39cdf9af585b5fe44d22e9' alt='ムスビメ' style='width:10%'>
       </td>
       <td>
@@ -151,22 +163,10 @@
       <td>
       <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf'>Thousand Miles</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'>The Kid LAROI</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 52% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 55% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
