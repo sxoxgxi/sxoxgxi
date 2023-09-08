@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To become what you are not, behave as you do not. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>The more people you help become successful the more successful you become. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
