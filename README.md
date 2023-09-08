@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more people you help become successful the more successful you become. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>The friend is the man who knows all about you, and still likes you. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
