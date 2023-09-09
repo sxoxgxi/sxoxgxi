@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It takes half your life before you discover life is a do-it-yourself project. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Best be yourself, imperial, plain, and true. - <a href='https://duckduckgo.com/?q=Robert+Browning' target='_blank'>Robert Browning</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
