@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Peace begins with a smile. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Elegance does not consist in putting on a new dress. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
