@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness depends upon ourselves. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Challenge yourself to find the good and beautiful thing inside of everyone. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
