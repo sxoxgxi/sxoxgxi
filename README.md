@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We can know only that we know nothing. And that is the highest degree of human wisdom. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
+<h4 align='center'>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
