@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The world makes way for the man who knows where he is going. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
+<h4 align='center'>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
