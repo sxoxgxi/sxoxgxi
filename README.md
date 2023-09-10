@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The goal of an artist is to create the definitive work that cannot be surpassed. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>We can know only that we know nothing. And that is the highest degree of human wisdom. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
