@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Create with the heart; build with the mind. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>The goal of an artist is to create the definitive work that cannot be surpassed. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
