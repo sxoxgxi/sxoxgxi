@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>You cannot teach a crab to walk straight. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
