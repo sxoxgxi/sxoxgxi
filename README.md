@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Go confidently in the direction of your dreams. Live the life you've imagined. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
+<h4 align='center'>The sweetest pleasure arises from difficulties overcome. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
