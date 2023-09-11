@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>For every minute you are angry you lose sixty seconds of happiness. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
+<h4 align='center'>Go confidently in the direction of your dreams. Live the life you've imagined. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
