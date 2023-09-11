@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You cannot teach a crab to walk straight. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
+<h4 align='center'>For the things we have to learn before we can do them, we learn by doing them. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
