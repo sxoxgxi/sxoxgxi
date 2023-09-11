@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>For the things we have to learn before we can do them, we learn by doing them. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>One beam, no matter how big, cannot support an entire house on its own. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
