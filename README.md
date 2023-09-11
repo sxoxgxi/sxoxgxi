@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>One beam, no matter how big, cannot support an entire house on its own. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>For every minute you are angry you lose sixty seconds of happiness. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
