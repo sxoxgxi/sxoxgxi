@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It does not do to dwell on dreams and forget to live, remember that. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>We are most nearly ourselves when we achieve the seriousness of the child at play. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
