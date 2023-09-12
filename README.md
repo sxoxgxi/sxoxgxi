@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6' alt='Perfect Strangers' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Before The Day Is Over' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739e0de09f28c45a74c2498c57' alt='ilu' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='LALISA' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o'>Perfect Strangers</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03'>Before The Day Is Over</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp'>ilu</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy'>LALISA</a>
 </td>
 </tr>
 </table>
