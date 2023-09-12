@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-ilu-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739e0de09f28c45a74c2498c57' alt='ilu' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d814e7bfbbfd8fcfe4c1a08b' alt='LALISA' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ee0232b590932e81529781e1' alt='Oh My God' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0' alt='As It Was' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp'>ilu</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy'>LALISA</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU'>Oh My God</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e'>As It Was</a>
 </td>
 </tr>
 </table>
