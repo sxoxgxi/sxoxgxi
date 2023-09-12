@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
+<h4 align='center'>Attitude drives actions. Actions drive results. Results drive lifestyles. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
