@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Make You Mine -- Acoustic-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Flaming Hot Cheetos-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -34,10 +34,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Adore You' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc' alt='august' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Adore You' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -45,10 +45,10 @@
 <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7'>Adore You</a>
+<a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K'>august</a>
+<a href='https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7'>Adore You</a>
 </td>
 </tr>
 </table>
