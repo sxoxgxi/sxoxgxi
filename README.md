@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When things go wrong, don't go with them. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
+<h4 align='center'>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
