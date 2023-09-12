@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737127de18828e2d0a5d5114d5' alt='SAME PLACE' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dde89ed5467883693b9489d1' alt='Kid In My 20s' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353f6fa0d2589c6a7174f4b81' alt='Sanctuary' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2wqB9l07hjkM1Vc0dXIVQD'>SAME PLACE</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7jnvVD9YHHOc60qe0jSapD'>Kid In My 20s</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK'>Sanctuary</a>
 </td>
 </tr>
 </table>
