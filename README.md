@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Attitude drives actions. Actions drive results. Results drive lifestyles. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>Sometimes a change of perspective is all it takes to see the light. - <a href='https://duckduckgo.com/?q=Dan+Brown' target='_blank'>Dan Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
