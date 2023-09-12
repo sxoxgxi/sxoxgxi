@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Somewhere Only We Know-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Kid In My 20s-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353f6fa0d2589c6a7174f4b81' alt='Sanctuary' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Karma' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c9645a78c9fba9fc092a0cc5' alt='Don't Call Me Up' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK'>Sanctuary</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf'>Karma</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5Xc9L411IGVexidbaF7CHG'>Don't Call Me Up</a>
 </td>
 </tr>
 </table>
