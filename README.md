@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -69,6 +69,9 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb' alt='Harry Styles' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
 <td>
@@ -76,6 +79,9 @@
 </td>
 <td>
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3' target='_blank'>Harry Styles</a>
 </td>
 </tr>
 </table>
