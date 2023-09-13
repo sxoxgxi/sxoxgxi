@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,6 +108,66 @@
       </td>
       <td>
       <h2>Artist</h2>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa'>Sanctuary</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm'>Nectar</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB'>The Papercut Chronicles II</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5ajqo3BCJU7MGEhA2tXUyN'>Cheerleader (Remixes)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf'>Thousand Miles</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'>The Kid LAROI</a>
       </td>
     </tr></table>
 </p topsongs>
