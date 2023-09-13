@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
+<h4 align='center'>Decide whether or not the goal is worth the risks involved. If it is, stop worrying. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
