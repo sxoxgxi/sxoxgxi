@@ -104,6 +104,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:10%'>
       </td>
       <td>
@@ -126,18 +138,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
       </td>
     </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
