@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Instead of being intimidated by the limitations, be inspired to find new ways around them. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
+<h4 align='center'>Living life in style also means living a life of balance. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
