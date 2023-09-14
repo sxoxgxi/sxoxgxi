@@ -64,10 +64,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb' alt='Harry Styles' style='width:50%'>
@@ -75,10 +75,10 @@
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
+<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
+<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
 <a href='https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3' target='_blank'>Harry Styles</a>
@@ -134,18 +134,6 @@
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB'>The Papercut Chronicles II</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli'>Gym Class Heroes</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
       </td>
       <td>
@@ -169,10 +157,22 @@
       <td>
       <a href='https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'>The Kid LAROI</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3yyzLkPAH8Go8yiCHDUOUZ'>Sky chord〜大人になる君へ〜</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3NeTHPAnm7tS5yfcVbWyYg'>Catch!</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4nEJOLgBBjsWUWBMgs3IZG'>Shion Tsuji</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 51% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 47% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
