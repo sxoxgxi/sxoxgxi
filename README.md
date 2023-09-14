@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Change yourself and you have done your part in changing the world. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
+<h4 align='center'>Learn to value yourself, which means: fight for your happiness. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
