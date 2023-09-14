@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Learn to value yourself, which means: fight for your happiness. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
+<h4 align='center'>Rewards and punishment is the lowest form of education. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
