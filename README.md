@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Always do what is right. It will gratify half of mankind and astound the other. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
+<h4 align='center'>Change yourself and you have done your part in changing the world. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
