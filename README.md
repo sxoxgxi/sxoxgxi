@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We suffer more often in imagination than in reality. - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>When you're curious, you find lots of interesting things to do. - <a href='https://duckduckgo.com/?q=Walt+Disney' target='_blank'>Walt Disney</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
