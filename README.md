@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Living life in style also means living a life of balance. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>We suffer more often in imagination than in reality. - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
