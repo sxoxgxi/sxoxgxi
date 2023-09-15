@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>At the end of the day, let there be no excuses, no explanations, no regrets. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
+<h4 align='center'>Argue for your limitations and sure enough, they're yours. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
