@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>An investment in knowledge pays the best interest. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>Given the choice between the experience of pain and nothing, I would choose pain. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
