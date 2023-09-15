@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is an iceberg. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Only I can change my life. No one can do it for me. - <a href='https://duckduckgo.com/?q=Carol+Burnett' target='_blank'>Carol Burnett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
