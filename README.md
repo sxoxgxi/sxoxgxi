@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists. - <a href='https://duckduckgo.com/?q=Eric+Hoffer' target='_blank'>Eric Hoffer</a>.</h4>
+<h4 align='center'>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.  - <a href='https://duckduckgo.com/?q=Miguel+de+Cervantes' target='_blank'>Miguel de Cervantes</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
