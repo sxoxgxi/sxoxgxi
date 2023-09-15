@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We never know the love of a parent till we become parents ourselves. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
+<h4 align='center'>From the errors of others, a wise man corrects his own. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
