@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Given the choice between the experience of pain and nothing, I would choose pain. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
+<h4 align='center'>We never know the love of a parent till we become parents ourselves. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
