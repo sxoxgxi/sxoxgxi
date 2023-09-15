@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Zen insists that the whole trouble is just our failure to realize that there is no problem. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
+<h4 align='center'>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists. - <a href='https://duckduckgo.com/?q=Eric+Hoffer' target='_blank'>Eric Hoffer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
