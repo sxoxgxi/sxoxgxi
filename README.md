@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.  - <a href='https://duckduckgo.com/?q=Miguel+de+Cervantes' target='_blank'>Miguel de Cervantes</a>.</h4>
+<h4 align='center'>An investment in knowledge pays the best interest. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
