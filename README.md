@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only I can change my life. No one can do it for me. - <a href='https://duckduckgo.com/?q=Carol+Burnett' target='_blank'>Carol Burnett</a>.</h4>
+<h4 align='center'>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
