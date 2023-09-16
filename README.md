@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you don't make things happen then things will happen to you. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
+<h4 align='center'>Dreams have only one owner at a time. That's why dreamers are lonely. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
