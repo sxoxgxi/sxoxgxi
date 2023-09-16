@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The Only Thing That Is Constant Is Change - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
+<h4 align='center'>From the errors of others, a wise man corrects his own. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
