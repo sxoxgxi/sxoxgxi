@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>From the errors of others, a wise man corrects his own. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
+<h4 align='center'>If you don't make things happen then things will happen to you. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
