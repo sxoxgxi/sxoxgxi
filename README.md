@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Dreams have only one owner at a time. That's why dreamers are lonely. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
+<h4 align='center'>Shoot for the moon, because even if you miss, you'll land among the stars. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
