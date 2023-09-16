@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is about choice. You can choose to be a victim or anything else you like to be. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>We forge the chains we wear in life. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
