@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Tomorrow is only found in the calendar of fools. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>Keep your dreams, you never know when you might need them. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
