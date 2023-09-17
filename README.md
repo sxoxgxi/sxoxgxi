@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Failure is not fatal, but failure to change might be. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>Each day your life grows a day shorter. Make every move count. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
