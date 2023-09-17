@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The universe doesn't allow perfection. - <a href='https://duckduckgo.com/?q=Stephen+Hawking' target='_blank'>Stephen Hawking</a>.</h4>
+<h4 align='center'>Failure is not fatal, but failure to change might be. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
