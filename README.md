@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't blame others. it won't make you a better person. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>Your dream has to be bigger than your fear. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
