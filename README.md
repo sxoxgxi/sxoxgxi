@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>At every moment where language can't go, that's your mind. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
+<h4 align='center'>A single dream is more powerful than a thousand realities. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
