@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your dream has to be bigger than your fear. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>We can see through others only when we can see through ourselves. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
