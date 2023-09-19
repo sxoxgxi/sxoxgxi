@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Storms don't last forever. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Truth is exact correspondence with reality.  - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
