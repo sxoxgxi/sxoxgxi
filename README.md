@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Conquer the devils with a little thing called love. - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
+<h4 align='center'>Patience is a bitter plant, but its fruit is sweet. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
