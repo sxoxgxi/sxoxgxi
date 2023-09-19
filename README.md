@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No one is useless in this world who lightens the burdens of another. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
+<h4 align='center'>The biggest room in the world is the room for improvement. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
