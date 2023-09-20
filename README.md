@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be fascinated instead of frustrated. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>Don't ever save anything for a special occasion. Being alive is the special occasion. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
