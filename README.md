@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We will now discuss in a little more detail the Struggle for Existence. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
+<h4 align='center'>Those who realize their folly are not true fools. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
