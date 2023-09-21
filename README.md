@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Keep your face always toward the sunshine -  shadows will fall behind you. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
+<h4 align='center'>There is no absolute success in the world, only constant progress. - <a href='https://duckduckgo.com/?q=Jonathan+Swift' target='_blank'>Jonathan Swift</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
