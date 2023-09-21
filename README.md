@@ -158,21 +158,21 @@
       <a href='https://open.spotify.com/artist/4nEJOLgBBjsWUWBMgs3IZG'>Shion Tsuji</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34' alt='Sanctuary' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa'>Sanctuary</a>
+      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm'>Nectar</a>
+      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 47% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 50% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
