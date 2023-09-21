@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never lose hope. Storms make people stronger and never last forever. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>It is never too late to be what you might have been. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
