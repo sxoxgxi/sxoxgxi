@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,66 +108,6 @@
       </td>
       <td>
       <h2>Artist</h2>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5ajqo3BCJU7MGEhA2tXUyN'>Cheerleader (Remixes)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf'>Thousand Miles</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'>The Kid LAROI</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27393d164f1841e2a197ea77ca1' alt='Sky chord〜大人になる君へ〜' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3yyzLkPAH8Go8yiCHDUOUZ'>Sky chord〜大人になる君へ〜</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3NeTHPAnm7tS5yfcVbWyYg'>Catch!</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4nEJOLgBBjsWUWBMgs3IZG'>Shion Tsuji</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
       </td>
     </tr></table>
 </p topsongs>
