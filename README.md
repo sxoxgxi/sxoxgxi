@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't want anything. Then you get everything. - <a href='https://duckduckgo.com/?q=Seungsahn' target='_blank'>Seungsahn</a>.</h4>
+<h4 align='center'>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak. - <a href='https://duckduckgo.com/?q=Peter+A.+Cohen' target='_blank'>Peter A. Cohen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
