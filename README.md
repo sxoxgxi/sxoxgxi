@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is never too late to be what you might have been. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
+<h4 align='center'>Keep your face always toward the sunshine -  shadows will fall behind you. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
