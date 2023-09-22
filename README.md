@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down. - <a href='https://duckduckgo.com/?q=Socrates' target='_blank'>Socrates</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
