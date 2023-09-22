@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What we dwell on is who we become. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>You can't make someone feel good about themselves until you feel good about yourself. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
