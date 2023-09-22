@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you don't break your ropes while you're alive, do you think ghosts will do it after? - <a href='https://duckduckgo.com/?q=Kabir' target='_blank'>Kabir</a>.</h4>
+<h4 align='center'>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
