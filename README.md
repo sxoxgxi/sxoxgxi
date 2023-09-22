@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down. - <a href='https://duckduckgo.com/?q=Socrates' target='_blank'>Socrates</a>.</h4>
+<h4 align='center'>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
