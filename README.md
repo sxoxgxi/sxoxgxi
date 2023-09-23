@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No problem can be solved from the same level of consciousness that created it. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
+<h4 align='center'>Happiness is not a goal...it's a by-product of a life well lived. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
