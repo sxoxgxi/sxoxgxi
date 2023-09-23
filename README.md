@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is not a goal...it's a by-product of a life well lived. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>It is better to fail in originality than to succeed in imitation. - <a href='https://duckduckgo.com/?q=Herman+Melville' target='_blank'>Herman Melville</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
