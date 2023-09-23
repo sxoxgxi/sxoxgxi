@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>Realize deeply that the present moment is all you ever have.  - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
