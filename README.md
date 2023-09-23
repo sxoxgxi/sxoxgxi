@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Realize deeply that the present moment is all you ever have.  - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
