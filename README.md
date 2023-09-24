@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Many people spend more time looking at their failures than focusing on their successes. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>Life is the art of drawing sufficient conclusions from insufficient premises. - <a href='https://duckduckgo.com/?q=Samuel+Butler' target='_blank'>Samuel Butler</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
