@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you quit once it becomes a habit. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>Do what you feel in your heart to be right - for you'll be criticized anyway. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
