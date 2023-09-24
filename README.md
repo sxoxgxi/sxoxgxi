@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remember that sometimes not getting what you want is a wonderful stroke of luck. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>If you quit once it becomes a habit. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
