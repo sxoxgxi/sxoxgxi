@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Stan-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -34,10 +34,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='The Real Slim Shady' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='The Real Slim Shady' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -45,10 +45,10 @@
 <a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR'>The Real Slim Shady</a>
+<a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
+<a href='https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR'>The Real Slim Shady</a>
 </td>
 </tr>
 </table>
