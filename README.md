@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Many people spend more time looking at their failures than focusing on their successes. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>Remember that sometimes not getting what you want is a wonderful stroke of luck. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
