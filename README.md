@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do good by stealth, and blush to find it fame. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
+<h4 align='center'>Change is not a four letter word...but often your reaction to it is! - <a href='https://duckduckgo.com/?q=Jeffrey+Gitomer' target='_blank'>Jeffrey Gitomer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
