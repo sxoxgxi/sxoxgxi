@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A minute's success pays the failure of years. - <a href='https://duckduckgo.com/?q=Robert+Browning' target='_blank'>Robert Browning</a>.</h4>
+<h4 align='center'>Life reflects your own thoughts back to you. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
