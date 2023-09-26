@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>Silence is a source of great strength. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
