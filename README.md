@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Most great people have achieved their greatest success just one step beyond their greatest failure. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Never let your memories be greater than your dreams. - <a href='https://duckduckgo.com/?q=Doug+Ivester' target='_blank'>Doug Ivester</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
