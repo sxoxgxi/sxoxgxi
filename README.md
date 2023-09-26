@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Silence is a source of great strength. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
