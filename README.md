@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Good entrepreneurs don't fail because they stay at it. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
