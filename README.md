@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most courageous act is still to think for yourself. Aloud. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
+<h4 align='center'>If you don't like something change it; if you can't change it, change the way you think about it. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
