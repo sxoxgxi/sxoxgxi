@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Character is destiny. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
+<h4 align='center'>Most great people have achieved their greatest success just one step beyond their greatest failure. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
