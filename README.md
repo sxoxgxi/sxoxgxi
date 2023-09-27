@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If there's a definition of freedom, I think it's this: living life on your terms. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>When you are tough on yourself, life is going to be infinitely easier on you.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
