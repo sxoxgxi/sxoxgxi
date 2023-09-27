@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Every day may not be good, but there's something good in every day. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
