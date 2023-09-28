@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
+<h4 align='center'>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
