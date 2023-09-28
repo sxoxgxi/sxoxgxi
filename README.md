@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be happy in the moment, that's enough. Each moment is all we need, not more. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Great minds discuss ideas. Average minds discuss events. Small minds discuss people. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
