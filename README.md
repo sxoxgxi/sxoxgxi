@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
+<h4 align='center'>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
