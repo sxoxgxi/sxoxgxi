@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>Luck is what happens when preparation meets opportunity.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
