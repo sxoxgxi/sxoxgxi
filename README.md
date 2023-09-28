@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great minds discuss ideas. Average minds discuss events. Small minds discuss people. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>Being wrong brings the opportunity for growth. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
