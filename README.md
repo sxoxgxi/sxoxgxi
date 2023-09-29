@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you want to be honored by others, you learn to honor them first. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>I love fools' experiments. I am always making them. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
