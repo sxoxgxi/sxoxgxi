@@ -172,7 +172,7 @@
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 51% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😔: Sad | Happiness Level: 34% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
