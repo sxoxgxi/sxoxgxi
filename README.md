@@ -122,18 +122,6 @@
       <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2acc383d9fed6d541220777' alt='Cheerleader' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1lKYAkBFQokUi59xi6FWqC'>Cheerleader</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5ajqo3BCJU7MGEhA2tXUyN'>Cheerleader (Remixes)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'>OMI</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
       </td>
       <td>
@@ -168,6 +156,18 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88' alt='Jar of Hearts' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m'>Jar of Hearts</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n'>lovestrong.</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
       </td>
     </tr></table>
 </p topsongs>
