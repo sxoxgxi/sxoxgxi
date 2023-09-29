@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cde862db0ec9bb1e1566dd7' alt='Suzume' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='The Real Slim Shady' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a9e34e2c4a10a7dabd13196' alt='Phases' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
+<a href='https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5'>Suzume</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR'>The Real Slim Shady</a>
+<a href='https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA'>Phases</a>
 </td>
 </tr>
 </table>
