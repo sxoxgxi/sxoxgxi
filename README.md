@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You play the hand you're dealt. I think the game's worthwhile.   - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
+<h4 align='center'>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
