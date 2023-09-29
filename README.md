@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I love fools' experiments. I am always making them. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
+<h4 align='center'>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you. - <a href='https://duckduckgo.com/?q=Jeffrey+Gitomer' target='_blank'>Jeffrey Gitomer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
