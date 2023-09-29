@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you. - <a href='https://duckduckgo.com/?q=Jeffrey+Gitomer' target='_blank'>Jeffrey Gitomer</a>.</h4>
+<h4 align='center'>The more you take responsibility for your past and present, the more you are able to create the future you seek. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
