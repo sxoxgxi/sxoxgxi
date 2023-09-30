@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We are born from a quiet sleep, and we die to a calm awakening - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
+<h4 align='center'>What people say, what people do, and what they say they do are entirely different things.  - <a href='https://duckduckgo.com/?q=Margaret+Mead' target='_blank'>Margaret Mead</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
