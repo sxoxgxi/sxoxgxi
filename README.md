@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Any fool can turn a blind eye but who knows what the ostrich sees in the sand. - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
+<h4 align='center'>It's not what you pay a man, but what he costs you that counts. - <a href='https://duckduckgo.com/?q=Will+Rogers' target='_blank'>Will Rogers</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -134,6 +134,18 @@
       <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cde862db0ec9bb1e1566dd7' alt='Suzume' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5'>Suzume</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr'>Suzume</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7'>RADWIMPS</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f336551e673acd06f57878c5' alt='Backwards' style='width:10%'>
       </td>
       <td>
@@ -156,18 +168,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88' alt='Jar of Hearts' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m'>Jar of Hearts</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n'>lovestrong.</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
       </td>
     </tr></table>
 </p topsongs>
