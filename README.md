@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-lovely (with Khalid)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Car Crash-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337a5a19e52f8260b3b158e55' alt='Monster (Shawn Mendes & Justin Bieber)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dd0a40eecd4b13e4c59988da' alt='Happier' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b' alt='This City' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4'>lovely (with Khalid)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1HbA4N1MiOsPthALesGFR1'>Monster (Shawn Mendes & Justin Bieber)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1'>Happier</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt'>This City</a>
 </td>
 </tr>
 </table>
