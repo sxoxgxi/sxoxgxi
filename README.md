@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You change the world by being yourself. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
+<h4 align='center'>The first step toward getting somewhere is to decide that you are not going to stay where you are. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
