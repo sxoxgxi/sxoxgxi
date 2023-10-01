@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Time heals what reason cannot.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>The Only Thing That Is Constant Is Change - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
