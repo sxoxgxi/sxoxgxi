@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't stumble over something that's behind you. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Behind every beautiful thing, there's some kind of pain. - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
