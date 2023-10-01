@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Most of us will do anything to avoid facing ourselves. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>Only in the agony of parting do we look into the depths of love. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
