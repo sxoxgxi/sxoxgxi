@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A very little key will open a very heavy door. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
+<h4 align='center'>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company.  - <a href='https://duckduckgo.com/?q=George+Washington' target='_blank'>George Washington</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
