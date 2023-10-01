@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The first step toward getting somewhere is to decide that you are not going to stay where you are. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Most of us will do anything to avoid facing ourselves. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
