@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What people say, what people do, and what they say they do are entirely different things.  - <a href='https://duckduckgo.com/?q=Margaret+Mead' target='_blank'>Margaret Mead</a>.</h4>
+<h4 align='center'>The Only Thing That Is Constant Is Change - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
