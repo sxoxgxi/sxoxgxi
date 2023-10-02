@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do something worth remembering. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
+<h4 align='center'>The world doesn't always give you want, but it often gives you what you need. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
