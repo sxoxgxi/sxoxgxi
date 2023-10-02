@@ -70,7 +70,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb' alt='Harry Styles' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebcf69007a4806cbac70737247' alt='Bazzi' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -81,7 +81,7 @@
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3' target='_blank'>Harry Styles</a>
+<a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl' target='_blank'>Bazzi</a>
 </td>
 </tr>
 </table>
