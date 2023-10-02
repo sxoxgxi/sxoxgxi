@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The world doesn't always give you want, but it often gives you what you need. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>All men are equal before fish. - <a href='https://duckduckgo.com/?q=Herbert+Hoover' target='_blank'>Herbert Hoover</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
