@@ -146,6 +146,18 @@
       <a href='https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7'>RADWIMPS</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Before The Day Is Over' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03'>Before The Day Is Over</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2hEnymoejldpuxSdTnkard'>SMITHEREENS</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f336551e673acd06f57878c5' alt='Backwards' style='width:10%'>
       </td>
       <td>
@@ -156,18 +168,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT'>Alexander Stewart</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='1AM FREESTYLE' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0FqBNLXlTNimxmVRdDMj6b'>1AM FREESTYLE</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2hEnymoejldpuxSdTnkard'>SMITHEREENS</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
     </tr></table>
 </p topsongs>
