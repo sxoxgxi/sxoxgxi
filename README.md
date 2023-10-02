@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Behind every beautiful thing, there's some kind of pain. - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
+<h4 align='center'>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now! - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -178,4 +178,3 @@
 <p align='center'>
   <img src='https://profile-counter.glitch.me/sxoxgxi/count.svg'>
 </p>
-<small>Powered by <a href="https://github.com/sxoxgxi/gh-readme-builder">gh-readme-builder</a></small>
