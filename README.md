@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now! - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>To lose your temper is only useful once a year. - <a href='https://duckduckgo.com/?q=Colin+R.+Davis' target='_blank'>Colin R. Davis</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
