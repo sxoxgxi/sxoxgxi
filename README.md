@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All men are equal before fish. - <a href='https://duckduckgo.com/?q=Herbert+Hoover' target='_blank'>Herbert Hoover</a>.</h4>
+<h4 align='center'>There is little success where there is little laughter. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
