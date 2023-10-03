@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Let each man exercise the art he knows. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
+<h4 align='center'>Light a candle instead of cursing the darkness. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
