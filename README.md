@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Failure is feedback. Learn from it and move on. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
+<h4 align='center'>In the practice of tolerance, one's enemy is the best teacher. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
