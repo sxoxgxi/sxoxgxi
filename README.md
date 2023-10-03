@@ -110,18 +110,6 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
       </td>
       <td>
@@ -168,6 +156,18 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT'>Alexander Stewart</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='1AM FREESTYLE' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0FqBNLXlTNimxmVRdDMj6b'>1AM FREESTYLE</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2hEnymoejldpuxSdTnkard'>SMITHEREENS</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
       </td>
     </tr></table>
 </p topsongs>
