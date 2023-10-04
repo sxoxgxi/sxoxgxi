@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Difficult and meaningful will always bring more satisfaction than easy and meaningless. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>Life may be full of pain but that's not an excuse to give up. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
