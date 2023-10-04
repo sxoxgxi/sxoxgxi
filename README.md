@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
+<h4 align='center'>All we have to decide is what to do with the time that is given to us. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
