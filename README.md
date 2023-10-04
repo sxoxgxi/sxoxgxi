@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life may be full of pain but that's not an excuse to give up. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
+<h4 align='center'>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
