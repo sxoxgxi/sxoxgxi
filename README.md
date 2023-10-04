@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
