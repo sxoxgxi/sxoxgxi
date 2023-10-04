@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
+<h4 align='center'>To the world you may be one person; but to one person you may be the world. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
