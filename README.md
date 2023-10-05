@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only those who do nothing at all make no mistakes. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>If you have only one smile in you give it to the people you love. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
