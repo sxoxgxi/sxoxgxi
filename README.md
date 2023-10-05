@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The whole of life, from the moment you are born to the moment you die, is a process of learning. - <a href='https://duckduckgo.com/?q=Jiddu+Krishnamurti' target='_blank'>Jiddu Krishnamurti</a>.</h4>
+<h4 align='center'>All life is a manifestation of the spirit, the manifestation of love. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
