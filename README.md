@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
+<h4 align='center'>Only those who do nothing at all make no mistakes. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
