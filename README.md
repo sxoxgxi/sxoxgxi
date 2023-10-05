@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All life is a manifestation of the spirit, the manifestation of love. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Time you enjoy wasting, was not wasted. - <a href='https://duckduckgo.com/?q=John+Lennon' target='_blank'>John Lennon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
