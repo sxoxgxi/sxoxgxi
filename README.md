@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing is permanent in this wicked world - not even our troubles. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
+<h4 align='center'>The best teacher is experience and not through someone's distorted point of view. - <a href='https://duckduckgo.com/?q=Jack+Kerouac' target='_blank'>Jack Kerouac</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
