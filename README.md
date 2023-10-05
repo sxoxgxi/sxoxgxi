@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
