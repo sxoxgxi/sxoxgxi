@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>By seeking and blundering we learn. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
+<h4 align='center'>The whole of life, from the moment you are born to the moment you die, is a process of learning. - <a href='https://duckduckgo.com/?q=Jiddu+Krishnamurti' target='_blank'>Jiddu Krishnamurti</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
