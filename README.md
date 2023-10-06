@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Make your life a mission - not an intermission. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>The divine is not something high above us. It is in heaven, it is in earth, it is inside us. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
