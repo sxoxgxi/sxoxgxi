@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The divine is not something high above us. It is in heaven, it is in earth, it is inside us. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Be the silent watcher of your thoughts and behavior. You are beneath the thinker. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
