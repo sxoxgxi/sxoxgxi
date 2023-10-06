@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We're kept from our goal not by obstacles, but by a clear path to a lesser goal. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
+<h4 align='center'>If you have only one smile in you give it to the people you love. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
