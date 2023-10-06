@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Judgments prevent us from seeing the good that lies beyond appearances.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>Make your life a mission - not an intermission. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
