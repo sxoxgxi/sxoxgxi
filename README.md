@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Never Be the Same-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Circles-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4' alt='Never Be the Same' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='One Right Now (with The Weeknd)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdcc1b27dac22bfb3a57c2de' alt='this is how you fall in love' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736a018e10e66dbe7a263a2ab3' alt='I Swear' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ'>Never Be the Same</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk'>One Right Now (with The Weeknd)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS'>this is how you fall in love</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7wHXZdAl7ucbFiuV9vuQp0'>I Swear</a>
 </td>
 </tr>
 </table>
