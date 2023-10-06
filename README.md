@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Human beings can alter their lives by altering their attitudes of mind. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>I succeeded by saying what everyone else is thinking. - <a href='https://duckduckgo.com/?q=Joan+Rivers' target='_blank'>Joan Rivers</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
