@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No man is happy unless he believes he is. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
+<h4 align='center'>Sometimes it is harder to deprive oneself of a pain than of a pleasure. - <a href='https://duckduckgo.com/?q=F.+Scott+Fitzgerald' target='_blank'>F. Scott Fitzgerald</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
