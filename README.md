@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are no differences but differences of degree between different degrees of difference and no difference. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>Art, like morality, consists of drawing the line somewhere. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
