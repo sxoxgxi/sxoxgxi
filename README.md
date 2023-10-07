@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The best way to not feel hopeless is to get up and do something. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
+<h4 align='center'>Do not bite at the bait of pleasure, till you know there is no hook beneath it. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
