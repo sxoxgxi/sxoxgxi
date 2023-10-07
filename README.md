@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
+<h4 align='center'>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
