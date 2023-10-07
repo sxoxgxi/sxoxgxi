@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. - <a href='https://duckduckgo.com/?q=Steve+Jobs' target='_blank'>Steve Jobs</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
