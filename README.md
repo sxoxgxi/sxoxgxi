@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. - <a href='https://duckduckgo.com/?q=Steve+Jobs' target='_blank'>Steve Jobs</a>.</h4>
+<h4 align='center'>The best way to not feel hopeless is to get up and do something. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Paused-What Would Pluto Do-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
