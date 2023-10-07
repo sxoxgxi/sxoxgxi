@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The great use of life is to spend it for something that will outlast it. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
