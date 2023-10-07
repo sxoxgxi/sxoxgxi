@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Art, like morality, consists of drawing the line somewhere. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
+<h4 align='center'>No man is happy unless he believes he is. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
