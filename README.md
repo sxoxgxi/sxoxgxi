@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. - <a href='https://duckduckgo.com/?q=Margaret+Mead' target='_blank'>Margaret Mead</a>.</h4>
+<h4 align='center'>Sometimes it is harder to deprive oneself of a pain than of a pleasure. - <a href='https://duckduckgo.com/?q=F.+Scott+Fitzgerald' target='_blank'>F. Scott Fitzgerald</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
