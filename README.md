@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Get busy living, or get busy dying. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>When you realize you've made a mistake, take immediate steps to correct it. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
