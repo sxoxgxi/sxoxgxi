@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Character is the result of two things: mental attitude and the way we spend our time. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
+<h4 align='center'>Get busy living, or get busy dying. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
