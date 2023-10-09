@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you don't like something change it; if you can't change it, change the way you think about it. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>The wise accomplish all that they want without arousing the envy or scorn of others. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
