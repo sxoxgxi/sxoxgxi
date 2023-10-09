@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>If you don't break your ropes while you're alive, do you think ghosts will do it after? - <a href='https://duckduckgo.com/?q=Kabir' target='_blank'>Kabir</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
