@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>By changing nothing, nothing changes. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
