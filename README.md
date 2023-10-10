@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is best to begin at the beginning. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>Life's too mysterious to take too serious. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
