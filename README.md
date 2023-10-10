@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>Be - don't try to become  - <a href='https://duckduckgo.com/?q=Osho' target='_blank'>Osho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
