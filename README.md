@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is best to begin at the beginning. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>Words are the clothes thoughts wear. - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
