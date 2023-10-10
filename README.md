@@ -91,66 +91,6 @@
       <td>
       <h2>Artist</h2>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cde862db0ec9bb1e1566dd7' alt='Suzume' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5'>Suzume</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr'>Suzume</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7'>RADWIMPS</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Labyrinth' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0'>Labyrinth</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC'>Keep You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4'>lovely (with Khalid)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK'>lovely (with Khalid)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'>Billie Eilish</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337a5a19e52f8260b3b158e55' alt='Monster (Shawn Mendes & Justin Bieber)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1HbA4N1MiOsPthALesGFR1'>Monster (Shawn Mendes & Justin Bieber)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5'>Wonder</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'>Shawn Mendes</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
