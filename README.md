@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Adore You-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-eight(Prod.&Feat. SUGA of BTS)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Adore You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97' alt='Wrapped Around Your Finger' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337a04015658168ca6e6e604a' alt='Stranger' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7'>Adore You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX'>Wrapped Around Your Finger</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz'>Stranger</a>
 </td>
 </tr>
 </table>
