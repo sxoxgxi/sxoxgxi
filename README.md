@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be - don't try to become  - <a href='https://duckduckgo.com/?q=Osho' target='_blank'>Osho</a>.</h4>
+<h4 align='center'>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
