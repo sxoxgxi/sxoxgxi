@@ -63,20 +63,8 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b' alt='Joji' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
-<td>
-<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
-</td>
-<td>
-<a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq' target='_blank'>Joji</a>
-</td>
 </tr>
 </table>
 
@@ -104,30 +92,6 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739e0de09f28c45a74c2498c57' alt='ilu' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp'>ilu</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0'>ilu</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu'>elijah woods</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cde862db0ec9bb1e1566dd7' alt='Suzume' style='width:10%'>
       </td>
       <td>
@@ -140,18 +104,6 @@
       <a href='https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7'>RADWIMPS</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Before The Day Is Over' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03'>Before The Day Is Over</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2hEnymoejldpuxSdTnkard'>SMITHEREENS</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq'>Joji</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Labyrinth' style='width:10%'>
       </td>
       <td>
@@ -162,6 +114,42 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC'>Keep You Mine</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4'>lovely (with Khalid)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK'>lovely (with Khalid)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'>Billie Eilish</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337a5a19e52f8260b3b158e55' alt='Monster (Shawn Mendes & Justin Bieber)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1HbA4N1MiOsPthALesGFR1'>Monster (Shawn Mendes & Justin Bieber)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5'>Wonder</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'>Shawn Mendes</a>
       </td>
     </tr></table>
 </p topsongs>
