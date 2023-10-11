@@ -98,6 +98,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730be234869860da5118a6c1b6' alt='Waste My Time' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ'>Waste My Time</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W'>Waste My Time</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz'>Citizen Queen</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cde862db0ec9bb1e1566dd7' alt='Suzume' style='width:10%'>
       </td>
       <td>
@@ -144,18 +156,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c' alt='lovely (with Khalid)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4'>lovely (with Khalid)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK'>lovely (with Khalid)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'>Billie Eilish</a>
       </td>
     </tr></table>
 </p topsongs>
