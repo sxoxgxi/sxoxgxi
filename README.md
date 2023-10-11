@@ -146,16 +146,16 @@
       <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be' alt='willow' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4' alt='Easy On Me' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f'>willow</a>
+      <a href='https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX'>Easy On Me</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq'>evermore</a>
+      <a href='https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S'>Easy On Me</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
+      <a href='https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY'>Adele</a>
       </td>
     </tr></table>
 </p topsongs>
