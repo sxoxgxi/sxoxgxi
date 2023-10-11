@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You get in life what you have the courage to ask for. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>Always try to be a little kinder than necessary. - <a href='https://duckduckgo.com/?q=James+Matthew+Barrie' target='_blank'>James Matthew Barrie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
