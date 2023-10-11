@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Always try to be a little kinder than necessary. - <a href='https://duckduckgo.com/?q=James+Matthew+Barrie' target='_blank'>James Matthew Barrie</a>.</h4>
+<h4 align='center'>Men are disturbed not by things, but by the view which they take of them. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
