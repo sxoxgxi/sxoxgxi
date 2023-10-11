@@ -98,6 +98,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310' alt='What Would Pluto Do' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE'>What Would Pluto Do</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW'>For All The Dogs</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'>Drake</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730be234869860da5118a6c1b6' alt='Waste My Time' style='width:10%'>
       </td>
       <td>
@@ -144,18 +156,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4' alt='Easy On Me' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX'>Easy On Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S'>Easy On Me</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY'>Adele</a>
       </td>
     </tr></table>
 </p topsongs>
