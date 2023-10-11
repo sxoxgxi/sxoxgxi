@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's better to dance than to march through life. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
+<h4 align='center'>Don't criticize what you can't understand.  - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
