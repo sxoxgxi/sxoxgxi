@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't criticize what you can't understand.  - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
+<h4 align='center'>Peace is letting it be. Letting life flow, letting emotions flow through you. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
