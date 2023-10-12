@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Water Fountain' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9016f0cc9d6340cbac7c80e' alt='Make You Say' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='I Heard You’re Married (feat. Lil Wayne)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d8c2bf84c41ec28dc6fb8926' alt='Pink Venom' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To'>Water Fountain</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV'>Make You Say</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D'>I Heard You’re Married (feat. Lil Wayne)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7EyhPjrJzjx0fk2i7vUJCS'>Pink Venom</a>
 </td>
 </tr>
 </table>
