@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>Peace is letting it be. Letting life flow, letting emotions flow through you. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
