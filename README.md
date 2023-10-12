@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
+<h4 align='center'>You can't get to a place that you don't believe exists. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-SAKURA-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605' alt='positions' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b46f98efbcbd0bdbd058f8c5' alt='愛錠' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c8044633efdd0e991224e197' alt='Nothing Is Lost (You Give Me Strength)' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de9614ca7864f6f41a40439f' alt='ヒカリ' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='SAKURA' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0'>positions</a>
+<a href='https://open.spotify.com/track/67FILuMuRcWo6cX6LwcOVl'>愛錠</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk'>Nothing Is Lost (You Give Me Strength)</a>
+<a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/0yufeKCZsUBAoUAprazz9C'>ヒカリ</a>
+<a href='https://open.spotify.com/track/1lTfD2M6UpJRWi3YLb8qb5'>SAKURA</a>
 </td>
 </tr>
 </table>
