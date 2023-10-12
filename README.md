@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can't get to a place that you don't believe exists. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  - <a href='https://duckduckgo.com/?q=Herodotus' target='_blank'>Herodotus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
