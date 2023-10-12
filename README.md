@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-You Are The Reason-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Big Plans-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2d671c22b70e01b78a618a8' alt='You Are The Reason' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730a706b8e00e9f8438c8a6d3d' alt='Heartbeat' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B'>You Are The Reason</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1'>Heartbeat</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM'>18</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
 </td>
 </tr>
 </table>
