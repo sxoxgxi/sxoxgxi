@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Peace is letting it be. Letting life flow, letting emotions flow through you. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>It is not fair to ask of others what you are not willing to do yourself. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
