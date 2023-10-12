@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273de9614ca7864f6f41a40439f' alt='ヒカリ' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ab5a171262c6a474a3057230' alt='One More Try' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737cdf9838412bb52df6e9a952' alt='Forget Me' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737523b7e42168f3122351721b' alt='Two of Us' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0yufeKCZsUBAoUAprazz9C'>ヒカリ</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5'>One More Try</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA'>Forget Me</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1eqwjXdMTed8Pz3PLNcHe9'>Two of Us</a>
 </td>
 </tr>
 </table>
