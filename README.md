@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is not fair to ask of others what you are not willing to do yourself. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
