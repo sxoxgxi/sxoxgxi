@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Patient-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Patient' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce' alt='Leave Before You Love Me (with Jonas Brothers)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f99f5ad20b537f4df7782ec7' alt='Never Let You Go' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='Big Plans' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl'>Patient</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1'>Leave Before You Love Me (with Jonas Brothers)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/18uwiumVN4mTME79MT2pTV'>Never Let You Go</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3eng6TJxpqjvDkxRpnfnhB'>Big Plans</a>
 </td>
 </tr>
 </table>
