@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Thousand Miles-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Love Me Harder-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Don’t Break My Heart' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0b6b07ddb848e1b916c0d38' alt='Emily' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273786e4e2c43c2897fafabbfb6' alt='In The Stars' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92'>Don’t Break My Heart</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL'>Emily</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn'>In The Stars</a>
 </td>
 </tr>
 </table>
