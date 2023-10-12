@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b58a365796533f2d8ea6b67' alt='On the Low' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb9bc74e6ced59a2638898b0' alt='Life's Too Short (English Version)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Water Fountain' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9016f0cc9d6340cbac7c80e' alt='Make You Say' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4MIKclDDgZgzuaATP5yOjW'>On the Low</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T'>Life's Too Short (English Version)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To'>Water Fountain</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV'>Make You Say</a>
 </td>
 </tr>
 </table>
