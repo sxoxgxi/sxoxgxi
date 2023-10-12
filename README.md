@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39' alt='Thousand Miles' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Don’t Break My Heart' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e0b6b07ddb848e1b916c0d38' alt='Emily' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM'>18</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg'>Thousand Miles</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92'>Don’t Break My Heart</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL'>Emily</a>
 </td>
 </tr>
 </table>
