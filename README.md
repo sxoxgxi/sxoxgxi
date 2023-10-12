@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='Stan' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Forever' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6' alt='Save Your Tears (with Ariana Grande) (Remix)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7' alt='Glimpse of Us' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz'>Stan</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3'>Forever</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy'>Save Your Tears (with Ariana Grande) (Remix)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ'>Glimpse of Us</a>
 </td>
 </tr>
 </table>
