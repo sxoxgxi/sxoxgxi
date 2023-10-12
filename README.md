@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Watermelon Sugar-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Waiting For Never-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Watermelon Sugar' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733e5cbf3b3ac5905cb68377d5' alt='Thank You' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='Stan' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2' alt='Forever' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY'>Watermelon Sugar</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l'>Thank You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz'>Stan</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3'>Forever</a>
 </td>
 </tr>
 </table>
