@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Rap God -- Mr. Cii Remix-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Alone Again-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27375a2c90eca545e6b0557897c' alt='Rap God - Mr. Cii Remix' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c1dd95aa29782af7e152d0eb' alt='September' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ca9d0be63a256df8cd6632ce' alt='It Ain't Up To Me' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='deja vu' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1p8tL0q77EnKkSFssFsXNu'>Rap God - Mr. Cii Remix</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7'>September</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1WqPK22811jk7M0wbRBtvu'>It Ain't Up To Me</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr'>deja vu</a>
 </td>
 </tr>
 </table>
