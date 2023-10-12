@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Let Somebody Go-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-アンコール-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d' alt='Let Somebody Go' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739eb119195d365d71bfb814a4' alt='Why Don't You Stay (WorldTour Ver.)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322e9fc891229db2fd2fafac8' alt='Angel Baby - Acoustic' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329' alt='Rewrite The Stars' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf'>Let Somebody Go</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf'>Why Don't You Stay (WorldTour Ver.)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0hgX5eAmzQZTD2zTnXnSdB'>Angel Baby - Acoustic</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei'>Rewrite The Stars</a>
 </td>
 </tr>
 </table>
