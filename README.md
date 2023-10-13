@@ -98,7 +98,7 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273931aeb0d63b3e45425bd7310' alt='What Would Pluto Do' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273645df540579450bd3dd9df88' alt='What Would Pluto Do' style='width:10%'>
       </td>
       <td>
       <a href='https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE'>What Would Pluto Do</a>
