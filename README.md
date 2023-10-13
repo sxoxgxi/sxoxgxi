@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The thing about smart people is that they seem like crazy people to dumb people. - <a href='https://duckduckgo.com/?q=Stephen+Hawking' target='_blank'>Stephen Hawking</a>.</h4>
+<h4 align='center'>They say love is the best investment; the more you give, the more you get in return. - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
