@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Death and life have their determined appointments; riches and honors depend upon heaven.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>The thing about smart people is that they seem like crazy people to dumb people. - <a href='https://duckduckgo.com/?q=Stephen+Hawking' target='_blank'>Stephen Hawking</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
