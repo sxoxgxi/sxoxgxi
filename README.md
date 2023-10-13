@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you think adventure is dangerous, try routine; it is lethal. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>Do something to move yourself toward your major goal every day. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -66,10 +66,22 @@
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1' alt='Post Malone' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
 <td>
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60' target='_blank'>Post Malone</a>
 </td>
 </tr>
 </table>
@@ -134,6 +146,18 @@
       <a href='https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7'>RADWIMPS</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42' alt='Stan' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz'>Stan</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC'>The Marshall Mathers LP</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'>Eminem</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Labyrinth' style='width:10%'>
       </td>
       <td>
@@ -144,18 +168,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f4d67f35cc3cffe7913d3ba3' alt='Keep You Mine' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC'>Keep You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC'>Keep You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'>NOTD</a>
       </td>
     </tr></table>
 </p topsongs>
