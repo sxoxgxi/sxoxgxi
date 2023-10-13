@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>One must be deeply aware of the impermanence of the world. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
+<h4 align='center'>If you think adventure is dangerous, try routine; it is lethal. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
