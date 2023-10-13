@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do something to move yourself toward your major goal every day. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Death and life have their determined appointments; riches and honors depend upon heaven.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
