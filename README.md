@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Turn off your mind, relax, and float downstream. - <a href='https://duckduckgo.com/?q=John+Lennon' target='_blank'>John Lennon</a>.</h4>
+<h4 align='center'>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Say You Won't Let Go-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b46f98efbcbd0bdbd058f8c5' alt='愛錠' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e' alt='SAKURA' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e14823908a9560013673d14' alt='Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/67FILuMuRcWo6cX6LwcOVl'>愛錠</a>
+<a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
+<a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/1lTfD2M6UpJRWi3YLb8qb5'>SAKURA</a>
+<a href='https://open.spotify.com/track/0yzcqtdu85erFxmgeZp0zW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
 </td>
 </tr>
 </table>
