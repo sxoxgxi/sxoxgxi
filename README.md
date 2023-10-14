@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,6 +108,66 @@
       </td>
       <td>
       <h2>Artist</h2>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273645df540579450bd3dd9df88' alt='What Would Pluto Do' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE'>What Would Pluto Do</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW'>For All The Dogs</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'>Drake</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='Big Plans' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3eng6TJxpqjvDkxRpnfnhB'>Big Plans</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730be234869860da5118a6c1b6' alt='Waste My Time' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ'>Waste My Time</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W'>Waste My Time</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz'>Citizen Queen</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c3c35e46c08ca30d6411bb' alt='I'm Not Sorry' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4rGyk7HrRoG8NTP5l5ZM5J'>I'm Not Sorry</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3GiRcJJgyZH2lue6eP3wws'>Belong</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6xutNVv1t39GdpK8eImxPU'>Gabriel Conte</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735cde862db0ec9bb1e1566dd7' alt='Suzume' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5'>Suzume</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr'>Suzume</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7'>RADWIMPS</a>
       </td>
     </tr></table>
 </p topsongs>
