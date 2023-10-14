@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>Stop wasting time looking at someone else's reality while doing nothing about yours. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-How Do I Make You Love Me?-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a' alt='You Right' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Gasoline' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e8f586f730554a31ff8c42b4' alt='A Little Bit Yours' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273511bba97ab165eed8600a08b' alt='Love on the Weekend' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='How Do I Make You Love Me?' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez'>You Right</a>
+<a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC'>Gasoline</a>
+<a href='https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE'>A Little Bit Yours</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/2rDjgeZ4EiNo283L1vtzBz'>Love on the Weekend</a>
+<a href='https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ'>How Do I Make You Love Me?</a>
 </td>
 </tr>
 </table>
