@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man with outward courage dares to die: a man with inner courage dares to live. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>Behind every beautiful thing, there's some kind of pain. - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
