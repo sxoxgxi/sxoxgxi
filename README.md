@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>They say love is the best investment; the more you give, the more you get in return. - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
+<h4 align='center'>If you see yourself as prosperous, you will be. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
