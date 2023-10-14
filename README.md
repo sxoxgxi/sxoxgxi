@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do not use life to give life to death. Do not use death to bring death to life. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
+<h4 align='center'>Either get busy living or get busy dying. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
