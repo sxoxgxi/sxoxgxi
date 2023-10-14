@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Behind every beautiful thing, there's some kind of pain. - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
+<h4 align='center'>The world is changed by your example, not by your opinion. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
