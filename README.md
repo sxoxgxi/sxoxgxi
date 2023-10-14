@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Either get busy living or get busy dying. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>Turn off your mind, relax, and float downstream. - <a href='https://duckduckgo.com/?q=John+Lennon' target='_blank'>John Lennon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
