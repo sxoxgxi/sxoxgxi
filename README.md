@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Stop wasting time looking at someone else's reality while doing nothing about yours. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>There is always risk, so learn to manage risk instead of avoiding it. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
