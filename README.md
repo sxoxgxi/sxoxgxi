@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab' alt='Say You Won't Let Go' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='See You' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e14823908a9560013673d14' alt='Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh'>Say You Won't Let Go</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3EWVRpOcVLY74B7claEX65'>See You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0yzcqtdu85erFxmgeZp0zW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
 </td>
 </tr>
 </table>
