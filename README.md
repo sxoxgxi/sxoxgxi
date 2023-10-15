@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Kiss Me More (feat. Naomi Watanabe)-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Lose You To Love Me-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,10 +31,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc559ebbed8b0b100ad206c' alt='Anti-Hero - Acoustic Version' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf' alt='Calm Down (with Selena Gomez)' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730fc559ebbed8b0b100ad206c' alt='Anti-Hero - Acoustic Version' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
@@ -42,10 +42,10 @@
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F'>Anti-Hero - Acoustic Version</a>
+<a href='https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8'>Calm Down (with Selena Gomez)</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
+<a href='https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F'>Anti-Hero - Acoustic Version</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
