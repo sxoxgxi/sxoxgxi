@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Out of Time-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Anti -- Hero -- Acoustic Version-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -34,10 +34,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Out of Time' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e8f586f730554a31ff8c42b4' alt='A Little Bit Yours' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27349081408213aac8b6e75e016' alt='Waiting For Never' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -45,10 +45,10 @@
 <a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
+<a href='https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV'>Out of Time</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE'>A Little Bit Yours</a>
+<a href='https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx'>Waiting For Never</a>
 </td>
 </tr>
 </table>
