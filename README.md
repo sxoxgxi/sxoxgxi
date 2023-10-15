@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Fear is your worst enemy. Risk is your best friend. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
+<h4 align='center'>Repetition does not transform a lie into a truth. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
