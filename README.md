@@ -110,6 +110,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e14823908a9560013673d14' alt='Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0yzcqtdu85erFxmgeZp0zW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2ukBaxo9yehc4aqrlgJJHW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7'>Los Cuates de Sinaloa</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273645df540579450bd3dd9df88' alt='What Would Pluto Do' style='width:10%'>
       </td>
       <td>
@@ -156,18 +168,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz'>Citizen Queen</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27333c3c35e46c08ca30d6411bb' alt='I'm Not Sorry' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4rGyk7HrRoG8NTP5l5ZM5J'>I'm Not Sorry</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3GiRcJJgyZH2lue6eP3wws'>Belong</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6xutNVv1t39GdpK8eImxPU'>Gabriel Conte</a>
       </td>
     </tr></table>
 </p topsongs>
