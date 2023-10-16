@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Maybe you are searching among the branches, for what only appears in the roots. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Everyone you admire was once a beginner. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
