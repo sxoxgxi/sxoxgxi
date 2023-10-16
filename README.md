@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Pleasure is always derived from something outside you, whereas joy arises from within.  - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>Enjoy every minute of life. Never second-guess life. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
