@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -108,6 +108,66 @@
       </td>
       <td>
       <h2>Artist</h2>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e14823908a9560013673d14' alt='Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0yzcqtdu85erFxmgeZp0zW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2ukBaxo9yehc4aqrlgJJHW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7'>Los Cuates de Sinaloa</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273645df540579450bd3dd9df88' alt='What Would Pluto Do' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE'>What Would Pluto Do</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW'>For All The Dogs</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'>Drake</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='Big Plans' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3eng6TJxpqjvDkxRpnfnhB'>Big Plans</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730be234869860da5118a6c1b6' alt='Waste My Time' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ'>Waste My Time</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W'>Waste My Time</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz'>Citizen Queen</a>
       </td>
     </tr></table>
 </p topsongs>
