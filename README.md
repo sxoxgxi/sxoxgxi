@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Enjoy every minute of life. Never second-guess life. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>People will forget what you said, people will forget what you did, but people will never forget how you made them feel. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
