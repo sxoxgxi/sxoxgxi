@@ -122,7 +122,7 @@
       <a href='https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7'>Los Cuates de Sinaloa</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273645df540579450bd3dd9df88' alt='What Would Pluto Do' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730062621987df634efede0e6c' alt='What Would Pluto Do' style='width:10%'>
       </td>
       <td>
       <a href='https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE'>What Would Pluto Do</a>
