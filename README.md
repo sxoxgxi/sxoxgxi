@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't hate the player. Change the game. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Maybe you are searching among the branches, for what only appears in the roots. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
