@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Money poisons you when you've got it, and starves you when you haven't. - <a href='https://duckduckgo.com/?q=D.+H.+Lawrence' target='_blank'>D. H. Lawrence</a>.</h4>
+<h4 align='center'>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
