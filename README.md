@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
