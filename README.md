@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Difficult roads often lead to beautiful destinations. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Great ones are willing to get burned time and again as they sharpen their swords in the fire. - <a href='https://duckduckgo.com/?q=Josh+Waitzkin' target='_blank'>Josh Waitzkin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
