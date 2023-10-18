@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is getting what you want... Happiness is wanting what you get. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
+<h4 align='center'>Believe you can and you will be halfway there. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
