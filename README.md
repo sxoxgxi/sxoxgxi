@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great ones are willing to get burned time and again as they sharpen their swords in the fire. - <a href='https://duckduckgo.com/?q=Josh+Waitzkin' target='_blank'>Josh Waitzkin</a>.</h4>
+<h4 align='center'>Our happiness depends on the habit of mind we cultivate. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
