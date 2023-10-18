@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Believe you can and you will be halfway there. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>The way out is in. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
