@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>One of the most difficult things is not to change society - but to change yourself. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
+<h4 align='center'>Great ones are willing to get burned time and again as they sharpen their swords in the fire. - <a href='https://duckduckgo.com/?q=Josh+Waitzkin' target='_blank'>Josh Waitzkin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
