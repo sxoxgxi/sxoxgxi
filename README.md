@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
+<h4 align='center'>We suffer more often in imagination than in reality. - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
