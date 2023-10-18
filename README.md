@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Actions are the seeds of fate. Deeds grow into destiny. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
+<h4 align='center'>There exists only the present instant; a Now which always and without end is itself new. - <a href='https://duckduckgo.com/?q=Meister+Eckhart' target='_blank'>Meister Eckhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
