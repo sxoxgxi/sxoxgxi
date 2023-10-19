@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Alone we can do so little; together we can do so much. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>Let us always meet each other with smile, for the smile is the beginning of love. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
