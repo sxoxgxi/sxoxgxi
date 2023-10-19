@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Let us always meet each other with smile, for the smile is the beginning of love. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Do not be so open-minded that your brains fall out. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
