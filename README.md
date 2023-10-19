@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The way out is in. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
+<h4 align='center'>Where the willingness is great, the difficulties cannot be great. - <a href='https://duckduckgo.com/?q=Niccolo+Machiavelli' target='_blank'>Niccolo Machiavelli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
