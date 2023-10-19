@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People become attached to their burdens sometimes more than the burdens are attached to them. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>Sometimes adversity is what you need to face in order to become successful. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
