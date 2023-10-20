@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only thing new in the world is the history you do not know. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
+<h4 align='center'>The secret of success lies not in doing your own work, but in recognizing the right man to do it. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
