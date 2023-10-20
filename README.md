@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No man is happy unless he believes he is. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
+<h4 align='center'>The more you take responsibility for your past and present, the more you are able to create the future you seek. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
