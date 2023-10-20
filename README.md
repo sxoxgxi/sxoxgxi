@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Persistence is very important. You should not give up unless you are forced to give up. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>Longevity is a fleeting moment that lasts forever. - <a href='https://duckduckgo.com/?q=Vidal+Sassoon' target='_blank'>Vidal Sassoon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
