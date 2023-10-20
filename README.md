@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27332db4a1bfc362abd17ab1c18' alt='if we never met' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b54291f7289c20ce2af1b678' alt='Our First Song' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='You're On Your Own, Kid' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb'>if we never met</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2bkzqem4veyueCgtIJ7bMV'>Our First Song</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t'>You're On Your Own, Kid</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
 </td>
 </tr>
 </table>
