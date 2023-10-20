@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731d7cb52581f01beafc5c720a' alt='Flowers' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b40612c31a6cf9795bf494e1' alt='that way - with Jeremy Zucker' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3hciQHIJhgWPv6yJijAqWp'>Flowers</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU'>that way - with Jeremy Zucker</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM'>18</a>
 </td>
 </tr>
 </table>
