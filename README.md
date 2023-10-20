@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Where Are You Now-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Eyes Off You-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f2d671c22b70e01b78a618a8' alt='You Are The Reason' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b5cd50a8d3d68c50fb312626' alt='At Your Worst' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B'>You Are The Reason</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw'>At Your Worst</a>
 </td>
 </tr>
 </table>
