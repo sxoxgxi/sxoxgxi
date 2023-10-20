@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The secret of success lies not in doing your own work, but in recognizing the right man to do it. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>A dream doesn't become reality through magic it takes sweat, determination and hard work. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
