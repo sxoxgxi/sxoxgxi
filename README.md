@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You know you are on the road to success if you would do your job and not be paid for it. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>If we know how to adapt, we end up being superior. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -67,10 +67,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b' alt='James Arthur' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b' alt='James Arthur' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -78,10 +78,10 @@
 <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
+<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
+<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
 </td>
 </tr>
 </table>
@@ -134,6 +134,18 @@
       <a href='https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'>Drake</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6'>Slow</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM'>shy martin</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
       </td>
       <td>
@@ -146,28 +158,16 @@
       <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='Big Plans' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/3eng6TJxpqjvDkxRpnfnhB'>Big Plans</a>
+      <a href='https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP'>Before You Go</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
+      <a href='https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8'>Divinely Uninspired To A Hellish Extent (Extended Edition)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730be234869860da5118a6c1b6' alt='Waste My Time' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ'>Waste My Time</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W'>Waste My Time</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz'>Citizen Queen</a>
+      <a href='https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB'>Lewis Capaldi</a>
       </td>
     </tr></table>
 </p topsongs>
