@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Longevity is a fleeting moment that lasts forever. - <a href='https://duckduckgo.com/?q=Vidal+Sassoon' target='_blank'>Vidal Sassoon</a>.</h4>
+<h4 align='center'>Get mad, then get over it. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
