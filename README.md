@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Against the assault of laughter nothing can stand. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
+<h4 align='center'>As mortals, we're ruled by conditions, not by ourselves. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
