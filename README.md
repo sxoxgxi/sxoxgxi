@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Glimpse of Us-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e25a00e603d23ea2c250046c' alt='Glimpse of Us' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730acfd1cc37e7d4eacfa49c48' alt='Give Me Your Forever' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6Fa1fAaD5jYgJwApXkN32n'>Glimpse of Us</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ'>Give Me Your Forever</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g'>Make You Mine</a>
 </td>
 </tr>
 </table>
