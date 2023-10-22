@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>As mortals, we're ruled by conditions, not by ourselves. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
+<h4 align='center'>Success is stumbling from failure to failure with no loss of enthusiasm. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
