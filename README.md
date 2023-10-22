@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>As mortals, we're ruled by conditions, not by ourselves. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
+<h4 align='center'>Keep others in suspense, cultivate an air of unpredictability. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
