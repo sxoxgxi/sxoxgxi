@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is stumbling from failure to failure with no loss of enthusiasm. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
+<h4 align='center'>Remember that sometimes not getting what you want is a wonderful stroke of luck. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
