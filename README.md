@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Simplicity is a difficult thing to achieve.   - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
+<h4 align='center'>Knowing your own darkness is the best method for dealing with the darknesses of other people. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
