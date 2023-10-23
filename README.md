@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.  - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
