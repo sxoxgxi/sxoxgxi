@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>As soon as you truly commit to making something happen, the 'how' will reveal itself. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>There will always be suffering. But we must not suffer over the suffering. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
