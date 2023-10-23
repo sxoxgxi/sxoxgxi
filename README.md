@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>As soon as you truly commit to making something happen, the 'how' will reveal itself. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
