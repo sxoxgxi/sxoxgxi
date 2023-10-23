@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To the world you may be one person; but to one person you may be the world. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
+<h4 align='center'>I am thankful to all those who said no. It's because of them, I did it myself.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
