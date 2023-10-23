@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
+<h4 align='center'>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
