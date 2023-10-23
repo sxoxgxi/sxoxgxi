@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738ca73ea0e126cbeb8fc11d05' alt='You're the one' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e25a00e603d23ea2c250046c' alt='Glimpse of Us' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730acfd1cc37e7d4eacfa49c48' alt='Give Me Your Forever' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7iXOBMQiRf5h25qnuJKkVB'>You're the one</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6Fa1fAaD5jYgJwApXkN32n'>Glimpse of Us</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ'>Give Me Your Forever</a>
 </td>
 </tr>
 </table>
