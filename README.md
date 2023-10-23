@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Knowing your own darkness is the best method for dealing with the darknesses of other people. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
+<h4 align='center'>There is no way to happiness - happiness is the way. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
