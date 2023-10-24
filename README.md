@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There will always be suffering. But we must not suffer over the suffering. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
+<h4 align='center'>Management is doing things right; leadership is doing the right things. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
