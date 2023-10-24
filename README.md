@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>Beware of false knowledge, it is more dangerous than ignorance. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
