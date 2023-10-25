@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The journey, not the destination matters. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>Wrong turns are as important as right turns. More important, sometimes. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
