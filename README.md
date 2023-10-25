@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The journey, not the destination matters. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>You purchase pain with all that joy can give and die of nothing but a rage to live. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
