@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You purchase pain with all that joy can give and die of nothing but a rage to live. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
+<h4 align='center'>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. - <a href='https://duckduckgo.com/?q=Sonia+Ricotti' target='_blank'>Sonia Ricotti</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
