@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. - <a href='https://duckduckgo.com/?q=Sonia+Ricotti' target='_blank'>Sonia Ricotti</a>.</h4>
+<h4 align='center'>To lose your temper is only useful once a year. - <a href='https://duckduckgo.com/?q=Colin+R.+Davis' target='_blank'>Colin R. Davis</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
