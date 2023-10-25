@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To lose your temper is only useful once a year. - <a href='https://duckduckgo.com/?q=Colin+R.+Davis' target='_blank'>Colin R. Davis</a>.</h4>
+<h4 align='center'>All know that the drop merges into the ocean, but few know that the ocean merges into the drop. - <a href='https://duckduckgo.com/?q=Kabir' target='_blank'>Kabir</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
