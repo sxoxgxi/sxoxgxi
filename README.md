@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want more luck, take more chances. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
