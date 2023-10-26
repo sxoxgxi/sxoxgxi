@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. - <a href='https://duckduckgo.com/?q=Joan+Rivers' target='_blank'>Joan Rivers</a>.</h4>
+<h4 align='center'>If you want more luck, take more chances. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
