@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All know that the drop merges into the ocean, but few know that the ocean merges into the drop. - <a href='https://duckduckgo.com/?q=Kabir' target='_blank'>Kabir</a>.</h4>
+<h4 align='center'>Optimism, when applied to your life, develops strength and peace within you. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
