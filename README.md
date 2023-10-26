@@ -67,7 +67,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb6a224073987b930f99adc706' alt='Taylor Swift' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b' alt='James Arthur' style='width:50%'>
