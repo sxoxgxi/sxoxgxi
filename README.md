@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes. - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
+<h4 align='center'>Change is hardest at the beginning, messiest in the middle and best at the end. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
