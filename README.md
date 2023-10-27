@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The degree of responsibility you take for your life determines how much change you can create in it. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>You're always free to change your mind and choose a different future, or a different past. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
