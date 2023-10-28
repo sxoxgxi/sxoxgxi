@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Teachers open the door. You enter by yourself.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Sometimes it is more important to discover what one cannot do, than what one can do. - <a href='https://duckduckgo.com/?q=Lin+Yutang' target='_blank'>Lin Yutang</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
