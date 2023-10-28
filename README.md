@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>Confidence is what you have before you understand the problem. - <a href='https://duckduckgo.com/?q=Woody+Allen' target='_blank'>Woody Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
