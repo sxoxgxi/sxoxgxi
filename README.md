@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It does not do to dwell on dreams and forget to live, remember that. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>People will forget what you said, people will forget what you did, but people will never forget how you made them feel. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
