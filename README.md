@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Teachers open the door. You enter by yourself.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Success does not consist in never making mistakes but in never making the same one a second time. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
