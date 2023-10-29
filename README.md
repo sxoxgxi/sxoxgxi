@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most virtuous are those who content themselves with being virtuous without seeking to appear so. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
+<h4 align='center'>Everything that is done in the world is done by hope. - <a href='https://duckduckgo.com/?q=Martin+Luther' target='_blank'>Martin Luther</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
