@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Time stays long enough for anyone who will use it. - <a href='https://duckduckgo.com/?q=Leonardo+da+Vinci' target='_blank'>Leonardo da Vinci</a>.</h4>
+<h4 align='center'>Optimism, when applied to your life, develops strength and peace within you. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
