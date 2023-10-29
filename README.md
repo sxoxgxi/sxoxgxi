@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Optimism, when applied to your life, develops strength and peace within you. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>The most virtuous are those who content themselves with being virtuous without seeking to appear so. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
