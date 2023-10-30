@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be4ab46eca6cb3c83df15057' alt='My Enemy' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27364d0c8e1abf7f728b45c23ad' alt='Fatal Distraction' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738ca73ea0e126cbeb8fc11d05' alt='You're the one' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1KWLVqVGVrPSVFdprFX82P'>My Enemy</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6OgrhVp2c2o9PNLJZ8qdzU'>Fatal Distraction</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7iXOBMQiRf5h25qnuJKkVB'>You're the one</a>
 </td>
 </tr>
 </table>
