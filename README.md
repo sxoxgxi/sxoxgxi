@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
