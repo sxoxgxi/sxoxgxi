@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you have a dream, you've got to grab it and never let go. - <a href='https://duckduckgo.com/?q=Carol+Burnett' target='_blank'>Carol Burnett</a>.</h4>
+<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
