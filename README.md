@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>Teachers open the door. You enter by yourself.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
