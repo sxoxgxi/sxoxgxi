@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You know you are on the road to success if you would do your job and not be paid for it. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>Closing your eyes and listening to silence is self-care. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
