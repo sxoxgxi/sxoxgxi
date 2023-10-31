@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The best way to predict your future is to create it. - <a href='https://duckduckgo.com/?q=Abraham+Lincoln' target='_blank'>Abraham Lincoln</a>.</h4>
+<h4 align='center'>Lost Time is never found again. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
