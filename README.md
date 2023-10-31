@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The way out is in. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
+<h4 align='center'>A good teacher opens the door for you, but you must enter the room by yourself. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
