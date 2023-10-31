@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your gift is something that you can do innately better than anything else. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Magic is believing in yourself, if you can do that, you can make anything happen. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
