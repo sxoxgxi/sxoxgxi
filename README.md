@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Closing your eyes and listening to silence is self-care. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>Saying nothing sometimes says the most. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
