@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Discipline is the mark of intelligent living. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>Your gift is something that you can do innately better than anything else. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
