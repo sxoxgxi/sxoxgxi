@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you judge another, you do not define them, you define yourself - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>To be alive - is Power. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
