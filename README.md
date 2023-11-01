@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Magic is believing in yourself, if you can do that, you can make anything happen. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
+<h4 align='center'>When you judge another, you do not define them, you define yourself - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
