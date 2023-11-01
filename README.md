@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do something to move yourself toward your major goal every day. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Magic is believing in yourself, if you can do that, you can make anything happen. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
