@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Formal education will make you a living, self-education will make you a fortune. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>You are the only problem you will ever have and you are the only solution. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
