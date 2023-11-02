@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The one who praises you is a thief. The one who criticizes you is your true friend. - <a href='https://duckduckgo.com/?q=Seungsahn' target='_blank'>Seungsahn</a>.</h4>
+<h4 align='center'>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
