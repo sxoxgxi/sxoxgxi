@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only thing new in the world is the history you do not know. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
+<h4 align='center'>Be a master of change rather than a victim of change. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
