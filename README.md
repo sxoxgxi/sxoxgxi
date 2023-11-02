@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you need inspiration, don't do it. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>People do not decide their futures, they decide their habits and their habits decide their futures. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
