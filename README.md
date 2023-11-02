@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>If you run you stand a chance of losing, but if you don't run you've already lost. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
