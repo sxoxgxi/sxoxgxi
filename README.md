@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>One's best success comes after their greatest disappointments. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
+<h4 align='center'>If you need inspiration, don't do it. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
