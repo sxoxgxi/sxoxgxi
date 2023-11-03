@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
