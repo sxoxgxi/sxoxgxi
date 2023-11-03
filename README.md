@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow.  - <a href='https://duckduckgo.com/?q=Orison+Swett+Marden' target='_blank'>Orison Swett Marden</a>.</h4>
+<h4 align='center'>We will outstretch the hand if you unclench your fist. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
