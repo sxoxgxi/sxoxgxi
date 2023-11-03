@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>I have lived with several Zen masters -- all of them cats. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
