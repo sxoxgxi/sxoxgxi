@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>Inspire yourself to be great. Being good isn't good enough. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
