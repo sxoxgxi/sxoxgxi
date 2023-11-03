@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is only real, when shared. - <a href='https://duckduckgo.com/?q=Christopher+McCandless' target='_blank'>Christopher McCandless</a>.</h4>
+<h4 align='center'>It's not what you pay a man, but what he costs you that counts. - <a href='https://duckduckgo.com/?q=Will+Rogers' target='_blank'>Will Rogers</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
