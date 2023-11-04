@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I have lived with several Zen masters -- all of them cats. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>Remember that the best relationship is one in which your love for each other exceeds your need for each other. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
