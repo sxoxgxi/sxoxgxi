@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>20 percent of your activities will account for 80 percent of your results. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
