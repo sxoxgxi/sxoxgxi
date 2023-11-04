@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>I have lived with several Zen masters -- all of them cats. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
