@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>The quieter you become, the more you are able to hear. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
