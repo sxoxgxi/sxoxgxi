@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A scientific man ought to have no wishes, no affections, - a mere heart of stone. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
+<h4 align='center'>20 percent of your activities will account for 80 percent of your results. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
