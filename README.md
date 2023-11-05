@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The quieter you become, the more you are able to hear. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>If I can pay the bills, I'm happy. - <a href='https://duckduckgo.com/?q=Morgan+Wootten' target='_blank'>Morgan Wootten</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
