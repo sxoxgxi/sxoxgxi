@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Everybody by your side ain't on your side. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Never fear quarrels, but seek hazardous adventures. - <a href='https://duckduckgo.com/?q=Alexandre+Dumas' target='_blank'>Alexandre Dumas</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
