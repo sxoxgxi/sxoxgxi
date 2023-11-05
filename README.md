@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Thinking is the hardest work there is. That is why so few people engage in it. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
