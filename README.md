@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The quieter you become, the more you are able to hear. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
