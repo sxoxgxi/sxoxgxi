@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man should do his job so well that the living, the dead, and the unborn could do it no better. - <a href='https://duckduckgo.com/?q=Martin+Luther+King,+Jr.' target='_blank'>Martin Luther King, Jr.</a>.</h4>
+<h4 align='center'>Human happiness and moral duty are inseparably connected.  - <a href='https://duckduckgo.com/?q=George+Washington' target='_blank'>George Washington</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
