@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I like the dreams of the future better than the history of the past. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>We win by helping each other win. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
