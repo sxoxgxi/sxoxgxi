@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We must cultivate our garden.  - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
+<h4 align='center'>Every day is an opportunity to a make a new happy ending. - <a href='https://duckduckgo.com/?q=Jonathan+Swift' target='_blank'>Jonathan Swift</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
