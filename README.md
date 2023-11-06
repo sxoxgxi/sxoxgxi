@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>We must cultivate our garden.  - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
