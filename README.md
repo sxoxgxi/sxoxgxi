@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He will win who knows when to fight and when not to fight. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
+<h4 align='center'>Expect the best of yourself, and then do what is necessary to make it a reality. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
