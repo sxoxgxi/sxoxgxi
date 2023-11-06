@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Human happiness and moral duty are inseparably connected.  - <a href='https://duckduckgo.com/?q=George+Washington' target='_blank'>George Washington</a>.</h4>
+<h4 align='center'>Whenever you do a thing, act as if all the world were watching. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
