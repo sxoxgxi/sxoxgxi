@@ -67,10 +67,10 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4' alt='Taylor Swift' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b' alt='James Arthur' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b' alt='James Arthur' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebfd28880f1b1fa8f93d05eb76' alt='Calum Scott' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -78,10 +78,10 @@
 <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
+<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
+<a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX' target='_blank'>Calum Scott</a>
 </td>
 </tr>
 </table>
@@ -122,18 +122,6 @@
       <a href='https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7'>Los Cuates de Sinaloa</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1' alt='What Would Pluto Do' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE'>What Would Pluto Do</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW'>For All The Dogs</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'>Drake</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:10%'>
       </td>
       <td>
@@ -169,10 +157,22 @@
       <td>
       <a href='https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB'>Lewis Capaldi</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM'>18</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY'>FOUR (Deluxe)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq'>One Direction</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 43% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😔: Sad | Happiness Level: 38% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
