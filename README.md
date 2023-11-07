@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
+<h4 align='center'>Actions are the seeds of fate. Deeds grow into destiny. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
