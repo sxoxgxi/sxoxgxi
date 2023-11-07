@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is what we make out of what we have, not what we are given, that separates one person from another. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
+<h4 align='center'>If you always do what you've always done, you'll always get what you've always got.  - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
