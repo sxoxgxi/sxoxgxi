@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The future belongs to those who learn more skills and combine them in creative ways. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
+<h4 align='center'>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
