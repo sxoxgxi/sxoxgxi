@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You cannot find peace avoiding life. - <a href='https://duckduckgo.com/?q=Virginia+Woolf' target='_blank'>Virginia Woolf</a>.</h4>
+<h4 align='center'>As soon as you trust yourself, you will know how to live. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
