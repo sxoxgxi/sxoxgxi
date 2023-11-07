@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Learn the rules like a pro, so you can break them like an artist. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
+<h4 align='center'>Re-examine all that you have been told... dismiss that which insults your soul. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
