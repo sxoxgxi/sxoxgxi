@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Maroon' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm'>Maroon</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
 </td>
 </tr>
 </table>
