@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>It is what we make out of what we have, not what we are given, that separates one person from another. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
