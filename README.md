@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you always do what you've always done, you'll always get what you've always got.  - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
+<h4 align='center'>Good, better, best. Never let it rest. 'Til your good is better and your better is best.  - <a href='https://duckduckgo.com/?q=St.+Jerome' target='_blank'>St. Jerome</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
