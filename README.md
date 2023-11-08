@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is an effect of doing what you love, not an end goal to be achieved. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>Be brave. Take risks. Nothing can substitute experience. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
