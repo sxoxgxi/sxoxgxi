@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Just do what must be done. This may not be happiness but it is greatness. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>Be kind, for everyone you meet is fighting a harder battle. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
