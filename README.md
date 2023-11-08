@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You get paid in direct proportion to the difficulty of problems you solve. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>The most creative act you will ever undertake is the act of creating yourself. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
