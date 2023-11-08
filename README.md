@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most creative act you will ever undertake is the act of creating yourself. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>There's a very deep connection among human beings. All we have to do is open our minds to it. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
