@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When asked, how do you write? I invariably answer, one word at a time. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>He who laughs at himself never runs out of things to laugh at. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
