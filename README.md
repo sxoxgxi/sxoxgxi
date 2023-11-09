@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe. - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
+<h4 align='center'>When asked, how do you write? I invariably answer, one word at a time. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
