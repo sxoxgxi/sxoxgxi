@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be kind, for everyone you meet is fighting a harder battle. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
+<h4 align='center'>A Rolling Stone Gathers No Moss. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
