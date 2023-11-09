@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>If we have no peace, it is because we have forgotten that we belong to each other. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
