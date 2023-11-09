@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27367b936d1fee0fde9ecb62da3' alt='Be Alright' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c9bd3d1c0ca25bd54b50454c' alt='I Like Me Better' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='If We Have Each Other' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7' alt='My Head & My Heart' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb'>Be Alright</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3F9aav1FoBnfKGEdtuQWdu'>I Like Me Better</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF'>If We Have Each Other</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm'>My Head & My Heart</a>
 </td>
 </tr>
 </table>
