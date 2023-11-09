@@ -64,10 +64,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b' alt='James Arthur' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebfd28880f1b1fa8f93d05eb76' alt='Calum Scott' style='width:50%'>
@@ -75,10 +75,10 @@
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
+<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
+<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
 <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX' target='_blank'>Calum Scott</a>
@@ -122,18 +122,6 @@
       <a href='https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7'>Los Cuates de Sinaloa</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6'>Slow</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM'>shy martin</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
       </td>
       <td>
@@ -146,33 +134,45 @@
       <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4' alt='Before You Go' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e8f586f730554a31ff8c42b4' alt='A Little Bit Yours' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP'>Before You Go</a>
+      <a href='https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE'>A Little Bit Yours</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8'>Divinely Uninspired To A Hellish Extent (Extended Edition)</a>
+      <a href='https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM'>A Little Bit Yours</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB'>Lewis Capaldi</a>
+      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='18' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733cb6a92a4ce70ad188a3a6ff' alt='Moonlight' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM'>18</a>
+      <a href='https://open.spotify.com/track/08PTWJe2U4p3Vz41rtY7ec'>Moonlight</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY'>FOUR (Deluxe)</a>
+      <a href='https://open.spotify.com/album/7M3SxJRCUyokXW0hY3auvR'>Paradise - EP</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq'>One Direction</a>
+      <a href='https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT'>Chase Atlantic</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN'>Heaven (Acoustic)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😔: Sad | Happiness Level: 38% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 42% | Current Taste: Difficult to classify Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
