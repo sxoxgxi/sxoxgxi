@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is the absence of the striving for happiness. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
+<h4 align='center'>Watch what you say, and whatever you say, practice it. - <a href='https://duckduckgo.com/?q=Soyen+Shaku' target='_blank'>Soyen Shaku</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
