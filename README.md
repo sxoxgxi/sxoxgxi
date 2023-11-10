@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Heroes don't need to talk about what they did. - <a href='https://duckduckgo.com/?q=W.P.+Kinsella' target='_blank'>W.P. Kinsella</a>.</h4>
+<h4 align='center'>You can discover what your enemy fears most by observing the means he uses to frighten you. - <a href='https://duckduckgo.com/?q=Eric+Hoffer' target='_blank'>Eric Hoffer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
