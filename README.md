@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
+<h4 align='center'>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
