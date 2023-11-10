@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The four P's to success are pressure, persistence, perseverance, and prayer. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>The idea of ourselves is our escape from the fact of what we really are. - <a href='https://duckduckgo.com/?q=Jiddu+Krishnamurti' target='_blank'>Jiddu Krishnamurti</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
