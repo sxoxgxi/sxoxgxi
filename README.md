@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Decide whether or not the goal is worth the risks involved. If it is, stop worrying. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>The four P's to success are pressure, persistence, perseverance, and prayer. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
