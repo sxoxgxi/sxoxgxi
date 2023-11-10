@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The dream is free, but the hustle is sold separately. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Although the world is full of suffering, it is also full of the overcoming of it. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
