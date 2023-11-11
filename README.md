@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can discover what your enemy fears most by observing the means he uses to frighten you. - <a href='https://duckduckgo.com/?q=Eric+Hoffer' target='_blank'>Eric Hoffer</a>.</h4>
+<h4 align='center'>Deliberately seek the company of people who influence you to think and act on building the life you desire. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
