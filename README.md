@@ -103,6 +103,66 @@
       <td>
       <h2>Artist</h2>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN'>Heaven (Acoustic)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z'>Phases - EP</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'>PRETTYMUCH</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf' alt='Calm Down (with Selena Gomez)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8'>Calm Down (with Selena Gomez)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp'>Calm Down (with Selena Gomez)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS'>Rema</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
