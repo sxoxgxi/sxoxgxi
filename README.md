@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The scariest moment is always just before you start. After that, things can only get better. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>There is an essence of when you are fearless, you become more creative. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
