@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I am always doing what I cannot do yet, in order to learn how to do it. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>I wasn't brave, I just didn't have time to be scared. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
