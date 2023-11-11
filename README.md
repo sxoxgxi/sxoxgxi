@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
@@ -67,18 +67,12 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
-</td>
-<td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebfd28880f1b1fa8f93d05eb76' alt='Calum Scott' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
-</td>
-<td>
-<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
 <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX' target='_blank'>Calum Scott</a>
@@ -110,54 +104,6 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e14823908a9560013673d14' alt='Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0yzcqtdu85erFxmgeZp0zW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2ukBaxo9yehc4aqrlgJJHW'>Negro Y Azul: The Ballad of Heisenberg (From "Breaking Bad" TV Series)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7'>Los Cuates de Sinaloa</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e8f586f730554a31ff8c42b4' alt='A Little Bit Yours' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE'>A Little Bit Yours</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM'>A Little Bit Yours</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'>JP Saxe</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733cb6a92a4ce70ad188a3a6ff' alt='Moonlight' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/08PTWJe2U4p3Vz41rtY7ec'>Moonlight</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7M3SxJRCUyokXW0hY3auvR'>Paradise - EP</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT'>Chase Atlantic</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:10%'>
       </td>
       <td>
@@ -169,10 +115,58 @@
       <td>
       <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z'>Phases - EP</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'>PRETTYMUCH</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf' alt='Calm Down (with Selena Gomez)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8'>Calm Down (with Selena Gomez)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp'>Calm Down (with Selena Gomez)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS'>Rema</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 42% | Current Taste: Difficult to classify Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 56% | Current Taste: Energetic and Danceable Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
