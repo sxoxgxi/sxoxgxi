@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Silence is sometimes the best answer. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>I have not failed. I've just found 10,000 ways that won't work. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
