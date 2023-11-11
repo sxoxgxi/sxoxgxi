@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is an essence of when you are fearless, you become more creative. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
+<h4 align='center'>Silence is sometimes the best answer. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
