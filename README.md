@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>At first dreams seem impossible, then improbable, then inevitable. - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
+<h4 align='center'>The businessman's tool is value. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
