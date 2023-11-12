@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is often safer to be in chains than to be free.  - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
+<h4 align='center'>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
