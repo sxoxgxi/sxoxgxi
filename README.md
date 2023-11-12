@@ -140,18 +140,6 @@
       <a href='https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'>PRETTYMUCH</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf' alt='Calm Down (with Selena Gomez)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8'>Calm Down (with Selena Gomez)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp'>Calm Down (with Selena Gomez)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS'>Rema</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
       </td>
       <td>
@@ -163,10 +151,22 @@
       <td>
       <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6'>Slow</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM'>shy martin</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 56% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 45% | Current Taste: Difficult to classify Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
