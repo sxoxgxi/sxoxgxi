@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>At first dreams seem impossible, then improbable, then inevitable. - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
