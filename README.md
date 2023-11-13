@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your time is limited, so don't waste it living someone elses. life. - <a href='https://duckduckgo.com/?q=Steve+Jobs' target='_blank'>Steve Jobs</a>.</h4>
+<h4 align='center'>The worst part of success is trying to find someone who is happy for you. - <a href='https://duckduckgo.com/?q=Bette+Midler' target='_blank'>Bette Midler</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
