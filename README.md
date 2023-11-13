@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To a mind that is still, the entire universe surrenders. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
+<h4 align='center'>Your time is limited, so don't waste it living someone elses. life. - <a href='https://duckduckgo.com/?q=Steve+Jobs' target='_blank'>Steve Jobs</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
