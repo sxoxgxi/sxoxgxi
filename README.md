@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>To a mind that is still, the entire universe surrenders. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
