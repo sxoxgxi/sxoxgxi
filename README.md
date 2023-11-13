@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way. - <a href='https://duckduckgo.com/?q=Osho' target='_blank'>Osho</a>.</h4>
+<h4 align='center'>Great acts are made up of small deeds. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
