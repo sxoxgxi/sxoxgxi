@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>Open your eyes and look within. Are you satisfied with the life you're living? - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
