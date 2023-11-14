@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You are what you do, not what you say you'll do. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
+<h4 align='center'>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
