@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People rarely succeed unless they have fun in what they are doing. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
+<h4 align='center'>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
