@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>People rarely succeed unless they have fun in what they are doing. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
