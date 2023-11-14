@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Open your eyes and look within. Are you satisfied with the life you're living? - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
+<h4 align='center'>Prefer to be defeated in the presence of the wise than to excel among fools. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
