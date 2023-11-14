@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>Life is what you make it. Always has been, always will be. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
