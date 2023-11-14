@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Prefer to be defeated in the presence of the wise than to excel among fools. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
+<h4 align='center'>You are what you do, not what you say you'll do. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
