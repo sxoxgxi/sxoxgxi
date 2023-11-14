@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We cannot expect to be happy always... by experiencing evil as well as good we become wise. - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
+<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
