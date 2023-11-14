@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>We cannot expect to be happy always... by experiencing evil as well as good we become wise. - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
