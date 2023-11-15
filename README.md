@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We ordinary people must forge our own beauty. - <a href='https://duckduckgo.com/?q=Kenji+Miyazawa' target='_blank'>Kenji Miyazawa</a>.</h4>
+<h4 align='center'>To be of use to the world is the only way to be happy. - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
