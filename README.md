@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Death and life have their determined appointments; riches and honors depend upon heaven.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>We ordinary people must forge our own beauty. - <a href='https://duckduckgo.com/?q=Kenji+Miyazawa' target='_blank'>Kenji Miyazawa</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
