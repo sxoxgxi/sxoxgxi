@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is ignorance that causes most mistakes. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
+<h4 align='center'>Do your duty and a little more and the future will take care of itself. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
