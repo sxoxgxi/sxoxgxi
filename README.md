@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You just can't beat the person who never gives up.  - <a href='https://duckduckgo.com/?q=Babe+Ruth' target='_blank'>Babe Ruth</a>.</h4>
+<h4 align='center'>To get angry is like to revenge yourself for the guilt of others. - <a href='https://duckduckgo.com/?q=Jonathan+Swift' target='_blank'>Jonathan Swift</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
