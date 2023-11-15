@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man is but a product of his thoughts. What he thinks he becomes. - <a href='https://duckduckgo.com/?q=Mahatma+Gandhi' target='_blank'>Mahatma Gandhi</a>.</h4>
+<h4 align='center'>Be not afraid of growing slowly, be afraid only of standing still.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
