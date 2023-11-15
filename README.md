@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The meaning of life is to find your gift. The purpose of life is to give it away. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
+<h4 align='center'>A man is but a product of his thoughts. What he thinks he becomes. - <a href='https://duckduckgo.com/?q=Mahatma+Gandhi' target='_blank'>Mahatma Gandhi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
