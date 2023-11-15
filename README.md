@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To be of use to the world is the only way to be happy. - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
+<h4 align='center'>It is ignorance that causes most mistakes. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
