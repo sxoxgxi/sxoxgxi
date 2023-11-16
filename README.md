@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>The Only Thing That Is Constant Is Change - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
