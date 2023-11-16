@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A very little key will open a very heavy door. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
+<h4 align='center'>Love is the expression of one's values. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
