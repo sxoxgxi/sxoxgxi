@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most effective way to do it, is to do it. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
