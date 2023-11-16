@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for. - <a href='https://duckduckgo.com/?q=Socrates' target='_blank'>Socrates</a>.</h4>
+<h4 align='center'>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
