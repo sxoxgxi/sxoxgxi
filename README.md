@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Unless someone truly has the power to say no, they never truly have the power to say yes. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>The most effective way to do it, is to do it. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
