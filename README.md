@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
+<h4 align='center'>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
