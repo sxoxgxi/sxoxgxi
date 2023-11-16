@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>Confidence is like a dragon where, for every head cut off, two more heads grow back. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
