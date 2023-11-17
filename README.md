@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's not whether you get knocked down, its whether you get back up. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
