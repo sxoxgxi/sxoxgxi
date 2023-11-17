@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Know the rules well, so you can break them effectively. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>Make each day your masterpiece. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
