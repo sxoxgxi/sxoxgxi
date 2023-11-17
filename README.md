@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's not whether you get knocked down, its whether you get back up. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>The least deviation from truth will be multiplied later. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
