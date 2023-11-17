@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Confidence is like a dragon where, for every head cut off, two more heads grow back. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>It's not whether you get knocked down, its whether you get back up. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -63,20 +63,8 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4' alt='Taylor Swift' style='width:50%'>
-</td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebfd28880f1b1fa8f93d05eb76' alt='Calum Scott' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
-<td>
-<a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
-</td>
-<td>
-<a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX' target='_blank'>Calum Scott</a>
-</td>
 </tr>
 </table>
 
@@ -116,30 +104,6 @@
       <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d46d93ee7fb0589ef6973c5d' alt='Eyes Off You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6'>Eyes Off You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z'>Phases - EP</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'>PRETTYMUCH</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
       </td>
       <td>
@@ -152,21 +116,45 @@
       <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c494f30f5e13179d4ba00f79' alt='Slow' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be4ab46eca6cb3c83df15057' alt='My Enemy' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W'>Slow</a>
+      <a href='https://open.spotify.com/track/1KWLVqVGVrPSVFdprFX82P'>My Enemy</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6'>Slow</a>
+      <a href='https://open.spotify.com/album/6KryVMOVYKtpjIWATVvncW'>My Enemy</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM'>shy martin</a>
+      <a href='https://open.spotify.com/artist/3vW2C8pYjG9h9XzItnqDq7'>Kalinki</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdcc1b27dac22bfb3a57c2de' alt='this is how you fall in love' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS'>this is how you fall in love</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2'>brent ii</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3'>Jeremy Zucker</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c9bd3d1c0ca25bd54b50454c' alt='I Like Me Better' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3F9aav1FoBnfKGEdtuQWdu'>I Like Me Better</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6O5urTi0Y6TKQ0804YOtYM'>I Like Me Better</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4'>Anthony de la Torre</a>
       </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 45% | Current Taste: Difficult to classify Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 43% | Current Taste: Difficult to classify Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
