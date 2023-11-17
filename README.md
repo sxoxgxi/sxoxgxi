@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Failure is the key to success; each mistake teaches us something. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>You have the potential for greatness. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
