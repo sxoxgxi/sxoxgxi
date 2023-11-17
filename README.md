@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The greatest gift that you can give to others is the gift of unconditional love and acceptance.  - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Those who realize their folly are not true fools. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
