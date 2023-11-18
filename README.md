@@ -92,18 +92,6 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f37b9facae48d5a97a166430' alt='Heaven (Acoustic)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7'>Heaven (Acoustic)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN'>Heaven (Acoustic)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX'>Calum Scott</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
       </td>
       <td>
@@ -128,18 +116,6 @@
       <a href='https://open.spotify.com/artist/3vW2C8pYjG9h9XzItnqDq7'>Kalinki</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdcc1b27dac22bfb3a57c2de' alt='this is how you fall in love' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS'>this is how you fall in love</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2'>brent ii</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3'>Jeremy Zucker</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c9bd3d1c0ca25bd54b50454c' alt='I Like Me Better' style='width:10%'>
       </td>
       <td>
@@ -151,10 +127,34 @@
       <td>
       <a href='https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4'>Anthony de la Torre</a>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Maroon' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm'>Maroon</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M'>COSMIC</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😐: Neutral | Happiness Level: 43% | Current Taste: Difficult to classify Music</td>
+  <td>Music Mood is 😐: Neutral | Happiness Level: 48% | Current Taste: Difficult to classify Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
