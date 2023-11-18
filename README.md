@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't just sit there. Do something. The answers will follow. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>Most people fail in life because they major in minor things. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
