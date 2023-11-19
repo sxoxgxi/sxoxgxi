@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The destiny of man is in his own soul.  - <a href='https://duckduckgo.com/?q=Herodotus' target='_blank'>Herodotus</a>.</h4>
+<h4 align='center'>Hope and fear come from feeling that we lack something; they come from a sense of poverty. - <a href='https://duckduckgo.com/?q=Pema+Chodron' target='_blank'>Pema Chodron</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
