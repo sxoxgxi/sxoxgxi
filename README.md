@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The dead receive more flowers than the living because regret is stronger than gratitude. - <a href='https://duckduckgo.com/?q=Anne+Frank' target='_blank'>Anne Frank</a>.</h4>
+<h4 align='center'>Be like a postage stamp. Stick to it until you get there. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
