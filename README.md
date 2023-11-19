@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Peter Pan Was Right-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-die first-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b77fbda8838aaf19e954076c' alt='Peter Pan Was Right' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdcc1b27dac22bfb3a57c2de' alt='this is how you fall in love' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27389aff4625958eac8d16535c7' alt='The Joker And The Queen (feat. Taylor Swift)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273200cb3e55c15a527bd282451' alt='Yours' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A'>Peter Pan Was Right</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS'>this is how you fall in love</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP'>The Joker And The Queen (feat. Taylor Swift)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J'>Yours</a>
 </td>
 </tr>
 </table>
