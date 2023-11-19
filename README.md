@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Science can flourish only in an atmosphere of free speech.  - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
+<h4 align='center'>It is useless to attempt to reason a man out of a thing he was never reasoned into. - <a href='https://duckduckgo.com/?q=Jonathan+Swift' target='_blank'>Jonathan Swift</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
