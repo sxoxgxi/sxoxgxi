@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27389aff4625958eac8d16535c7' alt='The Joker And The Queen (feat. Taylor Swift)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273200cb3e55c15a527bd282451' alt='Yours' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cbd44edafad681c71eb0d469' alt='someone will love you better' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27348b0cbf55eeb61112436f8bd' alt='Let Me Down Easy (Lie)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP'>The Joker And The Queen (feat. Taylor Swift)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J'>Yours</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7'>someone will love you better</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc'>Let Me Down Easy (Lie)</a>
 </td>
 </tr>
 </table>
