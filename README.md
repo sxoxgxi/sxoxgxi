@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27347669a9be7d201ea97bbd3ee' alt='La La Lost You - Acoustic Version' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb4788305d9e3e25faf785c2' alt='All My Loving' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27394237be74edae41560152bce' alt='like i need u' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN'>La La Lost You - Acoustic Version</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl'>All My Loving</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim'>like i need u</a>
 </td>
 </tr>
 </table>
