@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27348b0cbf55eeb61112436f8bd' alt='Let Me Down Easy (Lie)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27347669a9be7d201ea97bbd3ee' alt='La La Lost You - Acoustic Version' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc'>Let Me Down Easy (Lie)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN'>La La Lost You - Acoustic Version</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
 </td>
 </tr>
 </table>
