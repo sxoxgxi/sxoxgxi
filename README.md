@@ -140,16 +140,16 @@
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d' alt='Myself' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb4788305d9e3e25faf785c2' alt='All My Loving' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/5YLHLxoZsodDWjqSgjhBf3'>Myself</a>
+      <a href='https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl'>All My Loving</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M'>COSMIC</a>
+      <a href='https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US'>All My Loving</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      <a href='https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA'>Sam Fischer</a>
       </td>
     </tr></table>
 </p topsongs>
