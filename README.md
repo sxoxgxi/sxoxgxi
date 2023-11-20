@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Open your eyes and look within. Are you satisfied with the life you're living? - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
+<h4 align='center'>You must be willing to do what others won't do, to have what others won't have. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
