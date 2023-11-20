@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life's too mysterious to take too serious. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>Life is not meant to be easy my child, but take courage: it can be delightful. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -154,7 +154,7 @@
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😔: Sad | Happiness Level: 39% | Current Taste: Difficult to classify Music</td>
+  <td>Music Mood is 😔: Sad | Happiness Level: 40% | Current Taste: Difficult to classify Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
