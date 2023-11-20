@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The soul is neither born, and nor does it die. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
+<h4 align='center'>Projecting your mind into a successful situation is the most powerful means to achieve goals.   - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
