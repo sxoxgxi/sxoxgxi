@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You must be willing to do what others won't do, to have what others won't have. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
+<h4 align='center'>Boldness makes even the smallest animal dangerous. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
