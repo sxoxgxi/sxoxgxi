@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is not meant to be easy my child, but take courage: it can be delightful. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>It is not titles that honour men, but men that honour titles. - <a href='https://duckduckgo.com/?q=Niccolo+Machiavelli' target='_blank'>Niccolo Machiavelli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
