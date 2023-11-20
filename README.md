@@ -92,6 +92,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
       </td>
       <td>
@@ -138,18 +150,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb4788305d9e3e25faf785c2' alt='All My Loving' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl'>All My Loving</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US'>All My Loving</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA'>Sam Fischer</a>
       </td>
     </tr></table>
 </p topsongs>
