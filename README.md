@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing will work unless you do. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
+<h4 align='center'>The most important battle is one to conquer yourself. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
