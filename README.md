@@ -91,6 +91,66 @@
       <td>
       <h2>Artist</h2>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF'>Left and Right (Feat. Jung Kook of BTS)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'>Charlie Puth</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be4ab46eca6cb3c83df15057' alt='My Enemy' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/1KWLVqVGVrPSVFdprFX82P'>My Enemy</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6KryVMOVYKtpjIWATVvncW'>My Enemy</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3vW2C8pYjG9h9XzItnqDq7'>Kalinki</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c9bd3d1c0ca25bd54b50454c' alt='I Like Me Better' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3F9aav1FoBnfKGEdtuQWdu'>I Like Me Better</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6O5urTi0Y6TKQ0804YOtYM'>I Like Me Better</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4'>Anthony de la Torre</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Maroon' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm'>Maroon</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
