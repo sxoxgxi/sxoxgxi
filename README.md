@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most important battle is one to conquer yourself. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
+<h4 align='center'>Life's too mysterious to take too serious. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
