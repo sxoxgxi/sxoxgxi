@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Glimpse of Us' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Coping' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b77fbda8838aaf19e954076c' alt='Peter Pan Was Right' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs'>Glimpse of Us</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP'>Coping</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A'>Peter Pan Was Right</a>
 </td>
 </tr>
 </table>
