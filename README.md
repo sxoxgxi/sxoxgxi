@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Any game becomes important when you know and love the players. - <a href='https://duckduckgo.com/?q=W.P.+Kinsella' target='_blank'>W.P. Kinsella</a>.</h4>
+<h4 align='center'>It is not titles that honour men, but men that honour titles. - <a href='https://duckduckgo.com/?q=Niccolo+Machiavelli' target='_blank'>Niccolo Machiavelli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
