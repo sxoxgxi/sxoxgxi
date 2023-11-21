@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never allow someone to be your priority while allowing yourself to be their option. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
+<h4 align='center'>If you correct your mind, the rest of your life will fall into place. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
