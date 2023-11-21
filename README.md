@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you correct your mind, the rest of your life will fall into place. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>Presents are made for the pleasure of who gives them, not the merits of who receives them. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
