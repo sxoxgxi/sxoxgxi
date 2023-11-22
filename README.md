@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wise men speak because they have something to say; Fools because they have to say something. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
+<h4 align='center'>The essence of the Way is detachment. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
