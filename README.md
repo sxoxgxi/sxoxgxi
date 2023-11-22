@@ -104,6 +104,18 @@
       <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bde319f49b9079c727c46410' alt='Car's Outside - Acoustic' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0FJlNZyxbicLmzOvNl8PJs'>Car's Outside - Acoustic</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2'>Car's Outside</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
       </td>
       <td>
@@ -138,18 +150,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4'>Anthony de la Torre</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Maroon' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm'>Maroon</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr></table>
 </p topsongs>
