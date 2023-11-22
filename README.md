@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Presents are made for the pleasure of who gives them, not the merits of who receives them. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
+<h4 align='center'>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
