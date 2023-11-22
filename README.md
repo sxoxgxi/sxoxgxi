@@ -116,6 +116,18 @@
       <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW'>Soul Searching</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe' alt='Left and Right (Feat. Jung Kook of BTS)' style='width:10%'>
       </td>
       <td>
@@ -138,18 +150,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3vW2C8pYjG9h9XzItnqDq7'>Kalinki</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c9bd3d1c0ca25bd54b50454c' alt='I Like Me Better' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/3F9aav1FoBnfKGEdtuQWdu'>I Like Me Better</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/6O5urTi0Y6TKQ0804YOtYM'>I Like Me Better</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4'>Anthony de la Torre</a>
       </td>
     </tr></table>
 </p topsongs>
