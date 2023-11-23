@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563' alt='Señorita' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b742c96d78d9091ce4a1c5c1' alt='slower' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273563944da62812cc5c6e2fe6f' alt='drunk' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2'>Señorita</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo'>slower</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9'>drunk</a>
 </td>
 </tr>
 </table>
