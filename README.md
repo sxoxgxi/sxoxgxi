@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>The essence of the Way is detachment. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
