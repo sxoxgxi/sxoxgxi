@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Somewhere Only We Know-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Losing My Religion-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca' alt='Iris' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235' alt='Everybody Wants To Rule The World' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66' alt='Patient' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs'>Iris</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE'>Everybody Wants To Rule The World</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl'>Patient</a>
 </td>
 </tr>
 </table>
