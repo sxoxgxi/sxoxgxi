@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't let what you cannot do interfere with what you can do. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever. - <a href='https://duckduckgo.com/?q=Alexandre+Dumas' target='_blank'>Alexandre Dumas</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
