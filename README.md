@@ -63,8 +63,14 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0' alt='Charlie Puth' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7' target='_blank'>Charlie Puth</a>
+</td>
 </tr>
 </table>
 
