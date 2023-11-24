@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever. - <a href='https://duckduckgo.com/?q=Alexandre+Dumas' target='_blank'>Alexandre Dumas</a>.</h4>
+<h4 align='center'>Our view of the world is truly shaped by what we decide to hear. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
