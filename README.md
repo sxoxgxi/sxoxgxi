@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our view of the world is truly shaped by what we decide to hear. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>Be thankful for everything that happens in your life; it's all an experience. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
