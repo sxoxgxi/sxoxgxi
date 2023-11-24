@@ -128,6 +128,18 @@
       <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:10%'>
       </td>
       <td>
@@ -150,18 +162,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW'>Soul Searching</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
       </td>
     </tr></table>
 </p topsongs>
