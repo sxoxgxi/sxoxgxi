@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If I can pay the bills, I'm happy. - <a href='https://duckduckgo.com/?q=Morgan+Wootten' target='_blank'>Morgan Wootten</a>.</h4>
+<h4 align='center'>Don't let what you cannot do interfere with what you can do. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
