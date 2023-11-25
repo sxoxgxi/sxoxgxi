@@ -140,6 +140,18 @@
       <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK'>Out Of Time (25th Anniversary Edition)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg'>R.E.M.</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
       </td>
       <td>
@@ -150,18 +162,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR'>I met you when I was 18. (the playlist)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
       </td>
     </tr></table>
 </p topsongs>
