@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be thankful for everything that happens in your life; it's all an experience. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>It is what we make out of what we have, not what we are given, that separates one person from another. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
