@@ -116,6 +116,18 @@
       <a href='https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI'>Rosie Darling</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235' alt='Everybody Wants To Rule The World' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE'>Everybody Wants To Rule The World</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W'>Songs From The Big Chair (Super Deluxe Edition)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU'>Tears For Fears</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
       </td>
       <td>
@@ -150,18 +162,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bde319f49b9079c727c46410' alt='Car's Outside - Acoustic' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0FJlNZyxbicLmzOvNl8PJs'>Car's Outside - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2'>Car's Outside</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
       </td>
     </tr></table>
 </p topsongs>
