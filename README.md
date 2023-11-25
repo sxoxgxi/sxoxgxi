@@ -103,66 +103,6 @@
       <td>
       <h2>Artist</h2>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Coping' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP'>Coping</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN'>Coping</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI'>Rosie Darling</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdea30b86b37142ec99deb78' alt='I Like Me Better' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be'>I Like Me Better</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR'>I met you when I was 18. (the playlist)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bde319f49b9079c727c46410' alt='Car's Outside - Acoustic' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0FJlNZyxbicLmzOvNl8PJs'>Car's Outside - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2'>Car's Outside</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
