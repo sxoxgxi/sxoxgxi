@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
+<h4 align='center'>Try to be a rainbow in someone's cloud. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
