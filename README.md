@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Some people dream of success, while others wake up and work hard at it. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>None of us can change our yesterdays but all of us can change our tomorrows. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
