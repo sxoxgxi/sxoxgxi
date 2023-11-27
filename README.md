@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. - <a href='https://duckduckgo.com/?q=Pema+Chodron' target='_blank'>Pema Chodron</a>.</h4>
+<h4 align='center'>The fear of death is more to be feared, than death itself. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
