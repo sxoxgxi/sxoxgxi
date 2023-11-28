@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The fear of death is more to be feared, than death itself. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
+<h4 align='center'>Note that this journey is uniquely yours, no one elses. So the path has to be your own. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
