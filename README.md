@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Mastering others is strength, mastering yourself is true power. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>The fear of death is more to be feared, than death itself. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
