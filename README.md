@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only way to make sense out of change is to plunge into it, move with it, and join the dance. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
+<h4 align='center'>Real learning comes about when the competitive spirit has ceased. - <a href='https://duckduckgo.com/?q=Jiddu+Krishnamurti' target='_blank'>Jiddu Krishnamurti</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
