@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We are all here for some special reason. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>You may forget with whom you laughed, but you will never forget with whom you wept.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
