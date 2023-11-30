@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
+<h4 align='center'>You may forget with whom you laughed, but you will never forget with whom you wept.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
