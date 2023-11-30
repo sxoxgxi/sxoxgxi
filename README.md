@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You may forget with whom you laughed, but you will never forget with whom you wept.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
+<h4 align='center'>Only by acceptance of the past, can you alter it. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
