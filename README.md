@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Make each day your masterpiece. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>When you are able to employ your will always for constructive purposes, you become the controller of your destiny. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
