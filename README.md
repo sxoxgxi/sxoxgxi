@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you are able to employ your will always for constructive purposes, you become the controller of your destiny. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
+<h4 align='center'>Your imagination is your preview of life's coming attractions. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
