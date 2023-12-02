@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are only encounters in history. There are no accidents. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
+<h4 align='center'>There are as many opinions as there are experts. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
