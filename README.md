@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are as many opinions as there are experts. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>I am not absentminded. It is the presence of mind that makes me unaware of everything else. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
