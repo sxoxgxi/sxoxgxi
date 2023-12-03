@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We think too much and feel too little. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
+<h4 align='center'>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
