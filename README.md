@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are as many opinions as there are experts. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>We think too much and feel too little. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
