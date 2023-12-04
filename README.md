@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Each path to knowledge involves different rules and these rules are not interchangeable. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
+<h4 align='center'>Never give way to laziness. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
