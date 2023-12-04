@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wake up and smile! Wake up and be grateful! - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>It's easy to be a critic, but being a doer requires effort, risk, and change.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
