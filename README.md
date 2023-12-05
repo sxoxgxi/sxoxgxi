@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want work well done, select a busy man; the other kind has no time. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
+<h4 align='center'>The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
