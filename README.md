@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Sometimes you have to shut your eyes, so you can see the real beauty. - <a href='https://duckduckgo.com/?q=Kilian+Jornet' target='_blank'>Kilian Jornet</a>.</h4>
+<h4 align='center'>The dream is free, but the hustle is sold separately. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
