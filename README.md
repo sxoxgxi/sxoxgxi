@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never confuse a single defeat with a final defeat. - <a href='https://duckduckgo.com/?q=F.+Scott+Fitzgerald' target='_blank'>F. Scott Fitzgerald</a>.</h4>
+<h4 align='center'>It's easy to be a critic, but being a doer requires effort, risk, and change.   - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
