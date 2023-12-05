@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The dream is free, but the hustle is sold separately. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>If you want work well done, select a busy man; the other kind has no time. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
