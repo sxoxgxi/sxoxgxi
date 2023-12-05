@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The world is open for play, everything and everybody is mockable in a wonderful way. - <a href='https://duckduckgo.com/?q=Robin+Williams' target='_blank'>Robin Williams</a>.</h4>
+<h4 align='center'>Who looks outside, dreams; who looks inside, awakes. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
