@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Who looks outside, dreams; who looks inside, awakes. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>Sometimes you have to shut your eyes, so you can see the real beauty. - <a href='https://duckduckgo.com/?q=Kilian+Jornet' target='_blank'>Kilian Jornet</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
