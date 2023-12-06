@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are no accidents... there is only some purpose that we haven't yet understood. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>Trusting our intuition often saves us from disaster.  - <a href='https://duckduckgo.com/?q=Anne+Wilson+Schaef' target='_blank'>Anne Wilson Schaef</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
