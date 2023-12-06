@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life can only be understood backwards; but it must be lived forwards. - <a href='https://duckduckgo.com/?q=Soren+Kierkegaard' target='_blank'>Soren Kierkegaard</a>.</h4>
+<h4 align='center'>Everything great that has ever happened to humanity has begun as a single thought in someone's mind. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
