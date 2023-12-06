@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anything you may hold firmly in your imagination can be yours. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>Life can only be understood backwards; but it must be lived forwards. - <a href='https://duckduckgo.com/?q=Soren+Kierkegaard' target='_blank'>Soren Kierkegaard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
