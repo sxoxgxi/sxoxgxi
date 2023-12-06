@@ -91,6 +91,66 @@
       <td>
       <h2>Artist</h2>
       </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Coping' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP'>Coping</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN'>Coping</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI'>Rosie Darling</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235' alt='Everybody Wants To Rule The World' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE'>Everybody Wants To Rule The World</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W'>Songs From The Big Chair (Super Deluxe Edition)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU'>Tears For Fears</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK'>Out Of Time (25th Anniversary Edition)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg'>R.E.M.</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
+      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
