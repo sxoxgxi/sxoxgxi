@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Trusting our intuition often saves us from disaster.  - <a href='https://duckduckgo.com/?q=Anne+Wilson+Schaef' target='_blank'>Anne Wilson Schaef</a>.</h4>
+<h4 align='center'>Learn only how to avoid seeking for and attaching yourselves to anything. - <a href='https://duckduckgo.com/?q=Huang+Po' target='_blank'>Huang Po</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
