@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We know nothing of tomorrow, our business is to be good and happy today. - <a href='https://duckduckgo.com/?q=Sydney+Smith' target='_blank'>Sydney Smith</a>.</h4>
+<h4 align='center'>If you want to achieve greatness stop asking for permission. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
