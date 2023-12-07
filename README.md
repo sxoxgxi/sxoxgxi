@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Find the game where you can win, and then commit your life to playing it; and play to win. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
+<h4 align='center'>Repetition does not transform a lie into a truth. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
