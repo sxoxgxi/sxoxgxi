@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do Something. If it works, do more of it. If it doesn't, do something else. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>This is the most simple and basic component of life: our struggles determine our successes. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
