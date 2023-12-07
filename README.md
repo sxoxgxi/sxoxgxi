@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A little progress each day adds up to big results. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Absorb what is useful, discard what is useless and add what is specifically your own.   - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
