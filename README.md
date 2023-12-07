@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do Something. If it works, do more of it. If it doesn't, do something else. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>What gets measured gets improved. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
