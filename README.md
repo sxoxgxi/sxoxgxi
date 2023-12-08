@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Human happiness and moral duty are inseparably connected.  - <a href='https://duckduckgo.com/?q=George+Washington' target='_blank'>George Washington</a>.</h4>
+<h4 align='center'>Shoot for the moon, because even if you miss, you'll land among the stars. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
