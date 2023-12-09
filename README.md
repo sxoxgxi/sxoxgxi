@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give so much away people insist on paying you. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
+<h4 align='center'>Failure means you've now learned another valuable lesson that pushes you one step closer to success. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
