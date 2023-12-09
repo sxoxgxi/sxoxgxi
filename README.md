@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Change is never easy, but always possible. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
+<h4 align='center'>Heroes don't need to talk about what they did. - <a href='https://duckduckgo.com/?q=W.P.+Kinsella' target='_blank'>W.P. Kinsella</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
