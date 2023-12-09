@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Heroes don't need to talk about what they did. - <a href='https://duckduckgo.com/?q=W.P.+Kinsella' target='_blank'>W.P. Kinsella</a>.</h4>
+<h4 align='center'>Give so much away people insist on paying you. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
