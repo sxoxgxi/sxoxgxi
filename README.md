@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0' alt='As It Was' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca' alt='Iris' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e'>As It Was</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs'>Iris</a>
 </td>
 </tr>
 </table>
