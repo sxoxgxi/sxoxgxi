@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You don't know who is important to you until you actually lose them. - <a href='https://duckduckgo.com/?q=Mahatma+Gandhi' target='_blank'>Mahatma Gandhi</a>.</h4>
+<h4 align='center'>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
