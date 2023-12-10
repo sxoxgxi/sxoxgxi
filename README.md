@@ -63,8 +63,14 @@
   <p></p>
   <table style='width:100%'>
 <tr align='center'>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
+</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
+</td>
 </tr>
 </table>
 
@@ -128,6 +134,18 @@
       <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Die For You' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz'>Die For You</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe'>Starboy</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:10%'>
       </td>
       <td>
@@ -138,18 +156,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg'>R.E.M.</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
       </td>
     </tr></table>
 </p topsongs>
