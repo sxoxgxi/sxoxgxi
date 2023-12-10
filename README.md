@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Any fool can turn a blind eye but who knows what the ostrich sees in the sand. - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
+<h4 align='center'>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
