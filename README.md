@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Any fool can turn a blind eye but who knows what the ostrich sees in the sand. - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
+<h4 align='center'>Everything flows, nothing stands still. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
