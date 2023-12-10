@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Misfortune shows those who are not really friends. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Any fool can turn a blind eye but who knows what the ostrich sees in the sand. - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
