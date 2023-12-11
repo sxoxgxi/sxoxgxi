@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Too Good At Goodbyes-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Glimpse of Us-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273005cd7d0ae87b081601f6cca' alt='Too Good At Goodbyes' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eb0b18cce8b7f5c9fc1579e7' alt='Let Her Go' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d' alt='vampire' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV'>Too Good At Goodbyes</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g'>Make You Mine</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2pUpNOgJBIBCcjyQZQ00qU'>Let Her Go</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS'>vampire</a>
 </td>
 </tr>
 </table>
