@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A friend to all is a friend to none. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
