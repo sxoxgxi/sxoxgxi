@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Courage Is a Love Affair with the Unknown - <a href='https://duckduckgo.com/?q=Osho' target='_blank'>Osho</a>.</h4>
+<h4 align='center'>It is your attitude, not your aptitude, that determines your altitude. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
