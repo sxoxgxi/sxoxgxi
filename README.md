@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4' alt='Night Changes' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370' alt='Let Me Down Slowly' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf' alt='All I Want - From "High School Musical: The Musical: The Series"' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb' alt='Glimpse of Us' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ'>Night Changes</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d'>Let Me Down Slowly</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW'>All I Want - From "High School Musical: The Musical: The Series"</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs'>Glimpse of Us</a>
 </td>
 </tr>
 </table>
