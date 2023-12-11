@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is your attitude, not your aptitude, that determines your altitude. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
