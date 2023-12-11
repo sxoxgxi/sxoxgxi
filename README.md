@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Everybody Wants To Rule The World-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235' alt='Everybody Wants To Rule The World' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735c75f5e02580f4c0c3e80e8e' alt='Gone, Gone, Gone' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273639c6811b5d0c6cfb145de3a' alt='Moral of the Story' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE'>Everybody Wants To Rule The World</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/56sxN1yKg1dgOZXBcAHkJG'>Gone, Gone, Gone</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/69HzZ3ti9DLwb0GdWCGYSo'>Moral of the Story</a>
 </td>
 </tr>
 </table>
