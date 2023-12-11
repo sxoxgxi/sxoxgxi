@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-As It Was-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0' alt='As It Was' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca' alt='Iris' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27317745f08b79f421ad2176966' alt='Ghost Of You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a' alt='favorite crime' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e'>As It Was</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs'>Iris</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4fPeM4QZApc3Ybwe48G5ZP'>Ghost Of You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8'>favorite crime</a>
 </td>
 </tr>
 </table>
