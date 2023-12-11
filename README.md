@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c59ca0ffeef8d8a1790a936a' alt='I Miss Myself (with HRVY)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be4ab46eca6cb3c83df15057' alt='My Enemy' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731f0294c93e08866f689d8c7b' alt='fun out of it' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l'>I Miss Myself (with HRVY)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1KWLVqVGVrPSVFdprFX82P'>My Enemy</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp'>Falling</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK'>fun out of it</a>
 </td>
 </tr>
 </table>
