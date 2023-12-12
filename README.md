@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Enthusiasm is a vital element toward the individual success of every man or woman. - <a href='https://duckduckgo.com/?q=Conrad+Hilton' target='_blank'>Conrad Hilton</a>.</h4>
+<h4 align='center'>If we all did the things we are capable of doing, we would literally astound ourselves. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
