@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give out what you most want to come back. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>Enthusiasm is a vital element toward the individual success of every man or woman. - <a href='https://duckduckgo.com/?q=Conrad+Hilton' target='_blank'>Conrad Hilton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
