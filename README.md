@@ -98,18 +98,6 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Coping' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP'>Coping</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN'>Coping</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI'>Rosie Darling</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235' alt='Everybody Wants To Rule The World' style='width:10%'>
       </td>
       <td>
@@ -120,6 +108,18 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU'>Tears For Fears</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Coping' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP'>Coping</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN'>Coping</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI'>Rosie Darling</a>
       </td>
     </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
