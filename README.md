@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never argue with stupid people, they will drag you down to their level and then beat you with experience. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
+<h4 align='center'>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
