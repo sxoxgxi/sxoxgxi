@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>Often in the real world, it's not the smart that get ahead, but the bold. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
