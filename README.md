@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Often in the real world, it's not the smart that get ahead, but the bold. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
+<h4 align='center'>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
