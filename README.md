@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Find something you love and do it better than everyone else. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
+<h4 align='center'>A bird does not sing because it has an answer. It sings because it has a song. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
