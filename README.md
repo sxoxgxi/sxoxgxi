@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737a1e0215c41f0ce411623301' alt='If I Could Turn Back Time' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27369c54eedcf5e6c0da263d4f5' alt='Industry' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27376f2cb2ac2670e125a4670ca' alt='Goodbye' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273515b72d7c72fc65b017a87ea' alt='Won't Go Home Without You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM'>If I Could Turn Back Time</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0Wmaz9nJwsfRCpO30SSjDP'>Industry</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4VxaUj96W2jw9UOtKHu51p'>Goodbye</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7'>Won't Go Home Without You</a>
 </td>
 </tr>
 </table>
