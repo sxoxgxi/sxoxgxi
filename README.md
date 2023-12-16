@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-All My Heroes -- Radio Edit-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Bad Kingdom-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733f611304c207d30e6c90cec3' alt='All My Heroes - Radio Edit' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2733c60fd8f8ab16cddffa34947' alt='Wishing Well (feat. Lucy Tops)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737a1e0215c41f0ce411623301' alt='If I Could Turn Back Time' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27369c54eedcf5e6c0da263d4f5' alt='Industry' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0TRmtiR9q6XnYDzXmoMpGC'>All My Heroes - Radio Edit</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0imM6cQ9NVfHT4aph5Y9Od'>Wishing Well (feat. Lucy Tops)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM'>If I Could Turn Back Time</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0Wmaz9nJwsfRCpO30SSjDP'>Industry</a>
 </td>
 </tr>
 </table>
