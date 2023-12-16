@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>There exists only the present instant; a Now which always and without end is itself new. - <a href='https://duckduckgo.com/?q=Meister+Eckhart' target='_blank'>Meister Eckhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
