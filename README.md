@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Inner peace is when you realize that, in the end, nothing matters. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>It is dangerous to be right in matters on which the established authorities are wrong. - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
