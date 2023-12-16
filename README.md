@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is dangerous to be right in matters on which the established authorities are wrong. - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
+<h4 align='center'>Find something you love and do it better than everyone else. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
