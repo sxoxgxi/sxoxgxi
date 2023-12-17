@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If light is in your heart, you will find your way home.   - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>The best dreams happen when you're awake. - <a href='https://duckduckgo.com/?q=Cherie+Gilderbloom' target='_blank'>Cherie Gilderbloom</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
