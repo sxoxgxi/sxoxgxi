@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Sometimes, the only way to evolve is to open ourselves fully. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>If light is in your heart, you will find your way home.   - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
