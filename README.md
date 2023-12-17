@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A leader is one who knows the way, goes the way, and shows the way. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Sometimes, the only way to evolve is to open ourselves fully. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-In the Woods Somewhere-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732303ece0e9af3917d0bce05f' alt='In The Woods Somewhere' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cb01356c79a19b7954524188' alt='Anthracite Fields: IV. Flowers' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c5125d841ebd072313fd3139' alt='Inside' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737da3504b2ba9f1ecb43e0ac2' alt='Broken Sleep' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5LDb4ZwsEAar1EIFd9iTkF'>In The Woods Somewhere</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6zyRNdOZbIX9U2LszJf8mq'>Anthracite Fields: IV. Flowers</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3QhttoXLlJwhxtAcsRcX9L'>Inside</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6ilOjlJMBMSAWolY3xHZ1i'>Broken Sleep</a>
 </td>
 </tr>
 </table>
