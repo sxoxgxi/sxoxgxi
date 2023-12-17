@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Muddy water is best cleared by leaving it alone. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
+<h4 align='center'>Failure is the key to success; each mistake teaches us something. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
