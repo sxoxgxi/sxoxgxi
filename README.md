@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The best dreams happen when you're awake. - <a href='https://duckduckgo.com/?q=Cherie+Gilderbloom' target='_blank'>Cherie Gilderbloom</a>.</h4>
+<h4 align='center'>You are the average of the five people you spend most time with. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
