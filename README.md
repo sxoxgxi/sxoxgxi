@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A bird does not sing because it has an answer. It sings because it has a song. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>You are what you believe yourself to be. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
