@@ -64,16 +64,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
-</td>
-<td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4' alt='Olivia Rodrigo' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
-<td>
-<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
-</td>
 <td>
 <a href='https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG' target='_blank'>Olivia Rodrigo</a>
 </td>
@@ -140,18 +134,6 @@
       <a href='https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI'>Rosie Darling</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2730d0621554b1c6c9dbf3556be' alt='Make You Mine - Acoustic' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/65Ki57yTO2fXdtKPOaS15n'>Make You Mine - Acoustic</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214'>Make You Mine</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex'>PUBLIC</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Die For You' style='width:10%'>
       </td>
       <td>
@@ -162,6 +144,18 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK'>Out Of Time (25th Anniversary Edition)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg'>R.E.M.</a>
       </td>
     </tr></table>
 </p topsongs>
