@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
