@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All problems are illusions of the mind. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
