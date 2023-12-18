@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The secret of change is to focus all your energy not on fighting the old, but on building the new. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>In order to be walked over, you have to be lying down. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -15,7 +15,7 @@
   <a href='https://sxoxgxi.github.io/'>
     <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sxoxgxi.github.io/'>
   </a>
-  <img src='https://img.shields.io/badge/Layout-Unsynced-red' class='layout'>
+  <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
