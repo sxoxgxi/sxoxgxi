@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In order to be walked over, you have to be lying down. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>Never allow a person to tell you no who doesn't have the power to say yes. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
