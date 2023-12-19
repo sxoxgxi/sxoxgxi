@@ -97,66 +97,6 @@
       <td>
       <h2>Artist</h2>
       </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G'>Somewhere Only We Know</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd'>Hopes And Fears</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz'>Keane</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235' alt='Everybody Wants To Rule The World' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE'>Everybody Wants To Rule The World</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W'>Songs From The Big Chair (Super Deluxe Edition)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU'>Tears For Fears</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Die For You' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz'>Die For You</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe'>Starboy</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
-      </td>
     </tr></table>
 </p topsongs>
 <table classification align='center'>
