@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27311ef07dfb622a5d7aac57f22' alt='My Body Is A Cage' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732303ece0e9af3917d0bce05f' alt='In The Woods Somewhere' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273cb01356c79a19b7954524188' alt='Anthracite Fields: IV. Flowers' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c5125d841ebd072313fd3139' alt='Inside' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/4twUOeCkhmAAe9SPteYlD0'>My Body Is A Cage</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5LDb4ZwsEAar1EIFd9iTkF'>In The Woods Somewhere</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6zyRNdOZbIX9U2LszJf8mq'>Anthracite Fields: IV. Flowers</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3QhttoXLlJwhxtAcsRcX9L'>Inside</a>
 </td>
 </tr>
 </table>
