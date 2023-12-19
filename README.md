@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-CWJBHN-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Godzilla (feat. Juice WRLD)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bed2d78b153a97b2ea9d55d7' alt='CWJBHN' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bdcc1b27dac22bfb3a57c2de' alt='this is how you fall in love' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273634b74c10bd6bd540829a1f0' alt='A Little Bit Yours (feat. Eric Chou) - Mandarin Version' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218' alt='The Man Who Can't Be Moved' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7iUvAa3bxGrNoVmpjZyWOU'>CWJBHN</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS'>this is how you fall in love</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5iG5lMF8hwVDHtvAa1WoMQ'>A Little Bit Yours (feat. Eric Chou) - Mandarin Version</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf'>The Man Who Can't Be Moved</a>
 </td>
 </tr>
 </table>
