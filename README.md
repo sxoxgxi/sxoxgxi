@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never allow a person to tell you no who doesn't have the power to say yes. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>The person who is his own master cannot tolerate another boss.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -122,18 +122,6 @@
       <a href='https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU'>Tears For Fears</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2735a2c092335c5efe35231d37e' alt='Coping' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP'>Coping</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN'>Coping</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI'>Rosie Darling</a>
-      </td>
-    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Die For You' style='width:10%'>
       </td>
       <td>
@@ -146,16 +134,28 @@
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd' alt='Losing My Religion' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx'>Losing My Religion</a>
+      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK'>Out Of Time (25th Anniversary Edition)</a>
+      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg'>R.E.M.</a>
+      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
       </td>
     </tr></table>
 </p topsongs>
