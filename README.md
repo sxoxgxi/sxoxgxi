@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Difficult and meaningful will always bring more satisfaction than easy and meaningless. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>It is only depth of character that determines the profundity with which we face life. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
