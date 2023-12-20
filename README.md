@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Question everything. Learn something. Answer nothing. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
+<h4 align='center'>There's more to life than being a passenger. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
