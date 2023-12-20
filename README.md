@@ -64,10 +64,16 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4' alt='Olivia Rodrigo' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
+</td>
 <td>
 <a href='https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG' target='_blank'>Olivia Rodrigo</a>
 </td>
