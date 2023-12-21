@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Joke's On You-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-If the World Was Ending (feat. Julia Michaels)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0' alt='Joke's On You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c7d6fe09dfe4af1580e59705' alt='Double Fantasy (with Future)' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27348b0cbf55eeb61112436f8bd' alt='Let Me Down Easy (Lie)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2D0FX6WiP1GKGL3yCdXxs7'>Joke's On You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi'>Double Fantasy (with Future)</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc'>Let Me Down Easy (Lie)</a>
 </td>
 </tr>
 </table>
