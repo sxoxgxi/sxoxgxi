@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Hey Stupid, I Love You-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Till I Collapse-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dedbec8cca43642f06533476' alt='If the World Was Ending (feat. Julia Michaels)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0' alt='Joke's On You' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b' alt='Where Are You Now' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ'>If the World Was Ending (feat. Julia Michaels)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/2D0FX6WiP1GKGL3yCdXxs7'>Joke's On You</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z'>Where Are You Now</a>
 </td>
 </tr>
 </table>
