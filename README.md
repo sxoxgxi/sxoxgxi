@@ -64,16 +64,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
-</td>
-<td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4' alt='Olivia Rodrigo' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
-<td>
-<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
-</td>
 <td>
 <a href='https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG' target='_blank'>Olivia Rodrigo</a>
 </td>
@@ -140,28 +134,28 @@
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e98ee720a1fa73d9e1ada72' alt='A Thousand Years' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273be4ab46eca6cb3c83df15057' alt='My Enemy' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/03H03k1F6t3VqCSPRBtuHk'>A Thousand Years</a>
+      <a href='https://open.spotify.com/track/1KWLVqVGVrPSVFdprFX82P'>My Enemy</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V'>The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)</a>
+      <a href='https://open.spotify.com/album/6KryVMOVYKtpjIWATVvncW'>My Enemy</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'>Christina Perri</a>
+      <a href='https://open.spotify.com/artist/3vW2C8pYjG9h9XzItnqDq7'>Kalinki</a>
       </td>
     </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf' alt='What Am I' style='width:10%'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:10%'>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G'>What Am I</a>
+      <a href='https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp'>Falling</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0'>Big Plans</a>
+      <a href='https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml'>Fine Line</a>
       </td>
       <td>
-      <a href='https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2'>Why Don't We</a>
+      <a href='https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3'>Harry Styles</a>
       </td>
     </tr></table>
 </p topsongs>
