@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Mastermind-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Make You Mine-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Mastermind' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb' alt='Cupid - Twin Ver.' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e741cd9dc139d57cc2906186' alt='iPad' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452' alt='Nothing Without You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH'>Mastermind</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7'>Cupid - Twin Ver.</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4edHoZerfvMGeLz3ohZit6'>iPad</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw'>Nothing Without You</a>
 </td>
 </tr>
 </table>
