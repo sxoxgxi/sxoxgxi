@@ -1,4 +1,4 @@
-![image](https://github.com/sxoxgxi/sxoxgxi/assets/82437025/05901b2d-1c52-4a2b-a9c6-261b51e71818)<h1 align='center'>
+<h1 align='center'>
   <br>
   <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='avatar.png' alt='Sogi' width='200'></a>
   <br>
@@ -22,22 +22,6 @@
     <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
-
-<!------ Tools I Use ------>
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,python,bash,powershell,react,vite,nextjs,nodejs,flask,django,fastapi,mongodb,postgresql,mysql,sqlite,git&perline=7" />
-  </a>
-  <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,autocad,figma,postman,vscode" />
-  </a>
-  </p>
-</p>
-
-<!------ Tools I Use ------>
-
 <!------ RECENTLY PLAYED ------>
 
 <p recentlyplayed, float='left'>
