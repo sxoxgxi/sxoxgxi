@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Angel Baby -- Acoustic-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-blur-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322e9fc891229db2fd2fafac8' alt='Angel Baby - Acoustic' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739ee734a46d5a3789d7b867dc' alt='Black Catcher' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4' alt='Till I Collapse' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2739a80008aef66fa8fdf79fcad' alt='Hey Stupid, I Love You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0hgX5eAmzQZTD2zTnXnSdB'>Angel Baby - Acoustic</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix'>Black Catcher</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS'>Till I Collapse</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc'>Hey Stupid, I Love You</a>
 </td>
 </tr>
 </table>
