@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Palladium-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Trampoline (with ZAYN)-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b32d2b30f890b578da3aaff1' alt='Palladium' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273712b04bf23d1d1bbfab83ead' alt='Heaven' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273dde89ed5467883693b9489d1' alt='Fit In' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731a12c03676b1f8475b972eac' alt='Bleeding Love' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I'>Palladium</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6'>Heaven</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6RdvN1k0MCsCwUmsKPCqI5'>Fit In</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/19UR10Y2LQwlUn3Fv9gVq4'>Bleeding Love</a>
 </td>
 </tr>
 </table>
