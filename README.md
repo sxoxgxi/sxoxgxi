@@ -160,7 +160,7 @@
     </tr></table>
 </p topsongs>
 <table classification align='center'>
-  <td>Music Mood is 😔: Sad | Happiness Level: 38% | Current Taste: Energetic and Danceable Music</td>
+  <td>Music Mood is 😔: Sad | Happiness Level: 33% | Current Taste: Difficult to classify Music</td>
 </table classification>
 <!------ .TOP SONGS ------>
 <p align='center'>
