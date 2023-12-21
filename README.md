@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Take My Breath' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2738fcd1d374b2a800ae288a487' alt='Akuma no Ko' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ea8608f19d2bf0b5198f2cc' alt='Traffic Light' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27341b3d8be0a027ed15ec64337' alt='What A Wonderful World' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b'>Take My Breath</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ'>Akuma no Ko</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/0vFlzyabdl9mi1NKUcQDC2'>Traffic Light</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/1HVCTkwQwbYQvNjiv4Os8d'>What A Wonderful World</a>
 </td>
 </tr>
 </table>
