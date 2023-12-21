@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/Sogi-Offline-&?style=social&logo=spotify">
   </a>
 </p status>
+
+
 <!------ RECENTLY PLAYED ------>
 
 <p recentlyplayed, float='left'>
