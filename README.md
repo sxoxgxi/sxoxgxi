@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736ea8608f19d2bf0b5198f2cc' alt='Traffic Light' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27341b3d8be0a027ed15ec64337' alt='What A Wonderful World' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d' alt='Let Somebody Go' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d2d06ef290242dec53e2b592' alt='Automatic' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/0vFlzyabdl9mi1NKUcQDC2'>Traffic Light</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1HVCTkwQwbYQvNjiv4Os8d'>What A Wonderful World</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf'>Let Somebody Go</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/2tB05aqWu7QvgTxHiusN6Q'>Automatic</a>
 </td>
 </tr>
 </table>
