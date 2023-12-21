@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Just for a Moment -- From "High School Musical: The Musical: The Series"-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Won't Go Home Without You-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736aae0560fbc2d06e2ba81faa' alt='Just for a Moment - From "High School Musical: The Musical: The Series"' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Everybody Wants You' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27353d6f7a28c0f2a28e0649882' alt='Scars' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d' alt='MONTERO (Call Me By Your Name) - SATAN'S EXTENDED VERSION' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/5Yc2A0YtK6PaXT8J1MQ0Rd'>Just for a Moment - From "High School Musical: The Musical: The Series"</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/48EDM7iimVXiKEOdo4AJk6'>Everybody Wants You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0'>Scars</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7JvmJDDMZMvWaWARsWK9Da'>MONTERO (Call Me By Your Name) - SATAN'S EXTENDED VERSION</a>
 </td>
 </tr>
 </table>
