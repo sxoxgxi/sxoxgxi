@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-143-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-Advertisement 😞-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c019b2849374166b99827cb1' alt='143' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f' alt='Hide (feat. Seezyn)' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b' alt='This City' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929' alt='Circles' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6LGQW024QjUswmIKFrl0dh'>143</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w'>Hide (feat. Seezyn)</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt'>This City</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6vLwsGft7DnZixQVgFlKgU'>Circles</a>
 </td>
 </tr>
 </table>
