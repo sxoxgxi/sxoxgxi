@@ -19,7 +19,7 @@
 </p socials>
 <p status, align='center'>
   <a href='https://open.spotify.com/user/317777c47jvjnq6zzzwbijw6gbmi?si=d1aee88debdf46d8'>
-    <img src="https://img.shields.io/badge/Playing-Circles-&?style=social&logo=spotify">
+    <img src="https://img.shields.io/badge/Playing-This City-&?style=social&logo=spotify">
   </a>
 </p status>
 <!------ RECENTLY PLAYED ------>
@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929' alt='Circles' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273515b72d7c72fc65b017a87ea' alt='Won't Go Home Without You' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736aae0560fbc2d06e2ba81faa' alt='Just for a Moment - From "High School Musical: The Musical: The Series"' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd' alt='Everybody Wants You' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/6vLwsGft7DnZixQVgFlKgU'>Circles</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7'>Won't Go Home Without You</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5Yc2A0YtK6PaXT8J1MQ0Rd'>Just for a Moment - From "High School Musical: The Musical: The Series"</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/48EDM7iimVXiKEOdo4AJk6'>Everybody Wants You</a>
 </td>
 </tr>
 </table>
