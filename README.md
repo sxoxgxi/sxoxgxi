@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There's more to life than being a passenger. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. - <a href='https://duckduckgo.com/?q=James+Matthew+Barrie' target='_blank'>James Matthew Barrie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
@@ -23,6 +23,18 @@
   </a>
 </p status>
 
+<!------ Tools I Use ------>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,python,bash,powershell,react,vite,nextjs,nodejs,flask,django,fastapi,mongodb,postgresql,mysql,sqlite,git&perline=7" />
+  </a>
+  <p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,autocad,figma,postman,vscode" />
+  </a>
+  </p>
+</p>
+<!------ Tools I Use ------>
 
 <!------ RECENTLY PLAYED ------>
 
