@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. - <a href='https://duckduckgo.com/?q=James+Matthew+Barrie' target='_blank'>James Matthew Barrie</a>.</h4>
+<h4 align='center'>Every blessing ignored becomes a curse. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
