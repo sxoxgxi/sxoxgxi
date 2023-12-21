@@ -31,24 +31,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731a12c03676b1f8475b972eac' alt='Bleeding Love' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36' alt='A Little Bit Yours' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273c019b2849374166b99827cb1' alt='143' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f' alt='Hide (feat. Seezyn)' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/19UR10Y2LQwlUn3Fv9gVq4'>Bleeding Love</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA'>A Little Bit Yours</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6LGQW024QjUswmIKFrl0dh'>143</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w'>Hide (feat. Seezyn)</a>
 </td>
 </tr>
 </table>
