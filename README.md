@@ -45,24 +45,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Here We Go… Again (feat. Tyler, the Creator)' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273a518bbe4562f725fabed618d' alt='Be Okay' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d' alt='Starry Eyes' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0' alt='fingers crossed' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf'>Here We Go… Again (feat. Tyler, the Creator)</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY'>Be Okay</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY'>Starry Eyes</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y'>fingers crossed</a>
 </td>
 </tr>
 </table>
