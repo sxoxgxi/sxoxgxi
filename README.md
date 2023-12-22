@@ -78,10 +78,10 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebc4e3e690d7e1d1cd06692a32' alt='Johnny Orlando' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb' alt='The Weeknd' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebc4e3e690d7e1d1cd06692a32' alt='Johnny Orlando' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe5ad2bb4e1b1795a1a4bc713' alt='JP Saxe' style='width:50%'>
@@ -89,10 +89,10 @@
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW' target='_blank'>Johnny Orlando</a>
+<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
+<a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW' target='_blank'>Johnny Orlando</a>
 </td>
 <td>
 <a href='https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe' target='_blank'>JP Saxe</a>
