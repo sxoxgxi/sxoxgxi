@@ -84,7 +84,7 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebc4e3e690d7e1d1cd06692a32' alt='Johnny Orlando' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4' alt='Olivia Rodrigo' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebf7f92c35d54d37bf8a0a4ca1' alt='Jeremy Zucker' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
@@ -95,7 +95,7 @@
 <a href='https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW' target='_blank'>Johnny Orlando</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG' target='_blank'>Olivia Rodrigo</a>
+<a href='https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3' target='_blank'>Jeremy Zucker</a>
 </td>
 </tr>
 </table>
