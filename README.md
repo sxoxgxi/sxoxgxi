@@ -148,6 +148,18 @@
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e3049fef96abebf336b7366' alt='Hall of Fame (feat. will.i.am)' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX'>Hall of Fame (feat. will.i.am)</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj'>#3 Deluxe Version</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'>The Script</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27322e9fc891229db2fd2fafac8' alt='Angel Baby - Acoustic' style='width:10%'>
       </td>
       <td>
@@ -170,18 +182,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3vW2C8pYjG9h9XzItnqDq7'>Kalinki</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a' alt='Falling' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp'>Falling</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml'>Fine Line</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3'>Harry Styles</a>
       </td>
     </tr></table>
 </p topsongs>
