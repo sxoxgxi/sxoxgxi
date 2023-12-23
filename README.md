@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Supreme excellence consists of breaking the enemy's resistance without fighting. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
+<h4 align='center'>Invisible things are the only realities. - <a href='https://duckduckgo.com/?q=Edgar+Allan+Poe' target='_blank'>Edgar Allan Poe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
