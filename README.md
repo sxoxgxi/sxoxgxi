@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>On the other side of the clouds is a bright blue sky. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Don't cry because it's over. Smile because it happened. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
