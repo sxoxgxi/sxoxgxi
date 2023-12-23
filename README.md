@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Invisible things are the only realities. - <a href='https://duckduckgo.com/?q=Edgar+Allan+Poe' target='_blank'>Edgar Allan Poe</a>.</h4>
+<h4 align='center'>Wisdom is doing now what you are going to be happy with later on. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
