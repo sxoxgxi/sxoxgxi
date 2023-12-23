@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>On the other side of the clouds is a bright blue sky. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Sorrow is how we learn to love. - <a href='https://duckduckgo.com/?q=Rita+Mae+Brown' target='_blank'>Rita Mae Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
