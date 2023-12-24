@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Friends ask you questions; enemies question you. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
