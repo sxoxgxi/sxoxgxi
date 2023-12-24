@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Even if you persuade me, you won't persuade me. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
+<h4 align='center'>Friends ask you questions; enemies question you. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
