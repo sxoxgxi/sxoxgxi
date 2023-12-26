@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You cannot push anyone up a ladder unless he is willing to climb a little himself. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>The wise learn many things from their enemies. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
