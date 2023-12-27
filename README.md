@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The wise learn many things from their enemies. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
+<h4 align='center'>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
