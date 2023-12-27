@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Live and act within the limit of your knowledge and keep expanding it to the limit of your life. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
+<h4 align='center'>Problems remain as problems because people are busy defending them rather than finding solutions. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
