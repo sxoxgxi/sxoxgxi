@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Live and act within the limit of your knowledge and keep expanding it to the limit of your life. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
