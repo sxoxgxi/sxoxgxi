@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Many of life's failures are people who did not realize how close they were to success when they gave up. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
+<h4 align='center'>You live by what you thrill to, and there's the end of it. - <a href='https://duckduckgo.com/?q=D.+H.+Lawrence' target='_blank'>D. H. Lawrence</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
