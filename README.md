@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are as many opinions as there are experts. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
