@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
+<h4 align='center'>Be confident, not certain. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
