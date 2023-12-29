@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Either you choose to stay in the shallow end of the pool or you go out into the ocean. - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
+<h4 align='center'>There are as many opinions as there are experts. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
