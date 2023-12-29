@@ -45,24 +45,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734befa851e1014bd78b0fe686' alt='Holz' style='width:50%'>
+</td>
+<td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b273d21c9fb9186da390f8269c6e' alt='Ein Kompliment' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b2731001909836241b315f04dcbc' alt='Gewinner - Single Version / Remastered 2014' style='width:50%'>
 </td>
-<td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:50%'>
-</td>
 </tr>
 <tr align='center'>
+<td>
+<a href='https://open.spotify.com/track/20ecx8o3II4wMmoDA7jjPf'>Holz</a>
+</td>
 <td>
 <a href='https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX'>Ein Kompliment</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/6q2c8lBLDzP372QgHl9JsS'>Gewinner - Single Version / Remastered 2014</a>
-</td>
-<td>
-<a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
 </td>
 </tr>
 </table>
