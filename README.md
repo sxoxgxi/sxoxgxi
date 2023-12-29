@@ -45,24 +45,24 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737e51ffd6a2e8f77ffd56bb8f' alt='99 Luftballons' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273556adb8ceb7aa0097a415b1b' alt='Sofia' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e' alt='21' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
+<a href='https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3'>99 Luftballons</a>
 </td>
 <td>
 <a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU'>Sofia</a>
+<a href='https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX'>21</a>
 </td>
 </tr>
 </table>
