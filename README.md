@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No man can get rich himself unless he enriches others. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
