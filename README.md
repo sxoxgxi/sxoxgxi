@@ -124,6 +124,18 @@
       <h2>Artist</h2>
       </td>
     </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b102bbbe5b962a6df7b23eb' alt='Brand New Day' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0EX7aOUwiavTRmYmMefCJ5'>Brand New Day</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/09mIzHx4Ol4az9I628FzEI'>Brand New Day</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi'>Rei Yasuda</a>
+      </td>
+    </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33' alt='Somewhere Only We Know' style='width:10%'>
       </td>
       <td>
@@ -170,18 +182,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2732e3049fef96abebf336b7366' alt='Hall of Fame (feat. will.i.am)' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX'>Hall of Fame (feat. will.i.am)</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj'>#3 Deluxe Version</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'>The Script</a>
       </td>
     </tr></table>
 </p topsongs>
