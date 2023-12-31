@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more you are grateful for what you have the more you will have to be grateful for.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>He is not a lover who does not love forever. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
