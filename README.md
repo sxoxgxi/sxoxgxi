@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He is not a lover who does not love forever. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
+<h4 align='center'>A mistake is only an error, it becomes a mistake when you fail to correct it. - <a href='https://duckduckgo.com/?q=John+Lennon' target='_blank'>John Lennon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
