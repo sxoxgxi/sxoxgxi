@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Motivation is what gets you started. Habit is what keeps you going. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>While we may not be able to control all that happens to us, we can control what happens inside us. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
