@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
+<h4 align='center'>You came empty handed, and you will leave empty handed. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
