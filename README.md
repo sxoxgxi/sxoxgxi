@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Love is the absence of judgment. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>Act as if what you do makes a difference. It does. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
