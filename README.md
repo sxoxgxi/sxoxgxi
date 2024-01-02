@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Act as if what you do makes a difference. It does. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>He who cannot be a good follower cannot be a good leader. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
