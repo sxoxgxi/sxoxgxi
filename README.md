@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you change the way you look at things, the things you look at change.  - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>Small men think they are small; great men never know they are great.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
