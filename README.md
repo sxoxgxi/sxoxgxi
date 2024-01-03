@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You came empty handed, and you will leave empty handed. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
+<h4 align='center'>Your happiness is what truly matters most. Do what you have to do in order to be happy. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
