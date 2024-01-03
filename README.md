@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Small men think they are small; great men never know they are great.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Adventure is not outside man; it is within. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
