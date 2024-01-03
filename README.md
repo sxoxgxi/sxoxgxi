@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>You came empty handed, and you will leave empty handed. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
