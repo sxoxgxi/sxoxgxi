@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your happiness is what truly matters most. Do what you have to do in order to be happy. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>The only time you run out of chances is when you stop taking them. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
