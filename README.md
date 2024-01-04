@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Adventure is not outside man; it is within. - <a href='https://duckduckgo.com/?q=George+Eliot' target='_blank'>George Eliot</a>.</h4>
+<h4 align='center'>Obstacles are those frightful things you see when you take your eyes off your goals. - <a href='https://duckduckgo.com/?q=Sydney+Smith' target='_blank'>Sydney Smith</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
