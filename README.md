@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The world is a puzzle; no need to make sense out of it. - <a href='https://duckduckgo.com/?q=Socrates' target='_blank'>Socrates</a>.</h4>
+<h4 align='center'>Cleverness is not wisdom. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
