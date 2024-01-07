@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Cleverness is not wisdom. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
+<h4 align='center'>The dreamers are the saviors of the worlds. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
