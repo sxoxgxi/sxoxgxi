@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The dreamers are the saviors of the worlds. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>What we know is a drop, what we don't know is an ocean.  - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
