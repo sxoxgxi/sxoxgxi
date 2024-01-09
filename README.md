@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What we know is a drop, what we don't know is an ocean.  - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
+<h4 align='center'>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
