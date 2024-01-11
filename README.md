@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A person is only by the thoughts that he chooses. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>I admire those who do good and expect nothing in return. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
