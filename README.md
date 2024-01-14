@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is only real, when shared. - <a href='https://duckduckgo.com/?q=Christopher+McCandless' target='_blank'>Christopher McCandless</a>.</h4>
+<h4 align='center'>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
