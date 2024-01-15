@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>Do not look for a sanctuary in anyone except your self. - <a href='https://duckduckgo.com/?q=Buddha' target='_blank'>Buddha</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
