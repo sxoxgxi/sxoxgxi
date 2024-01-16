@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do not look for a sanctuary in anyone except your self. - <a href='https://duckduckgo.com/?q=Buddha' target='_blank'>Buddha</a>.</h4>
+<h4 align='center'>The source of a true smile is an awakened mind. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
