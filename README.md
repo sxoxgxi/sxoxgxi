@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
