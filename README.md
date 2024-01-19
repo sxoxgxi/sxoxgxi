@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>You cannot have a positive life and a negative mind. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
