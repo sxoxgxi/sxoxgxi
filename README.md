@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You cannot have a positive life and a negative mind. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
+<h4 align='center'>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
