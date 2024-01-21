@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
+<h4 align='center'>Knowledge is a treasure, but practice is the key to it. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
