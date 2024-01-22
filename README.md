@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Knowledge is a treasure, but practice is the key to it. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>Anyone who reads a book with a sense of obligation does not understand the art of reading. - <a href='https://duckduckgo.com/?q=Lin+Yutang' target='_blank'>Lin Yutang</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
