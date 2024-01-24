@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only when I fall do I get up again. - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>No one ever is defeated until defeat has been accepted as a reality. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
