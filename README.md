@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Teachers open the door. You enter by yourself.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>If you're afraid to die, you're afraid to live. You can't have one without the other. - <a href='https://duckduckgo.com/?q=Rita+Mae+Brown' target='_blank'>Rita Mae Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
