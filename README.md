@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you're afraid to die, you're afraid to live. You can't have one without the other. - <a href='https://duckduckgo.com/?q=Rita+Mae+Brown' target='_blank'>Rita Mae Brown</a>.</h4>
+<h4 align='center'>Where you are right now doesn't have to determine where you'll end up. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
