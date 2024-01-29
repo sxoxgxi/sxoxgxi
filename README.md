@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't let the silly little dramas of each day get you down. For you are here to do great things. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
+<h4 align='center'>Ideas do not reach perfection in a day, no matter how much study is put upon them. - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
