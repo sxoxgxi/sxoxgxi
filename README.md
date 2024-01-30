@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Ideas do not reach perfection in a day, no matter how much study is put upon them. - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
+<h4 align='center'>He will win who knows when to fight and when not to fight. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
