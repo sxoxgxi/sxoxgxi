@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Normal is the average of deviance. - <a href='https://duckduckgo.com/?q=Rita+Mae+Brown' target='_blank'>Rita Mae Brown</a>.</h4>
+<h4 align='center'>Imagination means nothing without doing.   - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
