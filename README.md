@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is no fear for one whose mind is not filled with desires. - <a href='https://duckduckgo.com/?q=Buddha' target='_blank'>Buddha</a>.</h4>
+<h4 align='center'>Life is ours to be spent, not to be saved.  - <a href='https://duckduckgo.com/?q=D.+H.+Lawrence' target='_blank'>D. H. Lawrence</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
