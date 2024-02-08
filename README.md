@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is ours to be spent, not to be saved.  - <a href='https://duckduckgo.com/?q=D.+H.+Lawrence' target='_blank'>D. H. Lawrence</a>.</h4>
+<h4 align='center'>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
