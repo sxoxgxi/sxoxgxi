@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - <a href='https://duckduckgo.com/?q=Socrates' target='_blank'>Socrates</a>.</h4>
+<h4 align='center'>Only the educated are free. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
