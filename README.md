@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better. - <a href='https://duckduckgo.com/?q=Spencer+Johnson' target='_blank'>Spencer Johnson</a>.</h4>
+<h4 align='center'>It is during our darkest moments that we must focus to see the light. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
