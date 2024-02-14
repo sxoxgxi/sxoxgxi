@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Awakening is possible only for those who seek it and want it. - <a href='https://duckduckgo.com/?q=G.I.+Gurdjieff' target='_blank'>G.I. Gurdjieff</a>.</h4>
+<h4 align='center'>To seek is to suffer. To seek nothing is bliss. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
