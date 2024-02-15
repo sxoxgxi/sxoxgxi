@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To seek is to suffer. To seek nothing is bliss. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
+<h4 align='center'>It ain't where you start in life, it's where you end up, and what you did along the way. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
