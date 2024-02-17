@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Decide whether or not the goal is worth the risks involved. If it is, stop worrying. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>Today you are you, that is truer than true. There is no one alive who is you-er than you. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
