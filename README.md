@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You don't have to control your thoughts; you just have to stop letting them control you. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>Do anything, but let it produce joy. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
