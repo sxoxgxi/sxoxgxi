@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do anything, but let it produce joy. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
+<h4 align='center'>Don't let them drag you down by rumors. Just go with what you believe in. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
