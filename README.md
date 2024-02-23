@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The older you get, the better you get. Unless you're a banana. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
+<h4 align='center'>Dreams are the touchstones of our characters. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
