@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Dreams are the touchstones of our characters. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>The person who is his own master cannot tolerate another boss.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
