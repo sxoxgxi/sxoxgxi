@@ -1,3 +1,5 @@
+
+<small>Server offline</small>
 <h1 align='center'>
   <br>
   <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='avatar.png' alt='Sogi' width='200'></a>
