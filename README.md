@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The energy of the mind is the essence of life. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>It is useless to meet revenge with revenge; it will heal nothing. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
