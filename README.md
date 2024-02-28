@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you believe you can, you can. If you believe you can't, then, well you can't. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>No one returns from a long journey the same person they were before. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
