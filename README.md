@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Go for it now. The future is promised to no one.  - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>Forgive yourself for your faults and your mistakes and move on. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
