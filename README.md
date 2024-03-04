@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When something is important enough, you do it even if the odds are not in your favor. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
