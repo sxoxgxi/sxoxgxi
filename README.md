@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>We would accomplish many more things if we did not think of them as impossible. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
