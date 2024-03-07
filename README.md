@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The purpose of life is the life of purpose. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>I live by letting things happen. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
