@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I live by letting things happen. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
+<h4 align='center'>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power! - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
