@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All men who have achieved great things have been great dreamers.  - <a href='https://duckduckgo.com/?q=Orison+Swett+Marden' target='_blank'>Orison Swett Marden</a>.</h4>
+<h4 align='center'>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
