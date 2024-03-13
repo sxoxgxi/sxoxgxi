@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Winners don't Quit. That's why they Win. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Your mind is infinite, it's your doubts that are limiting. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
