@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your mind is infinite, it's your doubts that are limiting. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
+<h4 align='center'>Only by attracting the best people will you accomplish great deeds. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
