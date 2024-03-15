@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only by attracting the best people will you accomplish great deeds. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>Sometimes it is harder to deprive oneself of a pain than of a pleasure. - <a href='https://duckduckgo.com/?q=F.+Scott+Fitzgerald' target='_blank'>F. Scott Fitzgerald</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
