@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Sometimes it is harder to deprive oneself of a pain than of a pleasure. - <a href='https://duckduckgo.com/?q=F.+Scott+Fitzgerald' target='_blank'>F. Scott Fitzgerald</a>.</h4>
+<h4 align='center'>He who knows how to wait need make no concessions. - <a href='https://duckduckgo.com/?q=Sigmund+Freud' target='_blank'>Sigmund Freud</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
