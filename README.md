@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He who knows how to wait need make no concessions. - <a href='https://duckduckgo.com/?q=Sigmund+Freud' target='_blank'>Sigmund Freud</a>.</h4>
+<h4 align='center'>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
