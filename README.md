@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
+<h4 align='center'>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
