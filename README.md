@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
+<h4 align='center'>Life is much more successfully looked at from a single window. - <a href='https://duckduckgo.com/?q=F.+Scott+Fitzgerald' target='_blank'>F. Scott Fitzgerald</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
