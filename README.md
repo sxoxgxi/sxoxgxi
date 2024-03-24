@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Fears are nothing more than a state of mind. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>If you run you stand a chance of losing, but if you don't run you've already lost. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
