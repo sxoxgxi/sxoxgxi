@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Sometimes good things fall apart so better things can fall together. - <a href='https://duckduckgo.com/?q=Marilyn+Monroe' target='_blank'>Marilyn Monroe</a>.</h4>
+<h4 align='center'>None are more hopelessly enslaved than those who falsely believe they are free. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
