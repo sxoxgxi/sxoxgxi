@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>None are more hopelessly enslaved than those who falsely believe they are free. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
+<h4 align='center'>The guest will judge better of a feast than the cook. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
