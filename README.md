@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The guest will judge better of a feast than the cook. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Memory is the scribe of the soul. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
