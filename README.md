@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The key to success is failure. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>Success is going from failure to failure without losing your enthusiasm - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
