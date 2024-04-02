@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Leaders think and talk about solutions. Followers think and talk about the problems. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Be a master of change rather than a victim of change. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
