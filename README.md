@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing important is learned; it is simply remembered. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
+<h4 align='center'>He that can have patience can have what he will. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
