@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your imagination is your preview of life's coming attractions. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
+<h4 align='center'>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
