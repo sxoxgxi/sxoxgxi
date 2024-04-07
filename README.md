@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
