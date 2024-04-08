@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
+<h4 align='center'>The secret of happiness is not in doing what you like but in liking what you have to do. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
