@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The secret of happiness is not in doing what you like but in liking what you have to do. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>Failure is a great teacher. If you're open to it every mistake has a lesson to offer. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
