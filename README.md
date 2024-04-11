@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you're not failing every now and again, it's a sign you're not doing anything very innovative. - <a href='https://duckduckgo.com/?q=Woody+Allen' target='_blank'>Woody Allen</a>.</h4>
+<h4 align='center'>Success is the sum of small efforts, repeated day in and day out. - <a href='https://duckduckgo.com/?q=Robert+Collier' target='_blank'>Robert Collier</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
