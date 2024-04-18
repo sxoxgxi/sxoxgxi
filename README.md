@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Making your mark on the world is hard. If it were easy, everybody would do it. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
+<h4 align='center'>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
