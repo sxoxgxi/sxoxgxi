@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The heart that gives, gathers. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>To succeed takes more than the desire to win. It also takes the acceptance that we could fail. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
