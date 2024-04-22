@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To succeed takes more than the desire to win. It also takes the acceptance that we could fail. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
+<h4 align='center'>Friends ask you questions; enemies question you. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
