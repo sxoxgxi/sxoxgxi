@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When people are free to do as they please, they usually imitate each other. - <a href='https://duckduckgo.com/?q=Eric+Hoffer' target='_blank'>Eric Hoffer</a>.</h4>
+<h4 align='center'>There are no secrets to success. It is the result of preparation, hard work, and learning from failure. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
