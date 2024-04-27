@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The Art of Peace begins with you. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Remember the entrance to the sanctuary is inside you. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
