@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remember the entrance to the sanctuary is inside you. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
