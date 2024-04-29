@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>It's not how much we give but how much love we put into giving. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
