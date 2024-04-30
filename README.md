@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's not how much we give but how much love we put into giving. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Life has more imagination than we carry in our dreams. - <a href='https://duckduckgo.com/?q=Christopher+Columbus' target='_blank'>Christopher Columbus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
