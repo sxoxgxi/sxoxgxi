@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life has more imagination than we carry in our dreams. - <a href='https://duckduckgo.com/?q=Christopher+Columbus' target='_blank'>Christopher Columbus</a>.</h4>
+<h4 align='center'>Failure will never overtake me if my determination to succeed is strong enough. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
