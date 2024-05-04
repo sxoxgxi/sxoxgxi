@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Successful people do what unsuccessful people are not willing to do. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>All human beings can alter their lives by altering their attitudes. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
