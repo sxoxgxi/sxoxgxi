@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All human beings can alter their lives by altering their attitudes. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>Nothing will work unless you do. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
