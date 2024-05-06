@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing will work unless you do. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
+<h4 align='center'>When it is dark enough, you can see the stars. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
