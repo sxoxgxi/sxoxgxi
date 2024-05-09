@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>Self-control is strength. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
