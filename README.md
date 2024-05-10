@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Self-control is strength. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>If you can't explain it simply, you don't understand it well enough. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
