@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I learned the value of hard work by working hard.  - <a href='https://duckduckgo.com/?q=Margaret+Mead' target='_blank'>Margaret Mead</a>.</h4>
+<h4 align='center'>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
