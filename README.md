@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>When you repeat a mistake, it is not a mistake anymore: it is a decision. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
