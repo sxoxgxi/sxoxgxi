@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You never know when a moment and a few sincere words can have an impact on a life.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>Hope means hoping when everything seems hopeless. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
