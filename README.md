@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You are always your own best guru, your own best teacher, the answers are always inside you. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>Opportunity is missed by most people because it is dressed in overalls and looks like work. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
