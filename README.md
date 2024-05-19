@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Opportunity is missed by most people because it is dressed in overalls and looks like work. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
+<h4 align='center'>If you are ever the smartest person in the room, you are in the wrong room. - <a href='https://duckduckgo.com/?q=C.+Sean+McGee' target='_blank'>C. Sean McGee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
