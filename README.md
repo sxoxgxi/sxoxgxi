@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The healthiest response to life is joy. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>No man becomes rich unless he enriches others. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
