@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>He who cannot be a good follower cannot be a good leader. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
