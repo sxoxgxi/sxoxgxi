@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He who cannot be a good follower cannot be a good leader. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Every moment is a fresh beginning. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
