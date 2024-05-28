@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every moment is a fresh beginning. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>All you need is the plan, the road map, and the courage to press on to your destination. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
