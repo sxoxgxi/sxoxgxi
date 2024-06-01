@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If we know how to adapt, we end up being superior. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>Nothing is permanent in this wicked world - not even our troubles. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
