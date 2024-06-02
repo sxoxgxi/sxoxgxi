@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing is permanent in this wicked world - not even our troubles. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
+<h4 align='center'>We cannot change anything unless we accept it. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
