@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People seldom do what they believe in. They do what is convenient, then repent. - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
+<h4 align='center'>When we strive to become better than we are, everything around us becomes better, too. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
