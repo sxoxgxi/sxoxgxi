@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When we strive to become better than we are, everything around us becomes better, too. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>What you become is far more important than what you get. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
