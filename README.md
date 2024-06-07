@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The meaning of life is that it stops. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
+<h4 align='center'>The eye with which I see God is the same eye with which God sees me. - <a href='https://duckduckgo.com/?q=Meister+Eckhart' target='_blank'>Meister Eckhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
