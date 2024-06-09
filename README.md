@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>For fast-acting relief try slowing down. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
