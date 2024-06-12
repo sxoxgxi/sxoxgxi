@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is going from failure to failure without losing your enthusiasm - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
+<h4 align='center'>The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  - <a href='https://duckduckgo.com/?q=Orison+Swett+Marden' target='_blank'>Orison Swett Marden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
