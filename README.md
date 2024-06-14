@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't let the noise of others' opinions drown out your own inner voice. - <a href='https://duckduckgo.com/?q=Steve+Jobs' target='_blank'>Steve Jobs</a>.</h4>
+<h4 align='center'>Nothing is too high for a man to reach, but he must climb with care and confidence - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
