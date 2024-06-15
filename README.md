@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing is too high for a man to reach, but he must climb with care and confidence - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
+<h4 align='center'>Care about what other people think and you will always be their prisoner. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
