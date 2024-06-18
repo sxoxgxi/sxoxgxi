@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's the unknown we fear when we look upon death and darkness, nothing more. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>The Art of Peace begins with you. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
