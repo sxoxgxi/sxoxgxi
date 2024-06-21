@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can often change your circumstances by changing your attitude. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>Giving back involves a certain amount of giving up. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
