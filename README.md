@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Giving back involves a certain amount of giving up. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>Not engaging in ignorance is wisdom.  - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
