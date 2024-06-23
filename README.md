@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Not engaging in ignorance is wisdom.  - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
+<h4 align='center'>Whatever you think the world is withholding from you, you are withholding from the world. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
