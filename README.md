@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Not how long, but how well you have lived is the main thing. - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>One loses many laughs by not laughing at oneself. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
