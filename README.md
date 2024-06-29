@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You may be disappointed if you fail, but you are doomed if you don't try.  - <a href='https://duckduckgo.com/?q=Beverly+Sills' target='_blank'>Beverly Sills</a>.</h4>
+<h4 align='center'>You will face many defeats in life, but never let yourself be defeated. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
