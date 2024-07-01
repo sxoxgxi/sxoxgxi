@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What do we live for if not to make life less difficult for each other? - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>Imagination is the beginning of creation. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
