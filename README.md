@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Imagination is the beginning of creation. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>If you chase two rabbits, you catch none. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
