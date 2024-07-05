@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>Do what you feel in your heart to be right - for you'll be criticized anyway. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
