@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do what you feel in your heart to be right - for you'll be criticized anyway. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>It is ignorance that causes most mistakes. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
