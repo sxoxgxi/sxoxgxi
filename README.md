@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Public opinion is the worst of all opinions. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
+<h4 align='center'>I cannot make my days longer so I strive to make them better. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
