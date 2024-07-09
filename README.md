@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I cannot make my days longer so I strive to make them better. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
