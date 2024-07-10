@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>Absurdity is the ecstasy of intellectualism. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
