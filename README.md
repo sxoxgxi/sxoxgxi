@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The attempt to escape from pain, is what creates more pain. - <a href='https://duckduckgo.com/?q=Gabor+Mate' target='_blank'>Gabor Mate</a>.</h4>
+<h4 align='center'>All I can do is be me, whoever that is. - <a href='https://duckduckgo.com/?q=Bob+Dylan' target='_blank'>Bob Dylan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
