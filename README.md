@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do something worth remembering. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
+<h4 align='center'>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
