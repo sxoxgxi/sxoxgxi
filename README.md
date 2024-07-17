@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We're responsible for everything that happens to us. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
+<h4 align='center'>Keep your face to the sunshine and you cannot see the shadows. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
