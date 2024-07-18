@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Keep your face to the sunshine and you cannot see the shadows. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
