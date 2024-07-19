@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>Seek not the good in external things;seek it in yourselves. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
