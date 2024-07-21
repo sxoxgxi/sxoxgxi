@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Growing up is losing some illusions, in order to acquire others. - <a href='https://duckduckgo.com/?q=Virginia+Woolf' target='_blank'>Virginia Woolf</a>.</h4>
+<h4 align='center'>Human behavior flows from three main sources: desire, emotion, and knowledge. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
