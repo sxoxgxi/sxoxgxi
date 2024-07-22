@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Human behavior flows from three main sources: desire, emotion, and knowledge. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
+<h4 align='center'>We're kept from our goal not by obstacles, but by a clear path to a lesser goal. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
