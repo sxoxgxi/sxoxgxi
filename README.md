@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We're kept from our goal not by obstacles, but by a clear path to a lesser goal. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
+<h4 align='center'>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
