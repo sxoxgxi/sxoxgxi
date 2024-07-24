@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
+<h4 align='center'>It is well known that those who do not trust themselves never trust others. - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
