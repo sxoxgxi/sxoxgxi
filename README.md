@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is well known that those who do not trust themselves never trust others. - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
+<h4 align='center'>There is only one thing in the world worse than being talked about, and that is not being talked about.  - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
