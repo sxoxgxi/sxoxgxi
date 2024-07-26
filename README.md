@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is only one thing in the world worse than being talked about, and that is not being talked about.  - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
+<h4 align='center'>It is your attitude, not your aptitude, that determines your altitude. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
