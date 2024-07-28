@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remain calm. Be kind. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>One mistake does not have to rule a person's entire life. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
