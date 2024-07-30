@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A wise man can learn more from a foolish question than a fool can learn from a wise answer.   - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
+<h4 align='center'>You don't know who is important to you until you actually lose them. - <a href='https://duckduckgo.com/?q=Mahatma+Gandhi' target='_blank'>Mahatma Gandhi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
