@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>How people treat you is their karma; how you react is yours.  - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>A good stance and posture reflect a proper state of mind. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
