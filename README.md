@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>You are today where your thoughts have brought you. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
