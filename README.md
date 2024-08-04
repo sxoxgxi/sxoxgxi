@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You are today where your thoughts have brought you. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>The measure of wisdom is how calm you are when facing any given situation. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
