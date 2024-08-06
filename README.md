@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wit is educated insolence. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>The less you talk about your shame, the more of it you have. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
