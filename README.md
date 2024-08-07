@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The less you talk about your shame, the more of it you have. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>We must have strong minds, ready to accept facts as they are. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
