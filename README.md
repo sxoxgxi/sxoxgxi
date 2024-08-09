@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>Luck is a matter of preparation meeting opportunity. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
