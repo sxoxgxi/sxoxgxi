@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Believe you can and you will be halfway there. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>Within every desire is the mechanics of its fulfillment. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
