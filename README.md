@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Within every desire is the mechanics of its fulfillment. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>The thing about smart people is that they seem like crazy people to dumb people. - <a href='https://duckduckgo.com/?q=Stephen+Hawking' target='_blank'>Stephen Hawking</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
