@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I will not walk backward in life. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>If you take responsibility for yourself you will develop a hunger to accomplish your dream. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
