@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If it's not broken, tinker with it till you find out how it works. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
+<h4 align='center'>Light a candle instead of cursing the darkness. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
