@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your problem isn't the problem. Your reaction is the problem. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>People inspire you, or they drain you. Pick them wisely. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
