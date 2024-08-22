@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People inspire you, or they drain you. Pick them wisely. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
+<h4 align='center'>Don't try to steer the river. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
