@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>Never spend your money before you have earned it. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
