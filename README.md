@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
