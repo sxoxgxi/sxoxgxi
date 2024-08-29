@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>As you think, you travel, and as you love, you attract. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
