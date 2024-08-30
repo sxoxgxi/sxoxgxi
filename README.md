@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>As you think, you travel, and as you love, you attract. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Through discipline comes freedom. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
