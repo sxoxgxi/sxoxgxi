@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Through discipline comes freedom. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>You must welcome change as the rule but not as your ruler.  - <a href='https://duckduckgo.com/?q=Denis+Waitley' target='_blank'>Denis Waitley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
