@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You must welcome change as the rule but not as your ruler.  - <a href='https://duckduckgo.com/?q=Denis+Waitley' target='_blank'>Denis Waitley</a>.</h4>
+<h4 align='center'>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
