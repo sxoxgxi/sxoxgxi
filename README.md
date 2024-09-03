@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To be calm is the highest achievement of the self. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>The greatest discovery of all time is that a person can change their future by merely changing their attitude. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
