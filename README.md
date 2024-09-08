@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>One of the first signs of the beginning of understanding is the wish to die.  - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
+<h4 align='center'>You have a brain and mind of your own. Use it, and reach your own decisions. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
