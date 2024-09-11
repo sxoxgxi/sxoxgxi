@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are dark shadows on the earth, but its lights are stronger in the contrast. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
+<h4 align='center'>You drown not by falling into a river, but by staying submerged in it. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
