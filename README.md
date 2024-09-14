@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The joy of life comes from our encounters with new experiences. - <a href='https://duckduckgo.com/?q=Christopher+McCandless' target='_blank'>Christopher McCandless</a>.</h4>
+<h4 align='center'>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
