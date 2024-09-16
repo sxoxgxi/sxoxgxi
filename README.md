@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Ideas do not reach perfection in a day, no matter how much study is put upon them. - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
+<h4 align='center'>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
