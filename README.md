@@ -28,7 +28,7 @@
 <!------ Tools I Use ------>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,python,bash,powershell,react,vite,nextjs,nodejs,flask,django,fastapi,mongodb,postgresql,mysql,sqlite,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,python,go,bash,powershell,react,nextjs,nodejs,flask,django,fastapi,mongodb,postgresql,mysql,sqlite,git&perline=7" />
   </a>
   <p align="center">
   <a href="#">
