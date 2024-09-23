@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want something you've never had you must be willing to do something you've never done. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>Everybody needs a passion. That's what keeps life interesting. - <a href='https://duckduckgo.com/?q=Betty+White' target='_blank'>Betty White</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
