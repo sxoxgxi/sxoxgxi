@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We are what we repeatedly do. Excellence, then, is not an act, but a habit. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>To know even one life has breathed easier because you have lived. This is to have succeeded. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
