@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Stay away from people who makes you feel like you are wasting their time. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>We cannot change anything unless we accept it. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
