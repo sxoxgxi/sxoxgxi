@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We cannot change anything unless we accept it. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
+<h4 align='center'>There are three classes of people: those who see. Those who see when they are shown. Those who do not see. - <a href='https://duckduckgo.com/?q=Leonardo+da+Vinci' target='_blank'>Leonardo da Vinci</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
