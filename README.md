@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are three classes of people: those who see. Those who see when they are shown. Those who do not see. - <a href='https://duckduckgo.com/?q=Leonardo+da+Vinci' target='_blank'>Leonardo da Vinci</a>.</h4>
+<h4 align='center'>Be true to yourself, help others, make each day your masterpiece - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
