@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nature loves to hide. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
+<h4 align='center'>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
