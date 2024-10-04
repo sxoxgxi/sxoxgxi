@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. - <a href='https://duckduckgo.com/?q=John+Lennon' target='_blank'>John Lennon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
