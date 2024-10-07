@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Deeds will not be less valiant because they are upraised. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>The present moment is filled with joy and happiness. If you are attentive, you will see it. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
