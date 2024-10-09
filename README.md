@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is liking yourself, liking what you do, and liking how you do it. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
+<h4 align='center'>Whenever you do a thing, act as if all the world were watching. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
