@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you don't like something, change it. If you can't change it, change your attitude. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
+<h4 align='center'>Forever is composed of now's. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
