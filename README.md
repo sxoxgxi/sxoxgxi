@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Forever is composed of now's. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
+<h4 align='center'>Life is really simple, but men insist on making it complicated.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
