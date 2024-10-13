@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is really simple, but men insist on making it complicated.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
