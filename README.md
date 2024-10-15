@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you're the only sane person, you look like the only insane person. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>Without the confidence, nothing can be accomplished. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
