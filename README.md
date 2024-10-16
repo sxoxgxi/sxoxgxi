@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Without the confidence, nothing can be accomplished. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
