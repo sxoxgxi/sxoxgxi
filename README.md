@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can only be afraid of what you think you know. - <a href='https://duckduckgo.com/?q=Jiddu+Krishnamurti' target='_blank'>Jiddu Krishnamurti</a>.</h4>
+<h4 align='center'>Time is a game played beautifully by children. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
