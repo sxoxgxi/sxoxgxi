@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In youth we run into difficulties. In old age difficulties run into us.  - <a href='https://duckduckgo.com/?q=Beverly+Sills' target='_blank'>Beverly Sills</a>.</h4>
+<h4 align='center'>As soon as you trust yourself, you will know how to live. - <a href='https://duckduckgo.com/?q=Johann+Wolfgang+von+Goethe' target='_blank'>Johann Wolfgang von Goethe</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
