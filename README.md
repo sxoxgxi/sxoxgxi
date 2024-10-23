@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Throughout this life, you can never be certain of living long enough to take another breath. - <a href='https://duckduckgo.com/?q=Huang+Po' target='_blank'>Huang Po</a>.</h4>
+<h4 align='center'>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
