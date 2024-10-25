@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you can handle rejection, you'll learn to get everything you want. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>Wrong does not cease to be wrong because the majority share in it. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
