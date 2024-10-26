@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wrong does not cease to be wrong because the majority share in it. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
+<h4 align='center'>We cannot change anything unless we accept it. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
