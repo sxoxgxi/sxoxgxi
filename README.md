@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You have to keep breaking your heart until it opens. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>The best teacher is experience and not through someone's distorted point of view. - <a href='https://duckduckgo.com/?q=Jack+Kerouac' target='_blank'>Jack Kerouac</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
