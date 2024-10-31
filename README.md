@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Instead of worrying about what you cannot control, shift your energy to what you can create. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>Observe things as they are and don't pay attention to other people. - <a href='https://duckduckgo.com/?q=Huang+Po' target='_blank'>Huang Po</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
