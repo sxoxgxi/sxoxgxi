@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Conflict cannot survive without your participation.  - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>Honesty is the first chapter in the book of wisdom. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
