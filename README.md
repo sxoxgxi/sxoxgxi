@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Honesty is the first chapter in the book of wisdom. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>Winners don't Quit. That's why they Win. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
