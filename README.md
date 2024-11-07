@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your business is not to 'get somewhere' - it is to be here. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>Time doesn't heal emotional pain, you need to learn how to let go. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
