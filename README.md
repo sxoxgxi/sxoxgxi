@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The secret of change is to focus all your energy not on fighting the old, but on building the new. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>If you change the way you look at things, the things you look at change.  - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
