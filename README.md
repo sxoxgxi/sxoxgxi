@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A tiger doesn't lose sleep over the opinion of sheep. - <a href='https://duckduckgo.com/?q=Shahir+Zag' target='_blank'>Shahir Zag</a>.</h4>
+<h4 align='center'>Hardly anybody recognizes the most significant moments of their life at the time they happen. - <a href='https://duckduckgo.com/?q=W.P.+Kinsella' target='_blank'>W.P. Kinsella</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
