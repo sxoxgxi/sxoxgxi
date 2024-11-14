@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The best time to plant a tree was 20 years ago. The second best time is now. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>All you need is the plan, the road map, and the courage to press on to your destination. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
