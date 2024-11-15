@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All you need is the plan, the road map, and the courage to press on to your destination. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>Thoughts become things. If you see it in your mind, you will hold it in your hand. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
