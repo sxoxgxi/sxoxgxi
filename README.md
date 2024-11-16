@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Thoughts become things. If you see it in your mind, you will hold it in your hand. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
+<h4 align='center'>Decide what your truth is. Then live it. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
