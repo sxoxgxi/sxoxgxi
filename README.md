@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Decide what your truth is. Then live it. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
