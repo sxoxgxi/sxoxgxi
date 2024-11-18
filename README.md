@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>To forget the whole world is easy; to make the whole world forget you is hard. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
