@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To forget the whole world is easy; to make the whole world forget you is hard. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
+<h4 align='center'>What you become is far more important than what you get. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
