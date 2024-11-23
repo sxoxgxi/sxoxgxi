@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Conquer the devils with a little thing called love. - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
+<h4 align='center'>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
