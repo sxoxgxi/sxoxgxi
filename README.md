@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To lead an orchestra, you must turn your back on the crowd. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>We can't help everyone, but everyone can help someone. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
