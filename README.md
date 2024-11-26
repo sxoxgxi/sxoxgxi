@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We can't help everyone, but everyone can help someone. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
+<h4 align='center'>To every action there is always opposed an equal reaction. - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
