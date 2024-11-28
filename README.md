@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Things do not have meaning. We assign meaning to everything. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>Desire for the fruits of work must never be your motive in working. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
