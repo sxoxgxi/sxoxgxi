@@ -28,11 +28,11 @@
 <!------ Tools I Use ------>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,python,go,bash,powershell,react,nextjs,nodejs,flask,django,fastapi,mongodb,postgresql,mysql,sqlite,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,python,go,c,bash,powershell,react,nextjs,nodejs,flask,django,fastapi,mongodb,postgresql,mysql,sqlite,git&perline=7" />
   </a>
   <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,autocad,figma,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,autocad,figma,postman,neovim,vscode" />
   </a>
   </p>
 </p>
