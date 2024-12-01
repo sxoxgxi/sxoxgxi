@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The greatest work that kindness does to others is that it makes them kind themselves. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
