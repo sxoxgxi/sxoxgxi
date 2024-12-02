@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
