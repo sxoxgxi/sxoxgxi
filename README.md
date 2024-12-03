@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
+<h4 align='center'>You can start changing our world for the better daily, no matter how small the action. - <a href='https://duckduckgo.com/?q=Nelson+Mandela' target='_blank'>Nelson Mandela</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
