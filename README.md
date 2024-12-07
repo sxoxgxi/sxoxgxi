@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Knowing is not enough, we must apply. Willing is not enough, we must do.   - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
+<h4 align='center'>If you can handle rejection, you'll learn to get everything you want. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
