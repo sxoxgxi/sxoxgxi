@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Becoming a great leader doesn't mean being perfect. it means living with your imperfections. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>Nothing is more real than nothing. - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
