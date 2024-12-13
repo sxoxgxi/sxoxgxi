@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing is more real than nothing. - <a href='https://duckduckgo.com/?q=Samuel+Beckett' target='_blank'>Samuel Beckett</a>.</h4>
+<h4 align='center'>The future belongs to those who believe in the beauty of their dreams. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
