@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
