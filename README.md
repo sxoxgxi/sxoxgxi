@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness is not a goal...it's a by-product of a life well lived. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>True wealth is of the heart, not of the purse. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
