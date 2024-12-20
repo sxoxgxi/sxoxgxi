@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>True wealth is of the heart, not of the purse. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>Work for something because it is good, not just because it stands a chance to succeed. - <a href='https://duckduckgo.com/?q=Vaclav+Havel' target='_blank'>Vaclav Havel</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
