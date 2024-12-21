@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Work for something because it is good, not just because it stands a chance to succeed. - <a href='https://duckduckgo.com/?q=Vaclav+Havel' target='_blank'>Vaclav Havel</a>.</h4>
+<h4 align='center'>Create each day anew. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
