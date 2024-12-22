@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Create each day anew. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Originality is the fine art of remembering what you hear but forgetting where you heard it.  - <a href='https://duckduckgo.com/?q=Laurence+J.+Peter' target='_blank'>Laurence J. Peter</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
