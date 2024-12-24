@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Weeds are flowers too, once you get to know them. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
+<h4 align='center'>The quality of your life is determined by the quality of your thoughts. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
