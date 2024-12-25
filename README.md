@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The quality of your life is determined by the quality of your thoughts. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Freedom itself demands discomfort. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
