@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All we have to decide is what to do with the time that is given to us. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>To forgive means pardoning the unpardonable. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
