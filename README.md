@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all. - <a href='https://duckduckgo.com/?q=Miguel+de+Cervantes' target='_blank'>Miguel de Cervantes</a>.</h4>
+<h4 align='center'>There are no secrets to success. It is the result of preparation, hard work, and learning from failure. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
