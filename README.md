@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are no secrets to success. It is the result of preparation, hard work, and learning from failure. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
