@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Formal education will make you a living, self-education will make you a fortune. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
