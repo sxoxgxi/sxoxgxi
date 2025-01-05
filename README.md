@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>If you cannot understand something, then you have understood it incorrectly. - <a href='https://duckduckgo.com/?q=Kabir' target='_blank'>Kabir</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
