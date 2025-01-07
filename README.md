@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be brave to stand for what you believe in even if you stand alone. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>Patience is not the ability to wait but the ability to keep a good attitude while waiting. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
