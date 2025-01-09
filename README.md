@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To every action there is always opposed an equal reaction. - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
+<h4 align='center'>Don't ever save anything for a special occasion. Being alive is the special occasion. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
