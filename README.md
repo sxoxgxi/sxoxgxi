@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Avoiding danger is no safer in the long run than exposure. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt. - <a href='https://duckduckgo.com/?q=Jack+London' target='_blank'>Jack London</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
