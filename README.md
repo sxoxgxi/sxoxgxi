@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt. - <a href='https://duckduckgo.com/?q=Jack+London' target='_blank'>Jack London</a>.</h4>
+<h4 align='center'>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.com/invite/96EA7ENfV9'>
