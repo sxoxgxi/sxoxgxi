@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anyone telling you it's pointless to share your perspective is sharing their perspective. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
+<h4 align='center'>We love the things we love for what they are. - <a href='https://duckduckgo.com/?q=Robert+Frost' target='_blank'>Robert Frost</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
