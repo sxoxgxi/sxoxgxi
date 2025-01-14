@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We love the things we love for what they are. - <a href='https://duckduckgo.com/?q=Robert+Frost' target='_blank'>Robert Frost</a>.</h4>
+<h4 align='center'>It's the possibility of having a dream come true that makes life interesting. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
