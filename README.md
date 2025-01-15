@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's the possibility of having a dream come true that makes life interesting. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>Let each man exercise the art he knows. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
