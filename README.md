@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>You cannot find peace by avoiding life. - <a href='https://duckduckgo.com/?q=Virginia+Woolf' target='_blank'>Virginia Woolf</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
