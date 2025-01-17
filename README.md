@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You cannot find peace by avoiding life. - <a href='https://duckduckgo.com/?q=Virginia+Woolf' target='_blank'>Virginia Woolf</a>.</h4>
+<h4 align='center'>I will not walk backward in life. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
@@ -47,36 +47,36 @@
   <table style='width:100%'>
 <tr align='center'>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98' alt='Umbrella' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f0d806bf4945e4de1c406a5a' alt='dlma </3 (feat. LANY)' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a' alt='Stereo Hearts (feat. Adam Levine)' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273e5e0ed0b19a6c10a3c075087' alt='Moonlight' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734e31e0d38b89b8fb239d4fbf' alt='They Don't Know About Us' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2737cdf9838412bb52df6e9a952' alt='Forget Me' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218' alt='Breakeven' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273b819b14c019770086d5c0918' alt='I Wouldn't Know Any Better Than You' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4' alt='Never Be the Same' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab67616d0000b273ad9d4c14ef1ebfc72916c7be' alt='Dependent' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
-<a href='https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux'>Umbrella</a>
+<a href='https://open.spotify.com/track/4AnRQ0B1t4terWHDI98WNi'>dlma </3 (feat. LANY)</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz'>Stereo Hearts (feat. Adam Levine)</a>
+<a href='https://open.spotify.com/track/0laLzrH5PsoA7HpGw2vCVh'>Moonlight</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/6M31fPFCYB8Job3MCjjrDV'>They Don't Know About Us</a>
+<a href='https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA'>Forget Me</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk'>Breakeven</a>
+<a href='https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC'>I Wouldn't Know Any Better Than You</a>
 </td>
 <td>
-<a href='https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ'>Never Be the Same</a>
+<a href='https://open.spotify.com/track/6H9UUMwRcnyhhYLJvSRgI2'>Dependent</a>
 </td>
 </tr>
 </table>
@@ -95,24 +95,21 @@
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae' alt='The Weeknd' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4' alt='Olivia Rodrigo' style='width:50%'>
-</td>
-<td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676' alt='Taylor Swift' style='width:50%'>
 </td>
 <td>
 <img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0' alt='Ariana Grande' style='width:50%'>
 </td>
 <td>
-<img class='artists' src='https://i.scdn.co/image/ab6761610000e5eb5a55e66595e80fb12dc5f5fa' alt='James Arthur' style='width:50%'>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4' alt='Olivia Rodrigo' style='width:50%'>
+</td>
+<td>
+<img class='artists' src='https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d' alt='Charlie Puth' style='width:50%'>
 </td>
 </tr>
 <tr align='center'>
 <td>
 <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ' target='_blank'>The Weeknd</a>
-</td>
-<td>
-<a href='https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG' target='_blank'>Olivia Rodrigo</a>
 </td>
 <td>
 <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02' target='_blank'>Taylor Swift</a>
@@ -121,7 +118,10 @@
 <a href='https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR' target='_blank'>Ariana Grande</a>
 </td>
 <td>
-<a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM' target='_blank'>James Arthur</a>
+<a href='https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG' target='_blank'>Olivia Rodrigo</a>
+</td>
+<td>
+<a href='https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7' target='_blank'>Charlie Puth</a>
 </td>
 </tr>
 </table>
@@ -148,6 +148,18 @@
       </td>
       <td>
       <h2>Artist</h2>
+      </td>
+    </tr><tr align='center'>
+      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5' alt='Question...?' style='width:10%'>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B'>Question...?</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3'>Midnights</a>
+      </td>
+      <td>
+      <a href='https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'>Taylor Swift</a>
       </td>
     </tr><tr align='center'>
       <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b2734b8b52a487c842534619501a' alt='Thick Of It (feat. Trippie Redd)' style='width:10%'>
@@ -196,18 +208,6 @@
       </td>
       <td>
       <a href='https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag'>Clairo</a>
-      </td>
-    </tr><tr align='center'>
-      <td><img class='artists' src='https://i.scdn.co/image/ab67616d0000b273bc8dab5386dce6b9b2feeacd' alt='Dirty' style='width:10%'>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV'>Dirty</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK'>Dirty</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z'>KSI</a>
       </td>
     </tr></table>
 </p topsongs>
