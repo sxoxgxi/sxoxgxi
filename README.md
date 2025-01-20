@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We would accomplish many more things if we did not think of them as impossible. - <a href='https://duckduckgo.com/?q=Vince+Lombardi' target='_blank'>Vince Lombardi</a>.</h4>
+<h4 align='center'>If you do the work you get rewarded. There are no shortcuts in life. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
