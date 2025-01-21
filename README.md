@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you do the work you get rewarded. There are no shortcuts in life. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>Death and life have their determined appointments; riches and honors depend upon heaven.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
