@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more often a stupidity is repeated, the more it gets the appearance of wisdom. - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
+<h4 align='center'>Those who can make you believe absurdities can make you commit atrocities.  - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
