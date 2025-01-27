@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Trust thyself: every heart vibrates to that iron string. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
+<h4 align='center'>Never do to others what you would not like them to do to you.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
