@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never do to others what you would not like them to do to you.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>Blessed is he who expects nothing, for he shall be disappointed. - <a href='https://duckduckgo.com/?q=Jonathan+Swift' target='_blank'>Jonathan Swift</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
