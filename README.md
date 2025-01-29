@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Blessed is he who expects nothing, for he shall be disappointed. - <a href='https://duckduckgo.com/?q=Jonathan+Swift' target='_blank'>Jonathan Swift</a>.</h4>
+<h4 align='center'>Let us rather run the risk of wearing out than rusting out. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
