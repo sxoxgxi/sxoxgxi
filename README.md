@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Let us rather run the risk of wearing out than rusting out. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
