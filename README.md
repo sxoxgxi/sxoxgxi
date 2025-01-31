@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
+<h4 align='center'>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
