@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
+<h4 align='center'>While some of us act without thinking, too many of us think without acting. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
