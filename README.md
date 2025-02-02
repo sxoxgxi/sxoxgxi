@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>While some of us act without thinking, too many of us think without acting. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
