@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
+<h4 align='center'>Only the educated are free. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
