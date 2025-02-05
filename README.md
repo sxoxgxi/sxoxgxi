@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only the educated are free. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>We think too much and feel too little. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
