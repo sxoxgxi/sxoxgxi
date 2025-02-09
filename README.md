@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to. - <a href='https://duckduckgo.com/?q=Robin+Williams' target='_blank'>Robin Williams</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
