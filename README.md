@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When it is dark enough, you can see the stars. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
+<h4 align='center'>We are most nearly ourselves when we achieve the seriousness of the child at play. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
