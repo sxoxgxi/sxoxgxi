@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We are most nearly ourselves when we achieve the seriousness of the child at play. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
+<h4 align='center'>Nothing is really work unless you would rather be doing something else.  - <a href='https://duckduckgo.com/?q=James+Matthew+Barrie' target='_blank'>James Matthew Barrie</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
