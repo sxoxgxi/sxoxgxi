@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is little success where there is little laughter. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>Some people want it to happen, some wish it would happen, others make it happen. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
