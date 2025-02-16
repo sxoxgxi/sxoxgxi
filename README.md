@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Some people want it to happen, some wish it would happen, others make it happen. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
+<h4 align='center'>Life reflects your own thoughts back to you. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
