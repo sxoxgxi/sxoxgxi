@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life reflects your own thoughts back to you. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Even the smallest person can change the course of the future. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
