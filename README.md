@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The greatest mistake you can make in life is to be continually fearing you will make one. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
+<h4 align='center'>Wrong turns are as important as right turns. More important, sometimes. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
