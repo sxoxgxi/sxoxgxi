@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wrong turns are as important as right turns. More important, sometimes. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
