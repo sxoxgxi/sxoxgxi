@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
