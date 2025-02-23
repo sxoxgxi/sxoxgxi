@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Be curious, not judgmental. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
