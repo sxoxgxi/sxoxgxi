@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be curious, not judgmental. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
+<h4 align='center'>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
