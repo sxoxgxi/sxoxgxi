@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>One loyal friend is worth ten thousand relatives. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
