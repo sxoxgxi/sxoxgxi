@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Good, better, best. Never let it rest. 'Til your good is better and your better is best.  - <a href='https://duckduckgo.com/?q=St.+Jerome' target='_blank'>St. Jerome</a>.</h4>
+<h4 align='center'>Intelligence is the ability to adapt to change. - <a href='https://duckduckgo.com/?q=Stephen+Hawking' target='_blank'>Stephen Hawking</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
