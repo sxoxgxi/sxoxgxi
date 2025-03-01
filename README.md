@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If we did all the things we are capable of, we would literally astound ourselves. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
+<h4 align='center'>Art is the signature of civilizations.  - <a href='https://duckduckgo.com/?q=Beverly+Sills' target='_blank'>Beverly Sills</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
