@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
+<h4 align='center'>It does not matter how slowly you go so long as you do not stop. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
