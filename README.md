@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - <a href='https://duckduckgo.com/?q=Socrates' target='_blank'>Socrates</a>.</h4>
+<h4 align='center'>To become what you are not, behave as you do not. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
