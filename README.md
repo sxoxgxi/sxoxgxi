@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To become what you are not, behave as you do not. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
+<h4 align='center'>Don't seek, don't avoid, don't expect. Take what comes and be happy. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
