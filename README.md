@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't seek, don't avoid, don't expect. Take what comes and be happy. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>Nothing is permanent in this wicked world - not even our troubles. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
