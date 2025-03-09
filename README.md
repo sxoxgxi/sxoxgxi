@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is better to fail in originality than to succeed in imitation. - <a href='https://duckduckgo.com/?q=Herman+Melville' target='_blank'>Herman Melville</a>.</h4>
+<h4 align='center'>Do every act of your life as if it were your last. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
