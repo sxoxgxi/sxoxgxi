@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
