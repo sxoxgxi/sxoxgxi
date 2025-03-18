@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A journey of a thousand miles must begin with a single step. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>The first step toward getting somewhere is to decide that you are not going to stay where you are. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
