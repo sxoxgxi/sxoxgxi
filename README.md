@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The first step toward getting somewhere is to decide that you are not going to stay where you are. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>In the midst of movement and chaos, keep stillness inside of you. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
