@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In the midst of movement and chaos, keep stillness inside of you. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>Argue for your limitations and sure enough, they're yours. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
