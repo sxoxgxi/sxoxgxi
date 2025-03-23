@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Real growth comes through intense, difficult, and challenging situations. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>Being ignorant is not so much a shame, as being unwilling to learn. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
