@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The great use of life is to spend it for something that will outlast it. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>Your home is where your thoughts find peace. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
