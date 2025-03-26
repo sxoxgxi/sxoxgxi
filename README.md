@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Your home is where your thoughts find peace. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>Work harder on yourself than you do on your job. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
