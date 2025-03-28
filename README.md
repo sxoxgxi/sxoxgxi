@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't be afraid to see what you see. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
+<h4 align='center'>Walking with a friend in the dark is better than walking alone in the light. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
