@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Walking with a friend in the dark is better than walking alone in the light. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>Peace begins with a smile. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
