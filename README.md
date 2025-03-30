@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Peace begins with a smile. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Greatness lies not in being strong, but in the right use of strength. - <a href='https://duckduckgo.com/?q=Henry+Ward+Beecher' target='_blank'>Henry Ward Beecher</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
