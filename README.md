@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Conscience is a man's compass.  - <a href='https://duckduckgo.com/?q=Vincent+van+Gogh' target='_blank'>Vincent van Gogh</a>.</h4>
+<h4 align='center'>Always seek out the seed of triumph in every adversity. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
