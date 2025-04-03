@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man that flies from his fear may find that he has only taken a short cut to meet it. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>Fortunate are those who take the first steps. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
