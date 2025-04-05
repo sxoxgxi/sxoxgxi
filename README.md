@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Never let the fear of striking out keep you from playing the game. - <a href='https://duckduckgo.com/?q=Babe+Ruth' target='_blank'>Babe Ruth</a>.</h4>
+<h4 align='center'>Genius is patience. - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
