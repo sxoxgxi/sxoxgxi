@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Genius is patience. - <a href='https://duckduckgo.com/?q=Isaac+Newton' target='_blank'>Isaac Newton</a>.</h4>
+<h4 align='center'>Winners are not people who never fail, but people who never quit. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
