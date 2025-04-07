@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Winners are not people who never fail, but people who never quit. - <a href='https://duckduckgo.com/?q=Arnold+Schwarzenegger' target='_blank'>Arnold Schwarzenegger</a>.</h4>
+<h4 align='center'>Anyone who wants to achieve a dream must stay strong, focused and steady. - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
