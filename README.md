@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anyone who wants to achieve a dream must stay strong, focused and steady. - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
+<h4 align='center'>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
