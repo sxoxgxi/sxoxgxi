@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
+<h4 align='center'>There is only one thing in the world worse than being talked about, and that is not being talked about.  - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
