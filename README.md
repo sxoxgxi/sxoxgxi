@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is only one thing in the world worse than being talked about, and that is not being talked about.  - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
+<h4 align='center'>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
