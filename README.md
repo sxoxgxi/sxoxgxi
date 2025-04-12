@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more I want to get something done, the less I call it work. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>There is a big difference between being centered and being self-centered. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
