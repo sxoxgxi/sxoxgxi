@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is a big difference between being centered and being self-centered. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>In the beginner's mind there are many possibilities, but in the expert's mind there are few. - <a href='https://duckduckgo.com/?q=Shunryu+Suzuki' target='_blank'>Shunryu Suzuki</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
