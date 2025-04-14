@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In the beginner's mind there are many possibilities, but in the expert's mind there are few. - <a href='https://duckduckgo.com/?q=Shunryu+Suzuki' target='_blank'>Shunryu Suzuki</a>.</h4>
+<h4 align='center'>Pleasure can be supported by an illusion; but happiness rests upon truth.  - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
