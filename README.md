@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Pleasure can be supported by an illusion; but happiness rests upon truth.  - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
+<h4 align='center'>Ponder and deliberate before you make a move. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
