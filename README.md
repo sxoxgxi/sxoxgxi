@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Ponder and deliberate before you make a move. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
+<h4 align='center'>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
