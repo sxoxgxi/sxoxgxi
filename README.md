@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
+<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
