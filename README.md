@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you're afraid - don't do it, - if you're doing it - don't be afraid!  - <a href='https://duckduckgo.com/?q=Genghis+Khan' target='_blank'>Genghis Khan</a>.</h4>
+<h4 align='center'>Discipline is the bridge between goals and accomplishment. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
