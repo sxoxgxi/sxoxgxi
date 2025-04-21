@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Confidence is like a dragon where, for every head cut off, two more heads grow back. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
