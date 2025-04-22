@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Confidence is like a dragon where, for every head cut off, two more heads grow back. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>Superstars think like superstars long before the fans or the press anoint them. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
