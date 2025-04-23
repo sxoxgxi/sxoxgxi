@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Superstars think like superstars long before the fans or the press anoint them. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
+<h4 align='center'>Human behavior flows from three main sources: desire, emotion, and knowledge. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
