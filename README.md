@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Human behavior flows from three main sources: desire, emotion, and knowledge. - <a href='https://duckduckgo.com/?q=Plato' target='_blank'>Plato</a>.</h4>
+<h4 align='center'>You give but little when you give of your possessions. It is when you give of yourself that you truly give. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
