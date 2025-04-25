@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You give but little when you give of your possessions. It is when you give of yourself that you truly give. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
+<h4 align='center'>Confidence is consistency of thinking about what is possible and how to make it possible. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
