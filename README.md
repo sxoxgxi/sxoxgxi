@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Confidence is consistency of thinking about what is possible and how to make it possible. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
+<h4 align='center'>Don't let the noise of others opinions drown out your inner voice. - <a href='https://duckduckgo.com/?q=Steve+Jobs' target='_blank'>Steve Jobs</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
