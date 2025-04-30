@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All our dreams can come true, if we have the courage to pursue them. - <a href='https://duckduckgo.com/?q=Walt+Disney' target='_blank'>Walt Disney</a>.</h4>
+<h4 align='center'>This is such a short and precious life that it's really important that you don't spend it being unhappy. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
