@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The less you respond to negative people, the more positive your life will become. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>There are people who have money and people who are rich. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
