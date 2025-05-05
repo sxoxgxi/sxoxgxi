@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Perpetual optimism is a force multiplier. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>No man becomes rich unless he enriches others. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
