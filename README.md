@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Not until we are lost do we begin to understand ourselves. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>Do anything, but let it produce joy. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
