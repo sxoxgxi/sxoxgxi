@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do anything, but let it produce joy. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
+<h4 align='center'>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
