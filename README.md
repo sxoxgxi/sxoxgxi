@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is no limit to the amount of good you can do if you don't care who gets the credit. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
+<h4 align='center'>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
