@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
+<h4 align='center'>You change the world by being yourself. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
