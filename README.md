@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You change the world by being yourself. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
+<h4 align='center'>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.   - <a href='https://duckduckgo.com/?q=David+Brinkley' target='_blank'>David Brinkley</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
