@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.   - <a href='https://duckduckgo.com/?q=David+Brinkley' target='_blank'>David Brinkley</a>.</h4>
+<h4 align='center'>Silence is the great teacher and to learn its lessons you must pay attention to it. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
