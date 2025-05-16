@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Well done is better than well said. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
