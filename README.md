@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
+<h4 align='center'>You have within you right now, everything you need to deal with whatever the world can throw at you. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
