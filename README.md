@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You have within you right now, everything you need to deal with whatever the world can throw at you. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
