@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only time you run out of chances is when you stop taking them. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>If you chase two rabbits, you catch none. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
