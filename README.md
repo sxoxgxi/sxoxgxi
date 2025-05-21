@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you chase two rabbits, you catch none. - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>You are the only problem you will ever have and you are the only solution. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
