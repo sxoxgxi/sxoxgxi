@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You are the only problem you will ever have and you are the only solution. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
+<h4 align='center'>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
