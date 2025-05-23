@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
