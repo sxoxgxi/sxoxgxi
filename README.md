@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim. - <a href='https://duckduckgo.com/?q=John+D.+Rockefeller' target='_blank'>John D. Rockefeller</a>.</h4>
+<h4 align='center'>It is ignorance that causes most mistakes. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
