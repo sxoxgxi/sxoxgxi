@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is ignorance that causes most mistakes. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
+<h4 align='center'>Believe that life is worth living and your belief will help create the fact. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
