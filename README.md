@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Believe that life is worth living and your belief will help create the fact. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>In order to control myself I must first accept myself by going with and not against my nature. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
