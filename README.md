@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In order to control myself I must first accept myself by going with and not against my nature. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
+<h4 align='center'>Walking with a friend in the dark is better than walking alone in the light. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
