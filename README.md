@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Walking with a friend in the dark is better than walking alone in the light. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
