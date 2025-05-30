@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
+<h4 align='center'>You are what you believe in. You become that which you believe you can become. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
