@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better. - <a href='https://duckduckgo.com/?q=Spencer+Johnson' target='_blank'>Spencer Johnson</a>.</h4>
+<h4 align='center'>Love doesn't need reason. It speaks from the irrational wisdom of the heart. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
