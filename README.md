@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Love doesn't need reason. It speaks from the irrational wisdom of the heart. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>The way we feel is the direct result of what we think. - <a href='https://duckduckgo.com/?q=Peter+A.+Cohen' target='_blank'>Peter A. Cohen</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
