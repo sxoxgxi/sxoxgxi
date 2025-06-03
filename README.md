@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The way we feel is the direct result of what we think. - <a href='https://duckduckgo.com/?q=Peter+A.+Cohen' target='_blank'>Peter A. Cohen</a>.</h4>
+<h4 align='center'>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
