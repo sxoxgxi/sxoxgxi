@@ -2,21 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Random Quote</title>
+  <title>Random Quote API</title>
 </head>
 <body>
-  <pre id="quote">Loading quote...</pre>
+  <pre id="quote">Loading...</pre>
 
   <script>
     fetch("../log.txt")
       .then(res => res.text())
       .then(data => {
-        const quotes = data.split("\n").filter(Boolean);
+        const quotes = data
+          .split("\n")
+          .map(line => {
+            const [quotePart, timestamp] = line.split(" - ");
+            return quotePart && timestamp ? {
+              quote: quotePart.trim(),
+              timestamp: timestamp.trim()
+            } : null;
+          })
+          .filter(Boolean);
+
         const random = quotes[Math.floor(Math.random() * quotes.length)];
-        document.getElementById("quote").textContent = random;
+
+        document.getElementById("quote").textContent = JSON.stringify(random, null, 2);
       })
       .catch(err => {
-        document.getElementById("quote").textContent = "Error loading quote.";
+        document.getElementById("quote").textContent = JSON.stringify({ error: "Failed to load quotes." });
         console.error(err);
       });
   </script>
