@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Random Quote</title>
+</head>
+<body>
+  <pre id="quote">Loading quote...</pre>
+
+  <script>
+    fetch("../log.txt")
+      .then(res => res.text())
+      .then(data => {
+        const quotes = data.split("\n").filter(Boolean);
+        const random = quotes[Math.floor(Math.random() * quotes.length)];
+        document.getElementById("quote").textContent = random;
+      })
+      .catch(err => {
+        document.getElementById("quote").textContent = "Error loading quote.";
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
