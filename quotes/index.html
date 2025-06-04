@@ -3,33 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <title>Random Quote API</title>
+  <meta http-equiv="Content-Type" content="application/json">
 </head>
 <body>
-  <pre id="quote">Loading...</pre>
-
-  <script>
-    fetch("../log.txt")
-      .then(res => res.text())
-      .then(data => {
-        const quotes = data
-          .split("\n")
-          .map(line => {
-            const [quotePart, timestamp] = line.split(" - ");
-            return quotePart && timestamp ? {
-              quote: quotePart.trim(),
-              timestamp: timestamp.trim()
-            } : null;
-          })
-          .filter(Boolean);
-
-        const random = quotes[Math.floor(Math.random() * quotes.length)];
-
-        document.getElementById("quote").textContent = JSON.stringify(random, null, 2);
+<script>
+fetch("../log.txt")
+  .then(res => res.text())
+  .then(data => {
+    const quotes = data
+      .split("\n")
+      .map(line => {
+        const [quote, timestamp] = line.split(" - ");
+        return quote && timestamp ? {
+          quote: quote.trim(),
+          timestamp: timestamp.trim()
+        } : null;
       })
-      .catch(err => {
-        document.getElementById("quote").textContent = JSON.stringify({ error: "Failed to load quotes." });
-        console.error(err);
-      });
-  </script>
+      .filter(Boolean);
+
+    const random = quotes[Math.floor(Math.random() * quotes.length)];
+    document.write(JSON.stringify(random));
+  })
+  .catch(err => {
+    document.write(JSON.stringify({ error: "Could not load quotes." }));
+    console.error(err);
+  });
+</script>
 </body>
 </html>
