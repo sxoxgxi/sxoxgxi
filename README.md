@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>Ponder and deliberate before you make a move. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
