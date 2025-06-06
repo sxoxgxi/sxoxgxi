@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every failure brings with it the seed of an equivalent success. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>The question is not what you look at, but what you see. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
