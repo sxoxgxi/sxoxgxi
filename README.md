@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The question is not what you look at, but what you see. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>To be in harmony with the wholeness of things is not to have anxiety over imperfections. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
