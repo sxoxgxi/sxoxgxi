@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Things do not have meaning. We assign meaning to everything. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>The primary cause of unhappiness is never the situation but your thoughts about it. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
