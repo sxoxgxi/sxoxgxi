@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The primary cause of unhappiness is never the situation but your thoughts about it. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>Where violence reigns, reason is weak. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
