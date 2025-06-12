@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Where violence reigns, reason is weak. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
+<h4 align='center'>What people need and what they want may be very different. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
