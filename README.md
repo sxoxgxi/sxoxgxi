@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Take interest and even delight in doing the small things well. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>The enemy is a very good teacher. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
