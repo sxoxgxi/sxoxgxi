@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The enemy is a very good teacher. - <a href='https://duckduckgo.com/?q=Dalai+Lama' target='_blank'>Dalai Lama</a>.</h4>
+<h4 align='center'>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts. - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
