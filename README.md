@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts. - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
+<h4 align='center'>Remember, hope is a good thing, maybe the best of things. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
