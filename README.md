@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remember, hope is a good thing, maybe the best of things. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
+<h4 align='center'>Working hard for something we don't care about is called stress: Working hard for something we love is called passion. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
