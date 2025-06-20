@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you. - <a href='https://duckduckgo.com/?q=Jeffrey+Gitomer' target='_blank'>Jeffrey Gitomer</a>.</h4>
+<h4 align='center'>Don't worry about being successful, but work toward being significant and the success will naturally follow. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
