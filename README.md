@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't worry about being successful, but work toward being significant and the success will naturally follow. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
