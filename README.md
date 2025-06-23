@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What is planted in each person's soul will sprout.   - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>Don't be pushed by your problems; be led by your dreams. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
