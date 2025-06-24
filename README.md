@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't be pushed by your problems; be led by your dreams. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Smile, breathe and go slowly. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
