@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Smile, breathe and go slowly. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
+<h4 align='center'>He suffers more than necessary, who suffers before it is necessary.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
