@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He suffers more than necessary, who suffers before it is necessary.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
