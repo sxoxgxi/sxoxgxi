@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>Reversing your treatment of the man you have wronged is better than asking his forgiveness. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
