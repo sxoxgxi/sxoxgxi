@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Reversing your treatment of the man you have wronged is better than asking his forgiveness. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
+<h4 align='center'>We cannot expect to be happy always... by experiencing evil as well as good we become wise. - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
