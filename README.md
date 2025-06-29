@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We cannot expect to be happy always... by experiencing evil as well as good we become wise. - <a href='https://duckduckgo.com/?q=Hans+Christian+Andersen' target='_blank'>Hans Christian Andersen</a>.</h4>
+<h4 align='center'>You play the hand you're dealt. I think the game's worthwhile.   - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
