@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You play the hand you're dealt. I think the game's worthwhile.   - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
+<h4 align='center'>Some of us learn from other people's mistakes and the rest of us have to be other people.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
