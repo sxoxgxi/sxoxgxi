@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Some of us learn from other people's mistakes and the rest of us have to be other people.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
