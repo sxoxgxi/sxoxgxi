@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>True friendship ought never to conceal what it thinks.  - <a href='https://duckduckgo.com/?q=St.+Jerome' target='_blank'>St. Jerome</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
