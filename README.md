@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No great mind has ever existed without a touch of madness. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>If we did all the things we are capable of, we would literally astound ourselves. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
