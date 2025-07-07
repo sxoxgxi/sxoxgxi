@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The man who removes a mountain begins by carrying away small stones. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
+<h4 align='center'>You don't know who is important to you until you actually lose them. - <a href='https://duckduckgo.com/?q=Mahatma+Gandhi' target='_blank'>Mahatma Gandhi</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
