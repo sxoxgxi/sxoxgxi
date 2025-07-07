@@ -15,7 +15,7 @@
     <img src='https://img.shields.io/badge/Discord-server-blue'>
   </a>
   <a href='https://otakujin.net'>
-    <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://otakujin.net'>
+    <img src='https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=light%20green&up_message=online&url=https://sogi.is-a.dev'>
   </a>
   <img src='https://img.shields.io/badge/Layout-Synced-brightgreen' class='layout'>
 </p socials>
