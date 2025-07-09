@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Everyone you meet is fighting a battle you know nothing about. Be kind. Always. - <a href='https://duckduckgo.com/?q=Robin+Williams' target='_blank'>Robin Williams</a>.</h4>
+<h4 align='center'>It is impossible for a man to learn what he thinks he already knows. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
