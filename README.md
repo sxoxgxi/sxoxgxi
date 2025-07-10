@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is impossible for a man to learn what he thinks he already knows. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>Before anything else, preparation is the key to success. - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
