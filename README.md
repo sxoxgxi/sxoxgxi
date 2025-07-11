@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Before anything else, preparation is the key to success. - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
+<h4 align='center'>The more you feed your mind with positive thoughts, the more you can attract great things into your life. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
