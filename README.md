@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The more you feed your mind with positive thoughts, the more you can attract great things into your life. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>The most effective way to do it, is to do it. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
