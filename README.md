@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most effective way to do it, is to do it. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>The future is the worst thing about the present. - <a href='https://duckduckgo.com/?q=Gustave+Flaubert' target='_blank'>Gustave Flaubert</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
