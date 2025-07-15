@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's just a bad day, not a bad life. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>You are never too old to set another goal or to dream a new dream. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
