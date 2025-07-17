@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>I am who I am today because of the choices I made yesterday. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
