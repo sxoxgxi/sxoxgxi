@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I am who I am today because of the choices I made yesterday. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>The only thing worse than being blind is having sight but no vision. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
