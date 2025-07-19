@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only thing worse than being blind is having sight but no vision. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>You can tell more about a person by what he says about others than you can by what others say about him. - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
