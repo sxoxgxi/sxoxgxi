@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can tell more about a person by what he says about others than you can by what others say about him. - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
+<h4 align='center'>Many roads lead to the path, but basically there are only two: reason and practice.  - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
