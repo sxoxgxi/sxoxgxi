@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Many roads lead to the path, but basically there are only two: reason and practice.  - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
+<h4 align='center'>I didn't get there by wishing for it or hoping for it, but by working for it. - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
