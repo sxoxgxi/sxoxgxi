@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I didn't get there by wishing for it or hoping for it, but by working for it. - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
+<h4 align='center'>Fallacies do not cease to be fallacies because they become fashions. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
