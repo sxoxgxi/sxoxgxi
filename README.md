@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Fallacies do not cease to be fallacies because they become fashions. - <a href='https://duckduckgo.com/?q=Gilbert+Chesterton' target='_blank'>Gilbert Chesterton</a>.</h4>
+<h4 align='center'>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
