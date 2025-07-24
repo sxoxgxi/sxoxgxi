@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>Success is getting what you want. Happiness is wanting what you get. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
