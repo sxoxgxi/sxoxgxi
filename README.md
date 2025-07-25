@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success is getting what you want. Happiness is wanting what you get. - <a href='https://duckduckgo.com/?q=Andrew+Carnegie' target='_blank'>Andrew Carnegie</a>.</h4>
+<h4 align='center'>To plant a garden is to believe in tomorrow.   - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
