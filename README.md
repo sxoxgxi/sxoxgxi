@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To plant a garden is to believe in tomorrow.   - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
+<h4 align='center'>He who knows best knows how little he knows. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
