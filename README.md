@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He who knows best knows how little he knows. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>The dead receive more flowers than the living because regret is stronger than gratitude. - <a href='https://duckduckgo.com/?q=Anne+Frank' target='_blank'>Anne Frank</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
