@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The dead receive more flowers than the living because regret is stronger than gratitude. - <a href='https://duckduckgo.com/?q=Anne+Frank' target='_blank'>Anne Frank</a>.</h4>
+<h4 align='center'>Let not your mind run on what you lack as much as on what you have already. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
