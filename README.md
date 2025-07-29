@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Let not your mind run on what you lack as much as on what you have already. - <a href='https://duckduckgo.com/?q=Marcus+Aurelius' target='_blank'>Marcus Aurelius</a>.</h4>
+<h4 align='center'>You can't wait for inspiration. You have to go after it with a club.  - <a href='https://duckduckgo.com/?q=Jack+London' target='_blank'>Jack London</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
