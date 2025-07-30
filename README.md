@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You can't wait for inspiration. You have to go after it with a club.  - <a href='https://duckduckgo.com/?q=Jack+London' target='_blank'>Jack London</a>.</h4>
+<h4 align='center'>Knowing yourself is the beginning of all wisdom. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
