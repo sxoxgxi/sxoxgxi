@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Knowing yourself is the beginning of all wisdom. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Those who look for the bad in people will surely find it. - <a href='https://duckduckgo.com/?q=Abraham+Lincoln' target='_blank'>Abraham Lincoln</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
