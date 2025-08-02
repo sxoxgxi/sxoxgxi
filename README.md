@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life happens in the river, not the shore. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>If life were predictable it would cease to be life, and be without flavor. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
