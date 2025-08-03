@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If life were predictable it would cease to be life, and be without flavor. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>Give out what you most want to come back. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
