@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give out what you most want to come back. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>You are what you believe in. You become that which you believe you can become. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
