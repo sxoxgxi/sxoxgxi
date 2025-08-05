@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You are what you believe in. You become that which you believe you can become. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
+<h4 align='center'>To become what you are not, behave as you do not. - <a href='https://duckduckgo.com/?q=T.S.+Eliot' target='_blank'>T.S. Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
