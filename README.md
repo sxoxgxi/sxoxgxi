@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Go for it now. The future is promised to no one. - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>The most tragic thing in the world is a man of genius who is not a man of honor. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
