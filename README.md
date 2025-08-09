@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most tragic thing in the world is a man of genius who is not a man of honor. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>To know your Enemy, you must become your Enemy. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
