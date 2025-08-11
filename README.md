@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wit is educated insolence. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>Passion is energy. Feel the power that comes from focusing on what excites you.  - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
