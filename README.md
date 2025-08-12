@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Passion is energy. Feel the power that comes from focusing on what excites you.  - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>There are dark shadows on the earth, but its lights are stronger in the contrast. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
