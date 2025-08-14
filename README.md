@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>People do not decide their futures, they decide their habits and their habits decide their futures. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>Genius is one percent inspiration and ninety-nine percent perspiration. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
