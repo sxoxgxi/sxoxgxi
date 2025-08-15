@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Genius is one percent inspiration and ninety-nine percent perspiration. - <a href='https://duckduckgo.com/?q=Thomas+Edison' target='_blank'>Thomas Edison</a>.</h4>
+<h4 align='center'>Good luck is opportunity meeting preparedness. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
