@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Good luck is opportunity meeting preparedness. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>Lack of emotion causes lack of progress and lack of motivation. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
