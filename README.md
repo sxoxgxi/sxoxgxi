@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Lack of emotion causes lack of progress and lack of motivation. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
