@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>It isn't what you do, but how you do it. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
