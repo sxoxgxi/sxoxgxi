@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It isn't what you do, but how you do it. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>You are the sky. Everything else - it's just the weather. - <a href='https://duckduckgo.com/?q=Pema+Chodron' target='_blank'>Pema Chodron</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
