@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Whatever you decide to do, make sure it makes you happy. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
+<h4 align='center'>Adults are just children who earn money. - <a href='https://duckduckgo.com/?q=Kenneth+Branagh' target='_blank'>Kenneth Branagh</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
