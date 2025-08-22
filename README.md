@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Adults are just children who earn money. - <a href='https://duckduckgo.com/?q=Kenneth+Branagh' target='_blank'>Kenneth Branagh</a>.</h4>
+<h4 align='center'>Trying to define yourself is like trying to bite your own teeth. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
