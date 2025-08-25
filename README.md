@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
+<h4 align='center'>A day without laughter is a day wasted. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
