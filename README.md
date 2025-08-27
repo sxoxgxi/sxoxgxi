@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Actions are the seeds of fate. Deeds grow into destiny. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
+<h4 align='center'>If you get up one more time than you fall, you will make it through. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
