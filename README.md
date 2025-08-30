@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Do good, live in the most positive and joyful way possible every day. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
+<h4 align='center'>I admire those who do good and expect nothing in return. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
