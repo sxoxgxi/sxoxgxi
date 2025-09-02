@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We will outstretch the hand if you unclench your fist. - <a href='https://duckduckgo.com/?q=Barack+Obama' target='_blank'>Barack Obama</a>.</h4>
+<h4 align='center'>The important thing is not what one is born with but what use one makes of that equipment. - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
