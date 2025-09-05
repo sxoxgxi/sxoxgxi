@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When the root is strong, the fruit is sweet. - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
+<h4 align='center'>If you have only one smile in you give it to the people you love. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
