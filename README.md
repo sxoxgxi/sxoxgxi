@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you have only one smile in you give it to the people you love. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
+<h4 align='center'>We shape clay into a pot, but it is the emptiness inside that holds whatever we want. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
