@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We shape clay into a pot, but it is the emptiness inside that holds whatever we want. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>It is hard to fail, but it is worse never to have tried to succeed. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
