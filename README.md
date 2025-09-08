@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is hard to fail, but it is worse never to have tried to succeed. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>Open your mind before your mouth. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
