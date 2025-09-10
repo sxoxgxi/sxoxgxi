@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Weeds are flowers too, once you get to know them. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
+<h4 align='center'>Challenge yourself to find the good and beautiful thing inside of everyone. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
