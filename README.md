@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Challenge yourself to find the good and beautiful thing inside of everyone. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>Yesterday is gone. Tomorrow has not yet come. We have only today. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
