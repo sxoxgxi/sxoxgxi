@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>She who loves roses must be patient and not cry out when she is pierced by thorns. - <a href='https://duckduckgo.com/?q=Kenji+Miyazawa' target='_blank'>Kenji Miyazawa</a>.</h4>
+<h4 align='center'>Don't stumble over something that's behind you. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
