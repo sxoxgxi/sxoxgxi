@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't stumble over something that's behind you. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
+<h4 align='center'>There is no such thing as a great talent without great willpower. - <a href='https://duckduckgo.com/?q=Honore+de+Balzac' target='_blank'>Honore de Balzac</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
