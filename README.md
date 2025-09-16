@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is not titles that honour men, but men that honour titles. - <a href='https://duckduckgo.com/?q=Niccolo+Machiavelli' target='_blank'>Niccolo Machiavelli</a>.</h4>
+<h4 align='center'>Tomorrow is only found in the calendar of fools. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
