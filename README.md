@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Anything becomes interesting if you look at it long enough.. - <a href='https://duckduckgo.com/?q=Gustave+Flaubert' target='_blank'>Gustave Flaubert</a>.</h4>
+<h4 align='center'>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
