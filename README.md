@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities. - <a href='https://duckduckgo.com/?q=Charles+Dickens' target='_blank'>Charles Dickens</a>.</h4>
+<h4 align='center'>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
