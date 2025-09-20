@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
+<h4 align='center'>Few things are more deceptive than memories. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
