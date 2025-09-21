@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Few things are more deceptive than memories. - <a href='https://duckduckgo.com/?q=Carlos+Ruiz+Zafon' target='_blank'>Carlos Ruiz Zafon</a>.</h4>
+<h4 align='center'>To seek is to suffer. To seek nothing is bliss. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
