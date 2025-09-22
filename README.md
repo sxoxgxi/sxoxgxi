@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To seek is to suffer. To seek nothing is bliss. - <a href='https://duckduckgo.com/?q=Bodhidharma' target='_blank'>Bodhidharma</a>.</h4>
+<h4 align='center'>I want the fishing rod, not the fish. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
