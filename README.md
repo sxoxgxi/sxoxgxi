@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>I want the fishing rod, not the fish. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
+<h4 align='center'>If you don't like something, change it. If you can't change it, change your attitude. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
