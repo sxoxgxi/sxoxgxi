@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you don't like something, change it. If you can't change it, change your attitude. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
+<h4 align='center'>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
