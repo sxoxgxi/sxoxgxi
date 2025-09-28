@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Before you embark on a journey of revenge, dig two graves.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
+<h4 align='center'>Everything that is done in the world is done by hope. - <a href='https://duckduckgo.com/?q=Martin+Luther' target='_blank'>Martin Luther</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
