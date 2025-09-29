@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Everything that is done in the world is done by hope. - <a href='https://duckduckgo.com/?q=Martin+Luther' target='_blank'>Martin Luther</a>.</h4>
+<h4 align='center'>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
