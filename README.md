@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
