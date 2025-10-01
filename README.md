@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
+<h4 align='center'>Why do you stay in prison when the door is so wide open? - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
