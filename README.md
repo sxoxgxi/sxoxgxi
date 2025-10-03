@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Success and failure come and go, but don't let them define you. It's who you are that matters. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>It's always to soon to quit! - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
