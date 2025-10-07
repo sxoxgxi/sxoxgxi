@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We tend to live up to our expectations. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>Fear, uncertainty, and discomfort are your compasses toward growth. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
