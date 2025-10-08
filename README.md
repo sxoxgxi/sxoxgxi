@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Fear, uncertainty, and discomfort are your compasses toward growth. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>Live, travel, adventure, bless, and don't be sorry.   - <a href='https://duckduckgo.com/?q=Jack+Kerouac' target='_blank'>Jack Kerouac</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
