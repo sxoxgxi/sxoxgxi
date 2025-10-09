@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Live, travel, adventure, bless, and don't be sorry.   - <a href='https://duckduckgo.com/?q=Jack+Kerouac' target='_blank'>Jack Kerouac</a>.</h4>
+<h4 align='center'>If you need inspiration, don't do it. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center' socials>
   <a href='your-discord-server-url'>
