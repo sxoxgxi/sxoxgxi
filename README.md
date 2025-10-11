@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>Every saint has a past, and every sinner has a future. - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
