@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every saint has a past, and every sinner has a future. - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
+<h4 align='center'>If you're not making mistakes, then you're not doing anything. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
