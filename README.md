@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you're not making mistakes, then you're not doing anything. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>Nothing has any power over me other than that which I give it through my conscious thoughts. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
