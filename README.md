@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
+<h4 align='center'>The fear of death is more to be feared, than death itself. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
