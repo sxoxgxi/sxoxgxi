@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The fear of death is more to be feared, than death itself. - <a href='https://duckduckgo.com/?q=Publilius+Syrus' target='_blank'>Publilius Syrus</a>.</h4>
+<h4 align='center'>What's the point in being smart enough to read, if everything you read makes you dumb? - <a href='https://duckduckgo.com/?q=C.+Sean+McGee' target='_blank'>C. Sean McGee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
