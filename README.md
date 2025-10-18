@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Little by little, one travels far. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>Don't allow your mind to tell your heart what to do. The mind gives up easily. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
