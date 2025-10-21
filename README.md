@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every experience is a lesson. Every loss is a gain. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>Trust your instincts: my first reaction is almost invariably the right one.   - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
