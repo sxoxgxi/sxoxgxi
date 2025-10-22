@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Trust your instincts: my first reaction is almost invariably the right one.   - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
+<h4 align='center'>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
