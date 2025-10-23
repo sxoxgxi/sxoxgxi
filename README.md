@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>Blessed is he who expects nothing, for he shall never be disappointed. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
