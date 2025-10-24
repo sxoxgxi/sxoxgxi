@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Blessed is he who expects nothing, for he shall never be disappointed. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
+<h4 align='center'>You may delay, but time will not. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
