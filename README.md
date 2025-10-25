@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You may delay, but time will not. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>We will now discuss in a little more detail the Struggle for Existence. - <a href='https://duckduckgo.com/?q=Charles+Darwin' target='_blank'>Charles Darwin</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
