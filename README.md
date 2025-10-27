@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind. - <a href='https://duckduckgo.com/?q=Ayn+Rand' target='_blank'>Ayn Rand</a>.</h4>
+<h4 align='center'>Everything begins with an idea. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
