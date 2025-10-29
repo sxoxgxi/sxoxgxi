@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. - <a href='https://duckduckgo.com/?q=Anita+Krizzan' target='_blank'>Anita Krizzan</a>.</h4>
+<h4 align='center'>Not all those who wander are lost. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
