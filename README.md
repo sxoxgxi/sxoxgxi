@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Things turn out best for the people who make the best of the way things turn out. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>Persistence is very important. You should not give up unless you are forced to give up. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
