@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Persistence is very important. You should not give up unless you are forced to give up. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>Where your talents and the needs of the world cross, there lies your vocation. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
