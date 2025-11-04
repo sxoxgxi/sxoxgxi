@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Every strike brings me closer to the next home run.  - <a href='https://duckduckgo.com/?q=Babe+Ruth' target='_blank'>Babe Ruth</a>.</h4>
+<h4 align='center'>Don't change your mind just because people are offended; change your mind if you're wrong. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
