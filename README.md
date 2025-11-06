@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Embody what you teach, and teach only what you have embodied. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>Life is not a problem to be solved, but a reality to be experienced. - <a href='https://duckduckgo.com/?q=Soren+Kierkegaard' target='_blank'>Soren Kierkegaard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
