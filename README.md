@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is not a problem to be solved, but a reality to be experienced. - <a href='https://duckduckgo.com/?q=Soren+Kierkegaard' target='_blank'>Soren Kierkegaard</a>.</h4>
+<h4 align='center'>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality. - <a href='https://duckduckgo.com/?q=Shunryu+Suzuki' target='_blank'>Shunryu Suzuki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
