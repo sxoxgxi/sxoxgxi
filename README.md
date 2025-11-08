@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality. - <a href='https://duckduckgo.com/?q=Shunryu+Suzuki' target='_blank'>Shunryu Suzuki</a>.</h4>
+<h4 align='center'>Duty makes us do things well, but love makes us do them beautifully.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
