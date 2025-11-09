@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Duty makes us do things well, but love makes us do them beautifully.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>In the midst of chaos, there is also opportunity. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
