@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In the midst of chaos, there is also opportunity. - <a href='https://duckduckgo.com/?q=Sun+Tzu' target='_blank'>Sun Tzu</a>.</h4>
+<h4 align='center'>Allow motion to equal emotion. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
