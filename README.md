@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Make your stand today. On this spot. On this day. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>Numbing the pain for a while will make it worse when you finally feel it. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
