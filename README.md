@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Numbing the pain for a while will make it worse when you finally feel it. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>There are two kinds of perfect people: those who are dead, and those who have not been born yet. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
