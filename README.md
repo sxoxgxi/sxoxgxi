@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There are two kinds of perfect people: those who are dead, and those who have not been born yet. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - <a href='https://duckduckgo.com/?q=Socrates' target='_blank'>Socrates</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
