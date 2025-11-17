@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Like it or not, this moment is all we really have to work with. - <a href='https://duckduckgo.com/?q=Jon+Kabat-Zinn' target='_blank'>Jon Kabat-Zinn</a>.</h4>
+<h4 align='center'>Failure is feedback. Learn from it and move on. - <a href='https://duckduckgo.com/?q=Jack+Butcher' target='_blank'>Jack Butcher</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
