@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>There is nothing quite so tragic as a young cynic. - <a href='https://duckduckgo.com/?q=Maya+Angelou' target='_blank'>Maya Angelou</a>.</h4>
+<h4 align='center'>Correct what you can. Learn from what you can't. - <a href='https://duckduckgo.com/?q=Toni+Morrison' target='_blank'>Toni Morrison</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
