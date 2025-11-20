@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Correct what you can. Learn from what you can't. - <a href='https://duckduckgo.com/?q=Toni+Morrison' target='_blank'>Toni Morrison</a>.</h4>
+<h4 align='center'>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power! - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
