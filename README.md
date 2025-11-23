@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A rational person can find peace by cultivating indifference to things outside of their control. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>Trust is the foundation of great leadership. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
