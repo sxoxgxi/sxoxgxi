@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Trust is the foundation of great leadership. - <a href='https://duckduckgo.com/?q=Lolly+Daskal' target='_blank'>Lolly Daskal</a>.</h4>
+<h4 align='center'>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  - <a href='https://duckduckgo.com/?q=Charles+Swindoll' target='_blank'>Charles Swindoll</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
