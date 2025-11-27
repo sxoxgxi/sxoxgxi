@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you try, you might get exactly what you want. If you don't, you don't. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Big people don't make people feel small. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
