@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Peace is not the absence of conflict, but the ability to cope with it. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>The way of success is the way of continuous pursuit of knowledge. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
