@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The way of success is the way of continuous pursuit of knowledge. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>I hear and I forget. I see and I remember. I do and I understand.  - <a href='https://duckduckgo.com/?q=Confucius' target='_blank'>Confucius</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
