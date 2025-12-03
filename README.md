@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Don't live the same year 75 times and call it a life. - <a href='https://duckduckgo.com/?q=Robin+Sharma' target='_blank'>Robin Sharma</a>.</h4>
+<h4 align='center'>No man is happy who does not think himself so. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
