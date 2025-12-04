@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>No man is happy who does not think himself so. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>It takes half your life before you discover life is a do-it-yourself project. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
