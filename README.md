@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It takes half your life before you discover life is a do-it-yourself project. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead? - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
