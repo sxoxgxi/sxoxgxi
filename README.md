@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead? - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>All men who have achieved great things have been great dreamers.  - <a href='https://duckduckgo.com/?q=Orison+Swett+Marden' target='_blank'>Orison Swett Marden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
