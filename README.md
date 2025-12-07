@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>All men who have achieved great things have been great dreamers.  - <a href='https://duckduckgo.com/?q=Orison+Swett+Marden' target='_blank'>Orison Swett Marden</a>.</h4>
+<h4 align='center'>Growing up is losing some illusions, in order to acquire others. - <a href='https://duckduckgo.com/?q=Virginia+Woolf' target='_blank'>Virginia Woolf</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
