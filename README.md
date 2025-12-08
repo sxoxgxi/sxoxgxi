@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Growing up is losing some illusions, in order to acquire others. - <a href='https://duckduckgo.com/?q=Virginia+Woolf' target='_blank'>Virginia Woolf</a>.</h4>
+<h4 align='center'>If you want things to be different, perhaps the answer is to become different yourself. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
