@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The biggest challenge after success is shutting up about it. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
