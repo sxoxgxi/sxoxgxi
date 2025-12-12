@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results. - <a href='https://duckduckgo.com/?q=Tony+Robbins' target='_blank'>Tony Robbins</a>.</h4>
+<h4 align='center'>First say to yourself what you would be; and then do what you have to do. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
