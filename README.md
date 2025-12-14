@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness cannot be traveled to, owned, earned, worn or consumed. - <a href='https://duckduckgo.com/?q=Denis+Waitley' target='_blank'>Denis Waitley</a>.</h4>
+<h4 align='center'>Failure is not fatal, but failure to change might be. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
