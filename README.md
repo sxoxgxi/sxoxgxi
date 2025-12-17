@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Go as far as you can see and you will see further.   - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
+<h4 align='center'>No man ever steps in the same river twice, for it's not the same river and he's not the same man. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
