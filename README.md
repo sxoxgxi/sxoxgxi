@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Nothing brings down walls as surely as acceptance. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>You have a brain and mind of your own. Use it, and reach your own decisions. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
