@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You have a brain and mind of your own. Use it, and reach your own decisions. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Concentrated power has always been the enemy of liberty. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
