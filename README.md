@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Night is a more quiet time to work. It aids thought. - <a href='https://duckduckgo.com/?q=Alexander+Graham+Bell' target='_blank'>Alexander Graham Bell</a>.</h4>
+<h4 align='center'>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
