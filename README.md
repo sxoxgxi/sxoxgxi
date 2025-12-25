@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.   - <a href='https://duckduckgo.com/?q=Seneca' target='_blank'>Seneca</a>.</h4>
+<h4 align='center'>Happiness depends upon ourselves. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
