@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Happiness depends upon ourselves. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>We have a duty to maintain the light of consciousness to make sure it continues into the future. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
