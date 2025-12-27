@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We have a duty to maintain the light of consciousness to make sure it continues into the future. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>Perfectionism is simply putting a limit on your future. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
