@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Perfectionism is simply putting a limit on your future. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
+<h4 align='center'>A clever person turns great troubles into little ones, and little ones into none at all.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
