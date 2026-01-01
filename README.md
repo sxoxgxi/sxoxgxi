@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>In the long run, the sharpest weapon of all is a kind and gentle spirit. - <a href='https://duckduckgo.com/?q=Anne+Frank' target='_blank'>Anne Frank</a>.</h4>
+<h4 align='center'>A journey of a thousand miles must begin with a single step. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
