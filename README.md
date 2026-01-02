@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A journey of a thousand miles must begin with a single step. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>It doesn't matter where you are coming from. All that matters is where you are going.  - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
