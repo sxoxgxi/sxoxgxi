@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Simplicity is a difficult thing to achieve.   - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
+<h4 align='center'>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit. - <a href='https://duckduckgo.com/?q=Conrad+Hilton' target='_blank'>Conrad Hilton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
