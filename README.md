@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>A moving door hinge never corrodes. Flowing water never grows stagnant. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
