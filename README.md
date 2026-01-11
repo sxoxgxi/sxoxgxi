@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You're braver than you believe, and stronger than you seem, and smarter than you think. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
+<h4 align='center'>Nature loves to hide. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
