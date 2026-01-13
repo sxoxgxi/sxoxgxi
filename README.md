@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
+<h4 align='center'>Fool me once, shame on you; fool me twice, shame on me.  - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
