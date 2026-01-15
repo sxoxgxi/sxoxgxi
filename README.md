@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Kind words can be short and easy to speak, but their echoes are truly endless. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Engage in those actions and thoughts that nurture the good qualities you want to have. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
