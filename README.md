@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Engage in those actions and thoughts that nurture the good qualities you want to have. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
+<h4 align='center'>Only put off until tomorrow what you are willing to die having left undone. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
