@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Only put off until tomorrow what you are willing to die having left undone. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
+<h4 align='center'>Life is love and love is life. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
