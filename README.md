@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is love and love is life. - <a href='https://duckduckgo.com/?q=Elvis+Presley' target='_blank'>Elvis Presley</a>.</h4>
+<h4 align='center'>Whatever you believe with feeling becomes your reality.  - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
