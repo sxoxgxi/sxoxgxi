@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Whatever you believe with feeling becomes your reality.  - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  - <a href='https://duckduckgo.com/?q=Nikola+Tesla' target='_blank'>Nikola Tesla</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
