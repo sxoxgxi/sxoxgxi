@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only time you run out of chances is when you stop taking them. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>We have more possibilities available in each moment than we realize. - <a href='https://duckduckgo.com/?q=Thich+Nhat+Hanh' target='_blank'>Thich Nhat Hanh</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
