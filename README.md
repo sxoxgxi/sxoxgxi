@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It's the job that's never started that takes the longest to finish. - <a href='https://duckduckgo.com/?q=J.R.R.+Tolkien' target='_blank'>J.R.R. Tolkien</a>.</h4>
+<h4 align='center'>Wisdom is the oneness of mind that guides and permeates all things. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
