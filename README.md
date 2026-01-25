@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Self-control is strength. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>When you repeat a mistake, it is not a mistake anymore: it is a decision. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
