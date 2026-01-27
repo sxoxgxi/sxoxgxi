@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed. - <a href='https://duckduckgo.com/?q=Lily+Tomlin' target='_blank'>Lily Tomlin</a>.</h4>
+<h4 align='center'>Obstacles don't block the path, they are the path. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
