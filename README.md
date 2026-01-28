@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Obstacles don't block the path, they are the path. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
+<h4 align='center'>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
