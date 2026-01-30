@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence. - <a href='https://duckduckgo.com/?q=Josh+Waitzkin' target='_blank'>Josh Waitzkin</a>.</h4>
+<h4 align='center'>When the time is gone, you can never get it back. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
