@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Today will never happen again. Don't waste it with a false start or no start at all. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
+<h4 align='center'>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. - <a href='https://duckduckgo.com/?q=Sonia+Ricotti' target='_blank'>Sonia Ricotti</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
