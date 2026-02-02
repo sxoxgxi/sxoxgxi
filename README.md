@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. - <a href='https://duckduckgo.com/?q=Sonia+Ricotti' target='_blank'>Sonia Ricotti</a>.</h4>
+<h4 align='center'>The future is not a gift. It is an achievement. - <a href='https://duckduckgo.com/?q=Robert+F.+Kennedy' target='_blank'>Robert F. Kennedy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
