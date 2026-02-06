@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead. - <a href='https://duckduckgo.com/?q=Samuel+Butler' target='_blank'>Samuel Butler</a>.</h4>
+<h4 align='center'>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
