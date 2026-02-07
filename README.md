@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
