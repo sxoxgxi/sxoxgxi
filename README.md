@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>He who is untrue to his own cause cannot command the respect of others. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
+<h4 align='center'>You cannot always control what goes on outside. But you can always control what goes on inside.  - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
