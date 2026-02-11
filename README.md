@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>You cannot always control what goes on outside. But you can always control what goes on inside.  - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>To forget the whole world is easy; to make the whole world forget you is hard. - <a href='https://duckduckgo.com/?q=Zhuangzi' target='_blank'>Zhuangzi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
