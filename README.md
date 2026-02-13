@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>Act as if what you do makes a difference. It does. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
