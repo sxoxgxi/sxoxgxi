@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Act as if what you do makes a difference. It does. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
+<h4 align='center'>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
