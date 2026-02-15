@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
+<h4 align='center'>May you find grace as you surrender to life. May you find happiness, as you stop seeking it. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
