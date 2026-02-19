@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Fears are nothing more than a state of mind. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Life's too mysterious to take too serious. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
