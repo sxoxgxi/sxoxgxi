@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life's too mysterious to take too serious. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>Wherever you are, and whatever you do, be in love. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
