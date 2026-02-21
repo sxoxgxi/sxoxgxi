@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Wherever you are, and whatever you do, be in love. - <a href='https://duckduckgo.com/?q=Rumi' target='_blank'>Rumi</a>.</h4>
+<h4 align='center'>It doesn't matter how much you want. What really matters is how much you want it. - <a href='https://duckduckgo.com/?q=Ralph+Marston' target='_blank'>Ralph Marston</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
