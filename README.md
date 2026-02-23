@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Give a girl the right shoes, and she can conquer the world. - <a href='https://duckduckgo.com/?q=Bette+Midler' target='_blank'>Bette Midler</a>.</h4>
+<h4 align='center'>To accomplish big things, I am convinced you must first dream big dreams. - <a href='https://duckduckgo.com/?q=Conrad+Hilton' target='_blank'>Conrad Hilton</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
