@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Here and now...breathe and relax...in battle and in life. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>Intelligent men are cruel. Stupid men are monstrously cruel. - <a href='https://duckduckgo.com/?q=Jack+London' target='_blank'>Jack London</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
