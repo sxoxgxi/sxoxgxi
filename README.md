@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Intelligent men are cruel. Stupid men are monstrously cruel. - <a href='https://duckduckgo.com/?q=Jack+London' target='_blank'>Jack London</a>.</h4>
+<h4 align='center'>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
