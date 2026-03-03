@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Remember, today is the tomorrow you worried about yesterday. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
+<h4 align='center'>Never allow someone to be your priority while allowing yourself to be their option. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
