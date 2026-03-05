@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>It's your life-but only if you make it so. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
