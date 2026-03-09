@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! - <a href='https://duckduckgo.com/?q=Alfred+Adler' target='_blank'>Alfred Adler</a>.</h4>
+<h4 align='center'>The heart wants what it wants. There's no logic.  - <a href='https://duckduckgo.com/?q=Woody+Allen' target='_blank'>Woody Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
