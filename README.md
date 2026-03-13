@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>We ordinary people must forge our own beauty. - <a href='https://duckduckgo.com/?q=Kenji+Miyazawa' target='_blank'>Kenji Miyazawa</a>.</h4>
+<h4 align='center'>Knowing is not enough, we must apply. Willing is not enough, we must do.   - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
