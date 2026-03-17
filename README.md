@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>Where there is anger, there is always pain underneath. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
+<h4 align='center'>The more often a stupidity is repeated, the more it gets the appearance of wisdom. - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
