@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>True friendship ought never to conceal what it thinks.  - <a href='https://duckduckgo.com/?q=St.+Jerome' target='_blank'>St. Jerome</a>.</h4>
+<h4 align='center'>It is far easier to start something than it is to finish it. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
