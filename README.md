@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>It is far easier to start something than it is to finish it. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
+<h4 align='center'>To raise your consciousness, surround yourself with people of higher consciousness. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
