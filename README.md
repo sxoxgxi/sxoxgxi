@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align='center'>To raise your consciousness, surround yourself with people of higher consciousness. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>A fool sees himself as another, but a wise man sees others as himself. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
