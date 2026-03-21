@@ -1,13 +1,3 @@
-
-<small>Server offline</small>
-<h1 align='center'>
-  <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='avatar.png' alt='SOGI' width='200'></a>
-  <br>
-  SOGI
-  <br>
-</h1>
-
 <h4 align='center'>A fool sees himself as another, but a wise man sees others as himself. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
