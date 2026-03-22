@@ -1,4 +1,4 @@
-<h4 align='center'>A fool sees himself as another, but a wise man sees others as himself. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
+<h4 align='center'>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
