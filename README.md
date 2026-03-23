@@ -1,4 +1,4 @@
-<h4 align='center'>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
+<h4 align='center'>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
