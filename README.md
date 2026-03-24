@@ -1,4 +1,4 @@
-<h4 align='center'>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - <a href='https://duckduckgo.com/?q=Robert+Greene' target='_blank'>Robert Greene</a>.</h4>
+<h4 align='center'>Keep your eyes on the stars, but remember to keep your feet on the ground. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
