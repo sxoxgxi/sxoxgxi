@@ -1,4 +1,4 @@
-<h4 align='center'>Words, once they are printed, have a life of their own. - <a href='https://duckduckgo.com/?q=Carol+Burnett' target='_blank'>Carol Burnett</a>.</h4>
+<h4 align='center'>Honesty is the first chapter in the book of wisdom. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
