@@ -1,4 +1,4 @@
-<h4 align='center'>Honesty is the first chapter in the book of wisdom. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>The educated differ from the uneducated as much as the living differ from the dead. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
