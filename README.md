@@ -1,4 +1,4 @@
-<h4 align='center'>The educated differ from the uneducated as much as the living differ from the dead. - <a href='https://duckduckgo.com/?q=Aristotle' target='_blank'>Aristotle</a>.</h4>
+<h4 align='center'>If you don't have time to do it right, when will you have time to do it over? - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
