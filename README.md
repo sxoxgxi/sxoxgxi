@@ -1,4 +1,4 @@
-<h4 align='center'>If you don't have time to do it right, when will you have time to do it over? - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>One beam, no matter how big, cannot support an entire house on its own. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
