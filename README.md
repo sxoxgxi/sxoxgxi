@@ -1,4 +1,4 @@
-<h4 align='center'>You are not what you think you are, You are not what others think you are, You are what you think others think you are. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>I never dwell on what happened. You can't change it. Move forward. - <a href='https://duckduckgo.com/?q=Joan+Rivers' target='_blank'>Joan Rivers</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
