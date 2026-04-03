@@ -1,4 +1,4 @@
-<h4 align='center'>I never dwell on what happened. You can't change it. Move forward. - <a href='https://duckduckgo.com/?q=Joan+Rivers' target='_blank'>Joan Rivers</a>.</h4>
+<h4 align='center'>If no one ever broke the rules, then we'd never advance. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
