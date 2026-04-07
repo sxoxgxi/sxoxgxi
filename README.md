@@ -1,4 +1,4 @@
-<h4 align='center'>When you reach the end of your rope, tie a knot in it and hang on. - <a href='https://duckduckgo.com/?q=Franklin+D.+Roosevelt' target='_blank'>Franklin D. Roosevelt</a>.</h4>
+<h4 align='center'>Your mind will make you rich or poor, depending on the use you put to it. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
