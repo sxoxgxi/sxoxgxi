@@ -1,4 +1,4 @@
-<h4 align='center'>Your mind will make you rich or poor, depending on the use you put to it. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
+<h4 align='center'>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
