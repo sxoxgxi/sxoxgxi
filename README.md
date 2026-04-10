@@ -1,4 +1,4 @@
-<h4 align='center'>Act the way you want to be and soon you'll be the way you act. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
+<h4 align='center'>The wise accomplish all that they want without arousing the envy or scorn of others. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
