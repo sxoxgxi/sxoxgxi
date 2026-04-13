@@ -1,4 +1,4 @@
-<h4 align='center'>Confidence is consistency of thinking about what is possible and how to make it possible. - <a href='https://duckduckgo.com/?q=John+Eliot' target='_blank'>John Eliot</a>.</h4>
+<h4 align='center'>Your setback is just a setup for a comeback. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
