@@ -1,4 +1,4 @@
-<h4 align='center'>Heal the past, live the present, dream the future. - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>The smallest act of kindness is worth more than the greatest intention.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
