@@ -1,4 +1,4 @@
-<h4 align='center'>The smallest act of kindness is worth more than the greatest intention.   - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
+<h4 align='center'>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. - <a href='https://duckduckgo.com/?q=Gurbaksh+Chahal' target='_blank'>Gurbaksh Chahal</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
