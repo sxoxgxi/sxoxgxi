@@ -1,4 +1,4 @@
-<h4 align='center'>We have to live life with a sense of urgency so not a minute is wasted. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
+<h4 align='center'>In order to be irreplaceable one must always be different. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
