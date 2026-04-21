@@ -1,4 +1,4 @@
-<h4 align='center'>Love the life you live, live the life you love. - <a href='https://duckduckgo.com/?q=Bob+Marley' target='_blank'>Bob Marley</a>.</h4>
+<h4 align='center'>The way of success is the way of continuous pursuit of knowledge. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
