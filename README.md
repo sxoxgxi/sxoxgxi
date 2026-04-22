@@ -1,4 +1,4 @@
-<h4 align='center'>The way of success is the way of continuous pursuit of knowledge. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>Success is like reaching an important birthday and finding you're exactly the same. - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
