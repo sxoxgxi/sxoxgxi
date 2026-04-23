@@ -1,4 +1,4 @@
-<h4 align='center'>Success is like reaching an important birthday and finding you're exactly the same. - <a href='https://duckduckgo.com/?q=Audrey+Hepburn' target='_blank'>Audrey Hepburn</a>.</h4>
+<h4 align='center'>The more you extend kindness to yourself, the more it will become your automatic response to others. - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
