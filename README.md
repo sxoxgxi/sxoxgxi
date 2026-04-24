@@ -1,4 +1,4 @@
-<h4 align='center'>The more you extend kindness to yourself, the more it will become your automatic response to others. - <a href='https://duckduckgo.com/?q=Wayne+Dyer' target='_blank'>Wayne Dyer</a>.</h4>
+<h4 align='center'>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
