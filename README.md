@@ -1,4 +1,4 @@
-<h4 align='center'>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
