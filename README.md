@@ -1,4 +1,4 @@
-<h4 align='center'>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>Failure is not fatal, but failure to change might be. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
