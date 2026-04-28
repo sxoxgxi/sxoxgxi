@@ -1,4 +1,4 @@
-<h4 align='center'>Anxiety is the dizziness of freedom. - <a href='https://duckduckgo.com/?q=Soren+Kierkegaard' target='_blank'>Soren Kierkegaard</a>.</h4>
+<h4 align='center'>Much learning does not teach understanding. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
