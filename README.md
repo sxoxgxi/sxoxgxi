@@ -1,4 +1,4 @@
-<h4 align='center'>Much learning does not teach understanding. - <a href='https://duckduckgo.com/?q=Heraclitus' target='_blank'>Heraclitus</a>.</h4>
+<h4 align='center'>Only when one allows themself the right to die, do they then give yourself the permission to live. - <a href='https://duckduckgo.com/?q=C.+Sean+McGee' target='_blank'>C. Sean McGee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
