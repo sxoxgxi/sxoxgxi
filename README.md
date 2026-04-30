@@ -1,4 +1,4 @@
-<h4 align='center'>Only when one allows themself the right to die, do they then give yourself the permission to live. - <a href='https://duckduckgo.com/?q=C.+Sean+McGee' target='_blank'>C. Sean McGee</a>.</h4>
+<h4 align='center'>You're never given a dream without also being given the power to make it true. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
