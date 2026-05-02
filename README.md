@@ -1,4 +1,4 @@
-<h4 align='center'>Nothing is permanent in this wicked world - not even our troubles. - <a href='https://duckduckgo.com/?q=Charlie+Chaplin' target='_blank'>Charlie Chaplin</a>.</h4>
+<h4 align='center'>There exists only the present instant; a Now which always and without end is itself new. - <a href='https://duckduckgo.com/?q=Meister+Eckhart' target='_blank'>Meister Eckhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
