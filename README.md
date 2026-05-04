@@ -1,4 +1,4 @@
-<h4 align='center'>Avoiding danger is no safer in the long run than exposure. - <a href='https://duckduckgo.com/?q=Helen+Keller' target='_blank'>Helen Keller</a>.</h4>
+<h4 align='center'>The primary cause of unhappiness is never the situation but your thoughts about it. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
