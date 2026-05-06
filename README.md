@@ -1,4 +1,4 @@
-<h4 align='center'>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead. - <a href='https://duckduckgo.com/?q=Samuel+Butler' target='_blank'>Samuel Butler</a>.</h4>
+<h4 align='center'>It is impossible for a man to learn what he thinks he already knows. - <a href='https://duckduckgo.com/?q=Epictetus' target='_blank'>Epictetus</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
