@@ -1,4 +1,4 @@
-<h4 align='center'>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>Change is inevitable but personal growth is a choice. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
