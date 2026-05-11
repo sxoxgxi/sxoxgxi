@@ -1,4 +1,4 @@
-<h4 align='center'>Change is inevitable but personal growth is a choice. - <a href='https://duckduckgo.com/?q=Bob+Proctor' target='_blank'>Bob Proctor</a>.</h4>
+<h4 align='center'>Try not to become a man of success, but rather try to become a man of value. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
