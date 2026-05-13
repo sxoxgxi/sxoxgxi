@@ -1,4 +1,4 @@
-<h4 align='center'>There are no accidents... there is only some purpose that we haven't yet understood. - <a href='https://duckduckgo.com/?q=Deepak+Chopra' target='_blank'>Deepak Chopra</a>.</h4>
+<h4 align='center'>The person who never made a mistake never tried anything new. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
