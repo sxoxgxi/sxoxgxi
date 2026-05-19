@@ -1,4 +1,4 @@
-<h4 align='center'>The person who never made a mistake never tried anything new. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
+<h4 align='center'>You cannot control the behavior of others, but you can always choose how you respond to it. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
