@@ -1,4 +1,4 @@
-<h4 align='center'>Don't worry about being successful, but work toward being significant and the success will naturally follow. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>The temptation to give up is strongest just before victory. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
