@@ -1,4 +1,4 @@
-<h4 align='center'>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is. - <a href='https://duckduckgo.com/?q=Nicolas+Chamfort' target='_blank'>Nicolas Chamfort</a>.</h4>
+<h4 align='center'>The truth is heavy, therefore few care to carry it. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
