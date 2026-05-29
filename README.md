@@ -1,4 +1,4 @@
-<h4 align='center'>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Create with the heart; build with the mind. - <a href='https://duckduckgo.com/?q=Criss+Jami' target='_blank'>Criss Jami</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
