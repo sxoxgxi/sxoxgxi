@@ -1,4 +1,4 @@
-<h4 align='center'>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything. - <a href='https://duckduckgo.com/?q=Shunryu+Suzuki' target='_blank'>Shunryu Suzuki</a>.</h4>
+<h4 align='center'>In order to be irreplaceable one must always be different. - <a href='https://duckduckgo.com/?q=Coco+Chanel' target='_blank'>Coco Chanel</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
