@@ -1,4 +1,4 @@
-<h4 align='center'>Today you are you, that is truer than true. There is no one alive who is you-er than you. - <a href='https://duckduckgo.com/?q=Dr.+Seuss' target='_blank'>Dr. Seuss</a>.</h4>
+<h4 align='center'>It is only depth of character that determines the profundity with which we face life. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
