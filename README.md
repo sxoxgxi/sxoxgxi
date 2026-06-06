@@ -1,4 +1,4 @@
-<h4 align='center'>It is only depth of character that determines the profundity with which we face life. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>He who wishes to be obeyed must know how to command. - <a href='https://duckduckgo.com/?q=Niccolo+Machiavelli' target='_blank'>Niccolo Machiavelli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
