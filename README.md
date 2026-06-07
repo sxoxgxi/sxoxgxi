@@ -1,4 +1,4 @@
-<h4 align='center'>He who wishes to be obeyed must know how to command. - <a href='https://duckduckgo.com/?q=Niccolo+Machiavelli' target='_blank'>Niccolo Machiavelli</a>.</h4>
+<h4 align='center'>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
