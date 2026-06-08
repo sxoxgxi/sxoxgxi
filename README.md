@@ -1,4 +1,4 @@
-<h4 align='center'>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life. - <a href='https://duckduckgo.com/?q=Eleanor+Roosevelt' target='_blank'>Eleanor Roosevelt</a>.</h4>
+<h4 align='center'>Successful people appreciate where they have come from, but they don't let their past set the tone for their future. - <a href='https://duckduckgo.com/?q=Steve+Harvey' target='_blank'>Steve Harvey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
