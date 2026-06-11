@@ -1,4 +1,4 @@
-<h4 align='center'>Every failure brings with it the seed of an equivalent success. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>There is no self-discovery without pain and loss. - <a href='https://duckduckgo.com/?q=Anita+Krizzan' target='_blank'>Anita Krizzan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
