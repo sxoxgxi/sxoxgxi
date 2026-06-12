@@ -1,4 +1,4 @@
-<h4 align='center'>There is no self-discovery without pain and loss. - <a href='https://duckduckgo.com/?q=Anita+Krizzan' target='_blank'>Anita Krizzan</a>.</h4>
+<h4 align='center'>It is better to fail in originality than to succeed in imitation. - <a href='https://duckduckgo.com/?q=Herman+Melville' target='_blank'>Herman Melville</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
