@@ -1,4 +1,4 @@
-<h4 align='center'>The way to get started is to quit talking and begin doing. - <a href='https://duckduckgo.com/?q=Walt+Disney' target='_blank'>Walt Disney</a>.</h4>
+<h4 align='center'>Confidence is the greatest friend. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
