@@ -1,4 +1,4 @@
-<h4 align='center'>Confidence is the greatest friend. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>You are what you believe in. You become that which you believe you can become. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
