@@ -1,4 +1,4 @@
-<h4 align='center'>You are what you believe in. You become that which you believe you can become. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
+<h4 align='center'>All you need is passion. If you have a passion for something, you'll create the talent. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
