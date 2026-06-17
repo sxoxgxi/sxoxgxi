@@ -1,4 +1,4 @@
-<h4 align='center'>All you need is passion. If you have a passion for something, you'll create the talent. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
+<h4 align='center'>Forgive yourself for your faults and your mistakes and move on. - <a href='https://duckduckgo.com/?q=Les+Brown' target='_blank'>Les Brown</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
