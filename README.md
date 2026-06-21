@@ -1,4 +1,4 @@
-<h4 align='center'>Every day may not be good, but there's something good in every day. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Question everything. Learn something. Answer nothing. - <a href='https://duckduckgo.com/?q=Euripides' target='_blank'>Euripides</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
