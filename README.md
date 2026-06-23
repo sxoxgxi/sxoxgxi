@@ -1,4 +1,4 @@
-<h4 align='center'>Life is a question and how we live it is our answer. - <a href='https://duckduckgo.com/?q=Gary+Keller' target='_blank'>Gary Keller</a>.</h4>
+<h4 align='center'>The key to immortality is first living a life worth remembering. - <a href='https://duckduckgo.com/?q=Bruce+Lee' target='_blank'>Bruce Lee</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
