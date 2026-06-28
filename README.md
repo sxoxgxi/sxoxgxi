@@ -1,4 +1,4 @@
-<h4 align='center'>Experience is simply the name we give our mistakes. - <a href='https://duckduckgo.com/?q=Oscar+Wilde' target='_blank'>Oscar Wilde</a>.</h4>
+<h4 align='center'>Stop wasting time defending your problems and work on addressing them instead. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
