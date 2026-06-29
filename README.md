@@ -1,4 +1,4 @@
-<h4 align='center'>Stop wasting time defending your problems and work on addressing them instead. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
+<h4 align='center'>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. - <a href='https://duckduckgo.com/?q=Amelia+Earhart' target='_blank'>Amelia Earhart</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
