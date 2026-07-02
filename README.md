@@ -1,4 +1,4 @@
-<h4 align='center'>Whatever you do in life, surround yourself with smart people who'll argue with you. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>Learning is a weightless treasure you can always carry easily. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
