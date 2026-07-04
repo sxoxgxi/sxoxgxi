@@ -1,4 +1,4 @@
-<h4 align='center'>Knowledge is a treasure, but practice is the key to it. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>The secret to happiness is having low expectations. - <a href='https://duckduckgo.com/?q=Warren+Buffett' target='_blank'>Warren Buffett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
