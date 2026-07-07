@@ -1,4 +1,4 @@
-<h4 align='center'>It is dangerous to be right in matters on which the established authorities are wrong. - <a href='https://duckduckgo.com/?q=Voltaire' target='_blank'>Voltaire</a>.</h4>
+<h4 align='center'>Winning isn't always championships. - <a href='https://duckduckgo.com/?q=Michael+Jordan' target='_blank'>Michael Jordan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
