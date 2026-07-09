@@ -1,4 +1,4 @@
-<h4 align='center'>The farther backward you can look, the farther forward you are likely to see. - <a href='https://duckduckgo.com/?q=Winston+Churchill' target='_blank'>Winston Churchill</a>.</h4>
+<h4 align='center'>Your life does not get better by chance, it gets better by change. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
