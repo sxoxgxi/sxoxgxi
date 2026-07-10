@@ -1,4 +1,4 @@
-<h4 align='center'>Your life does not get better by chance, it gets better by change. - <a href='https://duckduckgo.com/?q=Jim+Rohn' target='_blank'>Jim Rohn</a>.</h4>
+<h4 align='center'>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. - <a href='https://duckduckgo.com/?q=Roy+T.+Bennett' target='_blank'>Roy T. Bennett</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
