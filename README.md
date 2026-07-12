@@ -1,4 +1,4 @@
-<h4 align='center'>Follow your instincts. That is where true wisdom manifests itself. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>They who have conquered doubt and fear have conquered failure. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
