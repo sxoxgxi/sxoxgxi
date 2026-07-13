@@ -1,4 +1,4 @@
-<h4 align='center'>They who have conquered doubt and fear have conquered failure. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
