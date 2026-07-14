@@ -1,4 +1,4 @@
-<h4 align='center'>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
+<h4 align='center'>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
