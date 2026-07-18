@@ -1,4 +1,4 @@
-<h4 align='center'>Be polite to all, but intimate with few. - <a href='https://duckduckgo.com/?q=Thomas+Jefferson' target='_blank'>Thomas Jefferson</a>.</h4>
+<h4 align='center'>Do not follow the ideas of others, but learn to listen to the voice within yourself. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
