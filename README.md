@@ -1,4 +1,4 @@
-<h4 align='center'>Do not follow the ideas of others, but learn to listen to the voice within yourself. - <a href='https://duckduckgo.com/?q=Dogen' target='_blank'>Dogen</a>.</h4>
+<h4 align='center'>The cost of leadership is self-interest. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
