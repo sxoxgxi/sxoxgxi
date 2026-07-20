@@ -1,4 +1,4 @@
-<h4 align='center'>The cost of leadership is self-interest. - <a href='https://duckduckgo.com/?q=Simon+Sinek' target='_blank'>Simon Sinek</a>.</h4>
+<h4 align='center'>People who belittle people, will be LITTLE people, and will accomplish very Little - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
