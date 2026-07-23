@@ -1,4 +1,4 @@
-<h4 align='center'>The meaning of life is that it stops. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
+<h4 align='center'>One of the advantages of being disorganized is that one is always having surprising discoveries. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
