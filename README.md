@@ -1,4 +1,4 @@
-<h4 align='center'>One of the advantages of being disorganized is that one is always having surprising discoveries. - <a href='https://duckduckgo.com/?q=A.A.+Milne' target='_blank'>A.A. Milne</a>.</h4>
+<h4 align='center'>Optimism, when applied to your life, develops strength and peace within you. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
