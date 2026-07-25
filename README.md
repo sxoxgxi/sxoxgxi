@@ -1,4 +1,4 @@
-<h4 align='center'>Optimism, when applied to your life, develops strength and peace within you. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>Your work is to discover your work and then, with all your heart, to give yourself to it. - <a href='https://duckduckgo.com/?q=Buddha' target='_blank'>Buddha</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
