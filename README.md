@@ -1,4 +1,4 @@
-<h4 align='center'>Your work is to discover your work and then, with all your heart, to give yourself to it. - <a href='https://duckduckgo.com/?q=Buddha' target='_blank'>Buddha</a>.</h4>
+<h4 align='center'>Trust your instincts: my first reaction is almost invariably the right one. - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
