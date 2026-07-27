@@ -1,4 +1,4 @@
-<h4 align='center'>Trust your instincts: my first reaction is almost invariably the right one. - <a href='https://duckduckgo.com/?q=Estee+Lauder' target='_blank'>Estee Lauder</a>.</h4>
+<h4 align='center'>Everything begins with an idea. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
