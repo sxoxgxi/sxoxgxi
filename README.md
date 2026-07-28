@@ -1,4 +1,4 @@
-<h4 align='center'>Everything begins with an idea. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. - <a href='https://duckduckgo.com/?q=Mark+Twain' target='_blank'>Mark Twain</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
