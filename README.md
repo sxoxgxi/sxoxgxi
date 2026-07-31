@@ -1,4 +1,4 @@
-<h4 align='center'>Unless you're ashamed of yourself now and then, you're not honest. - <a href='https://duckduckgo.com/?q=William+Faulkner' target='_blank'>William Faulkner</a>.</h4>
+<h4 align='center'>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity. - <a href='https://duckduckgo.com/?q=Charles+Spurgeon' target='_blank'>Charles Spurgeon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
