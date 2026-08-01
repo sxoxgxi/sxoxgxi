@@ -1,4 +1,4 @@
-<h4 align='center'>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity. - <a href='https://duckduckgo.com/?q=Charles+Spurgeon' target='_blank'>Charles Spurgeon</a>.</h4>
+<h4 align='center'>Act as if what you do makes a difference. It does. - <a href='https://duckduckgo.com/?q=William+James' target='_blank'>William James</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
