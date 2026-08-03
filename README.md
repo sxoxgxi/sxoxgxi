@@ -1,4 +1,4 @@
-<h4 align='center'>Consider the rights of others before your own feelings, and the feelings of others before your own rights. - <a href='https://duckduckgo.com/?q=John+Wooden' target='_blank'>John Wooden</a>.</h4>
+<h4 align='center'>When you're at the end of your rope, tie a knot and hold on. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
