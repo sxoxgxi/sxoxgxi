@@ -1,4 +1,4 @@
-<h4 align='center'>When you're at the end of your rope, tie a knot and hold on. - <a href='https://duckduckgo.com/?q=Theodore+Roosevelt' target='_blank'>Theodore Roosevelt</a>.</h4>
+<h4 align='center'>The primary cause of unhappiness is never the situation but your thoughts about it. - <a href='https://duckduckgo.com/?q=Eckhart+Tolle' target='_blank'>Eckhart Tolle</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
