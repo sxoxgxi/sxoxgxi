@@ -1,4 +1,4 @@
-<h4 align='center'>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality. - <a href='https://duckduckgo.com/?q=Earl+Nightingale' target='_blank'>Earl Nightingale</a>.</h4>
+<h4 align='center'>Doing the best at this moment puts you in the best place for the next moment. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
