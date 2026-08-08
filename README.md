@@ -1,4 +1,4 @@
-<h4 align='center'>Doing the best at this moment puts you in the best place for the next moment. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>In all chaos there is a cosmos, in all disorder a secret order. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
