@@ -1,4 +1,4 @@
-<h4 align='center'>In all chaos there is a cosmos, in all disorder a secret order. - <a href='https://duckduckgo.com/?q=Carl+Jung' target='_blank'>Carl Jung</a>.</h4>
+<h4 align='center'>It is not the knowing that is difficult, but the doing. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
