@@ -1,4 +1,4 @@
-<h4 align='center'>It is not the knowing that is difficult, but the doing. - <a href='https://duckduckgo.com/?q=Chinese+Proverb' target='_blank'>Chinese Proverb</a>.</h4>
+<h4 align='center'>The obstacle in the path becomes the path. - <a href='https://duckduckgo.com/?q=Ryan+Holiday' target='_blank'>Ryan Holiday</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
