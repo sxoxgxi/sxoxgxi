@@ -1,4 +1,4 @@
-<h4 align='center'>The obstacle in the path becomes the path. - <a href='https://duckduckgo.com/?q=Ryan+Holiday' target='_blank'>Ryan Holiday</a>.</h4>
+<h4 align='center'>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
