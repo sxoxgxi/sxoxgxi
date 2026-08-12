@@ -1,4 +1,4 @@
-<h4 align='center'>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. - <a href='https://duckduckgo.com/?q=Dale+Carnegie' target='_blank'>Dale Carnegie</a>.</h4>
+<h4 align='center'>A man is literally what he thinks. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
