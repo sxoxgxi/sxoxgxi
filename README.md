@@ -1,4 +1,4 @@
-<h4 align='center'>Your spirit is the true shield. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Progress comes to those who train and train; reliance on secret techniques will get you nowhere. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
