@@ -1,4 +1,4 @@
-<h4 align='center'>Progress comes to those who train and train; reliance on secret techniques will get you nowhere. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Patience is not the ability to wait but the ability to keep a good attitude while waiting. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
