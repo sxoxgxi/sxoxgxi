@@ -1,4 +1,4 @@
-<h4 align='center'>Never argue with ignorance. It only leads to frustration. - <a href='https://duckduckgo.com/?q=Unknown' target='_blank'>Unknown</a>.</h4>
+<h4 align='center'>Your happiness is what truly matters most. Do what you have to do in order to be happy. - <a href='https://duckduckgo.com/?q=Brian+Tracy' target='_blank'>Brian Tracy</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
