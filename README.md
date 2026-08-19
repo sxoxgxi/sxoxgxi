@@ -1,4 +1,4 @@
-<h4 align='center'>Truth is like most opinions - best unexpressed. - <a href='https://duckduckgo.com/?q=Kenneth+Branagh' target='_blank'>Kenneth Branagh</a>.</h4>
+<h4 align='center'>At the end of the day, let there be no excuses, no explanations, no regrets. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
