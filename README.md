@@ -1,4 +1,4 @@
-<h4 align='center'>At the end of the day, let there be no excuses, no explanations, no regrets. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
+<h4 align='center'>Muddy water is best cleared by leaving it alone. - <a href='https://duckduckgo.com/?q=Alan+Watts' target='_blank'>Alan Watts</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
