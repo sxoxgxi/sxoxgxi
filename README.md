@@ -1,4 +1,4 @@
-<h4 align='center'>A dream you dream alone is only a dream. A dream you dream together is reality. - <a href='https://duckduckgo.com/?q=Yoko+Ono' target='_blank'>Yoko Ono</a>.</h4>
+<h4 align='center'>What the mind can conceive, it can achieve. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
