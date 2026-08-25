@@ -1,4 +1,4 @@
-<h4 align='center'>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. - <a href='https://duckduckgo.com/?q=Steve+Maraboli' target='_blank'>Steve Maraboli</a>.</h4>
+<h4 align='center'>The best time to plant a tree was 20 years ago. The second best time is now. - <a href='https://duckduckgo.com/?q=Zen+Proverb' target='_blank'>Zen Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
