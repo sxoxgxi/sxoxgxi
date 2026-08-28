@@ -1,4 +1,4 @@
-<h4 align='center'>Study logic and math, because once you've mastered them, you won't fear any book. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>By the practice of meditation, you will find that you are carrying within your heart a portable paradise. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
