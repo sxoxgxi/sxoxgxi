@@ -1,4 +1,4 @@
-<h4 align='center'>By the practice of meditation, you will find that you are carrying within your heart a portable paradise. - <a href='https://duckduckgo.com/?q=Paramahansa+Yogananda' target='_blank'>Paramahansa Yogananda</a>.</h4>
+<h4 align='center'>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
