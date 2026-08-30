@@ -1,4 +1,4 @@
-<h4 align='center'>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
+<h4 align='center'>Every blessing ignored becomes a curse. - <a href='https://duckduckgo.com/?q=Paulo+Coelho' target='_blank'>Paulo Coelho</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
