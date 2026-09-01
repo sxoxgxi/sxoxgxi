@@ -1,4 +1,4 @@
-<h4 align='center'>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy. - <a href='https://duckduckgo.com/?q=Elon+Musk' target='_blank'>Elon Musk</a>.</h4>
+<h4 align='center'>Blessed is he who expects nothing, for he shall never be disappointed. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
