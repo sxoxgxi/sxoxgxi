@@ -1,4 +1,4 @@
-<h4 align='center'>Blessed is he who expects nothing, for he shall never be disappointed. - <a href='https://duckduckgo.com/?q=Alexander+Pope' target='_blank'>Alexander Pope</a>.</h4>
+<h4 align='center'>The only thing new in the world is the history you do not know. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
