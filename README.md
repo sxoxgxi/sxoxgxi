@@ -1,4 +1,4 @@
-<h4 align='center'>Selfishness and greed, individual or national, cause most of our troubles. - <a href='https://duckduckgo.com/?q=Harry+S.+Truman' target='_blank'>Harry S. Truman</a>.</h4>
+<h4 align='center'>Discipline is the mark of intelligent living. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
