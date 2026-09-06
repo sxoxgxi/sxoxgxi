@@ -1,4 +1,4 @@
-<h4 align='center'>Discipline is the mark of intelligent living. - <a href='https://duckduckgo.com/?q=Sathya+Sai+Baba' target='_blank'>Sathya Sai Baba</a>.</h4>
+<h4 align='center'>No matter what happens in life, never lose sight of who you are. - <a href='https://duckduckgo.com/?q=Yanni' target='_blank'>Yanni</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
