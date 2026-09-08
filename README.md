@@ -1,4 +1,4 @@
-<h4 align='center'>The difference between ordinary and extraordinary is that little extra. - <a href='https://duckduckgo.com/?q=Colin+R.+Davis' target='_blank'>Colin R. Davis</a>.</h4>
+<h4 align='center'>Empty yourself of everything - let the mind become still. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
