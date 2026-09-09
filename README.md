@@ -1,4 +1,4 @@
-<h4 align='center'>Empty yourself of everything - let the mind become still. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
+<h4 align='center'>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles. - <a href='https://duckduckgo.com/?q=Christopher+Reeve' target='_blank'>Christopher Reeve</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
