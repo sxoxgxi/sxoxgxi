@@ -1,4 +1,4 @@
-<h4 align='center'>The goal is not to show how great you are to others, but how vulnerable you are to yourself. - <a href='https://duckduckgo.com/?q=Maxime+Lagace' target='_blank'>Maxime Lagace</a>.</h4>
+<h4 align='center'>It matters not what someone is born, but what they grow to be. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
