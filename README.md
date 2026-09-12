@@ -1,4 +1,4 @@
-<h4 align='center'>It matters not what someone is born, but what they grow to be. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
+<h4 align='center'>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along. - <a href='https://duckduckgo.com/?q=Celestine+Chua' target='_blank'>Celestine Chua</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
