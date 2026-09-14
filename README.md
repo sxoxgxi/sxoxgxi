@@ -1,4 +1,4 @@
-<h4 align='center'>Confidence comes from crossing thresholds. - <a href='https://duckduckgo.com/?q=Kamal+Ravikant' target='_blank'>Kamal Ravikant</a>.</h4>
+<h4 align='center'>It is not how much we have, but how much we enjoy, that makes happiness. - <a href='https://duckduckgo.com/?q=Charles+Spurgeon' target='_blank'>Charles Spurgeon</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
