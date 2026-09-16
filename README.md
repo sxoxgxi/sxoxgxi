@@ -1,4 +1,4 @@
-<h4 align='center'>We can know only that we know nothing. And that is the highest degree of human wisdom. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
+<h4 align='center'>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
