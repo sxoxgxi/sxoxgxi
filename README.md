@@ -1,4 +1,4 @@
-<h4 align='center'>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
+<h4 align='center'>A warrior does not give up what he loves, he finds the love in what he does. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
