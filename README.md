@@ -1,4 +1,4 @@
-<h4 align='center'>A warrior does not give up what he loves, he finds the love in what he does. - <a href='https://duckduckgo.com/?q=Dan+Millman' target='_blank'>Dan Millman</a>.</h4>
+<h4 align='center'>There is no truth except the truth that exists within you. Everything else is what someone is telling you. - <a href='https://duckduckgo.com/?q=Neale+Donald+Walsch' target='_blank'>Neale Donald Walsch</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
