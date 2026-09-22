@@ -1,4 +1,4 @@
-<h4 align='center'>What the mind can conceive and believe, and the heart desire, you can achieve. - <a href='https://duckduckgo.com/?q=Norman+Vincent+Peale' target='_blank'>Norman Vincent Peale</a>.</h4>
+<h4 align='center'>The strongest and sweetest songs yet remain to be sung. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
