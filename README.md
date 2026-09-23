@@ -1,4 +1,4 @@
-<h4 align='center'>The strongest and sweetest songs yet remain to be sung. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
+<h4 align='center'>People who say it cannot be done should not interrupt those who are doing it. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
