@@ -1,4 +1,4 @@
-<h4 align='center'>People who say it cannot be done should not interrupt those who are doing it. - <a href='https://duckduckgo.com/?q=George+Bernard+Shaw' target='_blank'>George Bernard Shaw</a>.</h4>
+<h4 align='center'>Receive without complaint, Work with fate. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
