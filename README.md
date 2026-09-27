@@ -1,4 +1,4 @@
-<h4 align='center'>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Little minds have little worries, big minds have no time for worries. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
