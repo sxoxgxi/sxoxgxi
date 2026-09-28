@@ -1,4 +1,4 @@
-<h4 align='center'>Little minds have little worries, big minds have no time for worries. - <a href='https://duckduckgo.com/?q=Ralph+Waldo+Emerson' target='_blank'>Ralph Waldo Emerson</a>.</h4>
+<h4 align='center'>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know. - <a href='https://duckduckgo.com/?q=Colin+Powell' target='_blank'>Colin Powell</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
