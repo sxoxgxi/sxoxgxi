@@ -1,4 +1,4 @@
-<h4 align='center'>Wisdom is doing now what you are going to be happy with later on. - <a href='https://duckduckgo.com/?q=Joyce+Meyer' target='_blank'>Joyce Meyer</a>.</h4>
+<h4 align='center'>Forever is composed of now's. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
