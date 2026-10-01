@@ -1,4 +1,4 @@
-<h4 align='center'>Forever is composed of now's. - <a href='https://duckduckgo.com/?q=Emily+Dickinson' target='_blank'>Emily Dickinson</a>.</h4>
+<h4 align='center'>Don't let the noise of others' opinions drown out your own inner voice. - <a href='https://duckduckgo.com/?q=Steve+Jobs' target='_blank'>Steve Jobs</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
