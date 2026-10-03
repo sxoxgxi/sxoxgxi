@@ -1,4 +1,4 @@
-<h4 align='center'>Observe things as they are and don't pay attention to other people. - <a href='https://duckduckgo.com/?q=Huang+Po' target='_blank'>Huang Po</a>.</h4>
+<h4 align='center'>Your neighbor is the man who needs you. - <a href='https://duckduckgo.com/?q=Elbert+Hubbard' target='_blank'>Elbert Hubbard</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
