@@ -1,4 +1,4 @@
-<h4 align='center'>Those who are enlightened never stop forging themselves. - <a href='https://duckduckgo.com/?q=Morihei+Ueshiba' target='_blank'>Morihei Ueshiba</a>.</h4>
+<h4 align='center'>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding. - <a href='https://duckduckgo.com/?q=John+D.+Rockefeller' target='_blank'>John D. Rockefeller</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
