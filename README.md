@@ -1,4 +1,4 @@
-<h4 align='center'>When you love someone, you love the person as they are, and not as you'd like them to be. - <a href='https://duckduckgo.com/?q=Leo+Tolstoy' target='_blank'>Leo Tolstoy</a>.</h4>
+<h4 align='center'>The greatest of all mistakes is to do nothing because you think you can only do a little. - <a href='https://duckduckgo.com/?q=Zig+Ziglar' target='_blank'>Zig Ziglar</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
