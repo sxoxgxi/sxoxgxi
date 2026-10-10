@@ -1,4 +1,4 @@
-<h4 align='center'>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. - <a href='https://duckduckgo.com/?q=Sydney+Smith' target='_blank'>Sydney Smith</a>.</h4>
+<h4 align='center'>The more one judges, the less one loves. - <a href='https://duckduckgo.com/?q=Honore+de+Balzac' target='_blank'>Honore de Balzac</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
