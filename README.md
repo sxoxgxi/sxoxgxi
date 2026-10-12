@@ -1,4 +1,4 @@
-<h4 align='center'>True love stories never have endings. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>Older men declare war. But it is youth that must fight and die. - <a href='https://duckduckgo.com/?q=Herbert+Hoover' target='_blank'>Herbert Hoover</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
