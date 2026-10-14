@@ -1,4 +1,4 @@
-<h4 align='center'>Bloom where you are planted! - <a href='https://duckduckgo.com/?q=Mary+Engelbreit' target='_blank'>Mary Engelbreit</a>.</h4>
+<h4 align='center'>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
