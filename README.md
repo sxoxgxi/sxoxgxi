@@ -1,4 +1,4 @@
-<h4 align='center'>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
+<h4 align='center'>You can, you should, and if you're brave enough to start, you will. - <a href='https://duckduckgo.com/?q=Stephen+King' target='_blank'>Stephen King</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
