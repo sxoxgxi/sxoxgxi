@@ -1,4 +1,4 @@
-<h4 align='center'>Fill your mind with various competing thoughts and decide which make sense. - <a href='https://duckduckgo.com/?q=Warren+Buffett' target='_blank'>Warren Buffett</a>.</h4>
+<h4 align='center'>In a world of distraction, focusing is a superpower. - <a href='https://duckduckgo.com/?q=Ryan+Holiday' target='_blank'>Ryan Holiday</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
