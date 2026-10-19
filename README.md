@@ -1,4 +1,4 @@
-<h4 align='center'>Whether you think you can or think you can't – you are right. - <a href='https://duckduckgo.com/?q=Henry+Ford' target='_blank'>Henry Ford</a>.</h4>
+<h4 align='center'>Desire for the fruits of work must never be your motive in working. - <a href='https://duckduckgo.com/?q=Bhagavad+Gita' target='_blank'>Bhagavad Gita</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
