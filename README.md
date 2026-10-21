@@ -1,4 +1,4 @@
-<h4 align='center'>It's okay to be discouraged. It's not okay to quit. - <a href='https://duckduckgo.com/?q=Ryan+Holiday' target='_blank'>Ryan Holiday</a>.</h4>
+<h4 align='center'>The future is no more uncertain than the present. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
