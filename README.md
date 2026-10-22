@@ -1,4 +1,4 @@
-<h4 align='center'>The future is no more uncertain than the present. - <a href='https://duckduckgo.com/?q=Walt+Whitman' target='_blank'>Walt Whitman</a>.</h4>
+<h4 align='center'>Freedom from desire leads to inner peace. - <a href='https://duckduckgo.com/?q=Lao+Tzu' target='_blank'>Lao Tzu</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
