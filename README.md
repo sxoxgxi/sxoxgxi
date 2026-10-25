@@ -1,4 +1,4 @@
-<h4 align='center'>Whatever is begun in anger, ends in shame. - <a href='https://duckduckgo.com/?q=Benjamin+Franklin' target='_blank'>Benjamin Franklin</a>.</h4>
+<h4 align='center'>Failure will never overtake me if my determination to succeed is strong enough. - <a href='https://duckduckgo.com/?q=Og+Mandino' target='_blank'>Og Mandino</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
