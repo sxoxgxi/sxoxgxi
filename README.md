@@ -1,4 +1,4 @@
-<h4 align='center'>As a man thinketh in his heart, so shall he be. - <a href='https://duckduckgo.com/?q=James+Allen' target='_blank'>James Allen</a>.</h4>
+<h4 align='center'>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. - <a href='https://duckduckgo.com/?q=Spencer+Johnson' target='_blank'>Spencer Johnson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
