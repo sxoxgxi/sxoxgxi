@@ -1,4 +1,4 @@
-<h4 align='center'>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. - <a href='https://duckduckgo.com/?q=Spencer+Johnson' target='_blank'>Spencer Johnson</a>.</h4>
+<h4 align='center'>Who you are is defined by what you're willing to struggle for. - <a href='https://duckduckgo.com/?q=Mark+Manson' target='_blank'>Mark Manson</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
