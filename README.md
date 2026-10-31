@@ -1,4 +1,4 @@
-<h4 align='center'>It takes a very long time to become young. - <a href='https://duckduckgo.com/?q=Pablo+Picasso' target='_blank'>Pablo Picasso</a>.</h4>
+<h4 align='center'>The wise pursue wisdom, the dull follow in blind faith. - <a href='https://duckduckgo.com/?q=Tibetan+Proverb' target='_blank'>Tibetan Proverb</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
