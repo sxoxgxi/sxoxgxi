@@ -1,4 +1,4 @@
-<h4 align='center'>What we dwell on is who we become. - <a href='https://duckduckgo.com/?q=Oprah+Winfrey' target='_blank'>Oprah Winfrey</a>.</h4>
+<h4 align='center'>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive. - <a href='https://duckduckgo.com/?q=Anne+Wilson+Schaef' target='_blank'>Anne Wilson Schaef</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
