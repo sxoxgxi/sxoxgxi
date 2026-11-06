@@ -1,4 +1,4 @@
-<h4 align='center'>What you get by achieving your goals is not as important as what you become by achieving your goals. - <a href='https://duckduckgo.com/?q=Henry+David+Thoreau' target='_blank'>Henry David Thoreau</a>.</h4>
+<h4 align='center'>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
