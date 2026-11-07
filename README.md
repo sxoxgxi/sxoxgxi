@@ -1,4 +1,4 @@
-<h4 align='center'>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems. - <a href='https://duckduckgo.com/?q=Robert+Kiyosaki' target='_blank'>Robert Kiyosaki</a>.</h4>
+<h4 align='center'>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
