@@ -1,4 +1,4 @@
-<h4 align='center'>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
+<h4 align='center'>If we know how to adapt, we end up being superior. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
