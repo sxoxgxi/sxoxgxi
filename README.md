@@ -1,4 +1,4 @@
-<h4 align='center'>If we know how to adapt, we end up being superior. - <a href='https://duckduckgo.com/?q=Ming-Dao+Deng' target='_blank'>Ming-Dao Deng</a>.</h4>
+<h4 align='center'>Never let the things you can't do stop you from doing what you can. - <a href='https://duckduckgo.com/?q=Ronald+Reagan' target='_blank'>Ronald Reagan</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
