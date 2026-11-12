@@ -1,4 +1,4 @@
-<h4 align='center'>Knowledge has to be improved, challenged, and increased constantly, or it vanishes. - <a href='https://duckduckgo.com/?q=Peter+Drucker' target='_blank'>Peter Drucker</a>.</h4>
+<h4 align='center'>Life is all about mistakes. It is constant change and growth. - <a href='https://duckduckgo.com/?q=Neale+Donald+Walsch' target='_blank'>Neale Donald Walsch</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
