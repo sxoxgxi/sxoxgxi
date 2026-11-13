@@ -1,4 +1,4 @@
-<h4 align='center'>Life is all about mistakes. It is constant change and growth. - <a href='https://duckduckgo.com/?q=Neale+Donald+Walsch' target='_blank'>Neale Donald Walsch</a>.</h4>
+<h4 align='center'>People spend too much time doing and not enough time thinking about what they should be doing. - <a href='https://duckduckgo.com/?q=Naval+Ravikant' target='_blank'>Naval Ravikant</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
