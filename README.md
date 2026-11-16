@@ -1,4 +1,4 @@
-<h4 align='center'>High thoughts must have high language. - <a href='https://duckduckgo.com/?q=Aristophanes' target='_blank'>Aristophanes</a>.</h4>
+<h4 align='center'>Any idea, plan, or purpose may be placed in the mind through repetition of thought. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
