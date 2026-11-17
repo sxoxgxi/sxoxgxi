@@ -1,4 +1,4 @@
-<h4 align='center'>Any idea, plan, or purpose may be placed in the mind through repetition of thought. - <a href='https://duckduckgo.com/?q=Napoleon+Hill' target='_blank'>Napoleon Hill</a>.</h4>
+<h4 align='center'>It's the unknown we fear when we look upon death and darkness, nothing more. - <a href='https://duckduckgo.com/?q=Albus+Dumbledore' target='_blank'>Albus Dumbledore</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
