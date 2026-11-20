@@ -1,4 +1,4 @@
-<h4 align='center'>It's not how much we give but how much love we put into giving. - <a href='https://duckduckgo.com/?q=Mother+Teresa' target='_blank'>Mother Teresa</a>.</h4>
+<h4 align='center'>Paths are made by walking. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
