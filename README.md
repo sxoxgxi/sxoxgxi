@@ -1,4 +1,4 @@
-<h4 align='center'>Paths are made by walking. - <a href='https://duckduckgo.com/?q=Franz+Kafka' target='_blank'>Franz Kafka</a>.</h4>
+<h4 align='center'>What the caterpillar calls the end of the world, the master calls a butterfly. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
