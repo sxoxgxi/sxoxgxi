@@ -1,4 +1,4 @@
-<h4 align='center'>What the caterpillar calls the end of the world, the master calls a butterfly. - <a href='https://duckduckgo.com/?q=Richard+Bach' target='_blank'>Richard Bach</a>.</h4>
+<h4 align='center'>Progress lies not in enhancing what is, but in advancing toward what will be. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
