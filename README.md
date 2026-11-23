@@ -1,4 +1,4 @@
-<h4 align='center'>Progress lies not in enhancing what is, but in advancing toward what will be. - <a href='https://duckduckgo.com/?q=Kahlil+Gibran' target='_blank'>Kahlil Gibran</a>.</h4>
+<h4 align='center'>Failure is an option, fear is not. - <a href='https://duckduckgo.com/?q=James+Cameron' target='_blank'>James Cameron</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
