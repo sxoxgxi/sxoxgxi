@@ -1,4 +1,4 @@
-<h4 align='center'>Failure is an option, fear is not. - <a href='https://duckduckgo.com/?q=James+Cameron' target='_blank'>James Cameron</a>.</h4>
+<h4 align='center'>The only way out is through. - <a href='https://duckduckgo.com/?q=Robert+Frost' target='_blank'>Robert Frost</a>.</h4>
 
 <p align='center' socials>
   <a href='https://discord.gg/96EA7ENfV9'>
